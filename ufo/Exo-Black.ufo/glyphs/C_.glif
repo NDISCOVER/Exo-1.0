@@ -4,32 +4,32 @@
   <unicode hex="0043"/>
   <outline>
     <contour>
-      <point x="36" y="368" type="curve" smooth="yes"/>
-      <point x="36.0" y="53.0"/>
-      <point x="142" y="-6"/>
+      <point x="36" y="374" type="curve" smooth="yes"/>
+      <point x="36.0" y="53.842519685039406"/>
+      <point x="142.0" y="-6.0"/>
       <point x="309" y="-6" type="curve" smooth="yes"/>
       <point x="432" y="-6"/>
       <point x="503" y="6"/>
       <point x="553" y="26" type="curve"/>
       <point x="553" y="177" type="line"/>
-      <point x="553" y="177"/>
+      <point x="515" y="172"/>
       <point x="455" y="168"/>
-      <point x="350" y="168" type="curve" smooth="yes"/>
+      <point x="354" y="168" type="curve" smooth="yes"/>
       <point x="249" y="168"/>
-      <point x="230" y="210"/>
-      <point x="230" y="366" type="curve" smooth="yes"/>
-      <point x="230" y="550"/>
-      <point x="260" y="576"/>
-      <point x="349" y="576" type="curve" smooth="yes"/>
-      <point x="452" y="576"/>
-      <point x="552" y="559"/>
+      <point x="230" y="211"/>
+      <point x="230" y="372" type="curve" smooth="yes"/>
+      <point x="230.0" y="551.0"/>
+      <point x="260.7563025210084" y="576.0"/>
+      <point x="352" y="576" type="curve" smooth="yes"/>
+      <point x="441.6617647058824" y="576.0"/>
+      <point x="514.5502053819321" y="566.8871373575524"/>
       <point x="553" y="559" type="curve"/>
       <point x="553" y="710" type="line"/>
       <point x="513" y="727"/>
       <point x="432" y="750"/>
       <point x="309" y="750" type="curve" smooth="yes"/>
-      <point x="148" y="750"/>
-      <point x="36.0" y="683.0"/>
+      <point x="148.0" y="750.0"/>
+      <point x="36.0" y="683.824"/>
     </contour>
   </outline>
   <lib>
@@ -70,19 +70,6 @@
           </array>
           <key>components</key>
           <array>
-            <dict>
-              <key>baseGlyph</key>
-              <string>O</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-              </array>
-            </dict>
           </array>
           <key>contours</key>
           <array>

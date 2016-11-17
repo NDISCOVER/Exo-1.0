@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="1">
+  <advance width="534"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="78" y="124" type="line"/>
+      <point x="102" y="273" type="line"/>
+      <point x="241" y="292" type="line"/>
+      <point x="256" y="409" type="line"/>
+      <point x="126" y="424" type="line"/>
+      <point x="149" y="573" type="line"/>
+      <point x="285" y="588" type="line"/>
+      <point x="326" y="770" type="line"/>
+      <point x="499" y="770" type="line"/>
+      <point x="484" y="588" type="line"/>
+      <point x="613" y="573" type="line"/>
+      <point x="590" y="424" type="line"/>
+      <point x="455" y="409" type="line"/>
+      <point x="433" y="291" type="line"/>
+      <point x="566" y="273" type="line"/>
+      <point x="542" y="124" type="line"/>
+      <point x="398" y="107" type="line"/>
+      <point x="365" y="-72" type="line"/>
+      <point x="192" y="-72" type="line"/>
+      <point x="216" y="105" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>424</integer>
+            <key>width</key>
+            <integer>149</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

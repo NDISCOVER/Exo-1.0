@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uring.salt" format="1">
+  <advance width="550"/>
+  <outline>
+    <contour>
+      <point x="347" y="699" type="curve" smooth="yes"/>
+      <point x="345" y="680"/>
+      <point x="359" y="666"/>
+      <point x="378" y="666" type="curve" smooth="yes"/>
+      <point x="397" y="666"/>
+      <point x="412" y="680"/>
+      <point x="414" y="699" type="curve" smooth="yes"/>
+      <point x="416" y="718"/>
+      <point x="403" y="733"/>
+      <point x="384" y="733" type="curve" smooth="yes"/>
+      <point x="365" y="733"/>
+      <point x="349" y="718"/>
+    </contour>
+    <contour>
+      <point x="279" y="699" type="curve" smooth="yes"/>
+      <point x="284" y="756"/>
+      <point x="332" y="799"/>
+      <point x="388" y="799" type="curve" smooth="yes"/>
+      <point x="444" y="799"/>
+      <point x="487" y="756"/>
+      <point x="482" y="699" type="curve" smooth="yes"/>
+      <point x="477" y="642"/>
+      <point x="431" y="599"/>
+      <point x="375" y="599" type="curve" smooth="yes"/>
+      <point x="319" y="599"/>
+      <point x="274" y="642"/>
+    </contour>
+    <contour>
+      <point x="53" y="193" type="curve" smooth="yes"/>
+      <point x="107" y="533" type="line"/>
+      <point x="301" y="533" type="line"/>
+      <point x="249" y="203" type="line" smooth="yes"/>
+      <point x="243" y="163"/>
+      <point x="242" y="147"/>
+      <point x="275" y="147" type="curve" smooth="yes"/>
+      <point x="299" y="147"/>
+      <point x="331" y="149"/>
+      <point x="351" y="174" type="curve"/>
+      <point x="407" y="533" type="line"/>
+      <point x="601" y="533" type="line"/>
+      <point x="532" y="60" type="line"/>
+      <point x="438" y="0"/>
+      <point x="392" y="-7"/>
+      <point x="226" y="-7" type="curve" smooth="yes"/>
+      <point x="84" y="-7"/>
+      <point x="38" y="97"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-7</integer>
+            <key>width</key>
+            <integer>154</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>599</integer>
+            <key>width</key>
+            <integer>67</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>733</integer>
+            <key>width</key>
+            <integer>66</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

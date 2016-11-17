@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet.smcp" format="1">
+  <advance width="321"/>
+  <outline>
+    <contour>
+      <point x="115" y="306" type="curve" smooth="yes"/>
+      <point x="115" y="336" type="line" smooth="yes"/>
+      <point x="115" y="357"/>
+      <point x="126" y="371"/>
+      <point x="148" y="371" type="curve" smooth="yes"/>
+      <point x="172" y="371" type="line" smooth="yes"/>
+      <point x="197" y="371"/>
+      <point x="207" y="358"/>
+      <point x="207" y="336" type="curve" smooth="yes"/>
+      <point x="207" y="306" type="line" smooth="yes"/>
+      <point x="207" y="282"/>
+      <point x="192" y="274"/>
+      <point x="172" y="274" type="curve" smooth="yes"/>
+      <point x="148" y="274" type="line" smooth="yes"/>
+      <point x="128" y="274"/>
+      <point x="115" y="286"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>274</integer>
+            <key>width</key>
+            <integer>97</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>115</integer>
+            <key>width</key>
+            <integer>92</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

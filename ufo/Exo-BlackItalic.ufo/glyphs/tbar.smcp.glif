@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tbar.smcp" format="1">
+  <advance width="535"/>
+  <outline>
+    <contour>
+      <point x="11" y="396" type="line"/>
+      <point x="39" y="570" type="line"/>
+      <point x="525" y="570" type="line"/>
+      <point x="497" y="396" type="line"/>
+      <point x="351" y="396" type="line"/>
+      <point x="338" y="312" type="line"/>
+      <point x="425" y="312" type="line"/>
+      <point x="413" y="238" type="line"/>
+      <point x="326" y="238" type="line"/>
+      <point x="288" y="0" type="line"/>
+      <point x="94" y="0" type="line"/>
+      <point x="132" y="238" type="line"/>
+      <point x="42" y="238" type="line"/>
+      <point x="54" y="312" type="line"/>
+      <point x="144" y="312" type="line"/>
+      <point x="157" y="396" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>238</integer>
+            <key>width</key>
+            <integer>74</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>396</integer>
+            <key>width</key>
+            <integer>174</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

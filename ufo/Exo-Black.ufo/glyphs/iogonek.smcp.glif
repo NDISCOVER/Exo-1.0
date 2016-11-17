@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iogonek.smcp" format="1">
+  <advance width="272"/>
+  <outline>
+    <contour>
+      <point x="45" y="0" type="line"/>
+      <point x="45" y="570" type="line"/>
+      <point x="239" y="570" type="line"/>
+      <point x="239" y="0" type="line"/>
+      <point x="182.918" y="0" type="line"/>
+      <point x="111.216" y="-52.1716"/>
+      <point x="164.074" y="-104.37"/>
+      <point x="199.5" y="-98.4658" type="curve"/>
+      <point x="199.5" y="-188.466" type="line"/>
+      <point x="101.562" y="-222.101"/>
+      <point x="-15.9487" y="-78.5994"/>
+      <point x="113.21" y="-2.57517e-06" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-17</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>45</integer>
+            <key>width</key>
+            <integer>194</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

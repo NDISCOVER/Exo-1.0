@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="1">
+  <advance width="271"/>
+  <unicode hex="00B8"/>
+  <outline>
+    <contour>
+      <point x="22" y="-173" type="line"/>
+      <point x="23" y="-166" type="line"/>
+      <point x="57" y="-161" type="line" smooth="yes"/>
+      <point x="112" y="-153"/>
+      <point x="144" y="-145"/>
+      <point x="159" y="-37" type="curve"/>
+      <point x="176" y="-37" type="line"/>
+      <point x="160" y="-137"/>
+      <point x="136" y="-173"/>
+      <point x="53" y="-173" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-173</integer>
+            <key>width</key>
+            <integer>7</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>159</integer>
+            <key>width</key>
+            <integer>17</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

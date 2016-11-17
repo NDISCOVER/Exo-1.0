@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iogonek" format="1">
+  <advance width="192"/>
+  <unicode hex="012E"/>
+  <outline>
+    <contour>
+      <point x="90" y="0" type="line"/>
+      <point x="206" y="732" type="line"/>
+      <point x="230" y="732" type="line"/>
+      <point x="114" y="0" type="line"/>
+      <point x="109.13" y="0" type="line"/>
+      <point x="-8.6754" y="-45.0664"/>
+      <point x="-17.5887" y="-169.92"/>
+      <point x="114.335" y="-166.922" type="curve"/>
+      <point x="112.335" y="-180.922" type="line"/>
+      <point x="-5.6185" y="-196.916"/>
+      <point x="-61.6209" y="-66.0252"/>
+      <point x="97.1469" y="0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-181</integer>
+            <key>width</key>
+            <integer>14</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-20</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>712</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>90</integer>
+            <key>width</key>
+            <integer>140</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eng.smcp" format="1">
+  <advance width="618"/>
+  <outline>
+    <contour>
+      <point x="70" y="0" type="line"/>
+      <point x="160" y="571" type="line"/>
+      <point x="181" y="571" type="line"/>
+      <point x="504" y="37" type="line"/>
+      <point x="589" y="571" type="line"/>
+      <point x="613" y="571" type="line"/>
+      <point x="523" y="0" type="line"/>
+      <point x="516" y="-44" type="line" smooth="yes"/>
+      <point x="492" y="-196"/>
+      <point x="445" y="-217"/>
+      <point x="327" y="-217" type="curve"/>
+      <point x="329" y="-199" type="line"/>
+      <point x="417" y="-189"/>
+      <point x="468" y="-196"/>
+      <point x="492" y="-45" type="curve" smooth="yes"/>
+      <point x="499" y="0" type="line"/>
+      <point x="178" y="529" type="line"/>
+      <point x="94" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-217</integer>
+            <key>width</key>
+            <integer>18</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="r.salt" format="1">
+  <advance width="396"/>
+  <outline>
+    <contour>
+      <point x="60" y="0" type="line"/>
+      <point x="136" y="483" type="line"/>
+      <point x="217" y="518"/>
+      <point x="302" y="552"/>
+      <point x="463" y="538" type="curve"/>
+      <point x="459" y="514" type="line"/>
+      <point x="359" y="525"/>
+      <point x="264" y="511"/>
+      <point x="159" y="474" type="curve"/>
+      <point x="84" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>514</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="abreve.smcp" format="1">
+  <advance width="564"/>
+  <outline>
+    <contour>
+      <point x="300.732" y="744" type="curve"/>
+      <point x="314.732" y="744" type="line"/>
+      <point x="305.732" y="687"/>
+      <point x="344.732" y="643"/>
+      <point x="398.732" y="644" type="curve" smooth="yes"/>
+      <point x="457.732" y="645"/>
+      <point x="507.732" y="686"/>
+      <point x="516.732" y="744" type="curve"/>
+      <point x="530.732" y="744" type="line"/>
+      <point x="518.732" y="668"/>
+      <point x="452.732" y="630"/>
+      <point x="397.732" y="630" type="curve" smooth="yes"/>
+      <point x="342.732" y="630"/>
+      <point x="289.732" y="672"/>
+    </contour>
+    <contour>
+      <point x="192" y="206" type="line"/>
+      <point x="462" y="206" type="line"/>
+      <point x="385" y="541" type="line"/>
+    </contour>
+    <contour>
+      <point x="45" y="0" type="line"/>
+      <point x="376" y="570" type="line"/>
+      <point x="400" y="570" type="line"/>
+      <point x="536" y="0" type="line"/>
+      <point x="511" y="0" type="line"/>
+      <point x="468" y="182" type="line"/>
+      <point x="179" y="182" type="line"/>
+      <point x="73" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>182</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>630</integer>
+            <key>width</key>
+            <integer>14</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>301</integer>
+            <key>width</key>
+            <integer>14</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>517</integer>
+            <key>width</key>
+            <integer>14</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

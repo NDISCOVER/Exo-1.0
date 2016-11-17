@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tilde.smcp" format="1">
+  <advance width="403"/>
+  <outline>
+    <contour>
+      <point x="122" y="598" type="line"/>
+      <point x="153" y="634"/>
+      <point x="201" y="672"/>
+      <point x="257" y="672" type="curve" smooth="yes"/>
+      <point x="301" y="672"/>
+      <point x="317" y="637"/>
+      <point x="357" y="637" type="curve"/>
+      <point x="397" y="635"/>
+      <point x="431" y="654"/>
+      <point x="457" y="677" type="curve"/>
+      <point x="471" y="603" type="line"/>
+      <point x="444" y="570"/>
+      <point x="398" y="531"/>
+      <point x="347" y="531" type="curve" smooth="yes"/>
+      <point x="304" y="531"/>
+      <point x="276" y="566"/>
+      <point x="237" y="566" type="curve" smooth="yes"/>
+      <point x="198" y="566"/>
+      <point x="173" y="555"/>
+      <point x="138" y="531" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>531</integer>
+            <key>width</key>
+            <integer>106</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>566</integer>
+            <key>width</key>
+            <integer>106</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

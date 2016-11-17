@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hcircumflex.smcp" format="1">
+  <advance width="576"/>
+  <outline>
+    <contour>
+      <point x="233" y="630" type="line"/>
+      <point x="355" y="770" type="line"/>
+      <point x="486" y="770" type="line"/>
+      <point x="555" y="630" type="line"/>
+      <point x="444" y="630" type="line"/>
+      <point x="413" y="681" type="line"/>
+      <point x="355" y="630" type="line"/>
+    </contour>
+    <contour>
+      <point x="44" y="-1" type="line"/>
+      <point x="134" y="570" type="line"/>
+      <point x="328" y="570" type="line"/>
+      <point x="295" y="362" type="line"/>
+      <point x="406" y="362" type="line"/>
+      <point x="439" y="570" type="line"/>
+      <point x="633" y="570" type="line"/>
+      <point x="543" y="-1" type="line"/>
+      <point x="349" y="-1" type="line"/>
+      <point x="379" y="188" type="line"/>
+      <point x="268" y="188" type="line"/>
+      <point x="238" y="-1" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-1</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

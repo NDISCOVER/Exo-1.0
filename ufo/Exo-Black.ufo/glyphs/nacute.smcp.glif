@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nacute.smcp" format="1">
+  <advance width="601"/>
+  <outline>
+    <contour>
+      <point x="252" y="631" type="line"/>
+      <point x="329" y="774" type="line"/>
+      <point x="474" y="774" type="line"/>
+      <point x="361" y="631" type="line"/>
+    </contour>
+    <contour>
+      <point x="45" y="0" type="line"/>
+      <point x="45" y="571" type="line"/>
+      <point x="236" y="571" type="line"/>
+      <point x="375" y="351" type="line"/>
+      <point x="375" y="571" type="line"/>
+      <point x="568" y="571" type="line"/>
+      <point x="568" y="0" type="line"/>
+      <point x="378" y="0" type="line"/>
+      <point x="239" y="225" type="line"/>
+      <point x="239" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>631</integer>
+            <key>width</key>
+            <integer>143</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>45</integer>
+            <key>width</key>
+            <integer>194</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>252</integer>
+            <key>width</key>
+            <integer>222</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>375</integer>
+            <key>width</key>
+            <integer>193</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

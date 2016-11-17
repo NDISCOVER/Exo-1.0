@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.numerator" format="1">
+  <advance width="270"/>
+  <outline>
+    <contour>
+      <point x="9" y="607" type="line"/>
+      <point x="9" y="687" type="line"/>
+      <point x="90" y="742" type="line"/>
+      <point x="234" y="742" type="line"/>
+      <point x="234" y="255" type="line"/>
+      <point x="88" y="255" type="line"/>
+      <point x="88" y="620" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>88</integer>
+            <key>width</key>
+            <integer>146</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

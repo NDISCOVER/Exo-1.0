@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered.smcp" format="1">
+  <advance width="256"/>
+  <outline>
+    <contour>
+      <point x="86" y="233" type="curve" smooth="yes"/>
+      <point x="105" y="350" type="line" smooth="yes"/>
+      <point x="107" y="365"/>
+      <point x="117" y="375"/>
+      <point x="133" y="375" type="curve" smooth="yes"/>
+      <point x="246" y="375" type="line" smooth="yes"/>
+      <point x="264" y="375"/>
+      <point x="270" y="366"/>
+      <point x="267" y="350" type="curve" smooth="yes"/>
+      <point x="248" y="233" type="line" smooth="yes"/>
+      <point x="245" y="215"/>
+      <point x="234" y="210"/>
+      <point x="220" y="210" type="curve" smooth="yes"/>
+      <point x="107" y="210" type="line" smooth="yes"/>
+      <point x="93" y="210"/>
+      <point x="84" y="219"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>210</integer>
+            <key>width</key>
+            <integer>165</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>86</integer>
+            <key>width</key>
+            <integer>181</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

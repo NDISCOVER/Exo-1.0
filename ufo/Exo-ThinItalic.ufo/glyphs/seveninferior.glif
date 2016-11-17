@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seveninferior" format="1">
+  <advance width="439"/>
+  <unicode hex="2087"/>
+  <outline>
+    <contour>
+      <point x="52" y="259" type="line"/>
+      <point x="55" y="277" type="line"/>
+      <point x="382" y="277" type="line"/>
+      <point x="389" y="262" type="line"/>
+      <point x="133" y="-199" type="line"/>
+      <point x="112" y="-199" type="line"/>
+      <point x="367" y="259" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>259</integer>
+            <key>width</key>
+            <integer>18</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

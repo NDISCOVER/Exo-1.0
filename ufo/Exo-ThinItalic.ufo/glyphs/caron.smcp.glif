@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron.smcp" format="1">
+  <advance width="427"/>
+  <outline>
+    <contour>
+      <point x="159" y="661" type="line"/>
+      <point x="176" y="661" type="line"/>
+      <point x="270" y="546" type="line"/>
+      <point x="413" y="661" type="line"/>
+      <point x="431" y="661" type="line"/>
+      <point x="278" y="531" type="line"/>
+      <point x="257" y="531" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>531</integer>
+            <key>width</key>
+            <integer>130</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>159</integer>
+            <key>width</key>
+            <integer>272</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

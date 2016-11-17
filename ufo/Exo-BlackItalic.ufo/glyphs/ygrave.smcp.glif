@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ygrave.smcp" format="1">
+  <advance width="605"/>
+  <outline>
+    <contour>
+      <point x="248" y="773" type="line"/>
+      <point x="393" y="773" type="line"/>
+      <point x="447" y="630" type="line"/>
+      <point x="338" y="630" type="line"/>
+    </contour>
+    <contour>
+      <point x="110" y="570" type="line"/>
+      <point x="313" y="570" type="line"/>
+      <point x="364" y="408" type="line"/>
+      <point x="460" y="570" type="line"/>
+      <point x="676" y="570" type="line"/>
+      <point x="437" y="200" type="line"/>
+      <point x="406" y="-1" type="line"/>
+      <point x="212" y="-1" type="line"/>
+      <point x="243" y="200" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-1</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

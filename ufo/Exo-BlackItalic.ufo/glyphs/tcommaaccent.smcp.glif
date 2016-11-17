@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tcommaaccent.smcp" format="1">
+  <advance width="524"/>
+  <outline>
+    <contour>
+      <point x="109" y="-193" type="line"/>
+      <point x="122" y="-114" type="line"/>
+      <point x="161" y="-99" type="line" smooth="yes"/>
+      <point x="191" y="-87"/>
+      <point x="191" y="-85"/>
+      <point x="197" y="-47" type="curve"/>
+      <point x="314" y="-47" type="line"/>
+      <point x="298" y="-149"/>
+      <point x="262" y="-193"/>
+      <point x="170" y="-193" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="82" y="396" type="line"/>
+      <point x="110" y="570" type="line"/>
+      <point x="596" y="570" type="line"/>
+      <point x="568" y="396" type="line"/>
+      <point x="422" y="396" type="line"/>
+      <point x="359" y="0" type="line"/>
+      <point x="165" y="0" type="line"/>
+      <point x="228" y="396" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>396</integer>
+            <key>width</key>
+            <integer>174</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

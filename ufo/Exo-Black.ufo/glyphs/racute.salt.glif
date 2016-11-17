@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="racute.salt" format="1">
+  <advance width="404"/>
+  <outline>
+    <contour>
+      <point x="166" y="603" type="line"/>
+      <point x="243" y="746" type="line"/>
+      <point x="388" y="746" type="line"/>
+      <point x="275" y="603" type="line"/>
+    </contour>
+    <contour>
+      <point x="34" y="0" type="line"/>
+      <point x="34" y="473" type="line"/>
+      <point x="101" y="542"/>
+      <point x="230" y="552"/>
+      <point x="393" y="538" type="curve"/>
+      <point x="393" y="373" type="line"/>
+      <point x="336" y="386"/>
+      <point x="263" y="386"/>
+      <point x="228" y="369" type="curve"/>
+      <point x="228" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>373</integer>
+            <key>width</key>
+            <integer>165</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>603</integer>
+            <key>width</key>
+            <integer>143</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>34</integer>
+            <key>width</key>
+            <integer>194</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>166</integer>
+            <key>width</key>
+            <integer>222</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

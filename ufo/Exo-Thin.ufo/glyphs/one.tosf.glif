@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.tosf" format="1">
+  <advance width="630"/>
+  <outline>
+    <contour>
+      <point x="174" y="534" type="line"/>
+      <point x="174" y="547" type="line"/>
+      <point x="342" y="632" type="line"/>
+      <point x="366" y="632" type="line"/>
+      <point x="366" y="27" type="line"/>
+      <point x="548" y="27" type="line"/>
+      <point x="548" y="-1" type="line"/>
+      <point x="158" y="-1" type="line"/>
+      <point x="158" y="27" type="line"/>
+      <point x="342" y="27" type="line"/>
+      <point x="342" y="605" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-1</integer>
+            <key>width</key>
+            <integer>28</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>342</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.denominator" format="1">
+  <advance width="411"/>
+  <outline>
+    <contour>
+      <point x="42" y="465" type="line" smooth="yes"/>
+      <point x="40" y="465"/>
+      <point x="41" y="477"/>
+      <point x="42" y="476" type="curve"/>
+      <point x="108" y="484"/>
+      <point x="153" y="483"/>
+      <point x="225" y="483" type="curve" smooth="yes"/>
+      <point x="323" y="483"/>
+      <point x="355" y="425"/>
+      <point x="355" y="347" type="curve" smooth="yes"/>
+      <point x="355" y="225"/>
+      <point x="117" y="49"/>
+      <point x="79" y="19" type="curve"/>
+      <point x="354" y="19" type="line"/>
+      <point x="354" y="1" type="line"/>
+      <point x="45" y="1" type="line"/>
+      <point x="45" y="15" type="line"/>
+      <point x="112" y="69"/>
+      <point x="336" y="238"/>
+      <point x="336" y="344" type="curve" smooth="yes"/>
+      <point x="336" y="413"/>
+      <point x="315" y="465"/>
+      <point x="219" y="465" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1</integer>
+            <key>width</key>
+            <integer>18</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>465</integer>
+            <key>width</key>
+            <integer>18</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>465</integer>
+            <key>width</key>
+            <integer>11</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>336</integer>
+            <key>width</key>
+            <integer>18</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

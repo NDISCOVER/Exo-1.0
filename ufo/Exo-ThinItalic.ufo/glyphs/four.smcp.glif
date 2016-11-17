@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.smcp" format="1">
+  <advance width="527"/>
+  <outline>
+    <contour>
+      <point x="47" y="190" type="line"/>
+      <point x="318" y="570" type="line"/>
+      <point x="346" y="570" type="line"/>
+      <point x="78" y="191" type="line"/>
+      <point x="409" y="191" type="line"/>
+      <point x="439" y="381" type="line"/>
+      <point x="461" y="456" type="line"/>
+      <point x="475" y="456" type="line"/>
+      <point x="433" y="191" type="line"/>
+      <point x="523" y="191" type="line"/>
+      <point x="521" y="177" type="line"/>
+      <point x="429" y="167" type="line"/>
+      <point x="403" y="2" type="line"/>
+      <point x="379" y="2" type="line"/>
+      <point x="405" y="167" type="line"/>
+      <point x="60" y="167" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>2</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>167</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>177</integer>
+            <key>width</key>
+            <integer>14</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

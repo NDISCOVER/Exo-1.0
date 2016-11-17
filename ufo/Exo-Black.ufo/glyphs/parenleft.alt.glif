@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenleft.alt" format="1">
+  <advance width="413"/>
+  <outline>
+    <contour>
+      <point x="42" y="336" type="curve" smooth="yes"/>
+      <point x="42" y="702"/>
+      <point x="231" y="870"/>
+      <point x="231" y="870" type="curve"/>
+      <point x="402" y="870" type="line"/>
+      <point x="402" y="870"/>
+      <point x="236" y="626"/>
+      <point x="236" y="336" type="curve" smooth="yes"/>
+      <point x="236" y="20"/>
+      <point x="402" y="-200"/>
+      <point x="402" y="-200" type="curve"/>
+      <point x="231" y="-200" type="line"/>
+      <point x="231" y="-200"/>
+      <point x="42" y="-61"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>42</integer>
+            <key>width</key>
+            <integer>194</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

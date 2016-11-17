@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="one.tnum" format="1">
+  <advance width="630"/>
+  <outline>
+    <contour>
+      <point x="178" y="634" type="line"/>
+      <point x="178" y="647" type="line"/>
+      <point x="346" y="732" type="line"/>
+      <point x="370" y="732" type="line"/>
+      <point x="370" y="27" type="line"/>
+      <point x="550" y="27" type="line"/>
+      <point x="550" y="-1" type="line"/>
+      <point x="160" y="-1" type="line"/>
+      <point x="160" y="27" type="line"/>
+      <point x="346" y="27" type="line"/>
+      <point x="346" y="705" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-1</integer>
+            <key>width</key>
+            <integer>28</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>712</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>346</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

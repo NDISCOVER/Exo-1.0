@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emdash.alt" format="1">
+  <advance width="750"/>
+  <outline>
+    <contour>
+      <point x="27" y="347" type="line"/>
+      <point x="27" y="372" type="line"/>
+      <point x="723" y="372" type="line"/>
+      <point x="723" y="347" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>347</integer>
+            <key>width</key>
+            <integer>25</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

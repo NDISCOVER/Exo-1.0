@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="aogonek.smcp" format="1">
+  <advance width="599"/>
+  <outline>
+    <contour>
+      <point x="192" y="206" type="line"/>
+      <point x="462" y="206" type="line"/>
+      <point x="385" y="541" type="line"/>
+    </contour>
+    <contour>
+      <point x="45" y="0" type="line"/>
+      <point x="376" y="570" type="line"/>
+      <point x="400" y="570" type="line"/>
+      <point x="536" y="0" type="line"/>
+      <point x="520.863" y="0" type="line"/>
+      <point x="403.057" y="-45.0664"/>
+      <point x="394.144" y="-169.92"/>
+      <point x="526.067" y="-166.922" type="curve"/>
+      <point x="524.067" y="-180.922" type="line"/>
+      <point x="406.067" y="-196.922"/>
+      <point x="350.067" y="-65.9219"/>
+      <point x="509.067" y="0.078125" type="curve"/>
+      <point x="510.982" y="0.078125" type="line"/>
+      <point x="468" y="182" type="line"/>
+      <point x="179" y="182" type="line"/>
+      <point x="73" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-181</integer>
+            <key>width</key>
+            <integer>14</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-20</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>182</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="quotedbl.smcp" format="1">
+  <advance width="287"/>
+  <outline>
+    <contour>
+      <point x="199" y="392" type="line"/>
+      <point x="213" y="526" type="line"/>
+      <point x="224" y="593" type="line"/>
+      <point x="249" y="593" type="line"/>
+      <point x="238" y="526" type="line"/>
+      <point x="211" y="392" type="line"/>
+    </contour>
+    <contour>
+      <point x="99" y="392" type="line"/>
+      <point x="113" y="526" type="line"/>
+      <point x="124" y="593" type="line"/>
+      <point x="149" y="593" type="line"/>
+      <point x="138" y="526" type="line"/>
+      <point x="111" y="392" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>392</integer>
+            <key>width</key>
+            <integer>201</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>99</integer>
+            <key>width</key>
+            <integer>150</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

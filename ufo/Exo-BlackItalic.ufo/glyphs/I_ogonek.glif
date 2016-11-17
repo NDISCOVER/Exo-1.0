@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Iogonek" format="1">
+  <advance width="282"/>
+  <unicode hex="012E"/>
+  <outline>
+    <contour>
+      <point x="45" y="0" type="line"/>
+      <point x="161" y="732" type="line"/>
+      <point x="355" y="732" type="line"/>
+      <point x="239" y="0" type="line"/>
+      <point x="182.521" y="0" type="line"/>
+      <point x="100.252" y="-52.6768"/>
+      <point x="144.608" y="-105.962"/>
+      <point x="181.119" y="-100" type="curve"/>
+      <point x="167.217" y="-190" type="line"/>
+      <point x="64.3811" y="-223.855"/>
+      <point x="-30.5787" y="-78.2484"/>
+      <point x="113.715" y="0" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>712</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

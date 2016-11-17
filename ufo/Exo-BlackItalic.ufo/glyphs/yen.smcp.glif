@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen.smcp" format="1">
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="111" y="101" type="line"/>
+      <point x="121" y="169" type="line"/>
+      <point x="209" y="169" type="line"/>
+      <point x="213" y="190" type="line"/>
+      <point x="125" y="190" type="line"/>
+      <point x="135" y="258" type="line"/>
+      <point x="190" y="258" type="line"/>
+      <point x="101" y="571" type="line"/>
+      <point x="305" y="571" type="line"/>
+      <point x="329" y="378" type="line"/>
+      <point x="422" y="571" type="line"/>
+      <point x="639" y="571" type="line"/>
+      <point x="448" y="258" type="line"/>
+      <point x="513" y="258" type="line"/>
+      <point x="503" y="190" type="line"/>
+      <point x="407" y="190" type="line"/>
+      <point x="403" y="169" type="line"/>
+      <point x="499" y="169" type="line"/>
+      <point x="489" y="101" type="line"/>
+      <point x="393" y="101" type="line"/>
+      <point x="377" y="0" type="line"/>
+      <point x="183" y="0" type="line"/>
+      <point x="199" y="101" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>101</integer>
+            <key>width</key>
+            <integer>68</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>190</integer>
+            <key>width</key>
+            <integer>68</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

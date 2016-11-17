@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Aogonek" format="1">
+  <advance width="659"/>
+  <unicode hex="0104"/>
+  <outline>
+    <contour>
+      <point x="190" y="277" type="line"/>
+      <point x="505" y="277" type="line"/>
+      <point x="352" y="708" type="line"/>
+    </contour>
+    <contour>
+      <point x="61" y="0" type="line"/>
+      <point x="335" y="732" type="line"/>
+      <point x="369" y="732" type="line"/>
+      <point x="631" y="0" type="line"/>
+      <point x="624.808" y="0" type="line"/>
+      <point x="514.014" y="-45.0664"/>
+      <point x="526.076" y="-169.92"/>
+      <point x="657" y="-166.922" type="curve"/>
+      <point x="657" y="-180.922" type="line"/>
+      <point x="542.045" y="-196.916"/>
+      <point x="464.062" y="-66.0252"/>
+      <point x="612.824" y="0" type="curve"/>
+      <point x="605" y="0" type="line"/>
+      <point x="514" y="253" type="line"/>
+      <point x="181" y="253" type="line"/>
+      <point x="87" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-181</integer>
+            <key>width</key>
+            <integer>14</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>-20</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>253</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>712</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

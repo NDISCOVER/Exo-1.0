@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.oldstyle" format="1">
+  <advance width="627"/>
+  <outline>
+    <contour>
+      <point x="123" y="162" type="line" smooth="yes"/>
+      <point x="109" y="70"/>
+      <point x="159" y="24"/>
+      <point x="249" y="24" type="curve" smooth="yes"/>
+      <point x="383" y="24" type="line" smooth="yes"/>
+      <point x="487" y="24"/>
+      <point x="535" y="77"/>
+      <point x="548" y="162" type="curve" smooth="yes"/>
+      <point x="596" y="469" type="line" smooth="yes"/>
+      <point x="610" y="559"/>
+      <point x="571" y="607"/>
+      <point x="475" y="607" type="curve" smooth="yes"/>
+      <point x="341" y="607" type="line" smooth="yes"/>
+      <point x="252" y="607"/>
+      <point x="185" y="557"/>
+      <point x="171" y="469" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="99" y="162" type="curve" smooth="yes"/>
+      <point x="147" y="469" type="line" smooth="yes"/>
+      <point x="164" y="577"/>
+      <point x="245" y="631"/>
+      <point x="340" y="631" type="curve" smooth="yes"/>
+      <point x="474" y="631" type="line" smooth="yes"/>
+      <point x="601" y="631"/>
+      <point x="634" y="556"/>
+      <point x="620" y="469" type="curve" smooth="yes"/>
+      <point x="572" y="162" type="line" smooth="yes"/>
+      <point x="553" y="43"/>
+      <point x="483" y="0"/>
+      <point x="384" y="0" type="curve" smooth="yes"/>
+      <point x="252" y="0" type="line" smooth="yes"/>
+      <point x="161" y="0"/>
+      <point x="80" y="42"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>607</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

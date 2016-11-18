@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessi" format="1">
-  <advance width="186"/>
+  <advance width="202.0"/>
   <unicode hex="0131"/>
   <outline>
     <contour>
-      <point x="81" y="0" type="line"/>
-      <point x="81" y="531" type="line"/>
-      <point x="105" y="531" type="line"/>
-      <point x="105" y="0" type="line"/>
+      <point x="91" y="0" type="line"/>
+      <point x="115" y="0" type="line"/>
+      <point x="115" y="531" type="line"/>
+      <point x="91" y="531" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -60,7 +60,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>81</integer>
+                  <real>91.0</real>
                   <key>y</key>
                   <integer>0</integer>
                 </dict>
@@ -70,7 +70,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>81</integer>
+                  <real>91.0</real>
                   <key>y</key>
                   <integer>531</integer>
                 </dict>
@@ -80,7 +80,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>105</integer>
+                  <real>115.0</real>
                   <key>y</key>
                   <integer>531</integer>
                 </dict>
@@ -90,7 +90,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>105</integer>
+                  <real>115.0</real>
                   <key>y</key>
                   <integer>0</integer>
                 </dict>
@@ -106,7 +106,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>186</integer>
+          <real>202.0</real>
         </dict>
       </dict>
     </dict>

@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="o" format="1">
-  <advance width="558.0"/>
+  <advance width="574.0"/>
   <unicode hex="006F"/>
   <outline>
     <contour>
-      <point x="224" y="258" type="curve" smooth="yes"/>
-      <point x="224" y="153"/>
-      <point x="238" y="139"/>
-      <point x="279" y="139" type="curve" smooth="yes"/>
-      <point x="324" y="139"/>
-      <point x="334" y="147"/>
-      <point x="334" y="258" type="curve" smooth="yes"/>
-      <point x="334" y="373"/>
-      <point x="325" y="392"/>
-      <point x="279" y="392" type="curve" smooth="yes"/>
-      <point x="230" y="392"/>
-      <point x="224" y="372"/>
+      <point x="224" y="262" type="curve" smooth="yes"/>
+      <point x="224.0" y="153.47058823529412"/>
+      <point x="240.03636363636366" y="139.0"/>
+      <point x="287" y="139" type="curve" smooth="yes"/>
+      <point x="338.54545454545456" y="139.0"/>
+      <point x="350.0" y="147.0"/>
+      <point x="350" y="262" type="curve" smooth="yes"/>
+      <point x="350.0" y="377.0"/>
+      <point x="339.6909090909091" y="396.0"/>
+      <point x="287" y="396" type="curve" smooth="yes"/>
+      <point x="230.87272727272727" y="396.0"/>
+      <point x="224.0" y="376.0"/>
     </contour>
     <contour>
-      <point x="30" y="258" type="curve" smooth="yes"/>
-      <point x="30" y="475"/>
-      <point x="95" y="536"/>
-      <point x="279" y="536" type="curve" smooth="yes"/>
-      <point x="465" y="536"/>
-      <point x="528" y="469"/>
-      <point x="528" y="258" type="curve" smooth="yes"/>
-      <point x="528" y="61"/>
-      <point x="470" y="-5"/>
-      <point x="279" y="-5" type="curve" smooth="yes"/>
-      <point x="92" y="-5"/>
-      <point x="30" y="68"/>
+      <point x="30" y="262" type="curve" smooth="yes"/>
+      <point x="30.0" y="479.0"/>
+      <point x="97.08835341365463" y="540.0"/>
+      <point x="287" y="540" type="curve" smooth="yes"/>
+      <point x="478.9759036144578" y="540.0"/>
+      <point x="544.0" y="473.0"/>
+      <point x="544" y="262" type="curve" smooth="yes"/>
+      <point x="544.0" y="62.0"/>
+      <point x="484.13654618473896" y="-5.0"/>
+      <point x="287" y="-5" type="curve" smooth="yes"/>
+      <point x="93.99196787148594" y="-5.0"/>
+      <point x="30.0" y="69.11026615969584"/>
     </contour>
   </outline>
   <lib>
@@ -76,6 +76,19 @@
           </array>
           <key>components</key>
           <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>n</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>-11</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
           </array>
           <key>contours</key>
           <array>
@@ -307,7 +320,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>558.0</real>
+          <real>574.0</real>
         </dict>
       </dict>
     </dict>

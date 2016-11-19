@@ -8,9 +8,9 @@
     <data name="horizontalPreviewAxis" value="weight"/>
     <data name="lineInverted" value="False"/>
     <data name="lineViewFilled" value="True"/>
-    <data name="lineStacked" value="sequence"/>
+    <data name="lineStacked" value="lined"/>
     <data name="generateFontsAtFolder" value="/Users/rob/Dropbox/Work/2016/Google Fonts/02_Production/Exo-2016/instances"/>
-    <data name="previewtext" value="HUMILITAS agdhesion"/>
+    <data name="previewtext" value="/A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/X/Y/Z"/>
     <data name="verticalPreviewAxis" value="None"/>
     <!-- don't generate these glyphs -->
     <ignore glyphs=""/>
@@ -35,6 +35,15 @@
     <instance familyname="Exo" filename="instances/Exo-Regular.ufo" sortorder="1" stylename="Regular">
         <location>
             <dimension name="weight" xvalue="370.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Exo" filename="instances/Exo-Monster.ufo" sortorder="3" stylename="Monster">
+        <location>
+            <dimension name="weight" xvalue="1100.000000"/>
         </location>
         <provideFeatures state="1"/>
         <provideGroups state="1"/>

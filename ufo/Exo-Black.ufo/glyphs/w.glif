@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="w" format="1">
-  <advance width="847"/>
+  <advance width="845"/>
   <unicode hex="0077"/>
   <outline>
     <contour>
-      <point x="11" y="531" type="line"/>
-      <point x="217" y="531" type="line"/>
-      <point x="282" y="209" type="line"/>
-      <point x="342" y="531" type="line"/>
-      <point x="530" y="531" type="line"/>
-      <point x="507" y="410" type="line"/>
-      <point x="572" y="209" type="line"/>
-      <point x="630" y="531" type="line"/>
-      <point x="837" y="531" type="line"/>
-      <point x="691" y="0" type="line"/>
-      <point x="467" y="0" type="line"/>
-      <point x="419" y="137" type="line"/>
-      <point x="381" y="0" type="line"/>
-      <point x="157" y="0" type="line"/>
+      <point x="8" y="539" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="361" y="0" type="line"/>
+      <point x="429" y="215" type="line"/>
+      <point x="487" y="0" type="line"/>
+      <point x="711" y="0" type="line"/>
+      <point x="837" y="539" type="line"/>
+      <point x="637" y="539" type="line"/>
+      <point x="593" y="199" type="line"/>
+      <point x="531" y="447" type="line"/>
+      <point x="547" y="539" type="line"/>
+      <point x="349" y="539" type="line"/>
+      <point x="263" y="199" type="line"/>
+      <point x="208" y="539" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -49,6 +49,32 @@
           </array>
           <key>components</key>
           <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>v</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>-17</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>v</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>293</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
           </array>
           <key>contours</key>
           <array>
@@ -207,7 +233,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>847</integer>
+          <integer>845</integer>
         </dict>
       </dict>
     </dict>

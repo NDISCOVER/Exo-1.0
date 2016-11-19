@@ -9,8 +9,8 @@
     <data name="lineInverted" value="False"/>
     <data name="lineViewFilled" value="True"/>
     <data name="lineStacked" value="sequence"/>
-    <data name="generateFontsAtFolder" value="instances"/>
-    <data name="previewtext" value="HUMILITAS adhesion"/>
+    <data name="generateFontsAtFolder" value="/Users/rob/Dropbox/Work/2016/Google Fonts/02_Production/Exo-2016/instances"/>
+    <data name="previewtext" value="HUMILITAS agdhesion"/>
     <data name="verticalPreviewAxis" value="None"/>
     <!-- don't generate these glyphs -->
     <ignore glyphs=""/>
@@ -25,11 +25,20 @@
         </location>
         <color a="1.000" b="0.300" g="0.300" r="0.300"/>
     </master>
-    <master familyname="Exo" filename="ufo/Exo-Black.ufo" sortorder="1" stylename="Black">
+    <master familyname="Exo" filename="ufo/Exo-Black.ufo" sortorder="2" stylename="Black">
         <location>
             <dimension name="weight" xvalue="900.000000"/>
         </location>
         <color a="1.000" b="0.300" g="0.300" r="0.300"/>
     </master>
     <!-- instance definitions -->
+    <instance familyname="Exo" filename="instances/Exo-Regular.ufo" sortorder="1" stylename="Regular">
+        <location>
+            <dimension name="weight" xvalue="370.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
 </designspace>

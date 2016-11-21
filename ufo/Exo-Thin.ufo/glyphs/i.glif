@@ -22,6 +22,9 @@
       <point x="86" y="714" type="curve" smooth="yes"/>
     </contour>
     <component base="dotlessi"/>
+    <contour>
+      <point x="103" y="-150" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

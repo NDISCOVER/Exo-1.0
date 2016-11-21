@@ -22,8 +22,6 @@
 	<string>E_ng.glif</string>
 	<key>Eth</key>
 	<string>E_th.glif</string>
-	<key>Euro</key>
-	<string>E_uro.glif</string>
 	<key>Euro.smcp</key>
 	<string>E_uro.smcp.glif</string>
 	<key>F</key>
@@ -248,6 +246,8 @@
 	<string>cdotaccent.smcp.glif</string>
 	<key>cedilla</key>
 	<string>cedilla.glif</string>
+	<key>cedillacomb</key>
+	<string>cedillacomb.glif</string>
 	<key>cent</key>
 	<string>cent.glif</string>
 	<key>circumflex</key>
@@ -378,6 +378,8 @@
 	<string>eth.glif</string>
 	<key>eth.smcp</key>
 	<string>eth.smcp.glif</string>
+	<key>euro</key>
+	<string>euro.glif</string>
 	<key>exclam</key>
 	<string>exclam.glif</string>
 	<key>exclam.smcp</key>
@@ -596,6 +598,8 @@
 	<string>macron.glif</string>
 	<key>macron.smcp</key>
 	<string>macron.smcp.glif</string>
+	<key>macronbelowcomb</key>
+	<string>macronbelowcomb.glif</string>
 	<key>macroncomb</key>
 	<string>macroncomb.glif</string>
 	<key>minus</key>
@@ -672,6 +676,8 @@
 	<string>oe.smcp.glif</string>
 	<key>ogonek</key>
 	<string>ogonek.glif</string>
+	<key>ogonekcomb</key>
+	<string>ogonekcomb.glif</string>
 	<key>ograve.smcp</key>
 	<string>ograve.smcp.glif</string>
 	<key>ohungarumlaut.smcp</key>

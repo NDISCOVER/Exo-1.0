@@ -1,18 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="r.salt" format="1">
-  <advance width="427"/>
+  <advance width="426.0"/>
   <outline>
     <contour>
-      <point x="81" y="0" type="line"/>
-      <point x="81" y="483" type="line"/>
-      <point x="156" y="518"/>
-      <point x="236" y="552"/>
-      <point x="399" y="538" type="curve"/>
-      <point x="399" y="514" type="line"/>
-      <point x="297" y="525"/>
-      <point x="204" y="511"/>
-      <point x="105" y="474" type="curve"/>
-      <point x="105" y="0" type="line"/>
+      <point x="91" y="0" type="line"/>
+      <point x="115" y="0" type="line"/>
+      <point x="115" y="434" type="line"/>
+      <point x="175" y="496"/>
+      <point x="255.0" y="517.0"/>
+      <point x="349" y="517" type="curve" smooth="yes"/>
+      <point x="366" y="517"/>
+      <point x="379" y="516"/>
+      <point x="399" y="514" type="curve"/>
+      <point x="399" y="538" type="line"/>
+      <point x="377" y="540"/>
+      <point x="360" y="541"/>
+      <point x="343" y="541" type="curve" smooth="yes"/>
+      <point x="239.0" y="541.0"/>
+      <point x="162" y="511"/>
+      <point x="91" y="442" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -53,6 +59,19 @@
           </array>
           <key>components</key>
           <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>r</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
           </array>
           <key>contours</key>
           <array>
@@ -163,7 +182,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>427</integer>
+          <real>426.0</real>
         </dict>
       </dict>
     </dict>

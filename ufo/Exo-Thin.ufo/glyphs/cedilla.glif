@@ -4,16 +4,28 @@
   <unicode hex="00B8"/>
   <outline>
     <contour>
-      <point x="68" y="-166" type="line"/>
-      <point x="100" y="-161" type="line" smooth="yes"/>
-      <point x="153" y="-153"/>
-      <point x="184" y="-145"/>
-      <point x="182" y="-37" type="curve"/>
-      <point x="199" y="-37" type="line"/>
-      <point x="199" y="-137"/>
-      <point x="181" y="-173"/>
-      <point x="98" y="-173" type="curve" smooth="yes"/>
+      <point x="68" y="-163" type="line"/>
       <point x="68" y="-173" type="line"/>
+      <point x="88" y="-173" type="line" smooth="yes"/>
+      <point x="143.0" y="-173"/>
+      <point x="176.0" y="-149.72727272727272"/>
+      <point x="176" y="-109" type="curve" smooth="yes"/>
+      <point x="176.0" y="-70.74576271186442"/>
+      <point x="156.3404255319149" y="-48.0"/>
+      <point x="92" y="-48" type="curve"/>
+      <point x="78" y="-58" type="line"/>
+      <point x="146.72043010752688" y="-58.0"/>
+      <point x="161.0" y="-80.93617021276596"/>
+      <point x="161" y="-107" type="curve" smooth="yes"/>
+      <point x="161.0" y="-142.67857142857144"/>
+      <point x="136.9702562788479" y="-157.69459567085786"/>
+      <point x="94" y="-161" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="145" y="10" type="line"/>
+      <point x="131" y="10" type="line"/>
+      <point x="78" y="-58" type="line"/>
+      <point x="92" y="-58" type="line"/>
     </contour>
   </outline>
   <lib>

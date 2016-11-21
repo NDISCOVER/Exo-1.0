@@ -3,24 +3,24 @@
   <advance width="623"/>
   <outline>
     <contour>
-      <point x="99" y="236" type="line"/>
-      <point x="99" y="482" type="line"/>
-      <point x="11" y="471" type="line"/>
       <point x="11" y="388" type="line"/>
       <point x="89" y="379" type="line"/>
-      <point x="89" y="340" type="line"/>
-      <point x="11" y="332" type="line"/>
-      <point x="11" y="245" type="line"/>
+      <point x="244" y="379" type="line"/>
+      <point x="507" y="387" type="line"/>
+      <point x="507" y="473" type="line"/>
+      <point x="243" y="481" type="line"/>
+      <point x="99" y="481" type="line"/>
+      <point x="11" y="471" type="line"/>
     </contour>
     <contour>
-      <point x="243" y="481" type="line"/>
+      <point x="11" y="245" type="line"/>
+      <point x="99" y="237" type="line"/>
       <point x="243" y="237" type="line"/>
       <point x="507" y="245" type="line"/>
       <point x="507" y="332" type="line"/>
       <point x="244" y="340" type="line"/>
-      <point x="244" y="379" type="line"/>
-      <point x="507" y="387" type="line"/>
-      <point x="507" y="473" type="line"/>
+      <point x="89" y="340" type="line"/>
+      <point x="11" y="332" type="line"/>
     </contour>
     <component base="C" xOffset="43"/>
   </outline>

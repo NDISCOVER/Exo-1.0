@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kgreenlandic" format="1">
-  <advance width="473"/>
+  <advance width="468.0"/>
   <unicode hex="0138"/>
   <outline>
     <contour>
-      <point x="81" y="0" type="line"/>
-      <point x="81" y="531" type="line"/>
-      <point x="105" y="531" type="line"/>
-      <point x="105" y="279" type="line"/>
-      <point x="220" y="279" type="line"/>
-      <point x="417" y="531" type="line"/>
-      <point x="446" y="531" type="line"/>
-      <point x="241" y="267" type="line"/>
-      <point x="432" y="0" type="line"/>
-      <point x="402" y="0" type="line"/>
-      <point x="220" y="255" type="line"/>
-      <point x="105" y="255" type="line"/>
-      <point x="105" y="0" type="line"/>
+      <point x="91" y="0" type="line"/>
+      <point x="115" y="0" type="line"/>
+      <point x="115" y="256" type="line"/>
+      <point x="198" y="256" type="line"/>
+      <point x="409" y="0" type="line"/>
+      <point x="440" y="0" type="line"/>
+      <point x="219" y="266" type="line"/>
+      <point x="431" y="531" type="line"/>
+      <point x="401" y="531" type="line"/>
+      <point x="202" y="278" type="line"/>
+      <point x="115" y="278" type="line"/>
+      <point x="115" y="541" type="line"/>
+      <point x="91" y="541" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -211,7 +211,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>473</integer>
+          <real>468.0</real>
         </dict>
       </dict>
     </dict>

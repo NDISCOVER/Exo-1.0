@@ -236,10 +236,8 @@
 				<string>Tbar</string>
 				<string>uni018F</string>
 				<string>uni019D</string>
-				<string>uni01C4</string>
 				<string>uni01C7</string>
 				<string>uni01CA</string>
-				<string>uni01F1</string>
 				<string>uni1E9E</string>
 				<string>Delta</string>
 				<string>Pi</string>
@@ -429,18 +427,14 @@
 				<string>oe</string>
 				<string>tbar</string>
 				<string>longs</string>
-				<string>uni01C6</string>
 				<string>uni01C9</string>
 				<string>uni01CC</string>
-				<string>uni01F3</string>
 				<string>dotlessj</string>
 				<string>nhookleft</string>
 				<string>mu</string>
 				<string>pi</string>
-				<string>uni01C5</string>
 				<string>uni01C8</string>
 				<string>uni01CB</string>
-				<string>uni01F2</string>
 				<string>uni02BB</string>
 				<string>uni02BC</string>
 				<string>uni030F</string>
@@ -580,7 +574,6 @@
 				<string>peseta</string>
 				<string>won</string>
 				<string>dong</string>
-				<string>Euro</string>
 				<string>florin</string>
 				<string>kip</string>
 				<string>uni20AE</string>
@@ -688,7 +681,6 @@
 				<string>Yhookabove</string>
 				<string>abrevehookabove</string>
 				<string>acircumflexhookabove</string>
-				<string>acutecmb</string>
 				<string>acutecomb</string>
 				<string>adblgrave</string>
 				<string>ahookabove</string>
@@ -696,30 +688,21 @@
 				<string>arrowboth</string>
 				<string>arrowupdn</string>
 				<string>brevebelowcomb</string>
-				<string>brevecmb</string>
 				<string>brevecomb</string>
-				<string>breveinvertedcmb</string>
 				<string>breveinvertedcomb</string>
-				<string>caroncmb</string>
 				<string>caroncomb</string>
-				<string>cedillacmb</string>
 				<string>cedillacomb</string>
 				<string>circle</string>
-				<string>circumflexcmb</string>
 				<string>circumflexcomb</string>
 				<string>club</string>
 				<string>colonsign</string>
-				<string>commaaccentcmb</string>
 				<string>commaaccentcomb</string>
 				<string>commaturnedabovecomb</string>
 				<string>dblgravecomb</string>
 				<string>diamond</string>
 				<string>dieresisbelowcomb</string>
-				<string>dieresiscmb</string>
 				<string>dieresiscomb</string>
-				<string>dotaccentcmb</string>
 				<string>dotaccentcomb</string>
-				<string>dotbelowcmb</string>
 				<string>dotbelowcomb</string>
 				<string>dzcaron</string>
 				<string>ecircumflexhookabove</string>
@@ -729,7 +712,6 @@
 				<string>filledbox</string>
 				<string>firsttonechinese</string>
 				<string>gcommaaccent</string>
-				<string>gravecmb</string>
 				<string>gravecomb</string>
 				<string>gtilde</string>
 				<string>guarani</string>
@@ -737,10 +719,7 @@
 				<string>guillemetright</string>
 				<string>heart</string>
 				<string>hookabovecomb</string>
-				<string>hookcmb</string>
-				<string>horncmb</string>
 				<string>horncomb</string>
-				<string>hungarumlautcmb</string>
 				<string>hungarumlautcomb</string>
 				<string>idblgrave</string>
 				<string>idotaccent</string>
@@ -753,9 +732,7 @@
 				<string>lcommaaccent</string>
 				<string>liraTurkish</string>
 				<string>lj</string>
-				<string>macronbelowcmb</string>
 				<string>macronbelowcomb</string>
-				<string>macroncmb</string>
 				<string>macroncomb</string>
 				<string>manat</string>
 				<string>micro</string>
@@ -767,7 +744,6 @@
 				<string>ocircumflexhookabove</string>
 				<string>odblgrave</string>
 				<string>odotaccentmacron</string>
-				<string>ogonekcmb</string>
 				<string>ogonekcomb</string>
 				<string>ohookabove</string>
 				<string>ohornhookabove</string>
@@ -775,7 +751,6 @@
 				<string>peso</string>
 				<string>rcommaaccent</string>
 				<string>rdblgrave</string>
-				<string>ringcmb</string>
 				<string>ringcomb</string>
 				<string>ruble</string>
 				<string>rupeeIndian</string>
@@ -784,7 +759,6 @@
 				<string>softhyphen</string>
 				<string>spade</string>
 				<string>tcedilla</string>
-				<string>tildecmb</string>
 				<string>tildecomb</string>
 				<string>triagdn</string>
 				<string>triaglf</string>
@@ -942,21 +916,7 @@
 				<string>dieresis.uc</string>
 				<string>dotaccent.uc</string>
 				<string>ring.uc</string>
-				<string>acutecmb.uc</string>
-				<string>brevecmb.uc</string>
-				<string>breveinvertedcmb.uc</string>
-				<string>caroncmb.uc</string>
-				<string>circumflexcmb.uc</string>
-				<string>dieresiscmb.uc</string>
-				<string>dotaccentcmb.uc</string>
-				<string>gravecmb.uc</string>
 				<string>hookabove.uc</string>
-				<string>hookcmb.uc</string>
-				<string>horncmb.uc</string>
-				<string>hungarumlautcmb.uc</string>
-				<string>macroncmb.uc</string>
-				<string>ringcmb.uc</string>
-				<string>tildecmb.uc</string>
 				<string>zero.lf</string>
 				<string>one.lf</string>
 				<string>two.lf</string>
@@ -1395,6 +1355,8 @@
 				<string>ncommaaccent.smcp</string>
 				<string>rcommaaccent.smcp</string>
 				<string>.notdef</string>
+				<string>w.salt</string>
+				<string>W.salt</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -1791,7 +1753,6 @@
 		<string>uni02BC</string>
 		<string>uni030F</string>
 		<string>uni032D</string>
-		<string>uni0338</string>
 		<string>zero</string>
 		<string>one</string>
 		<string>two</string>

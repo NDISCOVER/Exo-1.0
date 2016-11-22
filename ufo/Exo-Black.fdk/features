@@ -1,0 +1,1572 @@
+languagesystem DFLT dflt;
+languagesystem cyrl dflt;
+languagesystem grek dflt;
+languagesystem latn dflt;
+languagesystem latn FRA ;
+
+
+# GSUB 
+
+
+lookup ordnOrdinalslookup21 {
+  lookupflag 0;
+    sub \o  by \ordmasculine;
+    sub \a  by \ordfeminine;
+    sub \b  by \b.superior;
+    sub \c  by \c.superior;
+    sub \d  by \d.superior;
+    sub \e  by \e.superior;
+    sub \f  by \f.superior;
+    sub \g  by \g.superior;
+    sub \h  by \h.superior;
+    sub \i  by \i.superior;
+    sub \j  by \j.superior;
+    sub \k  by \k.superior;
+    sub \l  by \l.superior;
+    sub \m  by \m.superior;
+    sub \n  by \n.superior;
+    sub \p  by \p.superior;
+    sub \q  by \q.superior;
+    sub \r  by \r.superior;
+    sub \s  by \s.superior;
+    sub \t  by \t.superior;
+    sub \u  by \u.superior;
+    sub \v  by \v.superior;
+    sub \w  by \w.superior;
+    sub \x  by \x.superior;
+    sub \y  by \y.superior;
+    sub \z  by \z.superior;
+    sub \o.smcp  by \ordmasculine.smcp;
+    sub \a.smcp  by \ordfeminine.smcp;
+    sub \N \o  by \afii61352;
+} ordnOrdinalslookup21;
+
+lookup smcpLowercasetoSmallCapitalslookup16 {
+  lookupflag 0;
+    sub \a by \a.smcp ;
+    sub \z by \z.smcp ;
+    sub \e by \e.smcp ;
+    sub \o by \o.smcp ;
+    sub \c by \c.smcp ;
+    sub \d by \d.smcp ;
+    sub \p by \p.smcp ;
+    sub \b by \b.smcp ;
+    sub \q by \q.smcp ;
+    sub \n by \n.smcp ;
+    sub \i by \i.smcp ;
+    sub \h by \h.smcp ;
+    sub \u by \u.smcp ;
+    sub \r by \r.smcp ;
+    sub \m by \m.smcp ;
+    sub \f by \f.smcp ;
+    sub \l by \l.smcp ;
+    sub \j by \j.smcp ;
+    sub \t by \t.smcp ;
+    sub \s by \s.smcp ;
+    sub \k by \k.smcp ;
+    sub \g by \g.smcp ;
+    sub \v by \v.smcp ;
+    sub \w by \w.smcp ;
+    sub \y by \y.smcp ;
+    sub \x by \x.smcp ;
+    sub \agrave by \agrave.smcp ;
+    sub \aacute by \aacute.smcp ;
+    sub \acircumflex by \acircumflex.smcp ;
+    sub \atilde by \atilde.smcp ;
+    sub \adieresis by \adieresis.smcp ;
+    sub \aring by \aring.smcp ;
+    sub \ae by \ae.smcp ;
+    sub \ccedilla by \ccedilla.smcp ;
+    sub \egrave by \egrave.smcp ;
+    sub \eacute by \eacute.smcp ;
+    sub \ecircumflex by \ecircumflex.smcp ;
+    sub \edieresis by \edieresis.smcp ;
+    sub \igrave by \igrave.smcp ;
+    sub \iacute by \iacute.smcp ;
+    sub \icircumflex by \icircumflex.smcp ;
+    sub \idieresis by \idieresis.smcp ;
+    sub \eth by \eth.smcp ;
+    sub \ograve by \ograve.smcp ;
+    sub \oacute by \oacute.smcp ;
+    sub \ocircumflex by \ocircumflex.smcp ;
+    sub \otilde by \otilde.smcp ;
+    sub \odieresis by \odieresis.smcp ;
+    sub \ntilde by \ntilde.smcp ;
+    sub \oslash by \oslash.smcp ;
+    sub \thorn by \thorn.smcp ;
+    sub \ugrave by \ugrave.smcp ;
+    sub \uacute by \uacute.smcp ;
+    sub \ucircumflex by \ucircumflex.smcp ;
+    sub \udieresis by \udieresis.smcp ;
+    sub \yacute by \yacute.smcp ;
+    sub \ydieresis by \ydieresis.smcp ;
+    sub \germandbls by \germandbls.smcp ;
+    sub \grave by \grave.smcp ;
+    sub \dieresis by \dieresis.smcp ;
+    sub \acute by \acute.smcp ;
+    sub \exclam by \exclam.smcp ;
+    sub \degree by \degree.smcp ;
+    sub \periodcentered by \periodcentered.smcp ;
+    sub \bullet by \bullet.smcp ;
+    sub \quoteleft by \quoteleft.smcp ;
+    sub \quoteright by \quoteright.smcp ;
+    sub \quotesinglbase by \quotesinglbase.smcp ;
+    sub \quotedblleft by \quotedblleft.smcp ;
+    sub \quotedblright by \quotedblright.smcp ;
+    sub \quotedblbase by \quotedblbase.smcp ;
+    sub \quotedbl by \quotedbl.smcp ;
+    sub \zero by \zero.smcp ;
+    sub \one by \one.smcp ;
+    sub \two by \two.smcp ;
+    sub \three by \three.smcp ;
+    sub \four by \four.smcp ;
+    sub \five by \five.smcp ;
+    sub \six by \six.smcp ;
+    sub \seven by \seven.smcp ;
+    sub \percent by \percent.smcp ;
+    sub \nine by \nine.smcp ;
+    sub \eight by \eight.smcp ;
+    sub \quotesingle by \quotesingle.smcp ;
+    sub \ordmasculine by \ordmasculine.smcp ;
+    sub \ordfeminine by \ordfeminine.smcp ;
+    sub \hyphen by \hyphen.smcp ;
+    sub \numbersign by \numbersign.smcp ;
+    sub \dollar by \dollar.smcp ;
+    sub \ampersand by \ampersand.smcp ;
+    sub \asterisk by \asterisk.smcp ;
+    sub \Euro by \Euro.smcp ;
+    sub \parenleft by \parenleft.smcp ;
+    sub \parenright by \parenright.smcp ;
+    sub \endash by \endash.smcp ;
+    sub \emdash by \emdash.smcp ;
+    sub \question by \question.smcp ;
+    sub \at by \at.smcp ;
+    sub \caron by \caron.smcp ;
+    sub \aogonek by \aogonek.smcp ;
+    sub \lcaron by \lcaron.smcp ;
+    sub \sacute by \sacute.smcp ;
+    sub \scaron by \scaron.smcp ;
+    sub \scedilla by \scedilla.smcp ;
+    sub \tcaron by \tcaron.smcp ;
+    sub \zacute by \zacute.smcp ;
+    sub \zcaron by \zcaron.smcp ;
+    sub \zdotaccent by \zdotaccent.smcp ;
+    sub \racute by \racute.smcp ;
+    sub \abreve by \abreve.smcp ;
+    sub \lacute by \lacute.smcp ;
+    sub \cacute by \cacute.smcp ;
+    sub \ccaron by \ccaron.smcp ;
+    sub \eogonek by \eogonek.smcp ;
+    sub \ecaron by \ecaron.smcp ;
+    sub \dcaron by \dcaron.smcp ;
+    sub \nacute by \nacute.smcp ;
+    sub \ncaron by \ncaron.smcp ;
+    sub \ohungarumlaut by \ohungarumlaut.smcp ;
+    sub \rcaron by \rcaron.smcp ;
+    sub \uring by \uring.smcp ;
+    sub \uhungarumlaut by \uhungarumlaut.smcp ;
+    sub \tcommaaccent by \tcommaaccent.smcp ;
+    sub \uni00AD by \uni00AD.smcp ;
+    sub \lslash by \lslash.smcp ;
+    sub \dcroat by \dcroat.smcp ;
+    sub \questiondown by \questiondown.smcp ;
+    sub \oe by \oe.smcp ;
+    sub \sterling by \sterling.smcp ;
+    sub \yen by \yen.smcp ;
+    sub \macron by \macron.smcp ;
+    sub \perthousand by \perthousand.smcp ;
+    sub \circumflex by \circumflex.smcp ;
+    sub \tilde by \tilde.smcp ;
+    sub \ring by \ring.smcp ;
+    sub \exclamdown by \exclamdown.smcp ;
+    sub \cdotaccent by \cdotaccent.smcp ;
+    sub \ccircumflex by \ccircumflex.smcp ;
+    sub \Idotaccent by \Idotaccent.smcp ;
+    sub \hbar by \hbar.smcp ;
+    sub \hcircumflex by \hcircumflex.smcp ;
+    sub \jcircumflex by \jcircumflex.smcp ;
+    sub \ubreve by \ubreve.smcp ;
+    sub \scircumflex by \scircumflex.smcp ;
+    sub \gbreve by \gbreve.smcp ;
+    sub \gdotaccent by \gdotaccent.smcp ;
+    sub \gcircumflex by \gcircumflex.smcp ;
+    sub \rcommaaccent by \rcommaaccent.smcp ;
+    sub \itilde by \itilde.smcp ;
+    sub \lcommaaccent by \lcommaaccent.smcp ;
+    sub \emacron by \emacron.smcp ;
+    sub \gcommaaccent by \gcommaaccent.smcp ;
+    sub \tbar by \tbar.smcp ;
+    sub \eng by \eng.smcp ;
+    sub \amacron by \amacron.smcp ;
+    sub \iogonek by \iogonek.smcp ;
+    sub \edotaccent by \edotaccent.smcp ;
+    sub \imacron by \imacron.smcp ;
+    sub \ncommaaccent by \ncommaaccent.smcp ;
+    sub \omacron by \omacron.smcp ;
+    sub \kcommaaccent by \kcommaaccent.smcp ;
+    sub \uogonek by \uogonek.smcp ;
+    sub \utilde by \utilde.smcp ;
+    sub \umacron by \umacron.smcp ;
+    sub \uni1E03 by \uni1E03.smcp ;
+    sub \uni1E0B by \uni1E0B.smcp ;
+    sub \uni1E1F by \uni1E1F.smcp ;
+    sub \uni1E41 by \uni1E41.smcp ;
+    sub \wgrave by \wgrave.smcp ;
+    sub \uni1E57 by \uni1E57.smcp ;
+    sub \wacute by \wacute.smcp ;
+    sub \ygrave by \ygrave.smcp ;
+    sub \wdieresis by \wdieresis.smcp ;
+    sub \uni1E61 by \uni1E61.smcp ;
+    sub \ycircumflex by \ycircumflex.smcp ;
+    sub \wcircumflex by \wcircumflex.smcp ;
+    sub \uni1E6B by \uni1E6B.smcp ;
+} smcpLowercasetoSmallCapitalslookup16;
+
+lookup c2scCapitalstoSmallCapitalsinLatinlookup17 {
+  lookupflag 0;
+    sub \A by \a.smcp ;
+    sub \V by \v.smcp ;
+    sub \W by \w.smcp ;
+    sub \C by \c.smcp ;
+    sub \D by \d.smcp ;
+    sub \O by \o.smcp ;
+    sub \S by \s.smcp ;
+    sub \G by \g.smcp ;
+    sub \Q by \q.smcp ;
+    sub \M by \m.smcp ;
+    sub \I by \i.smcp ;
+    sub \J by \j.smcp ;
+    sub \H by \h.smcp ;
+    sub \E by \e.smcp ;
+    sub \L by \l.smcp ;
+    sub \F by \f.smcp ;
+    sub \K by \k.smcp ;
+    sub \T by \t.smcp ;
+    sub \P by \p.smcp ;
+    sub \R by \r.smcp ;
+    sub \U by \u.smcp ;
+    sub \B by \b.smcp ;
+    sub \N by \n.smcp ;
+    sub \X by \x.smcp ;
+    sub \Z by \z.smcp ;
+    sub \Y by \y.smcp ;
+    sub \Agrave by \agrave.smcp ;
+    sub \Aacute by \aacute.smcp ;
+    sub \Acircumflex by \acircumflex.smcp ;
+    sub \Atilde by \atilde.smcp ;
+    sub \Adieresis by \adieresis.smcp ;
+    sub \Aring by \aring.smcp ;
+    sub \Ccedilla by \ccedilla.smcp ;
+    sub \Eth by \eth.smcp ;
+    sub \Egrave by \egrave.smcp ;
+    sub \Eacute by \eacute.smcp ;
+    sub \Ecircumflex by \ecircumflex.smcp ;
+    sub \Edieresis by \edieresis.smcp ;
+    sub \Igrave by \igrave.smcp ;
+    sub \Iacute by \iacute.smcp ;
+    sub \Icircumflex by \icircumflex.smcp ;
+    sub \Idieresis by \idieresis.smcp ;
+    sub \Ntilde by \ntilde.smcp ;
+    sub \Ograve by \ograve.smcp ;
+    sub \Oacute by \oacute.smcp ;
+    sub \Ocircumflex by \ocircumflex.smcp ;
+    sub \Otilde by \otilde.smcp ;
+    sub \Odieresis by \odieresis.smcp ;
+    sub \Oslash by \oslash.smcp ;
+    sub \Ugrave by \ugrave.smcp ;
+    sub \Uacute by \uacute.smcp ;
+    sub \Ucircumflex by \ucircumflex.smcp ;
+    sub \Udieresis by \udieresis.smcp ;
+    sub \Yacute by \yacute.smcp ;
+    sub \Thorn by \thorn.smcp ;
+    sub \hyphen by \hyphen.smcp ;
+    sub \parenleft by \parenleft.smcp ;
+    sub \parenright by \parenright.smcp ;
+    sub \endash by \endash.smcp ;
+    sub \emdash by \emdash.smcp ;
+    sub \Aogonek by \aogonek.smcp ;
+    sub \Lcaron by \lcaron.smcp ;
+    sub \Sacute by \sacute.smcp ;
+    sub \Scaron by \scaron.smcp ;
+    sub \Scedilla by \scedilla.smcp ;
+    sub \Tcaron by \tcaron.smcp ;
+    sub \Zacute by \zacute.smcp ;
+    sub \Zcaron by \zcaron.smcp ;
+    sub \Zdotaccent by \zdotaccent.smcp ;
+    sub \Racute by \racute.smcp ;
+    sub \Abreve by \abreve.smcp ;
+    sub \Lacute by \lacute.smcp ;
+    sub \Cacute by \cacute.smcp ;
+    sub \Ccaron by \ccaron.smcp ;
+    sub \Eogonek by \eogonek.smcp ;
+    sub \Ecaron by \ecaron.smcp ;
+    sub \Dcaron by \dcaron.smcp ;
+    sub \Nacute by \nacute.smcp ;
+    sub \Ncaron by \ncaron.smcp ;
+    sub \Ohungarumlaut by \ohungarumlaut.smcp ;
+    sub \Rcaron by \rcaron.smcp ;
+    sub \Uring by \uring.smcp ;
+    sub \Uhungarumlaut by \uhungarumlaut.smcp ;
+    sub \Tcommaaccent by \tcommaaccent.smcp ;
+    sub \Lslash by \lslash.smcp ;
+    sub \uni00AD by \uni00AD.smcp ;
+    sub \Dcroat by \dcroat.smcp ;
+    sub \Ydieresis by \ydieresis.smcp ;
+    sub \Hbar by \hbar.smcp ;
+    sub \Hcircumflex by \hcircumflex.smcp ;
+    sub \Gbreve by \gbreve.smcp ;
+    sub \Jcircumflex by \jcircumflex.smcp ;
+    sub \Cdotaccent by \cdotaccent.smcp ;
+    sub \Ccircumflex by \ccircumflex.smcp ;
+    sub \Gdotaccent by \gdotaccent.smcp ;
+    sub \Gcircumflex by \gcircumflex.smcp ;
+    sub \Ubreve by \ubreve.smcp ;
+    sub \Scircumflex by \scircumflex.smcp ;
+    sub \Rcommaaccent by \rcommaaccent.smcp ;
+    sub \Itilde by \itilde.smcp ;
+    sub \Lcommaaccent by \lcommaaccent.smcp ;
+    sub \Emacron by \emacron.smcp ;
+    sub \Gcommaaccent by \gcommaaccent.smcp ;
+    sub \Tbar by \tbar.smcp ;
+    sub \Eng by \eng.smcp ;
+    sub \Amacron by \amacron.smcp ;
+    sub \Iogonek by \iogonek.smcp ;
+    sub \Edotaccent by \edotaccent.smcp ;
+    sub \Imacron by \imacron.smcp ;
+    sub \Ncommaaccent by \ncommaaccent.smcp ;
+    sub \Omacron by \omacron.smcp ;
+    sub \Kcommaaccent by \kcommaaccent.smcp ;
+    sub \Uogonek by \uogonek.smcp ;
+    sub \Utilde by \utilde.smcp ;
+    sub \Umacron by \umacron.smcp ;
+    sub \uni1E02 by \uni1E03.smcp ;
+    sub \uni1E0A by \uni1E0B.smcp ;
+    sub \Wgrave by \wgrave.smcp ;
+    sub \Wacute by \wacute.smcp ;
+    sub \Ygrave by \ygrave.smcp ;
+    sub \uni1E1E by \uni1E1F.smcp ;
+    sub \uni1E40 by \uni1E41.smcp ;
+    sub \uni1E56 by \uni1E57.smcp ;
+    sub \uni1E60 by \uni1E61.smcp ;
+    sub \Wdieresis by \wdieresis.smcp ;
+    sub \Wcircumflex by \wcircumflex.smcp ;
+    sub \uni1E6A by \uni1E6B.smcp ;
+    sub \Ycircumflex by \ycircumflex.smcp ;
+} c2scCapitalstoSmallCapitalsinLatinlookup17;
+
+lookup dligDiscretionaryLigatureslookup14 {
+  lookupflag 0;
+    sub \f \f  by \f_f;
+    sub \f \f \i  by \f_f_i;
+    sub \f \f \l  by \ffl;
+    sub \c \t  by \c_t;
+    sub \s \t  by \s_t;
+    sub \t \t  by \t_t;
+    sub \f \t  by \f_t;
+    sub \t \y  by \t_y;
+    sub \f \y  by \f_y;
+    sub \c \k  by \c_k;
+    sub \c \h  by \c_h;
+} dligDiscretionaryLigatureslookup14;
+
+lookup ligaStandardLigatureslookup15 {
+  lookupflag 0;
+    sub \f \i  by \fi;
+    sub \f \l  by \fl;
+} ligaStandardLigatureslookup15;
+
+lookup fracDiagonalFractionslookup13 {
+  lookupflag 0;
+    sub \zero by \zero.numerator ;
+    sub \one by \one.numerator ;
+    sub \two by \two.numerator ;
+    sub \three by \three.numerator ;
+    sub \four by \four.numerator ;
+    sub \five by \five.numerator ;
+    sub \six by \six.numerator ;
+    sub \seven by \seven.numerator ;
+    sub \nine by \nine.numerator ;
+    sub \eight by \eight.numerator ;
+} fracDiagonalFractionslookup13;
+
+lookup fracDiagonalFractionslookup12 {
+  lookupflag 0;
+    sub \slash by \fraction ;
+} fracDiagonalFractionslookup12;
+
+lookup fracDiagonalFractionslookup11 {
+  lookupflag 0;
+    sub \one \fraction \four  by \onequarter;
+    sub \one \slash \four  by \onequarter;
+    sub \one \fraction \two  by \onehalf;
+    sub \one \slash \two  by \onehalf;
+    sub \three \fraction \four  by \threequarters;
+    sub \three \slash \four  by \threequarters;
+} fracDiagonalFractionslookup11;
+
+lookup fracDiagonalFractionslookup10 {
+  lookupflag 0;
+    sub [\slash \fraction \zero.denominator \one.denominator \two.denominator 
+	\three.denominator \four.denominator \five.denominator 
+	\six.denominator \seven.denominator \eight.denominator 
+	\nine.denominator ] [\zero.numerator \one.numerator \two.numerator \three.numerator 
+	\four.numerator \five.numerator \six.numerator \seven.numerator 
+	\eight.numerator \nine.numerator ]'  by [\zero.denominator \one.denominator 
+	\two.denominator \three.denominator \four.denominator \five.denominator 
+	\six.denominator \seven.denominator \eight.denominator \nine.denominator ];
+} fracDiagonalFractionslookup10;
+
+lookup lnumLiningFigureslookup19 {
+  lookupflag 0;
+    sub \zero.oldstyle by \zero ;
+    sub \one.oldstyle by \one ;
+    sub \two.oldstyle by \two ;
+    sub \three.oldstyle by \three ;
+    sub \four.oldstyle by \four ;
+    sub \five.oldstyle by \five ;
+    sub \six.oldstyle by \six ;
+    sub \seven.oldstyle by \seven ;
+    sub \eight.oldstyle by \eight ;
+    sub \nine.oldstyle by \nine ;
+    sub \zero.tnum by \zero ;
+    sub \one.tnum by \one ;
+    sub \two.tnum by \two ;
+    sub \three.tnum by \three ;
+    sub \four.tnum by \four ;
+    sub \five.tnum by \five ;
+    sub \six.tnum by \six ;
+    sub \seven.tnum by \seven ;
+    sub \eight.tnum by \eight ;
+    sub \nine.tnum by \nine ;
+    sub \zero.tosf by \zero ;
+    sub \one.tosf by \one ;
+    sub \two.tosf by \two ;
+    sub \three.tosf by \three ;
+    sub \four.tosf by \four ;
+    sub \five.tosf by \five ;
+    sub \six.tosf by \six ;
+    sub \seven.tosf by \seven ;
+    sub \eight.tosf by \eight ;
+    sub \nine.tosf by \nine ;
+} lnumLiningFigureslookup19;
+
+lookup SingleSubstitutionlookup18 {
+  lookupflag 0;
+    sub \zero.numerator by \zero.denominator ;
+    sub \one.numerator by \one.denominator ;
+    sub \two.numerator by \two.denominator ;
+    sub \three.numerator by \three.denominator ;
+    sub \four.numerator by \four.denominator ;
+    sub \five.numerator by \five.denominator ;
+    sub \six.numerator by \six.denominator ;
+    sub \seven.numerator by \seven.denominator ;
+    sub \eight.numerator by \eight.denominator ;
+    sub \nine.numerator by \nine.denominator ;
+} SingleSubstitutionlookup18;
+
+lookup sinfScientificInferiorslookup3 {
+  lookupflag 0;
+    sub \zero by \zeroinferior ;
+    sub \one by \oneinferior ;
+    sub \two by \twoinferior ;
+    sub \three by \threeinferior ;
+    sub \four by \fourinferior ;
+    sub \five by \fiveinferior ;
+    sub \six by \sixinferior ;
+    sub \seven by \seveninferior ;
+    sub \nine by \nineinferior ;
+    sub \eight by \eightinferior ;
+} sinfScientificInferiorslookup3;
+
+lookup zeroSlashedZerolookup20 {
+  lookupflag 0;
+    sub \zero by \uni0338 ;
+} zeroSlashedZerolookup20;
+
+lookup numrNumeratorslookup9 {
+  lookupflag 0;
+    sub \zero by \zero.numerator ;
+    sub \one by \one.numerator ;
+    sub \two by \two.numerator ;
+    sub \three by \three.numerator ;
+    sub \four by \four.numerator ;
+    sub \five by \five.numerator ;
+    sub \six by \six.numerator ;
+    sub \seven by \seven.numerator ;
+    sub \nine by \nine.numerator ;
+    sub \eight by \eight.numerator ;
+    sub \slash by \fraction ;
+} numrNumeratorslookup9;
+
+lookup tnumTabularNumbersinLatinlookup7 {
+  lookupflag 0;
+    sub \zero by \zero.tnum ;
+    sub \one by \one.tnum ;
+    sub \two by \two.tnum ;
+    sub \three by \three.tnum ;
+    sub \four by \four.tnum ;
+    sub \five by \five.tnum ;
+    sub \six by \six.tnum ;
+    sub \seven by \seven.tnum ;
+    sub \nine by \nine.tnum ;
+    sub \eight by \eight.tnum ;
+    sub \zero.oldstyle by \zero.tosf ;
+    sub \one.oldstyle by \one.tosf ;
+    sub \two.oldstyle by \two.tosf ;
+    sub \three.oldstyle by \three.tosf ;
+    sub \four.oldstyle by \four.tosf ;
+    sub \five.oldstyle by \five.tosf ;
+    sub \six.oldstyle by \six.tosf ;
+    sub \seven.oldstyle by \seven.tosf ;
+    sub \eight.oldstyle by \eight.tosf ;
+    sub \nine.oldstyle by \nine.tosf ;
+} tnumTabularNumbersinLatinlookup7;
+
+lookup onumOldstyleFiguresinLatinlookup5 {
+  lookupflag 0;
+    sub \zero by \zero.oldstyle ;
+    sub \one by \one.oldstyle ;
+    sub \two by \two.oldstyle ;
+    sub \three by \three.oldstyle ;
+    sub \four by \four.oldstyle ;
+    sub \five by \five.oldstyle ;
+    sub \six by \six.oldstyle ;
+    sub \seven by \seven.oldstyle ;
+    sub \nine by \nine.oldstyle ;
+    sub \eight by \eight.oldstyle ;
+    sub \zero.tnum by \zero.tosf ;
+    sub \one.tnum by \one.tosf ;
+    sub \two.tnum by \two.tosf ;
+    sub \three.tnum by \three.tosf ;
+    sub \four.tnum by \four.tosf ;
+    sub \five.tnum by \five.tosf ;
+    sub \six.tnum by \six.tosf ;
+    sub \seven.tnum by \seven.tosf ;
+    sub \eight.tnum by \eight.tosf ;
+    sub \nine.tnum by \nine.tosf ;
+} onumOldstyleFiguresinLatinlookup5;
+
+lookup saltAccessAllAlternatesinLatinlookup4 {
+  lookupflag 0;
+    sub \a from [\a.salt ];
+    sub \d from [\d.salt ];
+    sub \p from [\p.salt ];
+    sub \b from [\b.salt ];
+    sub \n from [\n.salt ];
+    sub \u from [\u.salt ];
+    sub \r from [\r.salt ];
+    sub \m from [\m.salt ];
+    sub \f from [\f.salt ];
+    sub \t from [\t.salt ];
+    sub \g from [\g.salt ];
+    sub \x from [\x.salt ];
+    sub \M from [\M.salt ];
+    sub \N from [\N.salt ];
+    sub \X from [\X.salt ];
+    sub \Ntilde from [\Ntilde.salt ];
+    sub \agrave from [\agrave.salt ];
+    sub \aacute from [\aacute.salt ];
+    sub \acircumflex from [\acircumflex.salt ];
+    sub \atilde from [\atilde.salt ];
+    sub \adieresis from [\adieresis.salt ];
+    sub \aring from [\aring.salt ];
+    sub \ntilde from [\ntilde.salt ];
+    sub \ugrave from [\ugrave.salt ];
+    sub \uacute from [\uacute.salt ];
+    sub \ucircumflex from [\ucircumflex.salt ];
+    sub \udieresis from [\udieresis.salt ];
+    sub \ampersand from [\ampersand.salt ];
+    sub \aogonek from [\aogonek.salt ];
+    sub \tcaron from [\tcaron.salt ];
+    sub \Nacute from [\Nacute.salt ];
+    sub \Ncaron from [\Ncaron.salt ];
+    sub \racute from [\racute.salt ];
+    sub \dcaron from [\dcaron.salt ];
+    sub \nacute from [\nacute.salt ];
+    sub \ncaron from [\ncaron.salt ];
+    sub \rcaron from [\rcaron.salt ];
+    sub \uring from [\uring.salt ];
+    sub \uhungarumlaut from [\uhungarumlaut.salt ];
+    sub \tcommaaccent from [\tcommaaccent.salt ];
+    sub \dcroat from [\dcroat.salt ];
+    sub \ubreve from [\ubreve.salt ];
+    sub \gbreve from [\gbreve.salt ];
+    sub \gdotaccent from [\gdotaccent.salt ];
+    sub \gcircumflex from [\gcircumflex.salt ];
+    sub \rcommaaccent from [\rcommaaccent.salt ];
+    sub \gcommaaccent from [\gcommaaccent.salt ];
+    sub \tbar from [\tbar.salt ];
+    sub \Ncommaaccent from [\Ncommaaccent.salt ];
+    sub \amacron from [\amacron.salt ];
+    sub \ncommaaccent from [\ncommaaccent.salt ];
+    sub \uogonek from [\uogonek.salt ];
+    sub \utilde from [\utilde.salt ];
+    sub \umacron from [\umacron.salt ];
+    sub \uni1E03 from [\uni1E03.salt ];
+    sub \uni1E0B from [\uni1E0B.salt ];
+    sub \uni1E1F from [\uni1E1F.salt ];
+    sub \uni1E40 from [\uni1E40.salt ];
+    sub \uni1E41 from [\uni1E41.salt ];
+    sub \uni1E57 from [\uni1E57.salt ];
+} saltAccessAllAlternatesinLatinlookup4;
+
+lookup supsSuperscriptlookup2 {
+  lookupflag 0;
+    sub \zero by \zerosuperior ;
+    sub \one by \onesuperior ;
+    sub \two by \twosuperior ;
+    sub \three by \threesuperior ;
+    sub \four by \foursuperior ;
+    sub \five by \fivesuperior ;
+    sub \six by \sixsuperior ;
+    sub \seven by \sevensuperior ;
+    sub \nine by \ninesuperior ;
+    sub \eight by \eightsuperior ;
+} supsSuperscriptlookup2;
+
+lookup caseCaseSensitiveFormslookup1 {
+  lookupflag 0;
+    sub \hyphen by \hyphen.alt ;
+    sub \parenleft by \parenleft.alt ;
+    sub \parenright by \parenright.alt ;
+    sub \endash by \endash.alt ;
+    sub \emdash by \emdash.alt ;
+    sub \at by \at.alt ;
+    sub \uni00AD by \uni00AD.alt ;
+    sub \questiondown by \questiondown.alt ;
+    sub \exclamdown by \exclamdown.alt ;
+} caseCaseSensitiveFormslookup1;
+
+lookup dnomDenominatorslookup0 {
+  lookupflag 0;
+    sub \zero by \zero.denominator ;
+    sub \one by \one.denominator ;
+    sub \two by \two.denominator ;
+    sub \three by \three.denominator ;
+    sub \four by \four.denominator ;
+    sub \five by \five.denominator ;
+    sub \six by \six.denominator ;
+    sub \seven by \seven.denominator ;
+    sub \nine by \nine.denominator ;
+    sub \eight by \eight.denominator ;
+} dnomDenominatorslookup0;
+
+feature ordn {
+
+ script DFLT;
+     language dflt ;
+      lookup ordnOrdinalslookup21;
+
+ script grek;
+     language dflt ;
+      lookup ordnOrdinalslookup21;
+
+ script latn;
+     language dflt ;
+      lookup ordnOrdinalslookup21;
+} ordn;
+
+feature smcp {
+
+ script DFLT;
+     language dflt ;
+      lookup smcpLowercasetoSmallCapitalslookup16;
+
+ script grek;
+     language dflt ;
+      lookup smcpLowercasetoSmallCapitalslookup16;
+
+ script latn;
+     language dflt ;
+      lookup smcpLowercasetoSmallCapitalslookup16;
+     language FRA  exclude_dflt;
+      lookup smcpLowercasetoSmallCapitalslookup16;
+} smcp;
+
+feature c2sc {
+
+ script latn;
+     language dflt ;
+      lookup c2scCapitalstoSmallCapitalsinLatinlookup17;
+} c2sc;
+
+feature dlig {
+
+ script DFLT;
+     language dflt ;
+      lookup dligDiscretionaryLigatureslookup14;
+
+ script grek;
+     language dflt ;
+      lookup dligDiscretionaryLigatureslookup14;
+
+ script latn;
+     language dflt ;
+      lookup dligDiscretionaryLigatureslookup14;
+} dlig;
+
+feature liga {
+
+ script DFLT;
+     language dflt ;
+      lookup ligaStandardLigatureslookup15;
+
+ script grek;
+     language dflt ;
+      lookup ligaStandardLigatureslookup15;
+
+ script latn;
+     language dflt ;
+      lookup ligaStandardLigatureslookup15;
+     language FRA  exclude_dflt;
+      lookup ligaStandardLigatureslookup15;
+} liga;
+
+feature frac {
+
+ script DFLT;
+     language dflt ;
+      lookup fracDiagonalFractionslookup13;
+      lookup fracDiagonalFractionslookup12;
+      lookup fracDiagonalFractionslookup10;
+
+ script cyrl;
+     language dflt ;
+      lookup fracDiagonalFractionslookup11;
+
+ script grek;
+     language dflt ;
+      lookup fracDiagonalFractionslookup13;
+      lookup fracDiagonalFractionslookup12;
+      lookup fracDiagonalFractionslookup11;
+      lookup fracDiagonalFractionslookup10;
+
+ script latn;
+     language dflt ;
+      lookup fracDiagonalFractionslookup13;
+      lookup fracDiagonalFractionslookup12;
+      lookup fracDiagonalFractionslookup11;
+      lookup fracDiagonalFractionslookup10;
+     language FRA  exclude_dflt;
+      lookup fracDiagonalFractionslookup13;
+      lookup fracDiagonalFractionslookup12;
+      lookup fracDiagonalFractionslookup11;
+      lookup fracDiagonalFractionslookup10;
+} frac;
+
+feature lnum {
+
+ script DFLT;
+     language dflt ;
+      lookup lnumLiningFigureslookup19;
+
+ script grek;
+     language dflt ;
+      lookup lnumLiningFigureslookup19;
+
+ script latn;
+     language dflt ;
+      lookup lnumLiningFigureslookup19;
+     language FRA  exclude_dflt;
+      lookup lnumLiningFigureslookup19;
+} lnum;
+
+feature      {
+
+ script DFLT;
+     language dflt ;
+      lookup SingleSubstitutionlookup18;
+
+ script grek;
+     language dflt ;
+      lookup SingleSubstitutionlookup18;
+
+ script latn;
+     language dflt ;
+      lookup SingleSubstitutionlookup18;
+     language FRA  exclude_dflt;
+      lookup SingleSubstitutionlookup18;
+}     ;
+
+feature sinf {
+
+ script DFLT;
+     language dflt ;
+      lookup sinfScientificInferiorslookup3;
+
+ script grek;
+     language dflt ;
+      lookup sinfScientificInferiorslookup3;
+
+ script latn;
+     language dflt ;
+      lookup sinfScientificInferiorslookup3;
+     language FRA  exclude_dflt;
+      lookup sinfScientificInferiorslookup3;
+} sinf;
+
+feature zero {
+
+ script DFLT;
+     language dflt ;
+      lookup zeroSlashedZerolookup20;
+
+ script grek;
+     language dflt ;
+      lookup zeroSlashedZerolookup20;
+
+ script latn;
+     language dflt ;
+      lookup zeroSlashedZerolookup20;
+     language FRA  exclude_dflt;
+      lookup zeroSlashedZerolookup20;
+} zero;
+
+feature numr {
+
+ script DFLT;
+     language dflt ;
+      lookup numrNumeratorslookup9;
+
+ script latn;
+     language dflt ;
+      lookup numrNumeratorslookup9;
+} numr;
+
+feature tnum {
+
+ script DFLT;
+     language dflt ;
+      lookup tnumTabularNumbersinLatinlookup7;
+
+ script latn;
+     language dflt ;
+      lookup tnumTabularNumbersinLatinlookup7;
+} tnum;
+
+feature onum {
+
+ script DFLT;
+     language dflt ;
+      lookup onumOldstyleFiguresinLatinlookup5;
+
+ script latn;
+     language dflt ;
+      lookup onumOldstyleFiguresinLatinlookup5;
+} onum;
+
+feature salt {
+
+ script DFLT;
+     language dflt ;
+      lookup saltAccessAllAlternatesinLatinlookup4;
+
+ script latn;
+     language dflt ;
+      lookup saltAccessAllAlternatesinLatinlookup4;
+} salt;
+
+feature sups {
+
+ script DFLT;
+     language dflt ;
+      lookup supsSuperscriptlookup2;
+
+ script grek;
+     language dflt ;
+      lookup supsSuperscriptlookup2;
+
+ script latn;
+     language dflt ;
+      lookup supsSuperscriptlookup2;
+} sups;
+
+feature case {
+
+ script DFLT;
+     language dflt ;
+      lookup caseCaseSensitiveFormslookup1;
+
+ script grek;
+     language dflt ;
+      lookup caseCaseSensitiveFormslookup1;
+
+ script latn;
+     language dflt ;
+      lookup caseCaseSensitiveFormslookup1;
+} case;
+
+feature dnom {
+
+ script DFLT;
+     language dflt ;
+      lookup dnomDenominatorslookup0;
+
+ script latn;
+     language dflt ;
+      lookup dnomDenominatorslookup0;
+} dnom;
+
+# GPOS 
+
+
+lookup kernHorizontalKerninglookup0 {
+  lookupflag 0;
+    @kc20_first_1 = [\P \p.smcp ];
+    @kc20_first_2 = [\B \b.smcp \uni1E02 \uni1E03.smcp ];
+    @kc20_second_1 = [\comma \period \ellipsis ];
+    @kc20_second_2 = [\A \Agrave \Aacute \Acircumflex \Atilde \Adieresis \Aring \AE \Aogonek \Abreve 
+	\Amacron \a.smcp \aogonek.smcp \amacron.smcp \aacute.smcp 
+	\acircumflex.smcp \atilde.smcp \adieresis.smcp \aring.smcp \ae.smcp 
+	\agrave.smcp \abreve.smcp ];
+    @kc20_second_3 = [\J \Jcircumflex \j.smcp \jcircumflex.smcp ];
+    @kc20_second_4 = [\X \x.smcp \X.salt ];
+    @kc20_second_5 = [\M \m.smcp \uni1E40 \uni1E41.smcp \M.salt \uni1E40.salt ];
+    pos @kc20_first_1 @kc20_second_1 -160;
+    pos @kc20_first_1 @kc20_second_2 -90;
+    pos @kc20_first_1 @kc20_second_3 -50;
+    pos @kc20_first_1 @kc20_second_4 -50;
+    pos @kc20_first_1 @kc20_second_5 -40;
+    pos @kc20_first_2 @kc20_second_2 -30;
+    pos @kc20_first_2 @kc20_second_4 -30;
+  subtable;
+    @kc21_first_1 = [\A \Agrave \Aacute \Acircumflex \Atilde \Adieresis \Aring \Aogonek \Abreve 
+	\Amacron \a.smcp \aogonek.smcp \amacron.smcp \aacute.smcp 
+	\acircumflex.smcp \atilde.smcp \adieresis.smcp \aring.smcp 
+	\agrave.smcp \abreve.smcp ];
+    @kc21_first_2 = [\quoteleft \quotedblleft ];
+    @kc21_first_3 = [\F \f.smcp \uni1E1E \uni1E1F.smcp ];
+    @kc21_first_4 = [\L \Lcaron \Lacute \Lslash \Lcommaaccent \l.smcp \lcommaaccent.smcp 
+	\lcaron.smcp \lacute.smcp \lslash.smcp ];
+    @kc21_first_5 = [\D \O \Q \Eth \Ograve \Oacute \Ocircumflex \Otilde \Odieresis \Oslash \Dcaron 
+	\Ohungarumlaut \Dcroat \Omacron \d.smcp \o.smcp \q.smcp \dcroat.smcp 
+	\omacron.smcp \ocircumflex.smcp \otilde.smcp \odieresis.smcp 
+	\oslash.smcp \eth.smcp \ograve.smcp \oacute.smcp \dcaron.smcp 
+	\ohungarumlaut.smcp \uni1E0A \uni1E0B.smcp ];
+    @kc21_first_6 = [\T \Tcaron \Tcommaaccent \t.smcp \tbar.smcp \tcaron.smcp \tcommaaccent.smcp 
+	\uni1E6A \uni1E6B.smcp ];
+    @kc21_first_7 = [\V \v.smcp ];
+    @kc21_first_8 = [\Y \Yacute \y.smcp \ydieresis.smcp \Ygrave \Ycircumflex \ygrave.smcp 
+	\ycircumflex.smcp ];
+    @kc21_first_9 = [\X \x.smcp \X.salt ];
+    @kc21_first_10 = [\W \w.smcp \Wgrave \Wacute \Wdieresis \Wcircumflex \wgrave.smcp \wacute.smcp 
+	\wdieresis.smcp \wcircumflex.smcp ];
+    @kc21_first_11 = [\K \kgreenlandic \Kcommaaccent \k.smcp \kcommaaccent.smcp ];
+    @kc21_first_12 = [\U \Ugrave \Uacute \Ucircumflex \Udieresis \Uring \Uhungarumlaut \Ubreve 
+	\Uogonek \Utilde \Umacron \u.smcp \uogonek.smcp \uacute.smcp 
+	\ucircumflex.smcp \udieresis.smcp \utilde.smcp \umacron.smcp 
+	\ugrave.smcp \uring.smcp \uhungarumlaut.smcp \ubreve.smcp ];
+    @kc21_first_13 = [\M \m.smcp \uni1E40 \uni1E41.smcp \M.salt \uni1E40.salt ];
+    @kc21_first_14 = [\S \Sacute \Scaron \Scedilla \Scircumflex \s.smcp \scaron.smcp \germandbls.smcp 
+	\sacute.smcp \scedilla.smcp \scircumflex.smcp \uni1E60 ];
+    @kc21_first_15 = [\P \R \Rcaron \Rcommaaccent \p.smcp \r.smcp \rcommaaccent.smcp \racute.smcp 
+	\rcaron.smcp \uni1E56 \uni1E57.smcp ];
+    @kc21_first_16 = [\k \kcommaaccent \c_k ];
+    @kc21_first_17 = [\v \w \y \yacute \ydieresis \t_y \f_y \wacute \ygrave \wdieresis \ycircumflex 
+	\wcircumflex ];
+    @kc21_first_18 = [\l \lacute \lcommaaccent ];
+    @kc21_first_19 = [\f \f_f \uni1E1F \f.salt \uni1E1F.salt ];
+    @kc21_first_20 = [\b \o \p \ograve \oacute \ocircumflex \otilde \odieresis \oslash \thorn 
+	\ohungarumlaut \omacron \uni1E03 \uni1E57 ];
+    @kc21_first_21 = [\x \x.salt ];
+    @kc21_first_22 = [\s \sacute \scaron \scedilla \scircumflex \uni1E61 ];
+    @kc21_first_23 = [\e \ae \egrave \eacute \ecircumflex \edieresis \eogonek \ecaron \oe \emacron 
+	\edotaccent ];
+    @kc21_first_24 = [\r \racute \rcaron \rcommaaccent ];
+    @kc21_first_25 = [\h \m \n \ntilde \nacute \ncaron \hbar \hcircumflex \eng \uni1E41 ];
+    @kc21_first_26 = [\g \gbreve \gdotaccent \gcircumflex \gcommaaccent.salt ];
+    @kc21_second_1 = [\J \Jcircumflex \j.smcp \jcircumflex.smcp ];
+    @kc21_second_2 = [\S \Sacute \Scaron \Scedilla \Scircumflex \s.smcp \sacute.smcp \scedilla.smcp 
+	\scircumflex.smcp \uni1E60 \uni1E61.smcp ];
+    @kc21_second_3 = [\M \m.smcp \uni1E40 \uni1E41.smcp \M.salt \uni1E40.salt ];
+    @kc21_second_4 = [\X \x.smcp \X.salt ];
+    @kc21_second_5 = [\g \g.salt \gbreve \gdotaccent \gcircumflex \gbreve.salt \gdotaccent.salt 
+	\gcircumflex.salt \gcommaaccent \gcommaaccent.salt ];
+    @kc21_second_6 = [\colon \semicolon ];
+    @kc21_second_7 = [\hyphen \equal \uni00AD \endash \emdash \minus \hyphen.alt \uni00AD.alt 
+	\endash.alt \emdash.alt \hyphen.smcp \uni00AD.smcp \endash.smcp 
+	\emdash.smcp ];
+    @kc21_second_8 = [\x \x.salt ];
+    @kc21_second_9 = [\v \w \y \yacute \ydieresis \wgrave \wacute \ygrave \wdieresis \ycircumflex 
+	\wcircumflex ];
+    @kc21_second_10 = [\c \d \e \o \q \ccedilla \egrave \eacute \ecircumflex \edieresis \ograve \oacute 
+	\ocircumflex \otilde \odieresis \oslash \cacute \ccaron \eogonek 
+	\ecaron \dcaron \ohungarumlaut \dcroat \oe \cdotaccent \ccircumflex 
+	\c_t \emacron \edotaccent \omacron \uni1E0B \c_k \c_h \d.salt 
+	\uni1E0B.salt \dcroat.salt \dcaron.salt ];
+    @kc21_second_11 = [\s \sacute \scaron \scedilla \scircumflex \uni1E61 ];
+    @kc21_second_12 = [\m \n \r \u \ntilde \ugrave \uacute \ucircumflex \udieresis \racute \nacute \ncaron 
+	\rcaron \uring \uhungarumlaut \rcommaaccent \eng \ncommaaccent \utilde 
+	\umacron \uni1E41 ];
+    @kc21_second_13 = [\f \t \tcaron \tcommaaccent \f_f \f_f_i \ffl \t_t \f_t \t_y \f_y \tbar \uni1E1F 
+	\uni1E6B ];
+    @kc21_second_14 = [\p \uni1E57 ];
+    @kc21_second_15 = [\z \zacute \zcaron \zdotaccent ];
+    @kc21_second_16 = [\a \agrave \aacute \acircumflex \atilde \adieresis \aring \ae \aogonek \abreve 
+	\amacron \a.salt \agrave.salt \aacute.salt \atilde.salt \aring.salt 
+	\acircumflex.salt \adieresis.salt \aogonek.salt \abreve.salt 
+	\amacron.salt ];
+    @kc21_second_17 = [\quotesingle ];
+    pos @kc21_first_1 @kc21_second_2 -30;
+    pos @kc21_first_1 @kc21_second_9 -80;
+    pos @kc21_first_1 @kc21_second_10 -20;
+    pos @kc21_first_1 @kc21_second_11 -10;
+    pos @kc21_first_1 @kc21_second_13 -30;
+    pos @kc21_first_1 @kc21_second_17 -80;
+    pos @kc21_first_2 @kc21_second_1 -70;
+    pos @kc21_first_2 @kc21_second_3 -30;
+    pos @kc21_first_2 @kc21_second_5 -40;
+    pos @kc21_first_2 @kc21_second_10 -30;
+    pos @kc21_first_2 @kc21_second_11 -20;
+    pos @kc21_first_3 @kc21_second_1 -80;
+    pos @kc21_first_3 @kc21_second_3 -20;
+    pos @kc21_first_3 @kc21_second_5 -25;
+    pos @kc21_first_3 @kc21_second_9 -25;
+    pos @kc21_first_3 @kc21_second_10 -30;
+    pos @kc21_first_3 @kc21_second_11 -30;
+    pos @kc21_first_3 @kc21_second_12 -20;
+    pos @kc21_first_3 @kc21_second_13 -30;
+    pos @kc21_first_3 @kc21_second_14 -20;
+    pos @kc21_first_3 @kc21_second_15 -20;
+    pos @kc21_first_3 @kc21_second_16 -40;
+    pos @kc21_first_4 @kc21_second_9 -60;
+    pos @kc21_first_4 @kc21_second_11 -10;
+    pos @kc21_first_4 @kc21_second_13 -40;
+    pos @kc21_first_4 @kc21_second_17 -90;
+    pos @kc21_first_5 @kc21_second_1 -30;
+    pos @kc21_first_5 @kc21_second_3 -10;
+    pos @kc21_first_5 @kc21_second_4 -70;
+    pos @kc21_first_5 @kc21_second_5 -10;
+    pos @kc21_first_5 @kc21_second_6 -20;
+    pos @kc21_first_5 @kc21_second_7 10;
+    pos @kc21_first_5 @kc21_second_10 -5;
+    pos @kc21_first_5 @kc21_second_17 -20;
+    pos @kc21_first_6 @kc21_second_1 -60;
+    pos @kc21_first_6 @kc21_second_3 -30;
+    pos @kc21_first_6 @kc21_second_5 -120;
+    pos @kc21_first_6 @kc21_second_6 -30;
+    pos @kc21_first_6 @kc21_second_7 -20;
+    pos @kc21_first_6 @kc21_second_8 -95;
+    pos @kc21_first_6 @kc21_second_9 -100;
+    pos @kc21_first_6 @kc21_second_10 -160;
+    pos @kc21_first_6 @kc21_second_11 -120;
+    pos @kc21_first_6 @kc21_second_12 -110;
+    pos @kc21_first_6 @kc21_second_13 -56;
+    pos @kc21_first_6 @kc21_second_14 -95;
+    pos @kc21_first_6 @kc21_second_15 -90;
+    pos @kc21_first_6 @kc21_second_16 -120;
+    pos @kc21_first_7 @kc21_second_1 -70;
+    pos @kc21_first_7 @kc21_second_2 -20;
+    pos @kc21_first_7 @kc21_second_3 -50;
+    pos @kc21_first_7 @kc21_second_5 -60;
+    pos @kc21_first_7 @kc21_second_6 -30;
+    pos @kc21_first_7 @kc21_second_8 -30;
+    pos @kc21_first_7 @kc21_second_9 -30;
+    pos @kc21_first_7 @kc21_second_10 -95;
+    pos @kc21_first_7 @kc21_second_11 -75;
+    pos @kc21_first_7 @kc21_second_12 -55;
+    pos @kc21_first_7 @kc21_second_13 -20;
+    pos @kc21_first_7 @kc21_second_14 -40;
+    pos @kc21_first_7 @kc21_second_15 -40;
+    pos @kc21_first_7 @kc21_second_16 -70;
+    pos @kc21_first_8 @kc21_second_1 -70;
+    pos @kc21_first_8 @kc21_second_2 -30;
+    pos @kc21_first_8 @kc21_second_3 -50;
+    pos @kc21_first_8 @kc21_second_5 -90;
+    pos @kc21_first_8 @kc21_second_6 -30;
+    pos @kc21_first_8 @kc21_second_8 -55;
+    pos @kc21_first_8 @kc21_second_9 -45;
+    pos @kc21_first_8 @kc21_second_10 -120;
+    pos @kc21_first_8 @kc21_second_11 -90;
+    pos @kc21_first_8 @kc21_second_12 -50;
+    pos @kc21_first_8 @kc21_second_13 -40;
+    pos @kc21_first_8 @kc21_second_14 -70;
+    pos @kc21_first_8 @kc21_second_15 -60;
+    pos @kc21_first_8 @kc21_second_16 -100;
+    pos @kc21_first_9 @kc21_second_2 -20;
+    pos @kc21_first_9 @kc21_second_3 10;
+    pos @kc21_first_9 @kc21_second_5 -20;
+    pos @kc21_first_9 @kc21_second_7 -20;
+    pos @kc21_first_9 @kc21_second_9 -80;
+    pos @kc21_first_9 @kc21_second_10 -45;
+    pos @kc21_first_9 @kc21_second_11 -20;
+    pos @kc21_first_9 @kc21_second_13 -20;
+    pos @kc21_first_9 @kc21_second_16 -40;
+    pos @kc21_first_10 @kc21_second_1 -60;
+    pos @kc21_first_10 @kc21_second_2 -10;
+    pos @kc21_first_10 @kc21_second_3 -50;
+    pos @kc21_first_10 @kc21_second_5 -60;
+    pos @kc21_first_10 @kc21_second_6 -30;
+    pos @kc21_first_10 @kc21_second_7 -20;
+    pos @kc21_first_10 @kc21_second_8 -30;
+    pos @kc21_first_10 @kc21_second_9 -30;
+    pos @kc21_first_10 @kc21_second_10 -85;
+    pos @kc21_first_10 @kc21_second_11 -75;
+    pos @kc21_first_10 @kc21_second_12 -55;
+    pos @kc21_first_10 @kc21_second_13 -20;
+    pos @kc21_first_10 @kc21_second_14 -40;
+    pos @kc21_first_10 @kc21_second_15 -40;
+    pos @kc21_first_10 @kc21_second_16 -70;
+    pos @kc21_first_11 @kc21_second_2 -10;
+    pos @kc21_first_11 @kc21_second_5 -30;
+    pos @kc21_first_11 @kc21_second_9 -60;
+    pos @kc21_first_11 @kc21_second_10 -70;
+    pos @kc21_first_11 @kc21_second_11 -30;
+    pos @kc21_first_11 @kc21_second_12 -10;
+    pos @kc21_first_11 @kc21_second_13 -30;
+    pos @kc21_first_11 @kc21_second_15 -30;
+    pos @kc21_first_11 @kc21_second_16 -40;
+    pos @kc21_first_12 @kc21_second_1 -20;
+    pos @kc21_first_12 @kc21_second_3 -30;
+    pos @kc21_first_12 @kc21_second_7 10;
+    pos @kc21_first_13 @kc21_second_5 -10;
+    pos @kc21_first_13 @kc21_second_6 -20;
+    pos @kc21_first_13 @kc21_second_9 -40;
+    pos @kc21_first_13 @kc21_second_10 -30;
+    pos @kc21_first_13 @kc21_second_11 -20;
+    pos @kc21_first_13 @kc21_second_13 -20;
+    pos @kc21_first_13 @kc21_second_14 -10;
+    pos @kc21_first_13 @kc21_second_16 -10;
+    pos @kc21_first_13 @kc21_second_17 -20;
+    pos @kc21_first_14 @kc21_second_4 -30;
+    pos @kc21_first_14 @kc21_second_7 10;
+    pos @kc21_first_14 @kc21_second_8 -40;
+    pos @kc21_first_14 @kc21_second_9 -30;
+    pos @kc21_first_14 @kc21_second_13 -25;
+    pos @kc21_first_14 @kc21_second_17 -20;
+    pos @kc21_first_15 @kc21_second_10 -20;
+    pos @kc21_first_15 @kc21_second_16 -20;
+    pos @kc21_first_16 @kc21_second_5 -10;
+    pos @kc21_first_16 @kc21_second_10 -60;
+    pos @kc21_first_16 @kc21_second_11 -10;
+    pos @kc21_first_16 @kc21_second_16 -30;
+    pos @kc21_first_17 @kc21_second_5 -15;
+    pos @kc21_first_17 @kc21_second_9 10;
+    pos @kc21_first_17 @kc21_second_10 -45;
+    pos @kc21_first_17 @kc21_second_16 -20;
+    pos @kc21_first_18 @kc21_second_9 -40;
+    pos @kc21_first_18 @kc21_second_10 -20;
+    pos @kc21_first_18 @kc21_second_13 -40;
+    pos @kc21_first_18 @kc21_second_17 -30;
+    pos @kc21_first_19 @kc21_second_5 -20;
+    pos @kc21_first_19 @kc21_second_10 -20;
+    pos @kc21_first_19 @kc21_second_14 -10;
+    pos @kc21_first_19 @kc21_second_16 -20;
+    pos @kc21_first_20 @kc21_second_6 -20;
+    pos @kc21_first_20 @kc21_second_7 20;
+    pos @kc21_first_20 @kc21_second_8 -55;
+    pos @kc21_first_20 @kc21_second_9 -50;
+    pos @kc21_first_20 @kc21_second_17 -40;
+    pos @kc21_first_21 @kc21_second_5 -20;
+    pos @kc21_first_21 @kc21_second_10 -60;
+    pos @kc21_first_21 @kc21_second_11 -10;
+    pos @kc21_first_21 @kc21_second_16 -20;
+    pos @kc21_first_22 @kc21_second_7 10;
+    pos @kc21_first_22 @kc21_second_8 -10;
+    pos @kc21_first_22 @kc21_second_9 -20;
+    pos @kc21_first_22 @kc21_second_11 -10;
+    pos @kc21_first_22 @kc21_second_13 -10;
+    pos @kc21_first_23 @kc21_second_6 -10;
+    pos @kc21_first_23 @kc21_second_7 10;
+    pos @kc21_first_23 @kc21_second_8 -20;
+    pos @kc21_first_23 @kc21_second_9 -10;
+    pos @kc21_first_23 @kc21_second_17 -30;
+    pos @kc21_first_24 @kc21_second_7 10;
+    pos @kc21_first_24 @kc21_second_10 -20;
+    pos @kc21_first_24 @kc21_second_11 10;
+    pos @kc21_first_24 @kc21_second_13 10;
+    pos @kc21_first_24 @kc21_second_15 10;
+    pos @kc21_first_25 @kc21_second_7 10;
+    pos @kc21_first_25 @kc21_second_9 -15;
+    pos @kc21_first_25 @kc21_second_17 -50;
+    pos @kc21_first_26 @kc21_second_11 10;
+    pos @kc21_first_26 @kc21_second_13 10;
+    pos @kc21_first_26 @kc21_second_15 10;
+  subtable;
+    @kc22_first_1 = [\A \Agrave \Aacute \Acircumflex \Atilde \Adieresis \Aring \Aogonek \Abreve ];
+    @kc22_second_1 = [\l \lcaron \lacute \lslash \lcommaaccent ];
+    pos @kc22_first_1 @kc22_second_1 -15;
+  subtable;
+    @kc23_first_1 = [\c \ccedilla \cacute \ccaron \cdotaccent \ccircumflex ];
+    @kc23_first_2 = [\C \Ccedilla \Cacute \Ccaron \Cdotaccent \Ccircumflex \c.smcp \ccaron.smcp 
+	\ccedilla.smcp \cacute.smcp \cdotaccent.smcp \ccircumflex.smcp ];
+    @kc23_second_1 = [\c \d \e \o \q \ccedilla \egrave \eacute \ecircumflex \edieresis \ograve \oacute 
+	\ocircumflex \otilde \odieresis \oslash \cacute \ccaron \eogonek 
+	\ecaron \dcaron \ohungarumlaut \dcroat \oe \g.salt \cdotaccent 
+	\ccircumflex \gbreve.salt \gdotaccent.salt \gcircumflex.salt \c_t 
+	\emacron \edotaccent \omacron \c_k \c_h \d.salt \uni1E0B.salt 
+	\dcroat.salt \dcaron.salt ];
+    @kc23_second_2 = [\C \G \O \Q \Ccedilla \Ograve \Oacute \Ocircumflex \Otilde \Odieresis \Oslash 
+	\Cacute \Ccaron \OE \Gbreve \Cdotaccent \Ccircumflex \Gdotaccent 
+	\Gcircumflex \Gcommaaccent \Omacron \c.smcp \g.smcp \o.smcp \q.smcp 
+	\gcommaaccent.smcp \ccaron.smcp \omacron.smcp \ocircumflex.smcp 
+	\otilde.smcp \odieresis.smcp \oslash.smcp \ccedilla.smcp 
+	\ograve.smcp \oacute.smcp \cacute.smcp \ohungarumlaut.smcp \oe.smcp 
+	\gbreve.smcp \cdotaccent.smcp \ccircumflex.smcp \gdotaccent.smcp 
+	\gcircumflex.smcp ];
+    pos @kc23_first_1 @kc23_second_1 -20;
+    pos @kc23_first_2 @kc23_second_1 -10;
+    pos @kc23_first_2 @kc23_second_2 -20;
+  subtable;
+    @kc24_first_1 = [\a \agrave \aacute \acircumflex \atilde \adieresis \aring \aogonek \abreve 
+	\amacron ];
+    @kc24_first_2 = [\a.salt \agrave.salt \aacute.salt \atilde.salt \aring.salt \acircumflex.salt 
+	\adieresis.salt \aogonek.salt \abreve.salt \amacron.salt ];
+    @kc24_second_1 = [\v \w \wgrave \wacute \ygrave \wdieresis \ycircumflex \wcircumflex ];
+    @kc24_second_2 = [\x ];
+    @kc24_second_3 = [\y ];
+    @kc24_second_4 = [\x.salt ];
+    pos @kc24_first_1 @kc24_second_1 -20;
+    pos @kc24_first_1 @kc24_second_2 -5;
+    pos @kc24_first_1 @kc24_second_3 -10;
+    pos @kc24_first_1 @kc24_second_4 -5;
+    pos @kc24_first_2 @kc24_second_1 -15;
+    pos @kc24_first_2 @kc24_second_2 -20;
+    pos @kc24_first_2 @kc24_second_3 -10;
+    pos @kc24_first_2 @kc24_second_4 -20;
+  subtable;
+    @kc25_first_1 = [\A \K \M \X \Agrave \Aacute \Acircumflex \Atilde \Adieresis \Aring \Aogonek \Abreve 
+	\Amacron \Kcommaaccent \a.smcp \k.smcp \m.smcp \x.smcp \aogonek.smcp 
+	\amacron.smcp \aacute.smcp \acircumflex.smcp \atilde.smcp 
+	\adieresis.smcp \aring.smcp \kcommaaccent.smcp \agrave.smcp 
+	\abreve.smcp \uni1E40 \uni1E41.smcp \M.salt \uni1E40.salt \X.salt ];
+    @kc25_second_1 = [\F \f.smcp \uni1E1E \uni1E1F.smcp ];
+} kernHorizontalKerninglookup0;
+
+lookup kernHorizontalKerninglookup1 {
+  lookupflag 0;
+    @kc26_first_1 = [\A \Agrave \Aacute \Acircumflex \Atilde \Adieresis \Aring \Aogonek \Abreve 
+	\Amacron \a.smcp \aogonek.smcp \amacron.smcp \aacute.smcp 
+	\acircumflex.smcp \atilde.smcp \adieresis.smcp \aring.smcp 
+	\agrave.smcp \abreve.smcp ];
+    @kc26_first_2 = [\quoteleft \quotedblleft ];
+    @kc26_first_3 = [\F \f.smcp \uni1E1E \uni1E1F.smcp ];
+    @kc26_first_4 = [\L \Lcaron \Lacute \Lslash \Lcommaaccent \l.smcp \lcommaaccent.smcp 
+	\lcaron.smcp \lacute.smcp \lslash.smcp ];
+    @kc26_first_5 = [\D \O \Q \Eth \Ograve \Oacute \Ocircumflex \Otilde \Odieresis \Oslash \Dcaron 
+	\Ohungarumlaut \Dcroat \Omacron \d.smcp \o.smcp \q.smcp \dcroat.smcp 
+	\omacron.smcp \ocircumflex.smcp \otilde.smcp \odieresis.smcp 
+	\oslash.smcp \eth.smcp \ograve.smcp \oacute.smcp \dcaron.smcp 
+	\ohungarumlaut.smcp \uni1E0A \uni1E0B.smcp ];
+    @kc26_first_6 = [\T \Tcaron \Tcommaaccent \t.smcp \tbar.smcp \tcaron.smcp \tcommaaccent.smcp 
+	\uni1E6A \uni1E6B.smcp ];
+    @kc26_first_7 = [\V \v.smcp ];
+    @kc26_first_8 = [\Y \Yacute \y.smcp \ydieresis.smcp \Ygrave \Ycircumflex \ygrave.smcp 
+	\ycircumflex.smcp ];
+    @kc26_first_9 = [\X \x.smcp \X.salt ];
+    @kc26_first_10 = [\W \w.smcp \Wgrave \Wacute \Wdieresis \Wcircumflex \wgrave.smcp \wacute.smcp 
+	\wdieresis.smcp \wcircumflex.smcp ];
+    @kc26_first_11 = [\K \kgreenlandic \Kcommaaccent \k.smcp \kcommaaccent.smcp ];
+    @kc26_first_12 = [\U \Ugrave \Uacute \Ucircumflex \Udieresis \Uring \Uhungarumlaut \Ubreve 
+	\Uogonek \Utilde \Umacron \u.smcp \uogonek.smcp \uacute.smcp 
+	\ucircumflex.smcp \udieresis.smcp \utilde.smcp \umacron.smcp 
+	\ugrave.smcp \uring.smcp \uhungarumlaut.smcp \ubreve.smcp ];
+    @kc26_first_13 = [\M \m.smcp \uni1E40 \uni1E41.smcp \M.salt \uni1E40.salt ];
+    @kc26_first_14 = [\S \Sacute \Scaron \Scedilla \Scircumflex \s.smcp \scaron.smcp \germandbls.smcp 
+	\sacute.smcp \scedilla.smcp \scircumflex.smcp \uni1E60 ];
+    @kc26_first_15 = [\P \R \Rcaron \Rcommaaccent \p.smcp \r.smcp \rcommaaccent.smcp \racute.smcp 
+	\rcaron.smcp \uni1E56 \uni1E57.smcp ];
+    @kc26_first_16 = [\k \kcommaaccent \c_k ];
+    @kc26_first_17 = [\v \w \y \yacute \ydieresis \t_y \f_y \wacute \ygrave \wdieresis \ycircumflex 
+	\wcircumflex ];
+    @kc26_first_18 = [\l \lacute \lcommaaccent ];
+    @kc26_first_19 = [\f \f_f \uni1E1F \f.salt \uni1E1F.salt ];
+    @kc26_first_20 = [\b \o \p \ograve \oacute \ocircumflex \otilde \odieresis \oslash \thorn 
+	\ohungarumlaut \omacron \uni1E03 \uni1E57 ];
+    @kc26_first_21 = [\x \x.salt ];
+    @kc26_first_22 = [\s \sacute \scaron \scedilla \scircumflex \uni1E61 ];
+    @kc26_first_23 = [\e \ae \egrave \eacute \ecircumflex \edieresis \eogonek \ecaron \oe \emacron 
+	\edotaccent ];
+    @kc26_first_24 = [\r \racute \rcaron \rcommaaccent ];
+    @kc26_first_25 = [\h \m \n \ntilde \nacute \ncaron \hbar \hcircumflex \eng \uni1E41 ];
+    @kc26_first_26 = [\g \gbreve \gdotaccent \gcircumflex \gcommaaccent.salt ];
+    @kc26_second_1 = [\C \G \O \Q \Ccedilla \Ograve \Oacute \Ocircumflex \Otilde \Odieresis \Oslash 
+	\Cacute \Ccaron \Ohungarumlaut \OE \Gbreve \Cdotaccent \Ccircumflex 
+	\Gdotaccent \Gcircumflex \Gcommaaccent \Omacron \c.smcp \g.smcp 
+	\o.smcp \q.smcp \gcommaaccent.smcp \ccaron.smcp \omacron.smcp 
+	\ocircumflex.smcp \otilde.smcp \odieresis.smcp \oslash.smcp 
+	\ccedilla.smcp \ograve.smcp \oacute.smcp \cacute.smcp 
+	\ohungarumlaut.smcp \oe.smcp \gbreve.smcp \cdotaccent.smcp 
+	\ccircumflex.smcp \gdotaccent.smcp \gcircumflex.smcp ];
+    @kc26_second_2 = [\T \Tcaron \Tcommaaccent \Tbar \t.smcp \tbar.smcp \tcaron.smcp 
+	\tcommaaccent.smcp \uni1E6A \uni1E6B.smcp ];
+    @kc26_second_3 = [\Y \y.smcp \Ygrave \Ycircumflex \ygrave.smcp \ycircumflex.smcp ];
+    @kc26_second_4 = [\V \v.smcp ];
+    @kc26_second_5 = [\E \F \Egrave \Eacute \Ecircumflex \Edieresis \Eogonek \Ecaron \Emacron 
+	\Edotaccent \e.smcp \f.smcp \emacron.smcp \eacute.smcp \eogonek.smcp 
+	\edieresis.smcp \edotaccent.smcp \egrave.smcp \ecircumflex.smcp 
+	\ecaron.smcp \uni1E1E \uni1E1F.smcp ];
+    @kc26_second_6 = [\quoteright \quotesinglbase \quotedblright \quotedblbase ];
+    @kc26_second_7 = [\A \Agrave \Aacute \Acircumflex \Atilde \Adieresis \Aring \AE \Aogonek \Abreve 
+	\Amacron \a.smcp \aogonek.smcp \amacron.smcp \aacute.smcp 
+	\acircumflex.smcp \atilde.smcp \adieresis.smcp \aring.smcp \ae.smcp 
+	\agrave.smcp \abreve.smcp ];
+    @kc26_second_8 = [\comma \period \ellipsis ];
+    @kc26_second_9 = [\W \w.smcp \Wgrave \Wacute \Wdieresis \Wcircumflex \wgrave.smcp \wacute.smcp 
+	\wdieresis.smcp \wcircumflex.smcp ];
+    @kc26_second_10 = [\U \Ugrave \Uacute \Ucircumflex \Udieresis \Uring \Uhungarumlaut \Ubreve 
+	\Uogonek \Utilde \Umacron \u.smcp \uacute.smcp \ucircumflex.smcp 
+	\udieresis.smcp \utilde.smcp \umacron.smcp \uhungarumlaut.smcp 
+	\ubreve.smcp ];
+    pos @kc26_first_1 @kc26_second_1 -30;
+    pos @kc26_first_1 @kc26_second_2 -95;
+    pos @kc26_first_1 @kc26_second_3 -140;
+    pos @kc26_first_1 @kc26_second_4 -130;
+    pos @kc26_first_1 @kc26_second_5 -30;
+    pos @kc26_first_1 @kc26_second_6 -90;
+    pos @kc26_first_1 @kc26_second_9 -125;
+    pos @kc26_first_1 @kc26_second_10 -40;
+    pos @kc26_first_2 @kc26_second_7 -90;
+    pos @kc26_first_3 @kc26_second_1 -10;
+    pos @kc26_first_3 @kc26_second_7 -90;
+    pos @kc26_first_3 @kc26_second_8 -150;
+    pos @kc26_first_4 @kc26_second_1 -30;
+    pos @kc26_first_4 @kc26_second_2 -110;
+    pos @kc26_first_4 @kc26_second_3 -90;
+    pos @kc26_first_4 @kc26_second_4 -115;
+    pos @kc26_first_4 @kc26_second_6 -100;
+    pos @kc26_first_4 @kc26_second_8 -20;
+    pos @kc26_first_4 @kc26_second_9 -80;
+    pos @kc26_first_4 @kc26_second_10 -35;
+    pos @kc26_first_5 @kc26_second_1 -5;
+    pos @kc26_first_5 @kc26_second_2 -20;
+    pos @kc26_first_5 @kc26_second_3 -50;
+    pos @kc26_first_5 @kc26_second_4 -35;
+    pos @kc26_first_5 @kc26_second_5 -20;
+    pos @kc26_first_5 @kc26_second_6 -30;
+    pos @kc26_first_5 @kc26_second_7 -45;
+    pos @kc26_first_5 @kc26_second_8 -65;
+    pos @kc26_first_5 @kc26_second_9 -45;
+    pos @kc26_first_6 @kc26_second_1 -20;
+    pos @kc26_first_6 @kc26_second_5 -20;
+    pos @kc26_first_6 @kc26_second_7 -115;
+    pos @kc26_first_6 @kc26_second_8 -80;
+    pos @kc26_first_7 @kc26_second_1 -40;
+    pos @kc26_first_7 @kc26_second_5 -40;
+    pos @kc26_first_7 @kc26_second_7 -140;
+    pos @kc26_first_7 @kc26_second_8 -105;
+    pos @kc26_first_8 @kc26_second_1 -65;
+    pos @kc26_first_8 @kc26_second_5 -40;
+    pos @kc26_first_8 @kc26_second_7 -150;
+    pos @kc26_first_8 @kc26_second_8 -135;
+    pos @kc26_first_9 @kc26_second_1 -60;
+    pos @kc26_first_9 @kc26_second_5 -30;
+    pos @kc26_first_10 @kc26_second_1 -35;
+    pos @kc26_first_10 @kc26_second_5 -40;
+    pos @kc26_first_10 @kc26_second_7 -125;
+    pos @kc26_first_10 @kc26_second_8 -105;
+    pos @kc26_first_11 @kc26_second_1 -60;
+    pos @kc26_first_11 @kc26_second_5 -30;
+    pos @kc26_first_12 @kc26_second_7 -45;
+    pos @kc26_first_12 @kc26_second_8 -40;
+    pos @kc26_first_13 @kc26_second_1 -20;
+    pos @kc26_first_13 @kc26_second_2 -30;
+    pos @kc26_first_13 @kc26_second_3 -60;
+    pos @kc26_first_13 @kc26_second_4 -50;
+    pos @kc26_first_13 @kc26_second_5 -20;
+    pos @kc26_first_13 @kc26_second_6 -40;
+    pos @kc26_first_13 @kc26_second_8 -15;
+    pos @kc26_first_13 @kc26_second_9 -50;
+    pos @kc26_first_13 @kc26_second_10 -20;
+    pos @kc26_first_14 @kc26_second_2 -30;
+    pos @kc26_first_14 @kc26_second_3 -30;
+    pos @kc26_first_14 @kc26_second_4 -10;
+    pos @kc26_first_14 @kc26_second_7 -30;
+    pos @kc26_first_14 @kc26_second_9 -15;
+    pos @kc26_first_15 @kc26_second_1 -20;
+    pos @kc26_first_15 @kc26_second_3 -40;
+    pos @kc26_first_15 @kc26_second_4 -30;
+    pos @kc26_first_15 @kc26_second_9 -35;
+    pos @kc26_first_16 @kc26_second_8 -30;
+    pos @kc26_first_17 @kc26_second_8 -60;
+    pos @kc26_first_18 @kc26_second_6 -60;
+    pos @kc26_first_19 @kc26_second_8 -105;
+    pos @kc26_first_20 @kc26_second_6 -40;
+    pos @kc26_first_20 @kc26_second_8 -30;
+    pos @kc26_first_21 @kc26_second_8 -20;
+    pos @kc26_first_22 @kc26_second_6 -40;
+    pos @kc26_first_22 @kc26_second_8 -30;
+    pos @kc26_first_23 @kc26_second_6 -40;
+    pos @kc26_first_23 @kc26_second_8 -30;
+    pos @kc26_first_24 @kc26_second_8 -85;
+    pos @kc26_first_25 @kc26_second_6 -30;
+    pos @kc26_first_26 @kc26_second_8 -40;
+} kernHorizontalKerninglookup1;
+
+feature kern {
+
+ script DFLT;
+     language dflt ;
+      lookup kernHorizontalKerninglookup0;
+      lookup kernHorizontalKerninglookup1;
+
+ script grek;
+     language dflt ;
+      lookup kernHorizontalKerninglookup0;
+      lookup kernHorizontalKerninglookup1;
+
+ script latn;
+     language dflt ;
+      lookup kernHorizontalKerninglookup0;
+      lookup kernHorizontalKerninglookup1;
+     language FRA  exclude_dflt;
+      lookup kernHorizontalKerninglookup0;
+      lookup kernHorizontalKerninglookup1;
+} kern;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\a \z \e \o \space \c \d \A \p \b \q \n \i \h \u \r \m \f \l \j \t \s \k \g \v \w \y \x 
+	\V \W \C \D \O \S \G \Q \M \I \J \H \E \L \F \K \T \P \R \U \B \N \X \Z \Y \Agrave \Aacute 
+	\Acircumflex \Atilde \Adieresis \Aring \AE \Ccedilla \Eth \Egrave \Eacute 
+	\Ecircumflex \Edieresis \Igrave \Iacute \Icircumflex \Idieresis \Ntilde \Ograve 
+	\Oacute \Ocircumflex \Otilde \Odieresis \Oslash \Ugrave \Uacute \Ucircumflex 
+	\Udieresis \Yacute \agrave \aacute \acircumflex \atilde \adieresis \aring \ae 
+	\ccedilla \egrave \eacute \ecircumflex \edieresis \igrave \iacute \icircumflex 
+	\idieresis \eth \ograve \oacute \ocircumflex \otilde \odieresis \ntilde \oslash 
+	\thorn \ugrave \uacute \ucircumflex \udieresis \yacute \ydieresis \Thorn 
+	\uni00B5 \germandbls \asciitilde \asciicircum \grave \dieresis \acute \cedilla 
+	\exclam \degree \period \periodcentered \comma \bullet \quoteleft \quoteright 
+	\quotesinglbase \quotedblleft \quotedblright \quotedblbase \colon \semicolon 
+	\quotedbl \exclamdown.alt \zero \one \two \three \four \five \six \seven \percent 
+	\nine \eight \quotesingle \onesuperior \twosuperior \threesuperior \slash 
+	\backslash \bar \underscore \hyphen \numbersign \dollar \zerosuperior 
+	\foursuperior \fivesuperior \sixsuperior \sevensuperior \eightsuperior 
+	\ninesuperior \zeroinferior \oneinferior \twoinferior \threeinferior 
+	\fourinferior \fiveinferior \sixinferior \seveninferior \eightinferior 
+	\nineinferior \zero.oldstyle \one.oldstyle \two.oldstyle \three.oldstyle 
+	\four.oldstyle \five.oldstyle \six.oldstyle \seven.oldstyle \eight.oldstyle 
+	\nine.oldstyle \ampersand \asterisk \Euro \parenleft \parenright \plus \endash 
+	\emdash \less \equal \greater \multiply \divide \question \bracketleft 
+	\bracketright \braceleft \braceright \at \breve \ogonek \caron \hungarumlaut 
+	\dotaccent \Aogonek \Lcaron \Sacute \Scaron \Scedilla \Tcaron \Zacute \Zcaron 
+	\Zdotaccent \aogonek \lcaron \sacute \scaron \scedilla \tcaron \zacute \zcaron 
+	\zdotaccent \Racute \Abreve \Lacute \Cacute \Ccaron \Eogonek \Ecaron \Dcaron 
+	\Nacute \Ncaron \Ohungarumlaut \Rcaron \Uring \Uhungarumlaut \Tcommaaccent 
+	\racute \abreve \lacute \cacute \ccaron \eogonek \ecaron \dcaron \nacute \ncaron 
+	\ohungarumlaut \rcaron \uring \uhungarumlaut \tcommaaccent \Lslash \uni00AD 
+	\lslash \Dcroat \dcroat \questiondown.alt \at.alt \questiondown \oe \OE 
+	\Ydieresis \guillemotright \cent \sterling \yen \section \g.salt \guillemotleft 
+	\paragraph \macron \copyright \registered \plusminus \logicalnot 
+	\guilsinglleft \guilsinglright \perthousand \dagger \daggerdbl \trademark 
+	\notequal \infinity \lessequal \greaterequal \circumflex \tilde \ring \ellipsis 
+	\fraction \dotlessi \exclamdown \ampersand.salt \a.superior \o.superior 
+	\zero.tnum \one.tnum \two.tnum \three.tnum \four.tnum \five.tnum \six.tnum 
+	\seven.tnum \eight.tnum \nine.tnum \zero.tosf \one.tosf \two.tosf \three.tosf 
+	\four.tosf \five.tosf \six.tosf \seven.tosf \eight.tosf \nine.tosf 
+	\partialdiff \summation \product \pi \integral \Omega \radical \florin 
+	\approxequal \uni2206 \lozenge \brokenbar \currency \cdotaccent \ccircumflex 
+	\Hbar \Hcircumflex \Idotaccent \Gbreve \Jcircumflex \hbar \hcircumflex 
+	\jcircumflex \Cdotaccent \Ccircumflex \Gdotaccent \Gcircumflex \Ubreve 
+	\Scircumflex \ubreve \scircumflex \gbreve \gdotaccent \gcircumflex 
+	\gbreve.salt \gdotaccent.salt \gcircumflex.salt \kgreenlandic \Rcommaaccent 
+	\Itilde \Lcommaaccent \Emacron \Gcommaaccent \Tbar \rcommaaccent \itilde 
+	\lcommaaccent \emacron \gcommaaccent \gcommaaccent.salt \tbar \Eng \eng 
+	\Amacron \Iogonek \Edotaccent \Imacron \Ncommaaccent \Omacron \Kcommaaccent 
+	\Uogonek \Utilde \Umacron \amacron \iogonek \edotaccent \imacron \ncommaaccent 
+	\omacron \kcommaaccent \uogonek \utilde \umacron \exclam.smcp \quotedbl.smcp 
+	\numbersign.smcp \dollar.smcp \percent.smcp \ampersand.smcp 
+	\quotesingle.smcp \asterisk.smcp \zero.smcp \one.smcp \two.smcp \three.smcp 
+	\four.smcp \five.smcp \six.smcp \seven.smcp \eight.smcp \nine.smcp 
+	\question.smcp \at.smcp \a.smcp \b.smcp \c.smcp \d.smcp \e.smcp \f.smcp \g.smcp 
+	\h.smcp \i.smcp \j.smcp \k.smcp \l.smcp \m.smcp \n.smcp \o.smcp \p.smcp \q.smcp 
+	\r.smcp \s.smcp \t.smcp \u.smcp \v.smcp \w.smcp \x.smcp \y.smcp \z.smcp 
+	\grave.smcp \aogonek.smcp \rcommaaccent.smcp \itilde.smcp \lcommaaccent.smcp 
+	\dieresis.smcp \scaron.smcp \emacron.smcp \gcommaaccent.smcp \tbar.smcp 
+	\zcaron.smcp \macron.smcp \degree.smcp \acute.smcp \caron.smcp \eng.smcp 
+	\amacron.smcp \aacute.smcp \acircumflex.smcp \atilde.smcp \adieresis.smcp 
+	\aring.smcp \ae.smcp \iogonek.smcp \ccaron.smcp \eacute.smcp \eogonek.smcp 
+	\edieresis.smcp \edotaccent.smcp \iacute.smcp \icircumflex.smcp 
+	\imacron.smcp \dcroat.smcp \ncommaaccent.smcp \omacron.smcp 
+	\kcommaaccent.smcp \ocircumflex.smcp \otilde.smcp \odieresis.smcp 
+	\oslash.smcp \uogonek.smcp \uacute.smcp \ucircumflex.smcp \udieresis.smcp 
+	\utilde.smcp \umacron.smcp \germandbls.smcp \agrave.smcp \ccedilla.smcp 
+	\eth.smcp \egrave.smcp \ecircumflex.smcp \igrave.smcp \idieresis.smcp 
+	\ntilde.smcp \ograve.smcp \oacute.smcp \ugrave.smcp \yacute.smcp \thorn.smcp 
+	\quotesinglbase.smcp \quotedblleft.smcp \quotedblright.smcp 
+	\quotedblbase.smcp \exclamdown.smcp \Euro.smcp \lcaron.smcp \sacute.smcp 
+	\scedilla.smcp \tcaron.smcp \zacute.smcp \zdotaccent.smcp \racute.smcp 
+	\abreve.smcp \lacute.smcp \cacute.smcp \ecaron.smcp \dcaron.smcp \nacute.smcp 
+	\ncaron.smcp \ohungarumlaut.smcp \rcaron.smcp \uring.smcp 
+	\uhungarumlaut.smcp \tcommaaccent.smcp \lslash.smcp \questiondown.smcp 
+	\oe.smcp \ydieresis.smcp \sterling.smcp \yen.smcp \perthousand.smcp 
+	\circumflex.smcp \tilde.smcp \ring.smcp \hbar.smcp \hcircumflex.smcp 
+	\gbreve.smcp \jcircumflex.smcp \cdotaccent.smcp \ccircumflex.smcp 
+	\gdotaccent.smcp \gcircumflex.smcp \ubreve.smcp \scircumflex.smcp 
+	\Idotaccent.smcp \periodcentered.smcp \bullet.smcp \quoteleft.smcp 
+	\quoteright.smcp \uni1E02 \uni1E03 \uni1E0A \Wgrave \Wacute \uni1E0B \Ygrave 
+	\uni1E1E \uni1E1F \uni1E40 \uni1E41 \uni1E56 \wgrave \uni1E57 \wacute \uni1E60 
+	\ygrave \Wdieresis \wdieresis \uni1E61 \Wcircumflex \uni1E6A \Ycircumflex 
+	\ycircumflex \wcircumflex \uni1E6B \uni1E03.smcp \uni1E0B.smcp \uni1E1F.smcp 
+	\uni1E41.smcp \wgrave.smcp \uni1E57.smcp \wacute.smcp \ygrave.smcp 
+	\wdieresis.smcp \uni1E61.smcp \wcircumflex.smcp \uni1E6B.smcp 
+	\ycircumflex.smcp \uni0338 \afii61289 \estimated \N.salt \M.salt \uni1E40.salt 
+	\Ntilde.salt \Nacute.salt \Ncaron.salt \Ncommaaccent.salt \minus 
+	\zero.numerator \one.numerator \two.numerator \three.numerator 
+	\four.numerator \five.numerator \six.numerator \seven.numerator 
+	\eight.numerator \nine.numerator \zero.denominator \one.denominator 
+	\two.denominator \three.denominator \four.denominator \five.denominator 
+	\six.denominator \seven.denominator \eight.denominator \nine.denominator 
+	\m.salt \n.salt \ntilde.salt \ncommaaccent.salt \ncaron.salt \nacute.salt 
+	\uni1E41.salt \r.salt \racute.salt \rcaron.salt \rcommaaccent.salt \x.salt 
+	\X.salt \a.salt \agrave.salt \aacute.salt \atilde.salt \aring.salt 
+	\acircumflex.salt \adieresis.salt \aogonek.salt \abreve.salt \amacron.salt 
+	\u.salt \uhungarumlaut.salt \ugrave.salt \uacute.salt \utilde.salt 
+	\uring.salt \ucircumflex.salt \udieresis.salt \uogonek.salt \ubreve.salt 
+	\umacron.salt \b.salt \d.salt \f.salt \p.salt \t.salt \uni1E03.salt 
+	\uni1E0B.salt \uni1E1F.salt \uni1E57.salt \dcroat.salt \tbar.salt 
+	\tcommaaccent.salt \tcaron.salt \dcaron.salt \hyphen.alt \uni00AD.alt 
+	\endash.alt \emdash.alt \hyphen.smcp \uni00AD.smcp \endash.smcp \emdash.smcp 
+	\parenleft.alt \parenright.alt \parenleft.smcp \parenright.smcp \uni000D ];
+@GDEF_Ligature = [\ordmasculine \ordfeminine \fi \fl \b.superior \c.superior 
+	\d.superior \e.superior \f.superior \g.superior \h.superior \i.superior 
+	\j.superior \k.superior \l.superior \m.superior \n.superior \p.superior 
+	\q.superior \r.superior \s.superior \t.superior \u.superior \v.superior 
+	\w.superior \x.superior \y.superior \z.superior \onequarter \onehalf 
+	\threequarters \f_f \f_f_i \ffl \c_t \s_t \t_t \f_t \t_y \f_y \ordmasculine.smcp 
+	\ordfeminine.smcp \afii61352 \c_k \c_h ];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple, @GDEF_Ligature, , ;
+
+} GDEF;
+
+
+
+table OS/2 {
+    FSType 8;
+    Panose 0 0 0 0 0 0 0 0 0 0;
+    TypoAscender 800;
+    TypoDescender -200;
+    TypoLineGap 90;
+    winAscent 1002;
+    winDescent 315;
+    XHeight 539;
+    CapHeight 743;
+    WeightClass 900;
+    WidthClass 5;
+    Vendor "PfEd";
+} OS/2;
+
+table head {
+    FontRevision 1.000;
+} head;
+
+table hhea {
+    Ascender 1002;
+    Descender -315;
+    LineGap 90;
+    CaretOffset 0;
+} hhea;
+
+table name {
+    nameid 0 "Copyright (c) 2011 Natanael Gama (exo@ndiscovered.com), with Reserved Font Name \0022Exo\0022";
+    nameid 0 1 "Copyright (c) 2011 Natanael Gama (exo@ndiscovered.com), with Reserved Font Name \22Exo\22";
+    nameid 9 "Natanael Gama";
+    nameid 9 1 "Natanael Gama";
+    nameid 12 "http://www.ndiscovered.com";
+    nameid 12 1 "http://www.ndiscovered.com";
+    nameid 13 "Copyright (c) 2011, Natanael Gama (http://www.ndiscovered.com | exo(at)ndiscovered.com>),\000Awith Reserved Font Name Exo.\000A\000AThis Font Software is licensed under the SIL Open Font License, Version 1.1.\000AThis license is copied below, and is also available with a FAQ at:\000Ahttp://scripts.sil.org/OFL\000A\000A\000A-----------------------------------------------------------\000ASIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\000A-----------------------------------------------------------\000A\000APREAMBLE\000AThe goals of the Open Font License (OFL) are to stimulate worldwide\000Adevelopment of collaborative font projects, to support the font creation\000Aefforts of academic and linguistic communities, and to provide a free and\000Aopen framework in which fonts may be shared and improved in partnership\000Awith others.\000A\000AThe OFL allows the licensed fonts to be used, studied, modified and\000Aredistributed freely as long as they are not sold by themselves. The\000Afonts, including any derivative works, can be bundled, embedded, \000Aredistributed and/or sold with any software provided that any reserved\000Anames are not used by derivative works. The fonts and derivatives,\000Ahowever, cannot be released under any other type of license. The\000Arequirement for fonts to remain under this license does not apply\000Ato any document created using the fonts or their derivatives.\000A\000ADEFINITIONS\000A\0022Font Software\0022 refers to the set of files released by the Copyright\000AHolder(s) under this license and clearly marked as such. This may\000Ainclude source files, build scripts and documentation.\000A\000A\0022Reserved Font Name\0022 refers to any names specified as such after the\000Acopyright statement(s).\000A\000A\0022Original Version\0022 refers to the collection of Font Software components as\000Adistributed by the Copyright Holder(s).\000A\000A\0022Modified Version\0022 refers to any derivative made by adding to, deleting,\000Aor substituting -- in part or in whole -- any of the components of the\000AOriginal Version, by changing formats or by porting the Font Software to a\000Anew environment.\000A\000A\0022Author\0022 refers to any designer, engineer, programmer, technical\000Awriter or other person who contributed to the Font Software.\000A\000APERMISSION & CONDITIONS\000APermission is hereby granted, free of charge, to any person obtaining\000Aa copy of the Font Software, to use, study, copy, merge, embed, modify,\000Aredistribute, and sell modified and unmodified copies of the Font\000ASoftware, subject to the following conditions:\000A\000A1) Neither the Font Software nor any of its individual components,\000Ain Original or Modified Versions, may be sold by itself.\000A\000A2) Original or Modified Versions of the Font Software may be bundled,\000Aredistributed and/or sold with any software, provided that each copy\000Acontains the above copyright notice and this license. These can be\000Aincluded either as stand-alone text files, human-readable headers or\000Ain the appropriate machine-readable metadata fields within text or\000Abinary files as long as those fields can be easily viewed by the user.\000A\000A3) No Modified Version of the Font Software may use the Reserved Font\000AName(s) unless explicit written permission is granted by the corresponding\000ACopyright Holder. This restriction only applies to the primary font name as\000Apresented to the users.\000A\000A4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font\000ASoftware shall not be used to promote, endorse or advertise any\000AModified Version, except to acknowledge the contribution(s) of the\000ACopyright Holder(s) and the Author(s) or with their explicit written\000Apermission.\000A\000A5) The Font Software, modified or unmodified, in part or in whole,\000Amust be distributed entirely under this license, and must not be\000Adistributed under any other license. The requirement for fonts to\000Aremain under this license does not apply to any document created\000Ausing the Font Software.\000A\000ATERMINATION\000AThis license becomes null and void if any of the above conditions are\000Anot met.\000A\000ADISCLAIMER\000ATHE FONT SOFTWARE IS PROVIDED \0022AS IS\0022, WITHOUT WARRANTY OF ANY KIND,\000AEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF\000AMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT\000AOF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE\000ACOPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\000AINCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL\000ADAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\000AFROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM\000AOTHER DEALINGS IN THE FONT SOFTWARE.";
+    nameid 13 1 "Copyright (c) 2011, Natanael Gama (http://www.ndiscovered.com | exo(at)ndiscovered.com>),\0Awith Reserved Font Name Exo.\0A\0AThis Font Software is licensed under the SIL Open Font License, Version 1.1.\0AThis license is copied below, and is also available with a FAQ at:\0Ahttp://scripts.sil.org/OFL\0A\0A\0A-----------------------------------------------------------\0ASIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\0A-----------------------------------------------------------\0A\0APREAMBLE\0AThe goals of the Open Font License (OFL) are to stimulate worldwide\0Adevelopment of collaborative font projects, to support the font creation\0Aefforts of academic and linguistic communities, and to provide a free and\0Aopen framework in which fonts may be shared and improved in partnership\0Awith others.\0A\0AThe OFL allows the licensed fonts to be used, studied, modified and\0Aredistributed freely as long as they are not sold by themselves. The\0Afonts, including any derivative works, can be bundled, embedded, \0Aredistributed and/or sold with any software provided that any reserved\0Anames are not used by derivative works. The fonts and derivatives,\0Ahowever, cannot be released under any other type of license. The\0Arequirement for fonts to remain under this license does not apply\0Ato any document created using the fonts or their derivatives.\0A\0ADEFINITIONS\0A\22Font Software\22 refers to the set of files released by the Copyright\0AHolder(s) under this license and clearly marked as such. This may\0Ainclude source files, build scripts and documentation.\0A\0A\22Reserved Font Name\22 refers to any names specified as such after the\0Acopyright statement(s).\0A\0A\22Original Version\22 refers to the collection of Font Software components as\0Adistributed by the Copyright Holder(s).\0A\0A\22Modified Version\22 refers to any derivative made by adding to, deleting,\0Aor substituting -- in part or in whole -- any of the components of the\0AOriginal Version, by changing formats or by porting the Font Software to a\0Anew environment.\0A\0A\22Author\22 refers to any designer, engineer, programmer, technical\0Awriter or other person who contributed to the Font Software.\0A\0APERMISSION & CONDITIONS\0APermission is hereby granted, free of charge, to any person obtaining\0Aa copy of the Font Software, to use, study, copy, merge, embed, modify,\0Aredistribute, and sell modified and unmodified copies of the Font\0ASoftware, subject to the following conditions:\0A\0A1) Neither the Font Software nor any of its individual components,\0Ain Original or Modified Versions, may be sold by itself.\0A\0A2) Original or Modified Versions of the Font Software may be bundled,\0Aredistributed and/or sold with any software, provided that each copy\0Acontains the above copyright notice and this license. These can be\0Aincluded either as stand-alone text files, human-readable headers or\0Ain the appropriate machine-readable metadata fields within text or\0Abinary files as long as those fields can be easily viewed by the user.\0A\0A3) No Modified Version of the Font Software may use the Reserved Font\0AName(s) unless explicit written permission is granted by the corresponding\0ACopyright Holder. This restriction only applies to the primary font name as\0Apresented to the users.\0A\0A4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font\0ASoftware shall not be used to promote, endorse or advertise any\0AModified Version, except to acknowledge the contribution(s) of the\0ACopyright Holder(s) and the Author(s) or with their explicit written\0Apermission.\0A\0A5) The Font Software, modified or unmodified, in part or in whole,\0Amust be distributed entirely under this license, and must not be\0Adistributed under any other license. The requirement for fonts to\0Aremain under this license does not apply to any document created\0Ausing the Font Software.\0A\0ATERMINATION\0AThis license becomes null and void if any of the above conditions are\0Anot met.\0A\0ADISCLAIMER\0ATHE FONT SOFTWARE IS PROVIDED \22AS IS\22, WITHOUT WARRANTY OF ANY KIND,\0AEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF\0AMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT\0AOF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE\0ACOPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\0AINCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL\0ADAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\0AFROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM\0AOTHER DEALINGS IN THE FONT SOFTWARE.";
+    nameid 14 "http://scripts.sil.org/OFL";
+    nameid 14 1 "http://scripts.sil.org/OFL";
+} name;

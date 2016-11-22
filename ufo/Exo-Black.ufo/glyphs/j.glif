@@ -4,15 +4,6 @@
   <unicode hex="006A"/>
   <outline>
     <contour>
-      <point x="36" y="-270" type="line"/>
-      <point x="36" y="539" type="line"/>
-      <point x="230" y="539" type="line"/>
-      <point x="230" y="-4" type="line" smooth="yes"/>
-      <point x="230" y="-90"/>
-      <point x="206" y="-212"/>
-      <point x="184" y="-270" type="curve"/>
-    </contour>
-    <contour>
       <point x="42" y="630" type="line" smooth="yes"/>
       <point x="42" y="616"/>
       <point x="52" y="607"/>
@@ -30,6 +21,7 @@
       <point x="42" y="756"/>
       <point x="42" y="741" type="curve" smooth="yes"/>
     </contour>
+    <component base="jdotless"/>
   </outline>
   <lib>
     <dict>

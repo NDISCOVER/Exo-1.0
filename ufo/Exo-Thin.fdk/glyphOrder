@@ -67,6 +67,7 @@ uni1E41 uni1E41 uni1E41
 n n uni006E
 ntilde ntilde uni00F1
 o o uni006F
+ohorn ohorn uni01A1
 p p uni0070
 uni1E57 uni1E57 uni1E57
 q q uni0071
@@ -98,7 +99,6 @@ eng eng uni014B
 oe oe uni0153
 tbar tbar uni0167
 pi pi uni03C0
-uni0338 uni0338 uni0338
 zero zero uni0030
 one one uni0031
 two two uni0032
@@ -200,6 +200,8 @@ uni2206 uni2206 uni2206
 product product uni220F
 summation summation uni2211
 uni00B5 uni00B5 uni00B5
+divisionslash divisionslash uni2215
+bulletoperator bulletoperator uni2219
 radical radical uni221A
 infinity infinity uni221E
 integral integral uni222B
@@ -208,6 +210,7 @@ cent cent uni00A2
 sterling sterling uni00A3
 currency currency uni00A4
 yen yen uni00A5
+dong dong uni20AB
 florin florin uni0192
 asciicircum asciicircum uni005E
 asciitilde asciitilde uni007E
@@ -232,6 +235,7 @@ estimated estimated uni212E
 lozenge lozenge uni25CA
 uni000D uni000D uni000D
 uni00AD uni00AD uni00AD
+Germandbls Germandbls uni1E9E
 acutecomb acutecomb
 brevebelowcomb brevebelowcomb
 brevecomb brevecomb
@@ -247,11 +251,14 @@ dotaccentcomb dotaccentcomb
 dotbelowcomb dotbelowcomb
 euro euro
 gravecomb gravecomb
+hookabovecomb hookabovecomb
+horncomb horncomb
 hungarumlautcomb hungarumlautcomb
 macronbelowcomb macronbelowcomb
 macroncomb macroncomb
 ogonekcomb ogonekcomb
 ringcomb ringcomb
+schwa schwa
 tildecomb tildecomb
 f_f f_f uniFB00
 fi fi uniFB01
@@ -403,7 +410,6 @@ Ncommaaccent.salt Ncommaaccent.salt
 gcommaaccent.salt gcommaaccent.salt
 ncommaaccent.salt ncommaaccent.salt
 rcommaaccent.salt rcommaaccent.salt
-caron.alt caron.alt
 hyphen.alt hyphen.alt
 endash.alt endash.alt
 emdash.alt emdash.alt
@@ -413,6 +419,7 @@ at.alt at.alt
 exclamdown.alt exclamdown.alt
 questiondown.alt questiondown.alt
 uni00AD.alt uni00AD.alt
+caroncomb.alt caroncomb.alt
 Idotaccent.smcp Idotaccent.smcp
 a.smcp a.smcp
 agrave.smcp agrave.smcp

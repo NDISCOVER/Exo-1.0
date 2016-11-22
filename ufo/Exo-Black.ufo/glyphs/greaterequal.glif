@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greaterequal" format="1">
-  <advance width="430"/>
+  <advance width="609"/>
   <unicode hex="2265"/>
   <outline>
     <contour>
-      <point x="28" y="230" type="line"/>
-      <point x="28" y="400" type="line"/>
-      <point x="213" y="433" type="line"/>
-      <point x="28" y="456" type="line"/>
-      <point x="28" y="626" type="line"/>
-      <point x="403" y="516" type="line"/>
-      <point x="403" y="346" type="line"/>
+      <point x="118" y="230" type="line"/>
+      <point x="493" y="346" type="line"/>
+      <point x="493" y="516" type="line"/>
+      <point x="118" y="626" type="line"/>
+      <point x="118" y="456" type="line"/>
+      <point x="303" y="433" type="line"/>
+      <point x="118" y="400" type="line"/>
     </contour>
-    <contour>
-      <point x="28" y="63" type="line"/>
-      <point x="28" y="197" type="line"/>
-      <point x="403" y="197" type="line"/>
-      <point x="403" y="63" type="line"/>
-    </contour>
+    <component base="minus" yOffset="-250"/>
   </outline>
   <lib>
     <dict>
@@ -175,7 +170,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>430</integer>
+          <integer>609</integer>
         </dict>
       </dict>
     </dict>

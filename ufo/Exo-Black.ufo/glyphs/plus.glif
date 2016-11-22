@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plus" format="1">
-  <advance width="456"/>
+  <advance width="609"/>
   <unicode hex="002B"/>
   <outline>
-    <contour>
-      <point x="20" y="279" type="line"/>
-      <point x="20" y="433" type="line"/>
-      <point x="150" y="433" type="line"/>
-      <point x="150" y="564" type="line"/>
-      <point x="304" y="564" type="line"/>
-      <point x="304" y="433" type="line"/>
-      <point x="436" y="433" type="line"/>
-      <point x="436" y="279" type="line"/>
-      <point x="304" y="279" type="line"/>
-      <point x="304" y="148" type="line"/>
-      <point x="150" y="148" type="line"/>
-      <point x="150" y="279" type="line"/>
-    </contour>
+    <component base="minus"/>
+    <component base="minus" xScale="0.0" xyScale="1.0" yxScale="-1.0" yScale="0.0" xOffset="660" yOffset="52"/>
   </outline>
   <lib>
     <dict>
@@ -188,7 +176,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>456</integer>
+          <integer>609</integer>
         </dict>
       </dict>
     </dict>

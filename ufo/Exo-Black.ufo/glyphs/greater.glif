@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greater" format="1">
-  <advance width="431"/>
+  <advance width="609"/>
   <unicode hex="003E"/>
   <outline>
     <contour>
-      <point x="28" y="130" type="line"/>
-      <point x="28" y="300" type="line"/>
-      <point x="213" y="353" type="line"/>
-      <point x="28" y="396" type="line"/>
-      <point x="28" y="566" type="line"/>
-      <point x="403" y="436" type="line"/>
-      <point x="403" y="266" type="line"/>
+      <point x="118" y="130" type="line"/>
+      <point x="493" y="266" type="line"/>
+      <point x="493" y="436" type="line"/>
+      <point x="118" y="566" type="line"/>
+      <point x="118" y="396" type="line"/>
+      <point x="303" y="353" type="line"/>
+      <point x="118" y="300" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -112,7 +112,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>431</integer>
+          <integer>609</integer>
         </dict>
       </dict>
     </dict>

@@ -1,23 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="lessequal" format="1">
-  <advance width="430"/>
+  <advance width="609"/>
   <unicode hex="2264"/>
   <outline>
     <contour>
-      <point x="28" y="346" type="line"/>
-      <point x="28" y="516" type="line"/>
-      <point x="403" y="626" type="line"/>
-      <point x="403" y="456" type="line"/>
-      <point x="218" y="433" type="line"/>
-      <point x="403" y="400" type="line"/>
-      <point x="403" y="230" type="line"/>
+      <point x="118" y="346" type="line"/>
+      <point x="493" y="230" type="line"/>
+      <point x="493" y="400" type="line"/>
+      <point x="308" y="433" type="line"/>
+      <point x="493" y="456" type="line"/>
+      <point x="493" y="626" type="line"/>
+      <point x="118" y="516" type="line"/>
     </contour>
-    <contour>
-      <point x="28" y="63" type="line"/>
-      <point x="28" y="197" type="line"/>
-      <point x="402" y="197" type="line"/>
-      <point x="402" y="63" type="line"/>
-    </contour>
+    <component base="minus" xOffset="1" yOffset="-250"/>
   </outline>
   <lib>
     <dict>
@@ -175,7 +170,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>430</integer>
+          <integer>609</integer>
         </dict>
       </dict>
     </dict>

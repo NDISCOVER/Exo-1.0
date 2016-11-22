@@ -1,28 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="plusminus" format="1">
-  <advance width="479"/>
+  <advance width="609"/>
   <unicode hex="00B1"/>
   <outline>
-    <contour>
-      <point x="32" y="377" type="line"/>
-      <point x="32" y="531" type="line"/>
-      <point x="162" y="531" type="line"/>
-      <point x="162" y="662" type="line"/>
-      <point x="316" y="662" type="line"/>
-      <point x="316" y="531" type="line"/>
-      <point x="448" y="531" type="line"/>
-      <point x="448" y="377" type="line"/>
-      <point x="316" y="377" type="line"/>
-      <point x="316" y="246" type="line"/>
-      <point x="162" y="246" type="line"/>
-      <point x="162" y="377" type="line"/>
-    </contour>
-    <contour>
-      <point x="32" y="57" type="line"/>
-      <point x="32" y="211" type="line"/>
-      <point x="448" y="211" type="line"/>
-      <point x="448" y="57" type="line"/>
-    </contour>
+    <component base="minus" yOffset="-200"/>
+    <component base="plus" yOffset="150"/>
   </outline>
   <lib>
     <dict>
@@ -251,7 +233,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>479</integer>
+          <integer>609</integer>
         </dict>
       </dict>
     </dict>

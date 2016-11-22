@@ -1,33 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="yen" format="1">
-  <advance width="662"/>
+  <advance width="609"/>
   <unicode hex="00A5"/>
   <outline>
     <contour>
-      <point x="11" y="732" type="line"/>
-      <point x="222" y="732" type="line"/>
-      <point x="327" y="408" type="line"/>
-      <point x="440" y="732" type="line"/>
-      <point x="651" y="732" type="line"/>
-      <point x="485" y="351" type="line"/>
-      <point x="538" y="351" type="line"/>
-      <point x="538" y="252" type="line"/>
-      <point x="420" y="252" type="line"/>
-      <point x="420" y="227" type="line"/>
-      <point x="538" y="227" type="line"/>
-      <point x="538" y="128" type="line"/>
-      <point x="420" y="128" type="line"/>
-      <point x="420" y="0" type="line"/>
-      <point x="226" y="0" type="line"/>
-      <point x="226" y="128" type="line"/>
-      <point x="111" y="128" type="line"/>
-      <point x="111" y="227" type="line"/>
-      <point x="226" y="227" type="line"/>
-      <point x="226" y="252" type="line"/>
-      <point x="111" y="252" type="line"/>
-      <point x="111" y="351" type="line"/>
-      <point x="165" y="351" type="line"/>
+      <point x="80" y="114" type="line"/>
+      <point x="529" y="114" type="line"/>
+      <point x="529" y="208" type="line"/>
+      <point x="80" y="208" type="line"/>
     </contour>
+    <contour>
+      <point x="80" y="261" type="line"/>
+      <point x="529" y="261" type="line"/>
+      <point x="529" y="355" type="line"/>
+      <point x="80" y="355" type="line"/>
+    </contour>
+    <component base="Y" xOffset="-20"/>
   </outline>
   <lib>
     <dict>
@@ -327,7 +315,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>662</integer>
+          <integer>609</integer>
         </dict>
       </dict>
     </dict>

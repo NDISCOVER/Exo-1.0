@@ -29,6 +29,15 @@
       <point x="88" y="700"/>
       <point x="88" y="602" type="curve" smooth="yes"/>
     </contour>
+    <contour>
+      <point x="310" y="810" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="310" y="-150" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="501" y="3" type="move" name="ogonek"/>
+    </contour>
   </outline>
   <lib>
     <dict>

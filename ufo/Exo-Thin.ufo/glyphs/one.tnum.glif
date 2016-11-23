@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.tnum" format="1">
-  <advance width="630"/>
+  <advance width="609"/>
   <outline>
     <contour>
-      <point x="178" y="634" type="line"/>
-      <point x="178" y="647" type="line"/>
-      <point x="346" y="732" type="line"/>
-      <point x="370" y="732" type="line"/>
-      <point x="370" y="27" type="line"/>
-      <point x="550" y="27" type="line"/>
-      <point x="550" y="-1" type="line"/>
-      <point x="160" y="-1" type="line"/>
-      <point x="160" y="27" type="line"/>
-      <point x="346" y="27" type="line"/>
-      <point x="346" y="705" type="line"/>
+      <point x="124" y="22" type="line"/>
+      <point x="124" y="0" type="line"/>
+      <point x="505" y="0" type="line"/>
+      <point x="505" y="22" type="line"/>
     </contour>
+    <component base="one" xOffset="80"/>
   </outline>
   <lib>
     <dict>
@@ -182,7 +176,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>630</integer>
+          <integer>609</integer>
         </dict>
       </dict>
     </dict>

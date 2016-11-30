@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="r" format="1">
-  <advance width="421.0"/>
+  <advance width="431.0"/>
   <unicode hex="0072"/>
   <outline>
     <contour>
       <point x="45" y="0" type="line"/>
       <point x="239" y="0" type="line"/>
       <point x="287" y="304" type="line"/>
-      <point x="313" y="326"/>
-      <point x="351" y="342"/>
-      <point x="407" y="342" type="curve" smooth="yes"/>
-      <point x="465" y="342" type="line"/>
+      <point x="313" y="332"/>
+      <point x="352" y="346"/>
+      <point x="408" y="346" type="curve" smooth="yes"/>
+      <point x="466" y="346" type="line"/>
       <point x="495" y="540" type="line"/>
       <point x="480" y="544"/>
       <point x="467" y="545"/>
       <point x="449" y="545" type="curve" smooth="yes"/>
-      <point x="391.6910569105691" y="545.0"/>
+      <point x="392" y="545"/>
       <point x="346.2857941336785" y="515.1971186761834"/>
       <point x="316" y="487" type="curve"/>
       <point x="304" y="539" type="line"/>
@@ -246,7 +246,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>421.0</real>
+          <real>431.0</real>
         </dict>
       </dict>
     </dict>

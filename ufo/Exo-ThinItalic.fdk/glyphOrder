@@ -355,6 +355,7 @@ t_y t_y
 uni1E61.smcp uni1E61.smcp
 Euro Euro uni20AC
 uni00AD.smcp uni00AD.smcp
+v.smcp v.smcp
 oslash.smcp oslash.smcp
 thorn.smcp thorn.smcp
 iogonek.smcp iogonek.smcp
@@ -377,10 +378,8 @@ oacute.smcp oacute.smcp
 gbreve.salt gbreve.salt
 abreve.smcp abreve.smcp
 seven.tnum seven.tnum
-ring.smcp ring.smcp
 ampersand.smcp ampersand.smcp
 d.superior d.superior
-seven.denominator seven.denominator
 z.smcp z.smcp
 six.tnum six.tnum
 afii61352 afii61352 uni2116
@@ -408,7 +407,6 @@ nine.tosf nine.tosf
 uni1E02 uni1E02 uni1E02
 twoinferior twoinferior uni2082
 zeroinferior zeroinferior uni2080
-zero.numerator zero.numerator
 d.salt d.salt
 five.smcp five.smcp
 amacron.salt amacron.salt
@@ -484,7 +482,7 @@ ntilde.salt ntilde.salt
 wcircumflex.smcp wcircumflex.smcp
 dcaron.smcp dcaron.smcp
 b.smcp b.smcp
-uni000D uni000D uni000D
+zero.numerator zero.numerator
 agrave.salt agrave.salt
 questiondown.smcp questiondown.smcp
 eogonek.smcp eogonek.smcp
@@ -524,11 +522,14 @@ uni1E41 uni1E41 uni1E41
 q.superior q.superior
 lacute.smcp lacute.smcp
 uni1E03.salt uni1E03.salt
+Omega Omega uni03A9
 endash.alt endash.alt
 three.tosf three.tosf
 dollar.smcp dollar.smcp
+percent.smcp percent.smcp
 i.superior i.superior
 ucircumflex.smcp ucircumflex.smcp
+ring.smcp ring.smcp
 p.superior p.superior
 y.superior y.superior
 imacron.smcp imacron.smcp
@@ -570,7 +571,6 @@ uhungarumlaut.salt uhungarumlaut.salt
 one.denominator one.denominator
 zero.tosf zero.tosf
 lcaron.smcp lcaron.smcp
-uni1E0B uni1E0B uni1E0B
 four.numerator four.numerator
 adieresis.salt adieresis.salt
 tcaron.salt tcaron.salt
@@ -608,7 +608,6 @@ ohungarumlaut.smcp ohungarumlaut.smcp
 dieresis.smcp dieresis.smcp
 M.salt M.salt
 wdieresis.smcp wdieresis.smcp
-n.superior n.superior
 tcommaaccent.smcp tcommaaccent.smcp
 Ncommaaccent.salt Ncommaaccent.salt
 uni00AD uni00AD uni00AD
@@ -643,18 +642,16 @@ X.salt X.salt
 f.smcp f.smcp
 n.salt n.salt
 uacute.salt uacute.salt
-tbar.smcp tbar.smcp
 cdotaccent.smcp cdotaccent.smcp
-jcircumflex.smcp jcircumflex.smcp
 product product uni220F
 seven.numerator seven.numerator
 quotedbl.smcp quotedbl.smcp
 eightinferior eightinferior uni2088
 six.tosf six.tosf
+tbar.smcp tbar.smcp
 eight.smcp eight.smcp
 question.smcp question.smcp
 six.denominator six.denominator
-Omega Omega uni03A9
 three.smcp three.smcp
 uring.salt uring.salt
 five.denominator five.denominator
@@ -669,7 +666,7 @@ zcaron.smcp zcaron.smcp
 lslash.smcp lslash.smcp
 quotedblbase.smcp quotedblbase.smcp
 uni1E57.smcp uni1E57.smcp
-v.smcp v.smcp
+adieresis.smcp adieresis.smcp
 two.numerator two.numerator
 ycircumflex.smcp ycircumflex.smcp
 uni1E0A uni1E0A uni1E0A
@@ -681,8 +678,10 @@ u.salt u.salt
 uni1E41.smcp uni1E41.smcp
 ordfeminine.smcp ordfeminine.smcp
 sevensuperior sevensuperior uni2077
+jcircumflex.smcp jcircumflex.smcp
 acircumflex.salt acircumflex.salt
-percent.smcp percent.smcp
+seven.denominator seven.denominator
+uni1E0B uni1E0B uni1E0B
 uni1E03 uni1E03 uni1E03
 q.smcp q.smcp
 partialdiff partialdiff uni2202
@@ -691,8 +690,9 @@ aogonek.salt aogonek.salt
 hbar.smcp hbar.smcp
 quoteright.smcp quoteright.smcp
 rcommaaccent.salt rcommaaccent.salt
+n.superior n.superior
 uni00B5 uni00B5 uni00B5
-exclam.smcp exclam.smcp
+uni000D uni000D uni000D
 six.oldstyle six.oldstyle
 s.superior s.superior
 h.smcp h.smcp
@@ -726,6 +726,6 @@ udieresis.smcp udieresis.smcp
 seven.oldstyle seven.oldstyle
 m.smcp m.smcp
 at.alt at.alt
+exclam.smcp exclam.smcp
 i.smcp i.smcp
 aring.salt aring.salt
-adieresis.smcp adieresis.smcp

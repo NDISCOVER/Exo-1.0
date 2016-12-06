@@ -1253,9 +1253,10 @@
 		<string>uni1E61.smcp</string>
 		<string>Euro</string>
 		<string>twothirds</string>
+		<string>uni2761</string>
 		<string>uni00AD.smcp</string>
 		<string>dotbelowcmb</string>
-		<string>u1046D</string>
+		<string>v.smcp</string>
 		<string>oslash.smcp</string>
 		<string>thorn.smcp</string>
 		<string>iogonek.smcp</string>
@@ -1287,14 +1288,14 @@
 		<string>abreve.smcp</string>
 		<string>seven.tnum</string>
 		<string>jacute</string>
+		<string>u1046D</string>
 		<string>u1046B</string>
 		<string>u1046C</string>
 		<string>u1046A</string>
 		<string>two.proplining</string>
-		<string>ring.smcp</string>
+		<string>horncmb.uc</string>
 		<string>ampersand.smcp</string>
 		<string>d.superior</string>
-		<string>seven.denominator</string>
 		<string>z.smcp</string>
 		<string>triaglf</string>
 		<string>six.tnum</string>
@@ -1337,10 +1338,8 @@
 		<string>twoinferior</string>
 		<string>zeroinferior</string>
 		<string>bracketright.case</string>
-		<string>zero.numerator</string>
 		<string>d.salt</string>
 		<string>Ndotbelow</string>
-		<string>gravecmb.uc</string>
 		<string>five.smcp</string>
 		<string>hungarumlautcmb</string>
 		<string>amacron.salt</string>
@@ -1359,6 +1358,7 @@
 		<string>gbreve.smcp</string>
 		<string>ecircumflex.smcp</string>
 		<string>uni1E41.salt</string>
+		<string>aringacute.alt</string>
 		<string>z.superior</string>
 		<string>three.proplining</string>
 		<string>uni1E1E</string>
@@ -1394,7 +1394,6 @@
 		<string>ncaron.salt</string>
 		<string>seven.proplining</string>
 		<string>f.superior</string>
-		<string>uni00B2</string>
 		<string>ubreve.salt</string>
 		<string>dcroat.smcp</string>
 		<string>u.smcp</string>
@@ -1455,12 +1454,14 @@
 		<string>triagdn</string>
 		<string>seven.propoldstyle</string>
 		<string>umacron.salt</string>
+		<string>uni2085</string>
 		<string>ntilde.salt</string>
+		<string>angleright</string>
 		<string>wcircumflex.smcp</string>
 		<string>figuredash</string>
 		<string>dcaron.smcp</string>
 		<string>b.smcp</string>
-		<string>uni000D</string>
+		<string>zero.numerator</string>
 		<string>agrave.salt</string>
 		<string>questiondown.smcp</string>
 		<string>Sigma</string>
@@ -1492,9 +1493,9 @@
 		<string>u10470</string>
 		<string>u10473</string>
 		<string>u10472</string>
+		<string>filledbox</string>
 		<string>nine.taboldstyle</string>
 		<string>uni0338</string>
-		<string>four.taboldstyle</string>
 		<string>eight.propoldstyle</string>
 		<string>three.taboldstyle</string>
 		<string>h.superior</string>
@@ -1507,7 +1508,7 @@
 		<string>kcommaaccent.smcp</string>
 		<string>uni01C8</string>
 		<string>f.lig.tall</string>
-		<string>aringacute.alt</string>
+		<string>uni01CA</string>
 		<string>f.salt</string>
 		<string>six.sup</string>
 		<string>r.salt</string>
@@ -1528,7 +1529,7 @@
 		<string>r.superior</string>
 		<string>u1047A</string>
 		<string>f_i</string>
-		<string>u1047C</string>
+		<string>f_j</string>
 		<string>u1047B</string>
 		<string>f_t</string>
 		<string>bullet.case</string>
@@ -1554,7 +1555,7 @@
 		<string>lacute.smcp</string>
 		<string>uni01CB</string>
 		<string>uni1E03.salt</string>
-		<string>uni01CA</string>
+		<string>Omega</string>
 		<string>adieresis.alt</string>
 		<string>endash.alt</string>
 		<string>hungarumlautcmb.uc</string>
@@ -1565,13 +1566,15 @@
 		<string>uni2082</string>
 		<string>uni2081</string>
 		<string>uni2080</string>
-		<string>asterisk.sup</string>
-		<string>uni2085</string>
+		<string>uni2087</string>
+		<string>uni2086</string>
+		<string>percent.smcp</string>
 		<string>uni2084</string>
 		<string>eight.proplining</string>
 		<string>i.superior</string>
 		<string>f_f_b</string>
 		<string>ucircumflex.smcp</string>
+		<string>ring.smcp</string>
 		<string>breveinvertedcmb</string>
 		<string>f_f_h</string>
 		<string>f_f_k</string>
@@ -1643,12 +1646,11 @@
 		<string>one.denominator</string>
 		<string>zero.tosf</string>
 		<string>lcaron.smcp</string>
-		<string>uni1E0B</string>
 		<string>f_h</string>
 		<string>four.numerator</string>
 		<string>adieresis.salt</string>
 		<string>tcaron.salt</string>
-		<string>f_j</string>
+		<string>u1047C</string>
 		<string>macron.smcp</string>
 		<string>uni1E40.salt</string>
 		<string>f_k</string>
@@ -1712,7 +1714,7 @@
 		<string>M.salt</string>
 		<string>wdieresis.smcp</string>
 		<string>aring.alt</string>
-		<string>n.superior</string>
+		<string>bracketleft.case</string>
 		<string>eight.sup</string>
 		<string>tcommaaccent.smcp</string>
 		<string>u10460</string>
@@ -1773,7 +1775,6 @@
 		<string>four.propoldstyle</string>
 		<string>grave.smcp</string>
 		<string>a.superior</string>
-		<string>filledbox</string>
 		<string>t.salt</string>
 		<string>ygrave.smcp</string>
 		<string>zero.sup.zero</string>
@@ -1781,16 +1782,15 @@
 		<string>tildecmb.uc</string>
 		<string>X.salt</string>
 		<string>circumflexcmb.uc</string>
-		<string>angleright</string>
 		<string>acute.uc</string>
+		<string>gravecmb.uc</string>
 		<string>f.smcp</string>
 		<string>n.salt</string>
 		<string>uacute.salt</string>
 		<string>macroncmb.uc</string>
-		<string>tbar.smcp</string>
 		<string>five.taboldstyle</string>
 		<string>cdotaccent.smcp</string>
-		<string>jcircumflex.smcp</string>
+		<string>asterisk.sup</string>
 		<string>product</string>
 		<string>longs.short</string>
 		<string>invsmileface</string>
@@ -1800,7 +1800,7 @@
 		<string>uni2762</string>
 		<string>uni2763</string>
 		<string>uni2760</string>
-		<string>uni2761</string>
+		<string>uni2008</string>
 		<string>uni2766</string>
 		<string>dieresiscmb</string>
 		<string>uni2764</string>
@@ -1819,6 +1819,7 @@
 		<string>macronbelowcmb</string>
 		<string>uni20BA</string>
 		<string>uni20BC</string>
+		<string>tbar.smcp</string>
 		<string>five.proplining</string>
 		<string>eight.smcp</string>
 		<string>smileface</string>
@@ -1826,16 +1827,16 @@
 		<string>zero.taboldstyle</string>
 		<string>question.smcp</string>
 		<string>six.denominator</string>
-		<string>Omega</string>
 		<string>abreve.alt</string>
 		<string>u1047F</string>
 		<string>three.smcp</string>
 		<string>uring.salt</string>
+		<string>i.TRK</string>
 		<string>zero.tablining.zero</string>
 		<string>brevecmb</string>
 		<string>five.denominator</string>
 		<string>uni01F2</string>
-		<string>uni2008</string>
+		<string>uni00B2</string>
 		<string>asterisk.smcp</string>
 		<string>ringcmb.uc</string>
 		<string>eightsuperior</string>
@@ -1855,12 +1856,11 @@
 		<string>quotedblbase.smcp</string>
 		<string>uni00670303.alt</string>
 		<string>uni1E57.smcp</string>
-		<string>v.smcp</string>
+		<string>adieresis.smcp</string>
 		<string>two.numerator</string>
 		<string>ycircumflex.smcp</string>
 		<string>uni1E0A</string>
 		<string>one.smcp</string>
-		<string>i.TRK</string>
 		<string>one.tablining</string>
 		<string>at.case</string>
 		<string>uni01EB</string>
@@ -1874,17 +1874,17 @@
 		<string>ordfeminine.smcp</string>
 		<string>musicalnote</string>
 		<string>sevensuperior</string>
-		<string>horncmb.uc</string>
+		<string>jcircumflex.smcp</string>
 		<string>acircumflex.salt</string>
-		<string>uni2087</string>
-		<string>uni2086</string>
+		<string>seven.denominator</string>
 		<string>five.sup</string>
-		<string>percent.smcp</string>
+		<string>uni1E0B</string>
 		<string>zero.proplining</string>
 		<string>three.sub</string>
 		<string>uni1E03</string>
 		<string>uni021A</string>
 		<string>uni021B</string>
+		<string>breve.uc</string>
 		<string>aacute.alt</string>
 		<string>agrave.alt</string>
 		<string>uni01F1</string>
@@ -1905,12 +1905,13 @@
 		<string>uni275E</string>
 		<string>uni275D</string>
 		<string>rcommaaccent.salt</string>
-		<string>bracketleft.case</string>
+		<string>n.superior</string>
 		<string>gcaron.alt</string>
 		<string>uni00B5</string>
-		<string>exclam.smcp</string>
+		<string>uni000D</string>
 		<string>six.oldstyle</string>
 		<string>zero.tablining</string>
+		<string>four.sup</string>
 		<string>s.superior</string>
 		<string>periodcentered.loclCAT.uc</string>
 		<string>h.smcp</string>
@@ -1965,6 +1966,7 @@
 		<string>uring.smcp</string>
 		<string>one.tnum</string>
 		<string>angleleft</string>
+		<string>four.taboldstyle</string>
 		<string>x.smcp</string>
 		<string>six.taboldstyle</string>
 		<string>adotbelow.alt</string>
@@ -1982,10 +1984,9 @@
 		<string>m.smcp</string>
 		<string>at.alt</string>
 		<string>thinspace</string>
-		<string>breve.uc</string>
+		<string>exclam.smcp</string>
 		<string>i.smcp</string>
 		<string>uni2074</string>
-		<string>four.sup</string>
 		<string>Pi</string>
 		<string>Ddotbelow</string>
 		<string>u1045E</string>
@@ -1995,7 +1996,6 @@
 		<string>u1045A</string>
 		<string>ringcmb</string>
 		<string>aring.salt</string>
-		<string>adieresis.smcp</string>
 	</array>
 </dict>
 </plist>

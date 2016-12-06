@@ -439,7 +439,6 @@
 				<string>uni02BC</string>
 				<string>uni030F</string>
 				<string>uni032D</string>
-				<string>uni0338</string>
 				<string>zero</string>
 				<string>one</string>
 				<string>two</string>
@@ -1163,7 +1162,6 @@
 				<string>gbreve.alt</string>
 				<string>gdotaccent.alt</string>
 				<string>gcaron.alt</string>
-				<string>caron.alt</string>
 				<string>hyphen.alt</string>
 				<string>endash.alt</string>
 				<string>emdash.alt</string>
@@ -1357,6 +1355,15 @@
 				<string>.notdef</string>
 				<string>w.salt</string>
 				<string>W.salt</string>
+				<string>brevecomb_hookabovecomb</string>
+				<string>circumflexcomb_acutecomb</string>
+				<string>brevecomb_tildecomb</string>
+				<string>strokeshortcomb</string>
+				<string>circumflexcomb_tildecomb</string>
+				<string>brevecomb_acutecomb</string>
+				<string>brevecomb_gravecomb</string>
+				<string>circumflexcomb_gravecomb</string>
+				<string>circumflexcomb_hookabovecomb</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>

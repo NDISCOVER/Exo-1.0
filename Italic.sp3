@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<designspace format="2">
+    <!-- Superpolator Designspace Object -->
+    <!-- info -->
+    <version superpolator="2"/>
+    <!-- measurements -->
+    <!-- application data -->
+    <data name="horizontalPreviewAxis" value="weight"/>
+    <data name="lineInverted" value="False"/>
+    <data name="lineViewFilled" value="True"/>
+    <data name="lineStacked" value="lined"/>
+    <data name="generateFontsAtFolder" value="/Users/rob/Dropbox/Work/2016/Google Fonts/02_Production/Exo-2016/instances"/>
+    <data name="previewtext" value="OHamburgefontives ABCDEFGHIJKLmnopqrstuvwxyz"/>
+    <data name="verticalPreviewAxis" value="None"/>
+    <!-- don't generate these glyphs -->
+    <ignore glyphs=""/>
+    <!-- axis definitions -->
+    <axis initialvalue="0.000000" maximum="1000.000000" minimum="0.000000" name="weight" shortname="wt">
+        <color a="1.000" b="0.764" g="0.000" r="0.989"/>
+    </axis>
+    <!-- master definitions -->
+    <master familyname="Exo" filename="ufo/Exo-ThinItalic.ufo" sortorder="0" stylename="ThinItalic">
+        <location>
+            <dimension name="weight" xvalue="100.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <master familyname="Exo" filename="ufo/Exo-BlackItalic.ufo" sortorder="8" stylename="BlackItalic">
+        <location>
+            <dimension name="weight" xvalue="900.000000"/>
+        </location>
+        <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+    </master>
+    <!-- instance definitions -->
+    <instance familyname="Exo" filename="instances/Exo-ExtraLightItalic.ufo" sortorder="1" stylename="ExtraLight Italic">
+        <location>
+            <dimension name="weight" xvalue="180.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Exo" filename="instances/Exo-LightItalic.ufo" sortorder="2" stylename="Light Italic">
+        <location>
+            <dimension name="weight" xvalue="275.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Exo" filename="instances/Exo-Italic.ufo" sortorder="3" stylename="Italic">
+        <location>
+            <dimension name="weight" xvalue="370.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Exo" filename="instances/Exo-MediumItalic.ufo" sortorder="4" stylename="Medium Italic">
+        <location>
+            <dimension name="weight" xvalue="460.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Exo" filename="instances/Exo-DemiboldItalic.ufo" sortorder="5" stylename="Demibold Italic">
+        <location>
+            <dimension name="weight" xvalue="600.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Exo" filename="instances/Exo-BoldItalic.ufo" sortorder="6" stylename="Bold Italic">
+        <location>
+            <dimension name="weight" xvalue="700.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+    <instance familyname="Exo" filename="instances/Exo-ExtraBoldItalic.ufo" sortorder="7" stylename="ExtraBold Italic">
+        <location>
+            <dimension name="weight" xvalue="800.000000"/>
+        </location>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
+    </instance>
+</designspace>

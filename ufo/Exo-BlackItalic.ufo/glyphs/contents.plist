@@ -294,6 +294,8 @@
 	<string>acute.glif</string>
 	<key>acute.smcp</key>
 	<string>acute.smcp.glif</string>
+	<key>acutecomb</key>
+	<string>acutecomb.glif</string>
 	<key>adieresis</key>
 	<string>adieresis.glif</string>
 	<key>adieresis.salt</key>
@@ -332,6 +334,8 @@
 	<string>aogonek.salt.glif</string>
 	<key>aogonek.smcp</key>
 	<string>aogonek.smcp.glif</string>
+	<key>apostrophemod</key>
+	<string>apostrophemod.glif</string>
 	<key>approxequal</key>
 	<string>approxequal.glif</string>
 	<key>aring</key>
@@ -382,6 +386,12 @@
 	<string>bracketright.glif</string>
 	<key>breve</key>
 	<string>breve.glif</string>
+	<key>brevebelowcomb</key>
+	<string>brevebelowcomb.glif</string>
+	<key>brevecomb</key>
+	<string>brevecomb.glif</string>
+	<key>breveinvertedcomb</key>
+	<string>breveinvertedcomb.glif</string>
 	<key>brokenbar</key>
 	<string>brokenbar.glif</string>
 	<key>bullet</key>
@@ -408,6 +418,10 @@
 	<string>caron.glif</string>
 	<key>caron.smcp</key>
 	<string>caron.smcp.glif</string>
+	<key>caroncomb</key>
+	<string>caroncomb.glif</string>
+	<key>caroncomb.alt</key>
+	<string>caroncomb.alt.glif</string>
 	<key>ccaron</key>
 	<string>ccaron.glif</string>
 	<key>ccaron.smcp</key>
@@ -426,16 +440,24 @@
 	<string>cdotaccent.smcp.glif</string>
 	<key>cedilla</key>
 	<string>cedilla.glif</string>
+	<key>cedillacomb</key>
+	<string>cedillacomb.glif</string>
 	<key>cent</key>
 	<string>cent.glif</string>
 	<key>circumflex</key>
 	<string>circumflex.glif</string>
 	<key>circumflex.smcp</key>
 	<string>circumflex.smcp.glif</string>
+	<key>circumflexcomb</key>
+	<string>circumflexcomb.glif</string>
 	<key>colon</key>
 	<string>colon.glif</string>
 	<key>comma</key>
 	<string>comma.glif</string>
+	<key>commaaccentcomb</key>
+	<string>commaaccentcomb.glif</string>
+	<key>commaturnedabovecomb</key>
+	<string>commaturnedabovecomb.glif</string>
 	<key>copyright</key>
 	<string>copyright.glif</string>
 	<key>currency</key>
@@ -452,6 +474,8 @@
 	<string>dagger.glif</string>
 	<key>daggerdbl</key>
 	<string>daggerdbl.glif</string>
+	<key>dblgravecomb</key>
+	<string>dblgravecomb.glif</string>
 	<key>dcaron</key>
 	<string>dcaron.glif</string>
 	<key>dcaron.salt</key>
@@ -472,6 +496,10 @@
 	<string>dieresis.glif</string>
 	<key>dieresis.smcp</key>
 	<string>dieresis.smcp.glif</string>
+	<key>dieresisbelowcomb</key>
+	<string>dieresisbelowcomb.glif</string>
+	<key>dieresiscomb</key>
+	<string>dieresiscomb.glif</string>
 	<key>divide</key>
 	<string>divide.glif</string>
 	<key>dollar</key>
@@ -480,6 +508,10 @@
 	<string>dollar.smcp.glif</string>
 	<key>dotaccent</key>
 	<string>dotaccent.glif</string>
+	<key>dotaccentcomb</key>
+	<string>dotaccentcomb.glif</string>
+	<key>dotbelowcomb</key>
+	<string>dotbelowcomb.glif</string>
 	<key>dotlessi</key>
 	<string>dotlessi.glif</string>
 	<key>e</key>
@@ -676,6 +708,8 @@
 	<string>grave.glif</string>
 	<key>grave.smcp</key>
 	<string>grave.smcp.glif</string>
+	<key>gravecomb</key>
+	<string>gravecomb.glif</string>
 	<key>greater</key>
 	<string>greater.glif</string>
 	<key>greaterequal</key>
@@ -702,8 +736,14 @@
 	<string>hcircumflex.glif</string>
 	<key>hcircumflex.smcp</key>
 	<string>hcircumflex.smcp.glif</string>
+	<key>hookabovecomb</key>
+	<string>hookabovecomb.glif</string>
+	<key>horncomb</key>
+	<string>horncomb.glif</string>
 	<key>hungarumlaut</key>
 	<string>hungarumlaut.glif</string>
+	<key>hungarumlautcomb</key>
+	<string>hungarumlautcomb.glif</string>
 	<key>hyphen</key>
 	<string>hyphen.glif</string>
 	<key>hyphen.alt</key>
@@ -816,6 +856,10 @@
 	<string>macron.glif</string>
 	<key>macron.smcp</key>
 	<string>macron.smcp.glif</string>
+	<key>macronbelowcomb</key>
+	<string>macronbelowcomb.glif</string>
+	<key>macroncomb</key>
+	<string>macroncomb.glif</string>
 	<key>minus</key>
 	<string>minus.glif</string>
 	<key>multiply</key>
@@ -900,6 +944,8 @@
 	<string>oe.smcp.glif</string>
 	<key>ogonek</key>
 	<string>ogonek.glif</string>
+	<key>ogonekcomb</key>
+	<string>ogonekcomb.glif</string>
 	<key>ograve</key>
 	<string>ograve.glif</string>
 	<key>ograve.smcp</key>
@@ -1078,6 +1124,8 @@
 	<string>ring.glif</string>
 	<key>ring.smcp</key>
 	<string>ring.smcp.glif</string>
+	<key>ringcomb</key>
+	<string>ringcomb.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
 	<key>s.smcp</key>
@@ -1210,6 +1258,8 @@
 	<string>tilde.glif</string>
 	<key>tilde.smcp</key>
 	<string>tilde.smcp.glif</string>
+	<key>tildecomb</key>
+	<string>tildecomb.glif</string>
 	<key>trademark</key>
 	<string>trademark.glif</string>
 	<key>two</key>

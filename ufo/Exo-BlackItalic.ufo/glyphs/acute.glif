@@ -4,10 +4,10 @@
   <unicode hex="00B4"/>
   <outline>
     <contour>
-      <point x="95" y="531" type="line"/>
-      <point x="195" y="674" type="line"/>
-      <point x="340" y="674" type="line"/>
-      <point x="204" y="531" type="line"/>
+      <point x="111" y="631" type="line"/>
+      <point x="235" y="631" type="line"/>
+      <point x="356" y="774" type="line"/>
+      <point x="192" y="774" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,9 +27,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>95</integer>
+            <integer>11</integer>
             <key>width</key>
-            <integer>245</integer>
+            <integer>222</integer>
           </dict>
         </array>
       </dict>
@@ -54,7 +54,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>95</integer>
+                  <integer>11</integer>
                   <key>y</key>
                   <integer>531</integer>
                 </dict>
@@ -64,7 +64,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>195</integer>
+                  <integer>88</integer>
                   <key>y</key>
                   <integer>674</integer>
                 </dict>
@@ -74,7 +74,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>340</integer>
+                  <integer>233</integer>
                   <key>y</key>
                   <integer>674</integer>
                 </dict>
@@ -84,7 +84,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>204</integer>
+                  <integer>120</integer>
                   <key>y</key>
                   <integer>531</integer>
                 </dict>
@@ -103,6 +103,13 @@
           <integer>244</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

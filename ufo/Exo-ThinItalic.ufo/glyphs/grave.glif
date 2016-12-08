@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="grave" format="1">
-  <advance width="219"/>
+  <advance width="201"/>
   <unicode hex="0060"/>
   <outline>
     <contour>
-      <point x="125" y="664" type="line"/>
-      <point x="151" y="664" type="line"/>
-      <point x="251" y="531" type="line"/>
-      <point x="237" y="531" type="line"/>
+      <point x="148" y="764" type="line"/>
+      <point x="260" y="631" type="line"/>
+      <point x="274" y="631" type="line"/>
+      <point x="174" y="764" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,9 +27,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>125</integer>
+            <integer>27</integer>
             <key>width</key>
-            <integer>126</integer>
+            <integer>147</integer>
           </dict>
         </array>
       </dict>
@@ -54,7 +54,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>125</integer>
+                  <integer>27</integer>
                   <key>y</key>
                   <integer>664</integer>
                 </dict>
@@ -64,7 +64,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>151</integer>
+                  <integer>53</integer>
                   <key>y</key>
                   <integer>664</integer>
                 </dict>
@@ -74,7 +74,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>251</integer>
+                  <integer>174</integer>
                   <key>y</key>
                   <integer>531</integer>
                 </dict>
@@ -84,7 +84,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>237</integer>
+                  <integer>160</integer>
                   <key>y</key>
                   <integer>531</integer>
                 </dict>
@@ -100,7 +100,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>219</integer>
+          <integer>201</integer>
         </dict>
       </dict>
     </dict>

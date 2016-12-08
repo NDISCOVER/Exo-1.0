@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caroncomb.alt" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="56" y="633" type="line"/>
+      <point x="87" y="767" type="line"/>
+      <point x="109" y="834" type="line"/>
+      <point x="274" y="834" type="line"/>
+      <point x="252" y="767" type="line"/>
+      <point x="200" y="633" type="line"/>
+    </contour>
+    <contour>
+      <point x="14" y="650" type="move" name="_altcaron"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

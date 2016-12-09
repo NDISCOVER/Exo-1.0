@@ -1,54 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedblleft" format="1">
-  <advance width="265.0"/>
+  <advance width="235.0"/>
   <unicode hex="201C"/>
   <outline>
-    <contour>
-      <point x="65" y="589" type="curve" smooth="yes"/>
-      <point x="65" y="693" type="line" smooth="yes"/>
-      <point x="65" y="742"/>
-      <point x="102" y="731"/>
-      <point x="102" y="731" type="curve"/>
-      <point x="102" y="724" type="line"/>
-      <point x="84" y="725"/>
-      <point x="84" y="712"/>
-      <point x="84" y="705" type="curve" smooth="yes"/>
-      <point x="84" y="668" type="line"/>
-      <point x="90" y="668" type="line" smooth="yes"/>
-      <point x="98" y="668"/>
-      <point x="106" y="662"/>
-      <point x="106" y="652" type="curve" smooth="yes"/>
-      <point x="106" y="589" type="line" smooth="yes"/>
-      <point x="106" y="578"/>
-      <point x="100" y="573"/>
-      <point x="90" y="573" type="curve" smooth="yes"/>
-      <point x="79" y="573" type="line" smooth="yes"/>
-      <point x="68" y="573"/>
-      <point x="65" y="580"/>
-    </contour>
-    <contour>
-      <point x="161" y="589" type="curve" smooth="yes"/>
-      <point x="161" y="693" type="line" smooth="yes"/>
-      <point x="161" y="742"/>
-      <point x="199" y="731"/>
-      <point x="199" y="731" type="curve"/>
-      <point x="199" y="724" type="line"/>
-      <point x="181" y="725"/>
-      <point x="180" y="712"/>
-      <point x="180" y="705" type="curve" smooth="yes"/>
-      <point x="180" y="668" type="line"/>
-      <point x="187" y="668" type="line" smooth="yes"/>
-      <point x="195" y="668"/>
-      <point x="202" y="662"/>
-      <point x="202" y="652" type="curve" smooth="yes"/>
-      <point x="202" y="589" type="line" smooth="yes"/>
-      <point x="202" y="578"/>
-      <point x="197" y="573"/>
-      <point x="187" y="573" type="curve" smooth="yes"/>
-      <point x="176" y="573" type="line" smooth="yes"/>
-      <point x="165" y="573"/>
-      <point x="161" y="580"/>
-    </contour>
+    <component base="quoteleft"/>
+    <component base="quoteleft" xOffset="80"/>
   </outline>
   <lib>
     <dict>
@@ -509,7 +465,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>265.0</real>
+          <real>235.0</real>
         </dict>
       </dict>
     </dict>

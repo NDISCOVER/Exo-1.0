@@ -1,4 +1,5 @@
 space space uni0020
+nbspace nbspace uni00A0
 A A uni0041
 B B uni0042
 C C uni0043
@@ -187,6 +188,7 @@ Scaron Scaron uni0160
 scaron scaron uni0161
 Scedilla Scedilla uni015E
 scedilla scedilla uni015F
+Germandbls Germandbls uni1E9E
 germandbls germandbls uni00DF
 Tcaron Tcaron uni0164
 tcaron tcaron uni0165
@@ -254,15 +256,40 @@ grave grave uni0060
 acute acute uni00B4
 circumflex circumflex uni02C6
 caron caron uni02C7
+caroncomb.alt caroncomb.alt
 tilde tilde uni02DC
 dieresis dieresis uni00A8
 macron macron uni00AF
+apostrophemod apostrophemod uni02BC
 breve breve uni02D8
 ring ring uni02DA
 hungarumlaut hungarumlaut uni02DD
 dotaccent dotaccent uni02D9
 cedilla cedilla uni00B8
 ogonek ogonek uni02DB
+gravecomb gravecomb
+acutecomb acutecomb
+circumflexcomb circumflexcomb
+tildecomb tildecomb
+macroncomb macroncomb
+brevecomb brevecomb
+dotaccentcomb dotaccentcomb
+dieresiscomb dieresiscomb
+hookabovecomb hookabovecomb
+ringcomb ringcomb
+hungarumlautcomb hungarumlautcomb
+caroncomb caroncomb
+breveinvertedcomb breveinvertedcomb
+dblgravecomb dblgravecomb
+horncomb horncomb
+dotbelowcomb dotbelowcomb
+dieresisbelowcomb dieresisbelowcomb
+commaaccentcomb commaaccentcomb
+commaturnedabovecomb commaturnedabovecomb
+cedillacomb cedillacomb
+ogonekcomb ogonekcomb
+brevebelowcomb brevebelowcomb
+macronbelowcomb macronbelowcomb
 hyphen hyphen uni002D
 endash endash uni2013
 emdash emdash uni2014

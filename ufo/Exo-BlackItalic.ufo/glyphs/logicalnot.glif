@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="logicalnot" format="1">
-  <advance width="466"/>
+  <advance width="609"/>
   <unicode hex="00AC"/>
   <outline>
     <contour>
-      <point x="55" y="226" type="line"/>
-      <point x="78" y="370" type="line"/>
-      <point x="505" y="370" type="line"/>
-      <point x="496" y="313"/>
-      <point x="480" y="216"/>
-      <point x="471" y="159" type="curve"/>
-      <point x="327" y="159" type="line"/>
-      <point x="338" y="226" type="line"/>
+      <point x="553" y="159" type="line"/>
+      <point x="602" y="467" type="line"/>
+      <point x="448" y="467" type="line"/>
+      <point x="399" y="159" type="line"/>
     </contour>
+    <component base="minus" xOffset="19" yOffset="120"/>
   </outline>
   <lib>
     <dict>
@@ -33,6 +30,15 @@
             <integer>144</integer>
           </dict>
         </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>303</integer>
+            <key>width</key>
+            <integer>144</integer>
+          </dict>
+        </array>
       </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
@@ -43,6 +49,19 @@
           </array>
           <key>components</key>
           <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>equal</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
           </array>
           <key>contours</key>
           <array>
@@ -55,7 +74,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>55</integer>
+                  <integer>20</integer>
                   <key>y</key>
                   <integer>226</integer>
                 </dict>
@@ -65,7 +84,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>78</integer>
+                  <integer>20</integer>
                   <key>y</key>
                   <integer>370</integer>
                 </dict>
@@ -75,7 +94,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>505</integer>
+                  <integer>447</integer>
                   <key>y</key>
                   <integer>370</integer>
                 </dict>
@@ -83,7 +102,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>496</integer>
+                  <integer>447</integer>
                   <key>y</key>
                   <integer>313</integer>
                 </dict>
@@ -91,7 +110,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>480</integer>
+                  <integer>447</integer>
                   <key>y</key>
                   <integer>216</integer>
                 </dict>
@@ -101,7 +120,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>471</integer>
+                  <integer>447</integer>
                   <key>y</key>
                   <integer>159</integer>
                 </dict>
@@ -111,7 +130,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>327</integer>
+                  <integer>303</integer>
                   <key>y</key>
                   <integer>159</integer>
                 </dict>
@@ -121,7 +140,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>338</integer>
+                  <integer>303</integer>
                   <key>y</key>
                   <integer>226</integer>
                 </dict>
@@ -137,7 +156,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>466</integer>
+          <integer>609</integer>
         </dict>
       </dict>
     </dict>

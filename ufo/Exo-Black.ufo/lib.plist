@@ -4,6 +4,19 @@
 <dict>
 	<key>com.loicsander.scaleFast</key>
 	<dict>
+		<key>batchGenerationList</key>
+		<array>
+			<dict>
+				<key>glyphset</key>
+				<string></string>
+				<key>preset</key>
+				<string>Preset name</string>
+				<key>suffix</key>
+				<string></string>
+				<key>↳</key>
+				<false/>
+			</dict>
+		</array>
 		<key>guides</key>
 		<array>
 		</array>

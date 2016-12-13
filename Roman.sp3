@@ -10,8 +10,10 @@
     <data name="lineViewFilled" value="True"/>
     <data name="lineStacked" value="lined"/>
     <data name="generateFontsAtFolder" value="/Users/rob/Dropbox/Work/2016/Google Fonts/02_Production/Exo-2016/instances"/>
-    <data name="previewtext" value="OHamburgefontives ABCDEFGHIJKLmnopqrstuvwxyz"/>
+    <data name="previewtext" value="H“l”Ill /one.tnum !?æßƒ×a"/>
     <data name="verticalPreviewAxis" value="None"/>
+    <!-- snippet definitions -->
+    <snippet direction="ltr" text="OHamburgefontives ABCDEFGHIJKLmnopqrstuvwxyz 01234"/>
     <!-- don't generate these glyphs -->
     <ignore glyphs=""/>
     <!-- axis definitions -->
@@ -19,13 +21,13 @@
         <color a="1.000" b="0.764" g="0.000" r="0.989"/>
     </axis>
     <!-- master definitions -->
-    <master familyname="Exo" filename="ufo/Exo-Thin.ufo" sortorder="0" stylename="Thin">
+    <master familyname="Exo 2016" filename="ufo/Exo-Thin.ufo" sortorder="0" stylename="Thin">
         <location>
             <dimension name="weight" xvalue="100.000000"/>
         </location>
         <color a="1.000" b="0.300" g="0.300" r="0.300"/>
     </master>
-    <master familyname="Exo" filename="ufo/Exo-Black.ufo" sortorder="8" stylename="Black">
+    <master familyname="Exo 2016" filename="ufo/Exo-Black.ufo" sortorder="8" stylename="Black">
         <location>
             <dimension name="weight" xvalue="900.000000"/>
         </location>

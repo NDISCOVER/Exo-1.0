@@ -9,6 +9,72 @@
 		</array>
 		<key>presets</key>
 		<dict>
+			<key>Thin smcp</key>
+			<dict>
+				<key>hstem</key>
+				<real>22.0</real>
+				<key>isotropic</key>
+				<integer>1</integer>
+				<key>keepSidebearings</key>
+				<false/>
+				<key>posX</key>
+				<integer>0</integer>
+				<key>posY</key>
+				<integer>0</integer>
+				<key>referenceHeight</key>
+				<string>capHeight</string>
+				<key>stemRapport</key>
+				<string>ratio</string>
+				<key>stickyPos</key>
+				<array>
+					<string>bottom</string>
+					<string>baseline</string>
+				</array>
+				<key>targetHeight</key>
+				<real>560.0</real>
+				<key>tracking</key>
+				<array>
+					<integer>12</integer>
+					<string>upm</string>
+				</array>
+				<key>vstem</key>
+				<real>24.0</real>
+				<key>width</key>
+				<real>1.06</real>
+			</dict>
+			<key>Thin sups</key>
+			<dict>
+				<key>hstem</key>
+				<real>18.0</real>
+				<key>isotropic</key>
+				<integer>1</integer>
+				<key>keepSidebearings</key>
+				<false/>
+				<key>posX</key>
+				<integer>0</integer>
+				<key>posY</key>
+				<integer>355</integer>
+				<key>referenceHeight</key>
+				<string>capHeight</string>
+				<key>stemRapport</key>
+				<string>ratio</string>
+				<key>stickyPos</key>
+				<array>
+					<string>bottom</string>
+					<string>baseline</string>
+				</array>
+				<key>targetHeight</key>
+				<real>487.0</real>
+				<key>tracking</key>
+				<array>
+					<integer>0</integer>
+					<string>upm</string>
+				</array>
+				<key>vstem</key>
+				<real>22.0</real>
+				<key>width</key>
+				<real>1.02</real>
+			</dict>
 		</dict>
 	</dict>
 	<key>com.typemytype.robofont.background.layerStrokeColor</key>

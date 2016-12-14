@@ -306,6 +306,7 @@ question question uni003F
 questiondown questiondown uni00BF
 ellipsis ellipsis uni2026
 periodcentered periodcentered uni00B7
+periodcentered.loclCAT periodcentered.loclCAT
 bullet bullet uni2022
 slash slash uni002F
 backslash backslash uni005C
@@ -327,6 +328,8 @@ quotesinglbase quotesinglbase uni201A
 quotedblbase quotedblbase uni201E
 guilsinglleft guilsinglleft uni2039
 guilsinglright guilsinglright uni203A
+guillemetleft guillemetleft
+guillemetright guillemetright
 paragraph paragraph uni00B6
 numbersign numbersign uni0023
 zero zero uni0030
@@ -782,12 +785,12 @@ at.alt at.alt
 exclam.smcp exclam.smcp
 i.smcp i.smcp
 aring.salt aring.salt
-brevecomb_acutecomb brevecomb_acutecomb
-brevecomb_gravecomb brevecomb_gravecomb
 brevecomb_hookabovecomb brevecomb_hookabovecomb
-brevecomb_tildecomb brevecomb_tildecomb
 circumflexcomb_acutecomb circumflexcomb_acutecomb
-circumflexcomb_gravecomb circumflexcomb_gravecomb
-circumflexcomb_hookabovecomb circumflexcomb_hookabovecomb
-circumflexcomb_tildecomb circumflexcomb_tildecomb
+brevecomb_tildecomb brevecomb_tildecomb
 strokeshortcomb strokeshortcomb
+brevecomb_acutecomb brevecomb_acutecomb
+circumflexcomb_tildecomb circumflexcomb_tildecomb
+brevecomb_gravecomb brevecomb_gravecomb
+circumflexcomb_hookabovecomb circumflexcomb_hookabovecomb
+circumflexcomb_gravecomb circumflexcomb_gravecomb

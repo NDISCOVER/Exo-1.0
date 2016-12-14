@@ -7,19 +7,19 @@
       <point x="30" y="0" type="line"/>
       <point x="543" y="0" type="line"/>
       <point x="543" y="174" type="line"/>
-      <point x="265" y="174" type="line"/>
+      <point x="258" y="174" type="line"/>
       <point x="543" y="589" type="line"/>
       <point x="543" y="743" type="line"/>
       <point x="30" y="743" type="line"/>
       <point x="30" y="569" type="line"/>
-      <point x="308" y="569" type="line"/>
+      <point x="315" y="569" type="line"/>
       <point x="30" y="154" type="line"/>
     </contour>
     <contour>
-      <point x="280" y="810" type="move" name="top"/>
+      <point x="280.0" y="810.0" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="280" y="-150" type="move" name="bottom"/>
+      <point x="280.0" y="-150.0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

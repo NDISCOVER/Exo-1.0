@@ -2,7 +2,14 @@
 <glyph name="caroncomb.alt" format="1">
   <advance width="0"/>
   <outline>
-    <component base="quotesingle" xOffset="-110" yOffset="51"/>
+    <contour>
+      <point x="-59" y="566" type="line"/>
+      <point x="-47" y="566" type="line"/>
+      <point x="-41" y="724" type="line"/>
+      <point x="-41" y="791" type="line"/>
+      <point x="-66" y="791" type="line"/>
+      <point x="-66" y="724" type="line"/>
+    </contour>
     <contour>
       <point x="-99" y="650" type="move" name="_altcaron"/>
     </contour>

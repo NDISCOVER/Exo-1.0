@@ -3,15 +3,20 @@
   <advance width="0"/>
   <outline>
     <contour>
-      <point x="-270" y="721" type="line"/>
       <point x="-416" y="631" type="line"/>
       <point x="-398" y="631" type="line"/>
       <point x="-262" y="706" type="line"/>
       <point x="-162" y="631" type="line"/>
       <point x="-144" y="631" type="line"/>
       <point x="-250" y="721" type="line"/>
+      <point x="-270" y="721" type="line"/>
     </contour>
-    <component base="acutecomb" xOffset="100" yOffset="70"/>
+    <contour>
+      <point x="-183" y="701" type="line"/>
+      <point x="-169" y="701" type="line"/>
+      <point x="-15" y="834" type="line"/>
+      <point x="-41" y="834" type="line"/>
+    </contour>
     <contour>
       <point x="-269.0" y="650.0" type="move" name="_top"/>
     </contour>

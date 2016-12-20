@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four.smcp" format="1">
-  <advance width="568"/>
+  <advance width="540"/>
   <outline>
     <contour>
-      <point x="11" y="205" type="line"/>
-      <point x="169" y="570" type="line"/>
-      <point x="370" y="570" type="line"/>
-      <point x="249" y="276" type="line"/>
-      <point x="313" y="276" type="line"/>
-      <point x="313" y="361" type="line"/>
-      <point x="350" y="456" type="line"/>
-      <point x="507" y="456" type="line"/>
-      <point x="507" y="276" type="line"/>
-      <point x="557" y="276" type="line"/>
-      <point x="557" y="127" type="line"/>
-      <point x="507" y="108" type="line"/>
-      <point x="507" y="2" type="line"/>
-      <point x="313" y="2" type="line"/>
-      <point x="313" y="108" type="line"/>
-      <point x="58" y="108" type="line"/>
+      <point x="27" y="166" type="line"/>
+      <point x="59" y="91" type="line"/>
+      <point x="295" y="91" type="line"/>
+      <point x="295" y="0" type="line"/>
+      <point x="479" y="0" type="line"/>
+      <point x="479" y="91" type="line"/>
+      <point x="516" y="117" type="line"/>
+      <point x="516" y="237" type="line"/>
+      <point x="479" y="237" type="line"/>
+      <point x="479" y="378" type="line"/>
+      <point x="329" y="378" type="line"/>
+      <point x="295" y="299" type="line"/>
+      <point x="295" y="237" type="line"/>
+      <point x="247" y="237" type="line"/>
+      <point x="370" y="560" type="line"/>
+      <point x="183" y="560" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,12 +33,24 @@
             <key>width</key>
             <integer>21</integer>
           </dict>
+          <dict>
+            <key>position</key>
+            <integer>137</integer>
+            <key>width</key>
+            <integer>178</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>712</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>313</integer>
+            <integer>370</integer>
             <key>width</key>
             <integer>194</integer>
           </dict>
@@ -231,9 +243,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>568</integer>
+          <integer>540</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

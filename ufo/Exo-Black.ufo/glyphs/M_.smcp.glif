@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M.smcp" format="1">
+  <advance width="773"/>
+  <outline>
+    <contour>
+      <point x="34" y="0" type="line"/>
+      <point x="105" y="560" type="line"/>
+      <point x="276" y="560" type="line"/>
+      <point x="387" y="196" type="line"/>
+      <point x="499" y="560" type="line"/>
+      <point x="667" y="560" type="line"/>
+      <point x="739" y="0" type="line"/>
+      <point x="562" y="0" type="line"/>
+      <point x="521" y="319" type="line"/>
+      <point x="547" y="318" type="line"/>
+      <point x="472" y="0" type="line"/>
+      <point x="299" y="0" type="line"/>
+      <point x="223" y="318" type="line"/>
+      <point x="252" y="319" type="line"/>
+      <point x="212" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="376" y="650" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>712</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

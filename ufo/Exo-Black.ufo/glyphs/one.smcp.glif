@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.smcp" format="1">
-  <advance width="379"/>
+  <advance width="330"/>
   <outline>
     <contour>
-      <point x="22" y="366" type="line"/>
-      <point x="22" y="489" type="line"/>
-      <point x="142" y="570" type="line"/>
-      <point x="334" y="570" type="line"/>
-      <point x="334" y="0" type="line"/>
-      <point x="140" y="0" type="line"/>
-      <point x="140" y="386" type="line"/>
+      <point x="24" y="410" type="line"/>
+      <point x="109" y="409" type="line"/>
+      <point x="109" y="0" type="line"/>
+      <point x="293" y="0" type="line"/>
+      <point x="293" y="564" type="line"/>
+      <point x="131" y="564" type="line"/>
+      <point x="24" y="521" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -23,6 +23,12 @@
             <integer>0</integer>
             <key>width</key>
             <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>712</integer>
+            <key>width</key>
+            <integer>20</integer>
           </dict>
         </array>
         <key>vhints</key>
@@ -132,9 +138,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>379</integer>
+          <integer>330</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

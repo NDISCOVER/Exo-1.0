@@ -2,10 +2,9 @@
 <glyph name="dotbelowcomb.case" format="1">
   <advance width="0"/>
   <outline>
-    <component base="dotaccentcmb" yOffset="-850"/>
-    <component base="dotaccentcomb" yOffset="-870"/>
+    <component base="dotaccentcomb" xOffset="5" yOffset="-870"/>
     <contour>
-      <point x="-267.0" y="-150.0" type="move" name="_bottom"/>
+      <point x="-267" y="-150" type="move" name="_bottom"/>
     </contour>
   </outline>
 </glyph>

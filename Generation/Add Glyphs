@@ -220,15 +220,15 @@ Rinvertedbreve=R+breveinvertedcomb.case@top
 rinvertedbreve=r+breveinvertedcomb@top
 Udblgrave=U+dblgravecomb.case@top
 udblgrave=u+dblgravecomb@top
-Uinvertedbreve=U+reveinvertedcomb.case@top
+Uinvertedbreve=U+breveinvertedcomb.case@top
 uinvertedbreve=u+breveinvertedcomb@top
 
-Odieresismacron=O+
-odieresismacron=o+
-Otildemacron=O+
-otildemacron=o+
-Odotaccentmacron=O+
-odotaccentmacron=o+
+Odieresismacron=O+dieresiscomb.case@top+macroncomb.case@top
+odieresismacron=o+dieresiscomb@top+macroncomb@top
+Otildemacron=O+macroncomb.case@top+tildecomb.case@top
+otildemacron=o+macroncomb@top+tildecomb@top
+Odotaccentmacron=O+dotaccentcomb.case@top+macroncomb.case@top
+odotaccentmacron=o+dotaccentcomb@top+macroncomb@top
 
 Abreveacute=A+brevecomb_acutecomb@top
 Abrevedotbelow=A+brevecomb.case@top+dotbelowcomb.case@bottom

@@ -1,24 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="guillemotright" format="1">
-  <advance width="607"/>
+  <advance width="626.0"/>
   <unicode hex="00BB"/>
   <outline>
-    <contour>
-      <point x="275" y="244" type="line"/>
-      <point x="386" y="354" type="line"/>
-      <point x="276" y="462" type="line"/>
-      <point x="373" y="557" type="line"/>
-      <point x="579" y="354" type="line"/>
-      <point x="368" y="146" type="line"/>
-    </contour>
-    <contour>
-      <point x="28" y="244" type="line"/>
-      <point x="139" y="354" type="line"/>
-      <point x="29" y="462" type="line"/>
-      <point x="126" y="557" type="line"/>
-      <point x="332" y="354" type="line"/>
-      <point x="121" y="146" type="line"/>
-    </contour>
+    <component base="guillemetright"/>
   </outline>
   <lib>
     <dict>
@@ -174,7 +159,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>607</integer>
+          <real>626.0</real>
         </dict>
       </dict>
     </dict>

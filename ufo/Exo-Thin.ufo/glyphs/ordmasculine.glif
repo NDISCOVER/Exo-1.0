@@ -1,42 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ordmasculine" format="1">
-  <advance width="381"/>
+  <advance width="435.0"/>
   <unicode hex="00BA"/>
   <outline>
     <contour>
-      <point x="56" y="550" type="curve" smooth="yes"/>
-      <point x="56" y="423"/>
-      <point x="83" y="389"/>
-      <point x="192" y="389" type="curve" smooth="yes"/>
-      <point x="294" y="389"/>
-      <point x="324" y="414"/>
-      <point x="324" y="550" type="curve" smooth="yes"/>
-      <point x="324" y="686"/>
-      <point x="304" y="721"/>
-      <point x="192" y="721" type="curve" smooth="yes"/>
-      <point x="87" y="721"/>
-      <point x="56" y="697"/>
+      <point x="61" y="271" type="line"/>
+      <point x="374" y="271" type="line"/>
+      <point x="374" y="291" type="line"/>
+      <point x="61" y="291" type="line"/>
     </contour>
-    <contour>
-      <point x="52" y="291" type="line"/>
-      <point x="52" y="304" type="line"/>
-      <point x="332" y="304" type="line"/>
-      <point x="332" y="291" type="line"/>
-    </contour>
-    <contour>
-      <point x="40" y="550" type="curve" smooth="yes"/>
-      <point x="40" y="692"/>
-      <point x="65" y="737"/>
-      <point x="192" y="737" type="curve" smooth="yes"/>
-      <point x="319" y="737"/>
-      <point x="340" y="692"/>
-      <point x="340" y="550" type="curve" smooth="yes"/>
-      <point x="340" y="422"/>
-      <point x="319" y="373"/>
-      <point x="192" y="373" type="curve" smooth="yes"/>
-      <point x="65" y="373"/>
-      <point x="40" y="422"/>
-    </contour>
+    <component base="o.superior" yOffset="80"/>
   </outline>
   <lib>
     <dict>
@@ -364,7 +337,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>381</integer>
+          <real>435.0</real>
         </dict>
       </dict>
     </dict>

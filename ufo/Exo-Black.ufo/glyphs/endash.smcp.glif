@@ -2,12 +2,7 @@
 <glyph name="endash.smcp" format="1">
   <advance width="513"/>
   <outline>
-    <contour>
-      <point x="20" y="195" type="line"/>
-      <point x="20" y="350" type="line"/>
-      <point x="493" y="350" type="line"/>
-      <point x="493" y="195" type="line"/>
-    </contour>
+    <component base="endash" yOffset="10"/>
   </outline>
   <lib>
     <dict>

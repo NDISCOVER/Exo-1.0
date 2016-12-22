@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="emdash.smcp" format="1">
-  <advance width="736"/>
+<glyph name="endash.smcp" format="1">
+  <advance width="527"/>
   <outline>
-    <component base="emdash" yOffset="10"/>
+    <component base="endash" yOffset="10"/>
   </outline>
   <lib>
     <dict>
@@ -12,7 +12,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>199</integer>
+            <integer>195</integer>
             <key>width</key>
             <integer>155</integer>
           </dict>
@@ -41,7 +41,7 @@
                   <key>x</key>
                   <integer>20</integer>
                   <key>y</key>
-                  <integer>199</integer>
+                  <integer>195</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -51,7 +51,7 @@
                   <key>x</key>
                   <integer>20</integer>
                   <key>y</key>
-                  <integer>354</integer>
+                  <integer>350</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -59,9 +59,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>716</integer>
+                  <integer>493</integer>
                   <key>y</key>
-                  <integer>354</integer>
+                  <integer>350</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -69,9 +69,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>716</integer>
+                  <integer>493</integer>
                   <key>y</key>
-                  <integer>199</integer>
+                  <integer>195</integer>
                 </dict>
               </array>
             </dict>
@@ -80,12 +80,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>emdash.smcp</string>
+          <string>endash.smcp</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>736</integer>
+          <integer>527</integer>
         </dict>
       </dict>
     </dict>

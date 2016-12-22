@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="emdash.smcp" format="1">
-  <advance width="736"/>
+<glyph name="quotesingle.smcp" format="1">
+  <advance width="113.0"/>
   <outline>
-    <component base="emdash" yOffset="10"/>
+    <component base="quotesingle" yOffset="-190"/>
   </outline>
   <lib>
     <dict>
@@ -12,9 +12,18 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>199</integer>
+            <integer>370</integer>
             <key>width</key>
-            <integer>155</integer>
+            <integer>201</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>48</integer>
+            <key>width</key>
+            <integer>184</integer>
           </dict>
         </array>
       </dict>
@@ -39,9 +48,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>20</integer>
+                  <integer>48</integer>
                   <key>y</key>
-                  <integer>199</integer>
+                  <integer>504</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -49,9 +58,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>20</integer>
+                  <integer>48</integer>
                   <key>y</key>
-                  <integer>354</integer>
+                  <integer>571</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -59,9 +68,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>716</integer>
+                  <integer>232</integer>
                   <key>y</key>
-                  <integer>354</integer>
+                  <integer>571</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -69,9 +78,29 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>716</integer>
+                  <integer>232</integer>
                   <key>y</key>
-                  <integer>199</integer>
+                  <integer>504</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>222</integer>
+                  <key>y</key>
+                  <integer>370</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>59</integer>
+                  <key>y</key>
+                  <integer>370</integer>
                 </dict>
               </array>
             </dict>
@@ -80,14 +109,21 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>emdash.smcp</string>
+          <string>quotesingle.smcp</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>736</integer>
+          <real>113.0</real>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>0.8</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

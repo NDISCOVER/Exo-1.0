@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="numbersign.smcp" format="1">
-  <advance width="647"/>
+  <advance width="637"/>
   <outline>
     <contour>
-      <point x="281" y="264" type="line"/>
-      <point x="354" y="264" type="line"/>
-      <point x="366" y="338" type="line"/>
-      <point x="293" y="338" type="line"/>
+      <point x="274" y="253" type="line"/>
+      <point x="284" y="298" type="line"/>
+      <point x="344" y="298" type="line"/>
+      <point x="334" y="253" type="line"/>
     </contour>
     <contour>
-      <point x="11" y="132" type="line"/>
-      <point x="31" y="264" type="line"/>
-      <point x="149" y="264" type="line"/>
-      <point x="161" y="338" type="line"/>
-      <point x="43" y="338" type="line"/>
-      <point x="63" y="470" type="line"/>
-      <point x="181" y="470" type="line"/>
-      <point x="201" y="593" type="line"/>
-      <point x="333" y="593" type="line"/>
-      <point x="313" y="470" type="line"/>
-      <point x="386" y="470" type="line"/>
-      <point x="406" y="593" type="line"/>
-      <point x="538" y="593" type="line"/>
-      <point x="518" y="470" type="line"/>
-      <point x="637" y="470" type="line"/>
-      <point x="617" y="338" type="line"/>
-      <point x="498" y="338" type="line"/>
-      <point x="486" y="264" type="line"/>
-      <point x="603" y="263" type="line"/>
-      <point x="585" y="131" type="line"/>
-      <point x="465" y="131" type="line"/>
-      <point x="444" y="0" type="line"/>
-      <point x="312" y="0" type="line"/>
-      <point x="333" y="131" type="line"/>
-      <point x="260" y="132" type="line"/>
-      <point x="239" y="0" type="line"/>
-      <point x="107" y="0" type="line"/>
-      <point x="128" y="132" type="line"/>
+      <point x="18" y="134" type="line"/>
+      <point x="125" y="134" type="line"/>
+      <point x="96" y="0" type="line"/>
+      <point x="222" y="0" type="line"/>
+      <point x="251" y="134" type="line"/>
+      <point x="305" y="134" type="line"/>
+      <point x="276" y="0" type="line"/>
+      <point x="402" y="0" type="line"/>
+      <point x="431" y="134" type="line"/>
+      <point x="574" y="134" type="line"/>
+      <point x="592" y="253" type="line"/>
+      <point x="460" y="253" type="line"/>
+      <point x="469" y="298" type="line"/>
+      <point x="601" y="298" type="line"/>
+      <point x="619" y="417" type="line"/>
+      <point x="488" y="417" type="line"/>
+      <point x="516" y="550" type="line"/>
+      <point x="390" y="550" type="line"/>
+      <point x="362" y="417" type="line"/>
+      <point x="309" y="417" type="line"/>
+      <point x="338" y="550" type="line"/>
+      <point x="212" y="550" type="line"/>
+      <point x="183" y="417" type="line"/>
+      <point x="65" y="417" type="line"/>
+      <point x="45" y="298" type="line"/>
+      <point x="159" y="298" type="line"/>
+      <point x="149" y="253" type="line"/>
+      <point x="37" y="253" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -53,15 +53,21 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>132</integer>
+            <integer>191</integer>
             <key>width</key>
             <integer>132</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>338</integer>
+            <integer>409</integer>
             <key>width</key>
             <integer>132</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>712</integer>
+            <key>width</key>
+            <integer>20</integer>
           </dict>
         </array>
       </dict>
@@ -417,7 +423,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>647</integer>
+          <integer>637</integer>
         </dict>
       </dict>
     </dict>

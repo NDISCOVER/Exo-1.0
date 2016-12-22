@@ -226,6 +226,8 @@
 	<string>asciitilde.glif</string>
 	<key>asterisk</key>
 	<string>asterisk.glif</string>
+	<key>asterisk.smcp</key>
+	<string>asterisk.smcp.glif</string>
 	<key>at</key>
 	<string>at.glif</string>
 	<key>at.alt</key>
@@ -374,6 +376,8 @@
 	<string>dcroat.salt.glif</string>
 	<key>degree</key>
 	<string>degree.glif</string>
+	<key>degree.smcp</key>
+	<string>degree.smcp.glif</string>
 	<key>dieresis</key>
 	<string>dieresis.glif</string>
 	<key>dieresisbelowcomb</key>
@@ -436,10 +440,14 @@
 	<string>emdash.glif</string>
 	<key>emdash.alt</key>
 	<string>emdash.alt.glif</string>
+	<key>emdash.smcp</key>
+	<string>emdash.smcp.glif</string>
 	<key>endash</key>
 	<string>endash.glif</string>
 	<key>endash.alt</key>
 	<string>endash.alt.glif</string>
+	<key>endash.smcp</key>
+	<string>endash.smcp.glif</string>
 	<key>eng</key>
 	<string>eng.glif</string>
 	<key>equal</key>
@@ -590,6 +598,8 @@
 	<string>hyphen.glif</string>
 	<key>hyphen.alt</key>
 	<string>hyphen.alt.glif</string>
+	<key>hyphen.smcp</key>
+	<string>hyphen.smcp.glif</string>
 	<key>i</key>
 	<string>i.glif</string>
 	<key>i.superior</key>
@@ -698,6 +708,8 @@
 	<string>ntilde.glif</string>
 	<key>numbersign</key>
 	<string>numbersign.glif</string>
+	<key>numbersign.smcp</key>
+	<string>numbersign.smcp.glif</string>
 	<key>numero</key>
 	<string>numero.glif</string>
 	<key>o</key>
@@ -744,8 +756,12 @@
 	<string>onesuperior.glif</string>
 	<key>ordfeminine</key>
 	<string>ordfeminine.glif</string>
+	<key>ordfeminine.smcp</key>
+	<string>ordfeminine.smcp.glif</string>
 	<key>ordmasculine</key>
 	<string>ordmasculine.glif</string>
+	<key>ordmasculine.smcp</key>
+	<string>ordmasculine.smcp.glif</string>
 	<key>oslash</key>
 	<string>oslash.glif</string>
 	<key>otildemacron</key>
@@ -774,6 +790,8 @@
 	<string>partialdiff.glif</string>
 	<key>percent</key>
 	<string>percent.glif</string>
+	<key>percent.smcp</key>
+	<string>percent.smcp.glif</string>
 	<key>period</key>
 	<string>period.glif</string>
 	<key>periodcentered</key>
@@ -782,8 +800,14 @@
 	<string>periodcentered.loclCAT_.glif</string>
 	<key>periodcentered.loclCAT.case</key>
 	<string>periodcentered.loclCAT_.case.glif</string>
+	<key>periodcentered.loclCAT.smcp</key>
+	<string>periodcentered.loclCAT_.smcp.glif</string>
+	<key>periodcentered.smcp</key>
+	<string>periodcentered.smcp.glif</string>
 	<key>perthousand</key>
 	<string>perthousand.glif</string>
+	<key>perthousand.smcp</key>
+	<string>perthousand.smcp.glif</string>
 	<key>peseta</key>
 	<string>peseta.glif</string>
 	<key>peseta.smcp</key>
@@ -816,20 +840,36 @@
 	<string>questiondown.smcp.glif</string>
 	<key>quotedbl</key>
 	<string>quotedbl.glif</string>
+	<key>quotedbl.smcp</key>
+	<string>quotedbl.smcp.glif</string>
 	<key>quotedblbase</key>
 	<string>quotedblbase.glif</string>
+	<key>quotedblbase.smcp</key>
+	<string>quotedblbase.smcp.glif</string>
 	<key>quotedblleft</key>
 	<string>quotedblleft.glif</string>
+	<key>quotedblleft.smcp</key>
+	<string>quotedblleft.smcp.glif</string>
 	<key>quotedblright</key>
 	<string>quotedblright.glif</string>
+	<key>quotedblright.smcp</key>
+	<string>quotedblright.smcp.glif</string>
 	<key>quoteleft</key>
 	<string>quoteleft.glif</string>
+	<key>quoteleft.smcp</key>
+	<string>quoteleft.smcp.glif</string>
 	<key>quoteright</key>
 	<string>quoteright.glif</string>
+	<key>quoteright.smcp</key>
+	<string>quoteright.smcp.glif</string>
 	<key>quotesinglbase</key>
 	<string>quotesinglbase.glif</string>
+	<key>quotesinglbase.smcp</key>
+	<string>quotesinglbase.smcp.glif</string>
 	<key>quotesingle</key>
 	<string>quotesingle.glif</string>
+	<key>quotesingle.smcp</key>
+	<string>quotesingle.smcp.glif</string>
 	<key>r</key>
 	<string>r.glif</string>
 	<key>r.salt</key>
@@ -994,6 +1034,8 @@
 	<string>uni00A_D_.glif</string>
 	<key>uni00AD.alt</key>
 	<string>uni00A_D_.alt.glif</string>
+	<key>uni00AD.smcp</key>
+	<string>uni00AD_.smcp.glif</string>
 	<key>uni2206</key>
 	<string>uni2206.glif</string>
 	<key>v</key>

@@ -2,12 +2,7 @@
 <glyph name="hyphen.smcp" format="1">
   <advance width="354"/>
   <outline>
-    <contour>
-      <point x="20" y="198" type="line"/>
-      <point x="20" y="352" type="line"/>
-      <point x="334" y="352" type="line"/>
-      <point x="334" y="198" type="line"/>
-    </contour>
+    <component base="hyphen" yOffset="10"/>
   </outline>
   <lib>
     <dict>

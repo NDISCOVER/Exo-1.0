@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seveninferior" format="1">
-  <advance width="423"/>
+  <advance width="450"/>
   <unicode hex="2087"/>
   <outline>
-    <contour>
-      <point x="8" y="156" type="line"/>
-      <point x="8" y="287" type="line"/>
-      <point x="378" y="287" type="line"/>
-      <point x="414" y="228" type="line"/>
-      <point x="230" y="-200" type="line"/>
-      <point x="72" y="-200" type="line"/>
-      <point x="225" y="156" type="line"/>
-    </contour>
+    <component base="sevensuperior" yOffset="-500"/>
   </outline>
   <lib>
     <dict>
@@ -124,7 +116,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>423</integer>
+          <integer>450</integer>
         </dict>
       </dict>
     </dict>

@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="oneinferior" format="1">
-  <advance width="270"/>
+  <advance width="450"/>
   <unicode hex="2081"/>
   <outline>
-    <contour>
-      <point x="9" y="152" type="line"/>
-      <point x="9" y="232" type="line"/>
-      <point x="90" y="287" type="line"/>
-      <point x="234" y="287" type="line"/>
-      <point x="234" y="-200" type="line"/>
-      <point x="88" y="-200" type="line"/>
-      <point x="88" y="165" type="line"/>
-    </contour>
+    <component base="onesuperior" yOffset="-500"/>
   </outline>
   <lib>
     <dict>
@@ -124,7 +116,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>270</integer>
+          <integer>450</integer>
         </dict>
       </dict>
     </dict>

@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.denominator" format="1">
-  <advance width="270"/>
+  <advance width="450"/>
   <outline>
-    <contour>
-      <point x="9" y="353" type="line"/>
-      <point x="9" y="433" type="line"/>
-      <point x="90" y="487" type="line"/>
-      <point x="234" y="487" type="line"/>
-      <point x="234" y="0" type="line"/>
-      <point x="88" y="0" type="line"/>
-      <point x="88" y="366" type="line"/>
-    </contour>
+    <component base="oneinferior" yOffset="220"/>
   </outline>
   <lib>
     <dict>
@@ -132,7 +124,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>270</integer>
+          <integer>450</integer>
         </dict>
       </dict>
     </dict>

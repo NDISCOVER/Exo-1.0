@@ -45,15 +45,15 @@
 			<key>Thin sups</key>
 			<dict>
 				<key>hstem</key>
-				<real>18.0</real>
+				<real>20.0</real>
 				<key>isotropic</key>
-				<integer>1</integer>
+				<integer>0</integer>
 				<key>keepSidebearings</key>
-				<false/>
+				<integer>0</integer>
 				<key>posX</key>
 				<integer>0</integer>
 				<key>posY</key>
-				<integer>355</integer>
+				<integer>280</integer>
 				<key>referenceHeight</key>
 				<string>capHeight</string>
 				<key>stemRapport</key>
@@ -64,7 +64,7 @@
 					<string>baseline</string>
 				</array>
 				<key>targetHeight</key>
-				<real>487.0</real>
+				<real>540.0</real>
 				<key>tracking</key>
 				<array>
 					<integer>0</integer>
@@ -1292,6 +1292,10 @@
 				<string>franc.smcp</string>
 				<string>N.smcp</string>
 				<string>S.smcp</string>
+				<string>X.salt.smcp</string>
+				<string>M.salt.smcp</string>
+				<string>N.salt.smcp</string>
+				<string>W.salt.smcp</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -2475,6 +2479,10 @@
 		<string>franc.smcp</string>
 		<string>N.smcp</string>
 		<string>S.smcp</string>
+		<string>X.salt.smcp</string>
+		<string>M.salt.smcp</string>
+		<string>N.salt.smcp</string>
+		<string>W.salt.smcp</string>
 	</array>
 </dict>
 </plist>

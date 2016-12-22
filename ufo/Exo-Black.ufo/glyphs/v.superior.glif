@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="v.superior" format="1">
-  <advance width="406"/>
+  <advance width="441"/>
   <outline>
     <contour>
-      <point x="14" y="731" type="line"/>
-      <point x="151" y="731" type="line"/>
-      <point x="201" y="521" type="line"/>
-      <point x="254" y="731" type="line"/>
-      <point x="391" y="731" type="line"/>
-      <point x="274" y="378" type="line"/>
-      <point x="125" y="378" type="line"/>
+      <point x="3.0" y="672" type="line"/>
+      <point x="118.0" y="280" type="line"/>
+      <point x="314.0" y="280" type="line"/>
+      <point x="437.0" y="672" type="line"/>
+      <point x="264.0" y="672" type="line"/>
+      <point x="220.0" y="431" type="line"/>
+      <point x="179.0" y="672" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -20,7 +20,13 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>711</integer>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>511</integer>
             <key>width</key>
             <integer>20</integer>
           </dict>
@@ -123,7 +129,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>406</integer>
+          <integer>441</integer>
         </dict>
       </dict>
     </dict>

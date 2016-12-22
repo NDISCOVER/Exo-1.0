@@ -1,34 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="k.superior" format="1">
-  <advance width="426"/>
+  <advance width="452"/>
   <outline>
     <contour>
-      <point x="21" y="378" type="line"/>
-      <point x="21" y="899" type="line"/>
-      <point x="167" y="899" type="line"/>
-      <point x="167" y="618" type="line"/>
-      <point x="180" y="618" type="line"/>
-      <point x="252" y="730" type="line"/>
-      <point x="411" y="730" type="line"/>
-      <point x="295" y="575" type="line"/>
-      <point x="411" y="378" type="line"/>
-      <point x="259" y="378" type="line"/>
-      <point x="180" y="532" type="line"/>
-      <point x="167" y="532" type="line"/>
-      <point x="167" y="378" type="line"/>
+      <point x="25.0" y="280" type="line"/>
+      <point x="195.0" y="280" type="line"/>
+      <point x="195.0" y="411" type="line"/>
+      <point x="223.0" y="411" type="line"/>
+      <point x="295.0" y="280" type="line"/>
+      <point x="462.0" y="280" type="line"/>
+      <point x="356.0" y="485" type="line"/>
+      <point x="447.0" y="672" type="line"/>
+      <point x="278.0" y="672" type="line"/>
+      <point x="230.0" y="558" type="line"/>
+      <point x="195.0" y="558" type="line"/>
+      <point x="195.0" y="848" type="line"/>
+      <point x="25.0" y="848" type="line"/>
+    </contour>
+    <contour>
+      <point x="222.0" y="171" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>511</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>762</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>21</integer>
+            <integer>34</integer>
             <key>width</key>
-            <integer>146</integer>
+            <integer>194</integer>
           </dict>
         </array>
       </dict>
@@ -189,7 +213,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>426</integer>
+          <integer>452</integer>
         </dict>
       </dict>
     </dict>

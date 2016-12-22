@@ -1,30 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="i.superior" format="1">
-  <advance width="121"/>
+  <advance width="157"/>
   <outline>
     <contour>
-      <point x="50" y="378" type="line"/>
-      <point x="50" y="734" type="line"/>
-      <point x="68" y="734" type="line"/>
-      <point x="68" y="378" type="line"/>
+      <point x="64.0" y="760" type="line" smooth="yes"/>
+      <point x="64.0" y="755"/>
+      <point x="68.0" y="751"/>
+      <point x="73.0" y="751" type="curve" smooth="yes"/>
+      <point x="85.0" y="751" type="line" smooth="yes"/>
+      <point x="90.0" y="751"/>
+      <point x="93.0" y="754"/>
+      <point x="93.0" y="760" type="curve" smooth="yes"/>
+      <point x="93.0" y="807" type="line" smooth="yes"/>
+      <point x="93.0" y="812"/>
+      <point x="91.0" y="816"/>
+      <point x="85.0" y="816" type="curve" smooth="yes"/>
+      <point x="73.0" y="816" type="line" smooth="yes"/>
+      <point x="67.0" y="816"/>
+      <point x="64.0" y="813"/>
+      <point x="64.0" y="807" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="46" y="793" type="curve" smooth="yes"/>
-      <point x="46" y="826" type="line" smooth="yes"/>
-      <point x="46" y="834"/>
-      <point x="50" y="838"/>
-      <point x="58" y="838" type="curve" smooth="yes"/>
-      <point x="61" y="838" type="line" smooth="yes"/>
-      <point x="69" y="838"/>
-      <point x="73" y="833"/>
-      <point x="73" y="826" type="curve" smooth="yes"/>
-      <point x="73" y="793" type="line" smooth="yes"/>
-      <point x="73" y="785"/>
-      <point x="68" y="782"/>
-      <point x="61" y="782" type="curve" smooth="yes"/>
-      <point x="58" y="782" type="line" smooth="yes"/>
-      <point x="51" y="782"/>
-      <point x="46" y="786"/>
+      <point x="67" y="280" type="line"/>
+      <point x="89" y="280" type="line"/>
+      <point x="89" y="672" type="line"/>
+      <point x="67" y="672" type="line"/>
+    </contour>
+    <contour>
+      <point x="82.0" y="280" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="78.0" y="169" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
@@ -35,18 +41,30 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>782</integer>
+            <integer>0</integer>
             <key>width</key>
-            <integer>56</integer>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>511</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>610</integer>
+            <key>width</key>
+            <integer>86</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>50</integer>
+            <integer>72</integer>
             <key>width</key>
-            <integer>18</integer>
+            <integer>24</integer>
           </dict>
         </array>
       </dict>
@@ -266,7 +284,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>121</integer>
+          <integer>157</integer>
         </dict>
       </dict>
     </dict>

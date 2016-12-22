@@ -2,7 +2,15 @@
 <glyph name="seven.tnum" format="1">
   <advance width="609"/>
   <outline>
-    <component base="seven" xOffset="40"/>
+    <contour>
+      <point x="80" y="708" type="line"/>
+      <point x="496" y="708" type="line"/>
+      <point x="208" y="0" type="line"/>
+      <point x="236" y="0" type="line"/>
+      <point x="524" y="709" type="line"/>
+      <point x="508" y="732" type="line"/>
+      <point x="80" y="732" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

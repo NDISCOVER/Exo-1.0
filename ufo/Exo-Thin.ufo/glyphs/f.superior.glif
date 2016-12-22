@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f.superior" format="1">
-  <advance width="326"/>
+  <advance width="263"/>
   <outline>
     <contour>
-      <point x="35" y="694" type="line"/>
-      <point x="35" y="702" type="line"/>
-      <point x="109" y="711" type="line"/>
-      <point x="109" y="798" type="line" smooth="yes"/>
-      <point x="109" y="834"/>
-      <point x="116" y="903"/>
-      <point x="206" y="903" type="curve" smooth="yes"/>
-      <point x="243" y="903"/>
-      <point x="261" y="901"/>
-      <point x="291" y="897" type="curve"/>
-      <point x="291" y="885" type="line"/>
-      <point x="219" y="885" type="line" smooth="yes"/>
-      <point x="148" y="885"/>
-      <point x="127" y="856"/>
-      <point x="127" y="796" type="curve" smooth="yes"/>
-      <point x="127" y="711" type="line"/>
-      <point x="259" y="711" type="line"/>
-      <point x="259" y="694" type="line"/>
-      <point x="127" y="694" type="line"/>
-      <point x="127" y="378" type="line"/>
-      <point x="109" y="378" type="line"/>
-      <point x="109" y="694" type="line"/>
+      <point x="20.0" y="652" type="line"/>
+      <point x="85.0" y="652" type="line"/>
+      <point x="85.0" y="280" type="line"/>
+      <point x="107.0" y="280" type="line"/>
+      <point x="107.0" y="652" type="line"/>
+      <point x="247.0" y="652" type="line"/>
+      <point x="247.0" y="672" type="line"/>
+      <point x="107.0" y="672" type="line"/>
+      <point x="107.0" y="743" type="line" smooth="yes"/>
+      <point x="107.0" y="805"/>
+      <point x="119.0" y="840"/>
+      <point x="188.0" y="840" type="curve" smooth="yes"/>
+      <point x="259.0" y="840" type="line"/>
+      <point x="259.0" y="855" type="line"/>
+      <point x="239.0" y="857"/>
+      <point x="221.0" y="860"/>
+      <point x="187.0" y="860" type="curve" smooth="yes"/>
+      <point x="103.0" y="860"/>
+      <point x="85.0" y="814"/>
+      <point x="85.0" y="743" type="curve" smooth="yes"/>
+      <point x="85.0" y="672" type="line"/>
+      <point x="20.0" y="667" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -35,30 +35,42 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>694</integer>
+            <integer>0</integer>
             <key>width</key>
-            <integer>17</integer>
+            <integer>21</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>694</integer>
+            <integer>507</integer>
             <key>width</key>
-            <integer>8</integer>
+            <integer>24</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>885</integer>
+            <integer>507</integer>
             <key>width</key>
-            <integer>18</integer>
+            <integer>14</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>762</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>762</integer>
+            <key>width</key>
+            <integer>13</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>109</integer>
+            <integer>114</integer>
             <key>width</key>
-            <integer>18</integer>
+            <integer>24</integer>
           </dict>
         </array>
       </dict>
@@ -297,7 +309,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>326</integer>
+          <integer>263</integer>
         </dict>
       </dict>
     </dict>

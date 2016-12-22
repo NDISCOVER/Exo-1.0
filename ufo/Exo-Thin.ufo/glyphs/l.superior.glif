@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l.superior" format="1">
-  <advance width="253"/>
+  <advance width="210"/>
   <outline>
     <contour>
-      <point x="50" y="504" type="curve" smooth="yes"/>
-      <point x="50" y="900" type="line"/>
-      <point x="68" y="900" type="line"/>
-      <point x="68" y="504" type="line" smooth="yes"/>
-      <point x="68" y="418"/>
-      <point x="101" y="402"/>
-      <point x="149" y="396" type="curve" smooth="yes"/>
-      <point x="216" y="388" type="line"/>
-      <point x="216" y="378" type="line"/>
-      <point x="149" y="378" type="line" smooth="yes"/>
-      <point x="75" y="378"/>
-      <point x="50" y="424"/>
+      <point x="67.0" y="404" type="line" smooth="yes"/>
+      <point x="67.0" y="306"/>
+      <point x="101.0" y="280"/>
+      <point x="158.0" y="280" type="curve" smooth="yes"/>
+      <point x="203.0" y="280" type="line"/>
+      <point x="203.0" y="295" type="line"/>
+      <point x="156.0" y="300" type="line" smooth="yes"/>
+      <point x="115.0" y="304"/>
+      <point x="89.0" y="318"/>
+      <point x="89.0" y="406" type="curve" smooth="yes"/>
+      <point x="89.0" y="857" type="line"/>
+      <point x="67.0" y="857" type="line"/>
+    </contour>
+    <contour>
+      <point x="104.0" y="759" type="move" name="altcaron"/>
+    </contour>
+    <contour>
+      <point x="78.0" y="942" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="114.0" y="169" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
@@ -25,18 +34,24 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>378</integer>
+            <integer>0</integer>
             <key>width</key>
-            <integer>10</integer>
+            <integer>13</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>763</integer>
+            <key>width</key>
+            <integer>20</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>50</integer>
+            <integer>81</integer>
             <key>width</key>
-            <integer>18</integer>
+            <integer>24</integer>
           </dict>
         </array>
       </dict>
@@ -179,7 +194,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>253</integer>
+          <integer>210</integer>
         </dict>
       </dict>
     </dict>

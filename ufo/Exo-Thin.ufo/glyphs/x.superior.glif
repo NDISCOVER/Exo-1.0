@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="x.superior" format="1">
-  <advance width="368"/>
+  <advance width="363"/>
   <outline>
     <contour>
-      <point x="35" y="378" type="line"/>
-      <point x="172" y="556" type="line"/>
-      <point x="36" y="732" type="line"/>
-      <point x="59" y="732" type="line"/>
-      <point x="184" y="571" type="line"/>
-      <point x="308" y="732" type="line"/>
-      <point x="331" y="732" type="line"/>
-      <point x="195" y="556" type="line"/>
-      <point x="332" y="378" type="line"/>
-      <point x="309" y="378" type="line"/>
-      <point x="184" y="541" type="line"/>
-      <point x="58" y="378" type="line"/>
+      <point x="23.0" y="280" type="line"/>
+      <point x="48.0" y="280" type="line"/>
+      <point x="182.0" y="461" type="line"/>
+      <point x="170.0" y="479" type="line"/>
+    </contour>
+    <contour>
+      <point x="182.0" y="490" type="line"/>
+      <point x="193.0" y="471" type="line"/>
+      <point x="340.0" y="672" type="line"/>
+      <point x="314.0" y="671" type="line"/>
+    </contour>
+    <contour>
+      <point x="23.0" y="672" type="line"/>
+      <point x="314.0" y="280" type="line"/>
+      <point x="340.0" y="280" type="line"/>
+      <point x="49.0" y="672" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -25,18 +29,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>712</integer>
+            <integer>0</integer>
             <key>width</key>
-            <integer>20</integer>
+            <integer>21</integer>
           </dict>
-        </array>
-        <key>vhints</key>
-        <array>
           <dict>
             <key>position</key>
-            <integer>35</integer>
+            <integer>511</integer>
             <key>width</key>
-            <integer>296</integer>
+            <integer>20</integer>
           </dict>
         </array>
       </dict>
@@ -187,7 +188,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>368</integer>
+          <integer>363</integer>
         </dict>
       </dict>
     </dict>

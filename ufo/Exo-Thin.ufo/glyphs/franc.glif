@@ -4,16 +4,6 @@
   <unicode hex="20A3"/>
   <outline>
     <contour>
-      <point x="65" y="163" type="line"/>
-      <point x="158" y="160" type="line"/>
-      <point x="182" y="160" type="line"/>
-      <point x="488" y="163" type="line"/>
-      <point x="488" y="179" type="line"/>
-      <point x="182" y="182" type="line"/>
-      <point x="158" y="182" type="line"/>
-      <point x="65" y="179" type="line"/>
-    </contour>
-    <contour>
       <point x="158" y="0" type="line"/>
       <point x="182" y="0" type="line"/>
       <point x="182" y="378" type="line"/>
@@ -30,6 +20,16 @@
       <point x="220" y="734"/>
       <point x="158" y="700"/>
       <point x="158" y="602" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="65" y="163" type="line"/>
+      <point x="158" y="160" type="line"/>
+      <point x="182" y="160" type="line"/>
+      <point x="488" y="163" type="line"/>
+      <point x="488" y="179" type="line"/>
+      <point x="182" y="182" type="line"/>
+      <point x="158" y="182" type="line"/>
+      <point x="65" y="179" type="line"/>
     </contour>
   </outline>
   <lib>

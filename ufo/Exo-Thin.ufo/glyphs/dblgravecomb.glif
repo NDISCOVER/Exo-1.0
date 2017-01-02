@@ -2,8 +2,18 @@
 <glyph name="dblgravecomb" format="1">
   <advance width="0"/>
   <outline>
-    <component base="grave" xOffset="-480"/>
-    <component base="grave" xOffset="-360"/>
+    <contour>
+      <point x="-453" y="764" type="line"/>
+      <point x="-320" y="631" type="line"/>
+      <point x="-306" y="631" type="line"/>
+      <point x="-427" y="764" type="line"/>
+    </contour>
+    <contour>
+      <point x="-333" y="764" type="line"/>
+      <point x="-200" y="631" type="line"/>
+      <point x="-186" y="631" type="line"/>
+      <point x="-307" y="764" type="line"/>
+    </contour>
     <contour>
       <point x="-269.0" y="650.0" type="move" name="_top"/>
     </contour>

@@ -2,8 +2,24 @@
 <glyph name="dotbelowcomb" format="1">
   <advance width="0"/>
   <outline>
-    <component base="dotaccentcmb" yOffset="-850"/>
-    <component base="dotaccentcomb" yOffset="-870"/>
+    <contour>
+      <point x="-287" y="-185" type="line" smooth="yes"/>
+      <point x="-287" y="-192"/>
+      <point x="-282" y="-197"/>
+      <point x="-275" y="-197" type="curve" smooth="yes"/>
+      <point x="-264" y="-197" type="line" smooth="yes"/>
+      <point x="-257" y="-197"/>
+      <point x="-252" y="-193"/>
+      <point x="-252" y="-185" type="curve" smooth="yes"/>
+      <point x="-252" y="-123" type="line" smooth="yes"/>
+      <point x="-252" y="-116"/>
+      <point x="-256" y="-111"/>
+      <point x="-264" y="-111" type="curve" smooth="yes"/>
+      <point x="-275" y="-111" type="line" smooth="yes"/>
+      <point x="-283" y="-111"/>
+      <point x="-287" y="-115"/>
+      <point x="-287" y="-123" type="curve" smooth="yes"/>
+    </contour>
     <contour>
       <point x="-267.0" y="-150.0" type="move" name="_bottom"/>
     </contour>

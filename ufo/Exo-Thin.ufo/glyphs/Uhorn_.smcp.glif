@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Uhorn.smcp" format="1">
+  <advance width="566"/>
+  <outline>
+    <contour>
+      <point x="473" y="544" type="line"/>
+      <point x="496" y="544" type="line" smooth="yes"/>
+      <point x="546" y="544"/>
+      <point x="602" y="568"/>
+      <point x="602" y="676" type="curve"/>
+      <point x="580" y="676" type="line"/>
+      <point x="580" y="589"/>
+      <point x="544" y="560"/>
+      <point x="496" y="560" type="curve" smooth="yes"/>
+      <point x="473" y="560" type="line"/>
+    </contour>
+    <component base="U.smcp"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>0.8</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -3,22 +3,22 @@
   <advance width="609"/>
   <outline>
     <contour>
-      <point x="84" y="136" type="line"/>
-      <point x="391" y="631" type="line"/>
-      <point x="418" y="631" type="line"/>
-      <point x="113" y="135" type="line"/>
-      <point x="491" y="135" type="line"/>
-      <point x="491" y="371" type="line"/>
-      <point x="501" y="446" type="line"/>
-      <point x="515" y="446" type="line"/>
-      <point x="515" y="135" type="line"/>
-      <point x="605" y="135" type="line"/>
-      <point x="605" y="121" type="line"/>
-      <point x="515" y="111" type="line"/>
-      <point x="515" y="-99" type="line"/>
-      <point x="491" y="-99" type="line"/>
-      <point x="491" y="111" type="line"/>
-      <point x="96" y="111" type="line"/>
+      <point x="84" y="55" type="line"/>
+      <point x="96" y="30" type="line"/>
+      <point x="491" y="30" type="line"/>
+      <point x="491" y="-190" type="line"/>
+      <point x="515" y="-190" type="line"/>
+      <point x="515" y="30" type="line"/>
+      <point x="605" y="40" type="line"/>
+      <point x="605" y="54" type="line"/>
+      <point x="515" y="54" type="line"/>
+      <point x="515" y="335" type="line"/>
+      <point x="501" y="335" type="line"/>
+      <point x="491" y="260" type="line"/>
+      <point x="491" y="54" type="line"/>
+      <point x="110" y="54" type="line"/>
+      <point x="385" y="531" type="line"/>
+      <point x="361" y="531" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -56,6 +56,9 @@
           </dict>
         </array>
       </dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>

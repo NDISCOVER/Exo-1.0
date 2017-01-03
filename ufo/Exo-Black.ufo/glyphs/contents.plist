@@ -172,14 +172,24 @@
 	<string>Ecircumflex_.glif</string>
 	<key>Ecircumflex.smcp</key>
 	<string>Ecircumflex_.smcp.glif</string>
+	<key>Ecircumflexacute</key>
+	<string>Ecircumflexacute_.glif</string>
 	<key>Ecircumflexacute.smcp</key>
 	<string>Ecircumflexacute_.smcp.glif</string>
+	<key>Ecircumflexdotbelow</key>
+	<string>Ecircumflexdotbelow_.glif</string>
 	<key>Ecircumflexdotbelow.smcp</key>
 	<string>Ecircumflexdotbelow_.smcp.glif</string>
+	<key>Ecircumflexgrave</key>
+	<string>Ecircumflexgrave_.glif</string>
 	<key>Ecircumflexgrave.smcp</key>
 	<string>Ecircumflexgrave_.smcp.glif</string>
+	<key>Ecircumflexhookabove</key>
+	<string>Ecircumflexhookabove_.glif</string>
 	<key>Ecircumflexhookabove.smcp</key>
 	<string>Ecircumflexhookabove_.smcp.glif</string>
+	<key>Ecircumflextilde</key>
+	<string>Ecircumflextilde_.glif</string>
 	<key>Ecircumflextilde.smcp</key>
 	<string>Ecircumflextilde_.smcp.glif</string>
 	<key>Edblgrave</key>
@@ -202,6 +212,8 @@
 	<string>Egrave_.glif</string>
 	<key>Egrave.smcp</key>
 	<string>Egrave_.smcp.glif</string>
+	<key>Ehookabove</key>
+	<string>Ehookabove_.glif</string>
 	<key>Ehookabove.smcp</key>
 	<string>Ehookabove_.smcp.glif</string>
 	<key>Einvertedbreve</key>
@@ -308,6 +320,8 @@
 	<string>Igrave_.glif</string>
 	<key>Igrave.smcp</key>
 	<string>Igrave_.smcp.glif</string>
+	<key>Ihookabove</key>
+	<string>Ihookabove_.glif</string>
 	<key>Ihookabove.smcp</key>
 	<string>Ihookabove_.smcp.glif</string>
 	<key>Iinvertedbreve</key>
@@ -434,14 +448,24 @@
 	<string>Ocircumflex_.glif</string>
 	<key>Ocircumflex.smcp</key>
 	<string>Ocircumflex_.smcp.glif</string>
+	<key>Ocircumflexacute</key>
+	<string>Ocircumflexacute_.glif</string>
 	<key>Ocircumflexacute.smcp</key>
 	<string>Ocircumflexacute_.smcp.glif</string>
+	<key>Ocircumflexdotbelow</key>
+	<string>Ocircumflexdotbelow_.glif</string>
 	<key>Ocircumflexdotbelow.smcp</key>
 	<string>Ocircumflexdotbelow_.smcp.glif</string>
+	<key>Ocircumflexgrave</key>
+	<string>Ocircumflexgrave_.glif</string>
 	<key>Ocircumflexgrave.smcp</key>
 	<string>Ocircumflexgrave_.smcp.glif</string>
+	<key>Ocircumflexhookabove</key>
+	<string>Ocircumflexhookabove_.glif</string>
 	<key>Ocircumflexhookabove.smcp</key>
 	<string>Ocircumflexhookabove_.smcp.glif</string>
+	<key>Ocircumflextilde</key>
+	<string>Ocircumflextilde_.glif</string>
 	<key>Ocircumflextilde.smcp</key>
 	<string>Ocircumflextilde_.smcp.glif</string>
 	<key>Odblgrave</key>
@@ -468,20 +492,32 @@
 	<string>Ograve_.glif</string>
 	<key>Ograve.smcp</key>
 	<string>Ograve_.smcp.glif</string>
+	<key>Ohookabove</key>
+	<string>Ohookabove_.glif</string>
 	<key>Ohookabove.smcp</key>
 	<string>Ohookabove_.smcp.glif</string>
 	<key>Ohorn</key>
 	<string>Ohorn_.glif</string>
 	<key>Ohorn.smcp</key>
 	<string>Ohorn_.smcp.glif</string>
+	<key>Ohornacute</key>
+	<string>Ohornacute_.glif</string>
 	<key>Ohornacute.smcp</key>
 	<string>Ohornacute_.smcp.glif</string>
+	<key>Ohorndotbelow</key>
+	<string>Ohorndotbelow_.glif</string>
 	<key>Ohorndotbelow.smcp</key>
 	<string>Ohorndotbelow_.smcp.glif</string>
+	<key>Ohorngrave</key>
+	<string>Ohorngrave_.glif</string>
 	<key>Ohorngrave.smcp</key>
 	<string>Ohorngrave_.smcp.glif</string>
+	<key>Ohornhookabove</key>
+	<string>Ohornhookabove_.glif</string>
 	<key>Ohornhookabove.smcp</key>
 	<string>Ohornhookabove_.smcp.glif</string>
+	<key>Ohorntilde</key>
+	<string>Ohorntilde_.glif</string>
 	<key>Ohorntilde.smcp</key>
 	<string>Ohorntilde_.smcp.glif</string>
 	<key>Ohungarumlaut</key>
@@ -632,20 +668,32 @@
 	<string>Ugrave_.glif</string>
 	<key>Ugrave.smcp</key>
 	<string>Ugrave_.smcp.glif</string>
+	<key>Uhookabove</key>
+	<string>Uhookabove_.glif</string>
 	<key>Uhookabove.smcp</key>
 	<string>Uhookabove_.smcp.glif</string>
 	<key>Uhorn</key>
 	<string>Uhorn_.glif</string>
 	<key>Uhorn.smcp</key>
 	<string>Uhorn_.smcp.glif</string>
+	<key>Uhornacute</key>
+	<string>Uhornacute_.glif</string>
 	<key>Uhornacute.smcp</key>
 	<string>Uhornacute_.smcp.glif</string>
+	<key>Uhorndotbelow</key>
+	<string>Uhorndotbelow_.glif</string>
 	<key>Uhorndotbelow.smcp</key>
 	<string>Uhorndotbelow_.smcp.glif</string>
+	<key>Uhorngrave</key>
+	<string>Uhorngrave_.glif</string>
 	<key>Uhorngrave.smcp</key>
 	<string>Uhorngrave_.smcp.glif</string>
+	<key>Uhornhookabove</key>
+	<string>Uhornhookabove_.glif</string>
 	<key>Uhornhookabove.smcp</key>
 	<string>Uhornhookabove_.smcp.glif</string>
+	<key>Uhorntilde</key>
+	<string>Uhorntilde_.glif</string>
 	<key>Uhorntilde.smcp</key>
 	<string>Uhorntilde_.smcp.glif</string>
 	<key>Uhungarumlaut</key>
@@ -740,12 +788,16 @@
 	<string>Ydieresis_.glif</string>
 	<key>Ydieresis.smcp</key>
 	<string>Ydieresis_.smcp.glif</string>
+	<key>Ydotbelow</key>
+	<string>Ydotbelow_.glif</string>
 	<key>Ydotbelow.smcp</key>
 	<string>Ydotbelow_.smcp.glif</string>
 	<key>Ygrave</key>
 	<string>Ygrave_.glif</string>
 	<key>Ygrave.smcp</key>
 	<string>Ygrave_.smcp.glif</string>
+	<key>Yhookabove</key>
+	<string>Yhookabove_.glif</string>
 	<key>Yhookabove.smcp</key>
 	<string>Yhookabove_.smcp.glif</string>
 	<key>Ymacron</key>
@@ -786,28 +838,48 @@
 	<string>abreve.glif</string>
 	<key>abreve.salt</key>
 	<string>abreve.salt.glif</string>
+	<key>abreveacute</key>
+	<string>abreveacute.glif</string>
 	<key>abreveacute.salt</key>
 	<string>abreveacute.salt.glif</string>
+	<key>abrevedotbelow</key>
+	<string>abrevedotbelow.glif</string>
 	<key>abrevedotbelow.salt</key>
 	<string>abrevedotbelow.salt.glif</string>
+	<key>abrevegrave</key>
+	<string>abrevegrave.glif</string>
 	<key>abrevegrave.salt</key>
 	<string>abrevegrave.salt.glif</string>
+	<key>abrevehookabove</key>
+	<string>abrevehookabove.glif</string>
 	<key>abrevehookabove.salt</key>
 	<string>abrevehookabove.salt.glif</string>
+	<key>abrevetilde</key>
+	<string>abrevetilde.glif</string>
 	<key>abrevetilde.salt</key>
 	<string>abrevetilde.salt.glif</string>
 	<key>acircumflex</key>
 	<string>acircumflex.glif</string>
 	<key>acircumflex.salt</key>
 	<string>acircumflex.salt.glif</string>
+	<key>acircumflexacute</key>
+	<string>acircumflexacute.glif</string>
 	<key>acircumflexacute.salt</key>
 	<string>acircumflexacute.salt.glif</string>
+	<key>acircumflexdotbelow</key>
+	<string>acircumflexdotbelow.glif</string>
 	<key>acircumflexdotbelow.salt</key>
 	<string>acircumflexdotbelow.salt.glif</string>
+	<key>acircumflexgrave</key>
+	<string>acircumflexgrave.glif</string>
 	<key>acircumflexgrave.salt</key>
 	<string>acircumflexgrave.salt.glif</string>
+	<key>acircumflexhookabove</key>
+	<string>acircumflexhookabove.glif</string>
 	<key>acircumflexhookabove.salt</key>
 	<string>acircumflexhookabove.salt.glif</string>
+	<key>acircumflextilde</key>
+	<string>acircumflextilde.glif</string>
 	<key>acircumflextilde.salt</key>
 	<string>acircumflextilde.salt.glif</string>
 	<key>acute</key>
@@ -1092,6 +1164,16 @@
 	<string>ecaron.glif</string>
 	<key>ecircumflex</key>
 	<string>ecircumflex.glif</string>
+	<key>ecircumflexacute</key>
+	<string>ecircumflexacute.glif</string>
+	<key>ecircumflexdotbelow</key>
+	<string>ecircumflexdotbelow.glif</string>
+	<key>ecircumflexgrave</key>
+	<string>ecircumflexgrave.glif</string>
+	<key>ecircumflexhookabove</key>
+	<string>ecircumflexhookabove.glif</string>
+	<key>ecircumflextilde</key>
+	<string>ecircumflextilde.glif</string>
 	<key>edblgrave</key>
 	<string>edblgrave.glif</string>
 	<key>edieresis</key>
@@ -1102,6 +1184,8 @@
 	<string>edotbelow.glif</string>
 	<key>egrave</key>
 	<string>egrave.glif</string>
+	<key>ehookabove</key>
+	<string>ehookabove.glif</string>
 	<key>eight</key>
 	<string>eight.glif</string>
 	<key>eight.denominator</key>
@@ -1338,6 +1422,8 @@
 	<string>idotless.glif</string>
 	<key>igrave</key>
 	<string>igrave.glif</string>
+	<key>ihookabove</key>
+	<string>ihookabove.glif</string>
 	<key>iinvertedbreve</key>
 	<string>iinvertedbreve.glif</string>
 	<key>imacron</key>
@@ -1492,6 +1578,14 @@
 	<string>ocircumflex.glif</string>
 	<key>ocircumflexacute</key>
 	<string>ocircumflexacute.glif</string>
+	<key>ocircumflexdotbelow</key>
+	<string>ocircumflexdotbelow.glif</string>
+	<key>ocircumflexgrave</key>
+	<string>ocircumflexgrave.glif</string>
+	<key>ocircumflexhookabove</key>
+	<string>ocircumflexhookabove.glif</string>
+	<key>ocircumflextilde</key>
+	<string>ocircumflextilde.glif</string>
 	<key>odblgrave</key>
 	<string>odblgrave.glif</string>
 	<key>odieresis</key>
@@ -1512,8 +1606,20 @@
 	<string>ogonekcomb.case.glif</string>
 	<key>ograve</key>
 	<string>ograve.glif</string>
+	<key>ohookabove</key>
+	<string>ohookabove.glif</string>
 	<key>ohorn</key>
 	<string>ohorn.glif</string>
+	<key>ohornacute</key>
+	<string>ohornacute.glif</string>
+	<key>ohorndotbelow</key>
+	<string>ohorndotbelow.glif</string>
+	<key>ohorngrave</key>
+	<string>ohorngrave.glif</string>
+	<key>ohornhookabove</key>
+	<string>ohornhookabove.glif</string>
+	<key>ohorntilde</key>
+	<string>ohorntilde.glif</string>
 	<key>ohungarumlaut</key>
 	<string>ohungarumlaut.glif</string>
 	<key>oinvertedbreve</key>
@@ -1884,20 +1990,32 @@
 	<string>ugrave.glif</string>
 	<key>ugrave.salt</key>
 	<string>ugrave.salt.glif</string>
+	<key>uhookabove</key>
+	<string>uhookabove.glif</string>
 	<key>uhookabove.salt</key>
 	<string>uhookabove.salt.glif</string>
 	<key>uhorn</key>
 	<string>uhorn.glif</string>
 	<key>uhorn.salt</key>
 	<string>uhorn.salt.glif</string>
+	<key>uhornacute</key>
+	<string>uhornacute.glif</string>
 	<key>uhornacute.salt</key>
 	<string>uhornacute.salt.glif</string>
+	<key>uhorndotbelow</key>
+	<string>uhorndotbelow.glif</string>
 	<key>uhorndotbelow.salt</key>
 	<string>uhorndotbelow.salt.glif</string>
+	<key>uhorngrave</key>
+	<string>uhorngrave.glif</string>
 	<key>uhorngrave.salt</key>
 	<string>uhorngrave.salt.glif</string>
+	<key>uhornhookabove</key>
+	<string>uhornhookabove.glif</string>
 	<key>uhornhookabove.salt</key>
 	<string>uhornhookabove.salt.glif</string>
+	<key>uhorntilde</key>
+	<string>uhorntilde.glif</string>
 	<key>uhorntilde.salt</key>
 	<string>uhorntilde.salt.glif</string>
 	<key>uhungarumlaut</key>
@@ -1982,12 +2100,16 @@
 	<string>ycircumflex.glif</string>
 	<key>ydieresis</key>
 	<string>ydieresis.glif</string>
+	<key>ydotbelow</key>
+	<string>ydotbelow.glif</string>
 	<key>yen</key>
 	<string>yen.glif</string>
 	<key>yen.smcp</key>
 	<string>yen.smcp.glif</string>
 	<key>ygrave</key>
 	<string>ygrave.glif</string>
+	<key>yhookabove</key>
+	<string>yhookabove.glif</string>
 	<key>ymacron</key>
 	<string>ymacron.glif</string>
 	<key>ytilde</key>

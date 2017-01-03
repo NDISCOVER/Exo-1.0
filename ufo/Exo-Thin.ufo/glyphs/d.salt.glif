@@ -32,6 +32,15 @@
       <point x="99" y="535"/>
       <point x="68" y="415"/>
     </contour>
+    <contour>
+      <point x="290" y="-150" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="501" y="650" type="move" name="altcaron"/>
+    </contour>
+    <contour>
+      <point x="469" y="900" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>

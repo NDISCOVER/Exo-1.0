@@ -18,6 +18,12 @@
       <point x="274" y="23" type="line"/>
       <point x="76" y="560" type="line"/>
     </contour>
+    <contour>
+      <point x="439" y="650" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="419" y="-150" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

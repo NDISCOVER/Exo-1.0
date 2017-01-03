@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="a.salt" format="1">
-  <advance width="540.0"/>
+  <advance width="523.0"/>
   <outline>
     <contour>
       <point x="78" y="131" type="curve" smooth="yes"/>
@@ -42,6 +42,15 @@
       <point x="109" y="298"/>
       <point x="54" y="242"/>
       <point x="54" y="157" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="280" y="650" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="270" y="-150" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="259" y="0" type="move" name="ogonek"/>
     </contour>
   </outline>
   <lib>
@@ -473,7 +482,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>540.0</real>
+          <real>523.0</real>
         </dict>
       </dict>
     </dict>

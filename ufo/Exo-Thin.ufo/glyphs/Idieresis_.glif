@@ -2,6 +2,9 @@
 <glyph name="Idieresis" format="1">
   <advance width="200.0"/>
   <unicode hex="00CF"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
   <outline>
     <component base="I"/>
     <component base="dieresiscomb.case" xOffset="369"/>

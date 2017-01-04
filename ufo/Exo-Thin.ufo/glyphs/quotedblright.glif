@@ -2,6 +2,9 @@
 <glyph name="quotedblright" format="1">
   <advance width="235.0"/>
   <unicode hex="201D"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
   <outline>
     <component base="quoteright"/>
     <component base="quoteright" xOffset="80"/>

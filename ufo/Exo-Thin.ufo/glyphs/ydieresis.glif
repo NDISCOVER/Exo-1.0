@@ -2,6 +2,9 @@
 <glyph name="ydieresis" format="1">
   <advance width="519"/>
   <unicode hex="00FF"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
   <outline>
     <component base="y"/>
     <component base="dieresiscomb" xOffset="529.0"/>

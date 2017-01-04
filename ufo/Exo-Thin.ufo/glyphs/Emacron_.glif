@@ -2,6 +2,9 @@
 <glyph name="Emacron" format="1">
   <advance width="579.0"/>
   <unicode hex="0112"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
   <outline>
     <component base="E"/>
     <component base="macroncomb.case" xOffset="579"/>

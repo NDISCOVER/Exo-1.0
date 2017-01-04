@@ -2,6 +2,9 @@
 <glyph name="ohungarumlaut" format="1">
   <advance width="578"/>
   <unicode hex="0151"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
   <outline>
     <component base="o"/>
     <component base="hungarumlautcomb" xOffset="557.0"/>

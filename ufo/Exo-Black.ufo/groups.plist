@@ -25,6 +25,10 @@
 		<string>Acircumflexgrave</string>
 		<string>Acircumflextilde</string>
 		<string>Ainvertedbreve</string>
+		<string>Abrevehookabove</string>
+		<string>Acircumflexhookabove</string>
+		<string>Adblgrave</string>
+		<string>Ahookabove</string>
 	</array>
 	<key>@MMK_L_A.smcp</key>
 	<array>
@@ -40,19 +44,91 @@
 		<string>Aring.smcp</string>
 		<string>Aringacute.smcp</string>
 		<string>Atilde.smcp</string>
+		<string>Abreveacute.smcp</string>
+		<string>Abrevedotbelow.smcp</string>
+		<string>Abrevegrave.smcp</string>
+		<string>Abrevetilde.smcp</string>
+		<string>Acircumflexacute.smcp</string>
+		<string>Acircumflexdotbelow.smcp</string>
+		<string>Acircumflexgrave.smcp</string>
+		<string>Acircumflextilde.smcp</string>
+		<string>Ainvertedbreve.smcp</string>
+		<string>Abrevehookabove.smcp</string>
+		<string>Acircumflexhookabove.smcp</string>
+		<string>Adblgrave.smcp</string>
+		<string>Ahookabove.smcp</string>
 	</array>
 	<key>@MMK_L_F</key>
 	<array>
 		<string>F</string>
 	</array>
+	<key>@MMK_L_H.smcp</key>
+	<array>
+		<string>H.smcp</string>
+		<string>Hcircumflex.smcp</string>
+		<string>I.smcp</string>
+		<string>Iacute.smcp</string>
+		<string>Ibreve.smcp</string>
+		<string>Icircumflex.smcp</string>
+		<string>Idieresis.smcp</string>
+		<string>Idotaccent.smcp</string>
+		<string>Idotbelow.smcp</string>
+		<string>Igrave.smcp</string>
+		<string>Iinvertedbreve.smcp</string>
+		<string>Imacron.smcp</string>
+		<string>Iogonek.smcp</string>
+		<string>Itilde.smcp</string>
+		<string>Z.smcp</string>
+		<string>Zacute.smcp</string>
+		<string>Zcaron.smcp</string>
+		<string>Zdotaccent.smcp</string>
+	</array>
+	<key>@MMK_L_J</key>
+	<array>
+		<string>J</string>
+		<string>Jcircumflex</string>
+	</array>
+	<key>@MMK_L_J.smcp</key>
+	<array>
+		<string>J.smcp</string>
+		<string>Jcircumflex.smcp</string>
+	</array>
 	<key>@MMK_L_K</key>
 	<array>
 		<string>K</string>
+		<string>Kcommaaccent</string>
+	</array>
+	<key>@MMK_L_K.smcp</key>
+	<array>
+		<string>Kcommaaccent.smcp</string>
+		<string>K.smcp</string>
 	</array>
 	<key>@MMK_L_L</key>
 	<array>
 		<string>L</string>
 		<string>Lslash</string>
+		<string>Lacute</string>
+		<string>Lcaron</string>
+		<string>Lcommaaccent</string>
+	</array>
+	<key>@MMK_L_L.smcp</key>
+	<array>
+		<string>L.smcp</string>
+		<string>Lacute.smcp</string>
+		<string>Lcaron.smcp</string>
+		<string>Lcommaaccent.smcp</string>
+		<string>Lslash.smcp</string>
+	</array>
+	<key>@MMK_L_N.smcp</key>
+	<array>
+		<string>N.smcp</string>
+		<string>Nacute.smcp</string>
+		<string>Ncaron.smcp</string>
+		<string>Ntilde.smcp</string>
+		<string>N.salt.smcp</string>
+		<string>Nacute.salt.smcp</string>
+		<string>Ncaron.salt.smcp</string>
+		<string>Ntilde.salt.smcp</string>
 	</array>
 	<key>@MMK_L_O</key>
 	<array>
@@ -67,30 +143,203 @@
 		<string>Oslash</string>
 		<string>Schwa</string>
 		<string>Odotaccentmacron</string>
+		<string>Dcaron</string>
+		<string>Oacute</string>
+		<string>Obreve</string>
+		<string>Ocircumflex</string>
+		<string>Ocircumflexacute</string>
+		<string>Ocircumflexdotbelow</string>
+		<string>Ocircumflexgrave</string>
+		<string>Ocircumflextilde</string>
+		<string>Odieresis</string>
+		<string>Odotbelow</string>
+		<string>Ograve</string>
+		<string>Ohornacute</string>
+		<string>Ohorndotbelow</string>
+		<string>Ohorngrave</string>
+		<string>Ohorntilde</string>
+		<string>Ohungarumlaut</string>
+		<string>Oinvertedbreve</string>
+		<string>Omacron</string>
+		<string>Oogonek</string>
+		<string>Otilde</string>
+		<string>Oslashacute</string>
+		<string>Ocircumflexhookabove</string>
+		<string>Ohookabove</string>
+		<string>Ohornhookabove</string>
+		<string>Odblgrave</string>
+	</array>
+	<key>@MMK_L_O.smcp</key>
+	<array>
+		<string>O.smcp</string>
+		<string>Oacute.smcp</string>
+		<string>Obreve.smcp</string>
+		<string>Ocircumflex.smcp</string>
+		<string>Ocircumflexacute.smcp</string>
+		<string>Ocircumflexdotbelow.smcp</string>
+		<string>Ocircumflexgrave.smcp</string>
+		<string>Ocircumflextilde.smcp</string>
+		<string>Odieresis.smcp</string>
+		<string>Odieresismacron.smcp</string>
+		<string>Odotbelow.smcp</string>
+		<string>Ograve.smcp</string>
+		<string>Ohorn.smcp</string>
+		<string>Ohornacute.smcp</string>
+		<string>Ohorndotbelow.smcp</string>
+		<string>Ohorngrave.smcp</string>
+		<string>Ohorntilde.smcp</string>
+		<string>Ohungarumlaut.smcp</string>
+		<string>Oinvertedbreve.smcp</string>
+		<string>Omacron.smcp</string>
+		<string>Oogonek.smcp</string>
+		<string>Otilde.smcp</string>
+		<string>Otildemacron.smcp</string>
+		<string>Oslash.smcp</string>
+		<string>Oslashacute.smcp</string>
+		<string>D.smcp</string>
+		<string>Dcaron.smcp</string>
+		<string>Ocircumflexhookabove.smcp</string>
+		<string>Odblgrave.smcp</string>
+		<string>Odotaccentmacron.smcp</string>
+		<string>Ohookabove.smcp</string>
+		<string>Ohornhookabove.smcp</string>
+		<string>Dcroat.smcp</string>
+		<string>Eth.smcp</string>
+		<string>Schwa.smcp</string>
+		<string>Q.smcp</string>
 	</array>
 	<key>@MMK_L_P</key>
 	<array>
 		<string>P</string>
 	</array>
+	<key>@MMK_L_R</key>
+	<array>
+		<string>R</string>
+		<string>Racute</string>
+		<string>Rcaron</string>
+		<string>Rinvertedbreve</string>
+	</array>
+	<key>@MMK_L_R.smcp</key>
+	<array>
+		<string>R.smcp</string>
+		<string>Racute.smcp</string>
+		<string>Rcaron.smcp</string>
+		<string>Rinvertedbreve.smcp</string>
+	</array>
 	<key>@MMK_L_T</key>
 	<array>
 		<string>T</string>
 		<string>Tcommaaccent</string>
+		<string>Tcaron</string>
+		<string>Tcedilla</string>
+	</array>
+	<key>@MMK_L_T.smcp</key>
+	<array>
+		<string>T.smcp</string>
+		<string>Tcaron.smcp</string>
+		<string>Tcedilla.smcp</string>
 	</array>
 	<key>@MMK_L_U</key>
 	<array>
 		<string>U</string>
 		<string>Uhorn</string>
+		<string>Uacute</string>
+		<string>Ubreve</string>
+		<string>Ucircumflex</string>
+		<string>Udieresis</string>
+		<string>Udotbelow</string>
+		<string>Ugrave</string>
+		<string>Uhornacute</string>
+		<string>Uhorndotbelow</string>
+		<string>Uhorngrave</string>
+		<string>Uhorntilde</string>
+		<string>Uhungarumlaut</string>
+		<string>Uinvertedbreve</string>
+		<string>Umacron</string>
+		<string>Uogonek</string>
+		<string>Uring</string>
+		<string>Utilde</string>
+		<string>Udblgrave</string>
+		<string>Uhookabove</string>
+		<string>Uhornhookabove</string>
+	</array>
+	<key>@MMK_L_U.smcp</key>
+	<array>
+		<string>U.smcp</string>
+		<string>Uacute.smcp</string>
+		<string>Ubreve.smcp</string>
+		<string>Ucircumflex.smcp</string>
+		<string>Udieresis.smcp</string>
+		<string>Udotbelow.smcp</string>
+		<string>Ugrave.smcp</string>
+		<string>Uhorn.smcp</string>
+		<string>Uhornacute.smcp</string>
+		<string>Uhorndotbelow.smcp</string>
+		<string>Uhorngrave.smcp</string>
+		<string>Uhorntilde.smcp</string>
+		<string>Uhungarumlaut.smcp</string>
+		<string>Uinvertedbreve.smcp</string>
+		<string>Umacron.smcp</string>
+		<string>Uogonek.smcp</string>
+		<string>Uring.smcp</string>
+		<string>Utilde.smcp</string>
+		<string>Udblgrave.smcp</string>
+		<string>Uhookabove.smcp</string>
+		<string>Uhornhookabove.smcp</string>
 	</array>
 	<key>@MMK_L_V</key>
 	<array>
 		<string>V</string>
 		<string>W</string>
 		<string>W.salt</string>
+		<string>Wacute</string>
+		<string>Wcircumflex</string>
+		<string>Wdieresis</string>
+		<string>Wgrave</string>
+		<string>Wacute.salt</string>
+		<string>Wcircumflex.salt</string>
+		<string>Wdieresis.salt</string>
+		<string>Wgrave.salt</string>
+	</array>
+	<key>@MMK_L_W.salt.smcp</key>
+	<array>
+		<string>W.salt.smcp</string>
+		<string>Wacute.salt.smcp</string>
+		<string>Wcircumflex.salt.smcp</string>
+		<string>Wdieresis.salt.smcp</string>
+		<string>Wgrave.salt.smcp</string>
+	</array>
+	<key>@MMK_L_W.smcp</key>
+	<array>
+		<string>W.smcp</string>
+		<string>Wacute.smcp</string>
+		<string>Wcircumflex.smcp</string>
+		<string>Wdieresis.smcp</string>
+		<string>Wgrave.smcp</string>
 	</array>
 	<key>@MMK_L_Y</key>
 	<array>
 		<string>Y</string>
+		<string>Yacute</string>
+		<string>Ycircumflex</string>
+		<string>Ydieresis</string>
+		<string>Ydotbelow</string>
+		<string>Ygrave</string>
+		<string>Ymacron</string>
+		<string>Ytilde</string>
+		<string>Yhookabove</string>
+	</array>
+	<key>@MMK_L_Y.smcp</key>
+	<array>
+		<string>Y.smcp</string>
+		<string>Yacute.smcp</string>
+		<string>Ycircumflex.smcp</string>
+		<string>Ydieresis.smcp</string>
+		<string>Ydotbelow.smcp</string>
+		<string>Ygrave.smcp</string>
+		<string>Ymacron.smcp</string>
+		<string>Ytilde.smcp</string>
+		<string>colonsign.smcp</string>
 	</array>
 	<key>@MMK_L_a</key>
 	<array>
@@ -107,31 +356,136 @@
 		<string>aring</string>
 		<string>aringacute</string>
 		<string>atilde</string>
+		<string>abreveacute</string>
+		<string>abrevedotbelow</string>
+		<string>abrevegrave</string>
+		<string>abrevetilde</string>
+		<string>acircumflexacute</string>
+		<string>acircumflexdotbelow</string>
+		<string>acircumflexgrave</string>
+		<string>acircumflextilde</string>
 	</array>
 	<key>@MMK_L_a.salt</key>
 	<array>
 		<string>a.salt</string>
 		<string>aacute.salt</string>
 		<string>abreve.salt</string>
+		<string>abreveacute.salt</string>
+		<string>abrevedotbelow.salt</string>
+		<string>abrevegrave.salt</string>
+		<string>abrevetilde.salt</string>
 		<string>acircumflex.salt</string>
+		<string>acircumflexacute.salt</string>
+		<string>acircumflexdotbelow.salt</string>
+		<string>acircumflexgrave.salt</string>
+		<string>acircumflextilde.salt</string>
 		<string>adieresis.salt</string>
 		<string>adotbelow.salt</string>
 		<string>agrave.salt</string>
+		<string>ainvertedbreve.salt</string>
 		<string>amacron.salt</string>
 		<string>aogonek.salt</string>
 		<string>aring.salt</string>
 		<string>aringacute.salt</string>
 		<string>atilde.salt</string>
 	</array>
+	<key>@MMK_L_ae</key>
+	<array>
+		<string>ae</string>
+		<string>aeacute</string>
+	</array>
 	<key>@MMK_L_c</key>
 	<array>
 		<string>c</string>
 		<string>ccedilla</string>
+		<string>cacute</string>
+		<string>ccaron</string>
+		<string>ccircumflex</string>
+		<string>cdotaccent</string>
+	</array>
+	<key>@MMK_L_d</key>
+	<array>
+		<string>d</string>
+		<string>dcaron</string>
+	</array>
+	<key>@MMK_L_d.salt</key>
+	<array>
+		<string>d.salt</string>
+		<string>dcaron.salt</string>
+	</array>
+	<key>@MMK_L_e</key>
+	<array>
+		<string>e</string>
+		<string>eacute</string>
+		<string>ebreve</string>
+		<string>ecaron</string>
+		<string>ecircumflex</string>
+		<string>ecircumflexacute</string>
+		<string>ecircumflexdotbelow</string>
+		<string>ecircumflexgrave</string>
+		<string>ecircumflextilde</string>
+		<string>edieresis</string>
+		<string>edotaccent</string>
+		<string>edotbelow</string>
+		<string>egrave</string>
+		<string>einvertedbreve</string>
+		<string>emacron</string>
+		<string>eogonek</string>
+		<string>etilde</string>
+	</array>
+	<key>@MMK_L_g</key>
+	<array>
+		<string>g</string>
+		<string>gbreve</string>
+		<string>gcaron</string>
+		<string>gcircumflex</string>
+		<string>gdotaccent</string>
+	</array>
+	<key>@MMK_L_g.salt</key>
+	<array>
+		<string>g.salt</string>
+		<string>gbreve.salt</string>
+		<string>gcaron.salt</string>
+		<string>gcircumflex.salt</string>
+		<string>gdotaccent.salt</string>
+	</array>
+	<key>@MMK_L_h</key>
+	<array>
+		<string>h</string>
+		<string>hcircumflex</string>
+	</array>
+	<key>@MMK_L_i</key>
+	<array>
+		<string>i</string>
+		<string>iacute</string>
+		<string>ibreve</string>
+		<string>icircumflex</string>
+		<string>idieresis</string>
+		<string>idotbelow</string>
+		<string>igrave</string>
+		<string>iinvertedbreve</string>
+		<string>imacron</string>
+		<string>iogonek</string>
+		<string>itilde</string>
+	</array>
+	<key>@MMK_L_j</key>
+	<array>
+		<string>j</string>
+		<string>jcircumflex</string>
 	</array>
 	<key>@MMK_L_n</key>
 	<array>
 		<string>n</string>
 		<string>ntilde</string>
+		<string>nacute</string>
+		<string>ncaron</string>
+	</array>
+	<key>@MMK_L_n.salt</key>
+	<array>
+		<string>n.salt</string>
+		<string>nacute.salt</string>
+		<string>ncaron.salt</string>
+		<string>ntilde.salt</string>
 	</array>
 	<key>@MMK_L_o</key>
 	<array>
@@ -140,16 +494,137 @@
 		<string>odieresismacron</string>
 		<string>ohorn</string>
 		<string>otildemacron</string>
+		<string>oacute</string>
+		<string>obreve</string>
+		<string>ocircumflex</string>
+		<string>ocircumflexdotbelow</string>
+		<string>ocircumflexgrave</string>
+		<string>ocircumflextilde</string>
+		<string>odieresis</string>
+		<string>odotbelow</string>
+		<string>ograve</string>
+		<string>ohornacute</string>
+		<string>ohorndotbelow</string>
+		<string>ohorngrave</string>
+		<string>ohorntilde</string>
+		<string>ohungarumlaut</string>
+		<string>oinvertedbreve</string>
+		<string>omacron</string>
+		<string>oogonek</string>
+		<string>otilde</string>
+	</array>
+	<key>@MMK_L_oslash</key>
+	<array>
+		<string>oslash</string>
+		<string>oslashacute</string>
+	</array>
+	<key>@MMK_L_r</key>
+	<array>
+		<string>r</string>
+		<string>racute</string>
+		<string>rcaron</string>
+		<string>rinvertedbreve</string>
+		<string>rcommaaccent</string>
+		<string>rdblgrave</string>
+	</array>
+	<key>@MMK_L_r.salt</key>
+	<array>
+		<string>r.salt</string>
+		<string>racute.salt</string>
+		<string>rcaron.salt</string>
+		<string>rinvertedbreve.salt</string>
+		<string>rcommaaccent.salt</string>
+		<string>rdblgrave.salt</string>
+	</array>
+	<key>@MMK_L_s</key>
+	<array>
+		<string>s</string>
+		<string>sacute</string>
+		<string>scaron</string>
+		<string>scedilla</string>
+		<string>scircumflex</string>
+		<string>scommaaccent</string>
 	</array>
 	<key>@MMK_L_t</key>
 	<array>
 		<string>t</string>
 		<string>tcommaaccent</string>
+		<string>tcaron</string>
+		<string>t.salt</string>
+		<string>tcaron.salt</string>
+		<string>tcedilla</string>
+		<string>tcedilla.salt</string>
+		<string>f_t</string>
+		<string>c_t</string>
 	</array>
 	<key>@MMK_L_u</key>
 	<array>
 		<string>u</string>
 		<string>uhorn</string>
+		<string>uacute</string>
+		<string>ubreve</string>
+		<string>ucircumflex</string>
+		<string>udieresis</string>
+		<string>udotbelow</string>
+		<string>ugrave</string>
+		<string>uhornacute</string>
+		<string>uhorndotbelow</string>
+		<string>uhorngrave</string>
+		<string>uhorntilde</string>
+		<string>uhungarumlaut</string>
+		<string>uinvertedbreve</string>
+		<string>umacron</string>
+		<string>uogonek</string>
+		<string>uring</string>
+		<string>utilde</string>
+	</array>
+	<key>@MMK_L_u.salt</key>
+	<array>
+		<string>u.salt</string>
+		<string>uacute.salt</string>
+		<string>ubreve.salt</string>
+		<string>ucircumflex.salt</string>
+		<string>udieresis.salt</string>
+		<string>udotbelow.salt</string>
+		<string>ugrave.salt</string>
+		<string>uhorn.salt</string>
+		<string>uhornacute.salt</string>
+		<string>uhorndotbelow.salt</string>
+		<string>uhorngrave.salt</string>
+		<string>uhorntilde.salt</string>
+		<string>uhungarumlaut.salt</string>
+		<string>uinvertedbreve.salt</string>
+		<string>umacron.salt</string>
+		<string>uogonek.salt</string>
+		<string>uring.salt</string>
+		<string>utilde.salt</string>
+	</array>
+	<key>@MMK_L_w</key>
+	<array>
+		<string>w</string>
+		<string>wacute</string>
+		<string>wcircumflex</string>
+		<string>wdieresis</string>
+		<string>wgrave</string>
+	</array>
+	<key>@MMK_L_w.salt</key>
+	<array>
+		<string>w.salt</string>
+		<string>wacute.salt</string>
+		<string>wcircumflex.salt</string>
+		<string>wdieresis.salt</string>
+		<string>wgrave.salt</string>
+	</array>
+	<key>@MMK_L_y</key>
+	<array>
+		<string>y</string>
+		<string>yacute</string>
+		<string>ycircumflex</string>
+		<string>ydieresis</string>
+		<string>ydotbelow</string>
+		<string>ygrave</string>
+		<string>ymacron</string>
+		<string>ytilde</string>
 	</array>
 	<key>@MMK_R_A</key>
 	<array>
@@ -175,6 +650,11 @@
 		<string>Acircumflexgrave</string>
 		<string>Acircumflextilde</string>
 		<string>Ainvertedbreve</string>
+		<string>AEacute</string>
+		<string>Abrevehookabove</string>
+		<string>Acircumflexhookabove</string>
+		<string>Adblgrave</string>
+		<string>Ahookabove</string>
 	</array>
 	<key>@MMK_R_A.smcp</key>
 	<array>
@@ -190,6 +670,41 @@
 		<string>Aring.smcp</string>
 		<string>Aringacute.smcp</string>
 		<string>Atilde.smcp</string>
+		<string>Abreveacute.smcp</string>
+		<string>Abrevedotbelow.smcp</string>
+		<string>Abrevegrave.smcp</string>
+		<string>Abrevetilde.smcp</string>
+		<string>Acircumflexacute.smcp</string>
+		<string>Acircumflexdotbelow.smcp</string>
+		<string>Acircumflexgrave.smcp</string>
+		<string>Acircumflextilde.smcp</string>
+		<string>Ainvertedbreve.smcp</string>
+		<string>AE.smcp</string>
+		<string>AEacute.smcp</string>
+		<string>Abrevehookabove.smcp</string>
+		<string>Acircumflexhookabove.smcp</string>
+		<string>Adblgrave.smcp</string>
+		<string>Ahookabove.smcp</string>
+	</array>
+	<key>@MMK_R_H</key>
+	<array>
+		<string>H</string>
+		<string>Hcircumflex</string>
+	</array>
+	<key>@MMK_R_H.smcp</key>
+	<array>
+		<string>H.smcp</string>
+		<string>Hcircumflex.smcp</string>
+	</array>
+	<key>@MMK_R_J</key>
+	<array>
+		<string>J</string>
+		<string>Jcircumflex</string>
+	</array>
+	<key>@MMK_R_J.smcp</key>
+	<array>
+		<string>J.smcp</string>
+		<string>Jcircumflex.smcp</string>
 	</array>
 	<key>@MMK_R_O</key>
 	<array>
@@ -226,22 +741,181 @@
 		<string>Odblgrave</string>
 		<string>Odotaccentmacron</string>
 		<string>Gcommaaccent</string>
+		<string>Ocircumflexacute</string>
+		<string>Ocircumflexdotbelow</string>
+		<string>Ocircumflexgrave</string>
+		<string>Ocircumflextilde</string>
+		<string>Ohornacute</string>
+		<string>Ohorndotbelow</string>
+		<string>Ohorngrave</string>
+		<string>Ohorntilde</string>
+		<string>Ocircumflexhookabove</string>
+		<string>Ohookabove</string>
+		<string>Ohornhookabove</string>
+	</array>
+	<key>@MMK_R_O.smcp</key>
+	<array>
+		<string>O.smcp</string>
+		<string>Oacute.smcp</string>
+		<string>Obreve.smcp</string>
+		<string>Ocircumflex.smcp</string>
+		<string>Ocircumflexacute.smcp</string>
+		<string>Ocircumflexdotbelow.smcp</string>
+		<string>Ocircumflexgrave.smcp</string>
+		<string>Ocircumflextilde.smcp</string>
+		<string>Odieresis.smcp</string>
+		<string>Odieresismacron.smcp</string>
+		<string>Odotbelow.smcp</string>
+		<string>Ograve.smcp</string>
+		<string>Ohorn.smcp</string>
+		<string>Ohornacute.smcp</string>
+		<string>Ohorndotbelow.smcp</string>
+		<string>Ohorngrave.smcp</string>
+		<string>Ohorntilde.smcp</string>
+		<string>Ohungarumlaut.smcp</string>
+		<string>Oinvertedbreve.smcp</string>
+		<string>Omacron.smcp</string>
+		<string>Oogonek.smcp</string>
+		<string>Otilde.smcp</string>
+		<string>Otildemacron.smcp</string>
+		<string>C.smcp</string>
+		<string>Cacute.smcp</string>
+		<string>Ccaron.smcp</string>
+		<string>Ccedilla.smcp</string>
+		<string>Ccircumflex.smcp</string>
+		<string>Cdotaccent.smcp</string>
+		<string>Oslash.smcp</string>
+		<string>Oslashacute.smcp</string>
+		<string>G.smcp</string>
+		<string>Gbreve.smcp</string>
+		<string>Gcaron.smcp</string>
+		<string>Gcircumflex.smcp</string>
+		<string>Gdotaccent.smcp</string>
+		<string>Ocircumflexhookabove.smcp</string>
+		<string>Odblgrave.smcp</string>
+		<string>Odotaccentmacron.smcp</string>
+		<string>Ohookabove.smcp</string>
+		<string>Ohornhookabove.smcp</string>
+		<string>Gcommaaccent.smcp</string>
+		<string>Q.smcp</string>
+		<string>OE.smcp</string>
+	</array>
+	<key>@MMK_R_R</key>
+	<array>
+		<string>R</string>
+		<string>Racute</string>
+		<string>Rcaron</string>
+		<string>Rinvertedbreve</string>
+	</array>
+	<key>@MMK_R_R.smcp</key>
+	<array>
+		<string>R.smcp</string>
+		<string>Racute.smcp</string>
+		<string>Rcaron.smcp</string>
+		<string>Rinvertedbreve.smcp</string>
+	</array>
+	<key>@MMK_R_S</key>
+	<array>
+		<string>S</string>
+		<string>Sacute</string>
+		<string>Scaron</string>
+		<string>Scedilla</string>
+		<string>Scircumflex</string>
+		<string>Scommaaccent</string>
+	</array>
+	<key>@MMK_R_S.smcp</key>
+	<array>
+		<string>S.smcp</string>
+		<string>Sacute.smcp</string>
+		<string>Scaron.smcp</string>
+		<string>Scedilla.smcp</string>
+		<string>Scircumflex.smcp</string>
+		<string>Scommaaccent.smcp</string>
 	</array>
 	<key>@MMK_R_T</key>
 	<array>
 		<string>T</string>
 		<string>Tcommaaccent</string>
+		<string>Tcaron</string>
+		<string>Tcedilla</string>
+	</array>
+	<key>@MMK_R_T.smcp</key>
+	<array>
+		<string>T.smcp</string>
+		<string>Tcaron.smcp</string>
+		<string>Tcedilla.smcp</string>
 	</array>
 	<key>@MMK_R_U</key>
 	<array>
 		<string>U</string>
 		<string>Uhorn</string>
+		<string>Uacute</string>
+		<string>Ubreve</string>
+		<string>Ucircumflex</string>
+		<string>Udieresis</string>
+		<string>Udotbelow</string>
+		<string>Ugrave</string>
+		<string>Uhornacute</string>
+		<string>Uhorndotbelow</string>
+		<string>Uhorngrave</string>
+		<string>Uhorntilde</string>
+		<string>Uhungarumlaut</string>
+		<string>Uinvertedbreve</string>
+		<string>Umacron</string>
+		<string>Uogonek</string>
+		<string>Uring</string>
+		<string>Utilde</string>
+	</array>
+	<key>@MMK_R_U.smcp</key>
+	<array>
+		<string>U.smcp</string>
+		<string>Uacute.smcp</string>
+		<string>Ubreve.smcp</string>
+		<string>Ucircumflex.smcp</string>
+		<string>Udieresis.smcp</string>
+		<string>Udotbelow.smcp</string>
+		<string>Ugrave.smcp</string>
+		<string>Uhorn.smcp</string>
+		<string>Uhornacute.smcp</string>
+		<string>Uhorndotbelow.smcp</string>
+		<string>Uhorngrave.smcp</string>
+		<string>Uhorntilde.smcp</string>
+		<string>Uhungarumlaut.smcp</string>
+		<string>Uinvertedbreve.smcp</string>
+		<string>Umacron.smcp</string>
+		<string>Uogonek.smcp</string>
+		<string>Uring.smcp</string>
+		<string>Utilde.smcp</string>
 	</array>
 	<key>@MMK_R_V</key>
 	<array>
 		<string>V</string>
 		<string>W</string>
 		<string>W.salt</string>
+		<string>Wacute</string>
+		<string>Wcircumflex</string>
+		<string>Wdieresis</string>
+		<string>Wgrave</string>
+		<string>Wacute.salt</string>
+		<string>Wcircumflex.salt</string>
+		<string>Wdieresis.salt</string>
+		<string>Wgrave.salt</string>
+	</array>
+	<key>@MMK_R_W.salt.smcp</key>
+	<array>
+		<string>W.salt.smcp</string>
+		<string>Wacute.salt.smcp</string>
+		<string>Wcircumflex.salt.smcp</string>
+		<string>Wdieresis.salt.smcp</string>
+		<string>Wgrave.salt.smcp</string>
+	</array>
+	<key>@MMK_R_W.smcp</key>
+	<array>
+		<string>W.smcp</string>
+		<string>Wacute.smcp</string>
+		<string>Wcircumflex.smcp</string>
+		<string>Wdieresis.smcp</string>
+		<string>Wgrave.smcp</string>
 	</array>
 	<key>@MMK_R_X</key>
 	<array>
@@ -251,6 +925,38 @@
 	<key>@MMK_R_Y</key>
 	<array>
 		<string>Y</string>
+		<string>Yacute</string>
+		<string>Ycircumflex</string>
+		<string>Ydieresis</string>
+		<string>Ydotbelow</string>
+		<string>Ygrave</string>
+		<string>Ymacron</string>
+		<string>Ytilde</string>
+	</array>
+	<key>@MMK_R_Y.smcp</key>
+	<array>
+		<string>Y.smcp</string>
+		<string>Yacute.smcp</string>
+		<string>Ycircumflex.smcp</string>
+		<string>Ydieresis.smcp</string>
+		<string>Ydotbelow.smcp</string>
+		<string>Ygrave.smcp</string>
+		<string>Ymacron.smcp</string>
+		<string>Ytilde.smcp</string>
+	</array>
+	<key>@MMK_R_Z</key>
+	<array>
+		<string>Z</string>
+		<string>Zacute</string>
+		<string>Zcaron</string>
+		<string>Zdotaccent</string>
+	</array>
+	<key>@MMK_R_Z.smcp</key>
+	<array>
+		<string>Z.smcp</string>
+		<string>Zacute.smcp</string>
+		<string>Zcaron.smcp</string>
+		<string>Zdotaccent.smcp</string>
 	</array>
 	<key>@MMK_R_a</key>
 	<array>
@@ -267,6 +973,14 @@
 		<string>aring</string>
 		<string>aringacute</string>
 		<string>atilde</string>
+		<string>abreveacute</string>
+		<string>abrevedotbelow</string>
+		<string>abrevegrave</string>
+		<string>abrevetilde</string>
+		<string>acircumflexacute</string>
+		<string>acircumflexdotbelow</string>
+		<string>acircumflexgrave</string>
+		<string>acircumflextilde</string>
 	</array>
 	<key>@MMK_R_a.salt</key>
 	<array>
@@ -282,16 +996,119 @@
 		<string>aring.salt</string>
 		<string>aringacute.salt</string>
 		<string>atilde.salt</string>
+		<string>abreveacute.salt</string>
+		<string>abrevedotbelow.salt</string>
+		<string>abrevegrave.salt</string>
+		<string>abrevetilde.salt</string>
+		<string>acircumflexacute.salt</string>
+		<string>acircumflexdotbelow.salt</string>
+		<string>acircumflexgrave.salt</string>
+		<string>acircumflextilde.salt</string>
+		<string>ainvertedbreve.salt</string>
+	</array>
+	<key>@MMK_R_ae</key>
+	<array>
+		<string>ae</string>
+		<string>aeacute</string>
 	</array>
 	<key>@MMK_R_c</key>
 	<array>
 		<string>c</string>
 		<string>ccedilla</string>
+		<string>cacute</string>
+		<string>ccaron</string>
+		<string>ccircumflex</string>
+		<string>cdotaccent</string>
+	</array>
+	<key>@MMK_R_d</key>
+	<array>
+		<string>d</string>
+		<string>dcaron</string>
+	</array>
+	<key>@MMK_R_d.salt</key>
+	<array>
+		<string>d.salt</string>
+		<string>dcaron.salt</string>
+	</array>
+	<key>@MMK_R_e</key>
+	<array>
+		<string>e</string>
+		<string>eacute</string>
+		<string>ebreve</string>
+		<string>ecaron</string>
+		<string>ecircumflex</string>
+		<string>ecircumflexacute</string>
+		<string>ecircumflexdotbelow</string>
+		<string>ecircumflexgrave</string>
+		<string>ecircumflextilde</string>
+		<string>edieresis</string>
+		<string>edotaccent</string>
+		<string>edotbelow</string>
+		<string>egrave</string>
+		<string>einvertedbreve</string>
+		<string>emacron</string>
+		<string>eogonek</string>
+		<string>etilde</string>
+	</array>
+	<key>@MMK_R_g</key>
+	<array>
+		<string>g</string>
+		<string>gbreve</string>
+		<string>gcaron</string>
+		<string>gcircumflex</string>
+		<string>gdotaccent</string>
+	</array>
+	<key>@MMK_R_g.salt</key>
+	<array>
+		<string>g.salt</string>
+		<string>gbreve.salt</string>
+		<string>gcaron.salt</string>
+		<string>gcircumflex.salt</string>
+		<string>gdotaccent.salt</string>
+	</array>
+	<key>@MMK_R_h</key>
+	<array>
+		<string>h</string>
+		<string>hcircumflex</string>
+	</array>
+	<key>@MMK_R_i</key>
+	<array>
+		<string>i</string>
+		<string>iacute</string>
+		<string>ibreve</string>
+		<string>icircumflex</string>
+		<string>idieresis</string>
+		<string>idotbelow</string>
+		<string>igrave</string>
+		<string>iinvertedbreve</string>
+		<string>imacron</string>
+		<string>iogonek</string>
+		<string>itilde</string>
+	</array>
+	<key>@MMK_R_j</key>
+	<array>
+		<string>j</string>
+		<string>jcircumflex</string>
+	</array>
+	<key>@MMK_R_l</key>
+	<array>
+		<string>l</string>
+		<string>lacute</string>
+		<string>lcaron</string>
 	</array>
 	<key>@MMK_R_n</key>
 	<array>
 		<string>n</string>
 		<string>ntilde</string>
+		<string>nacute</string>
+		<string>ncaron</string>
+	</array>
+	<key>@MMK_R_n.salt</key>
+	<array>
+		<string>n.salt</string>
+		<string>nacute.salt</string>
+		<string>ncaron.salt</string>
+		<string>ntilde.salt</string>
 	</array>
 	<key>@MMK_R_o</key>
 	<array>
@@ -300,16 +1117,209 @@
 		<string>odieresismacron</string>
 		<string>ohorn</string>
 		<string>otildemacron</string>
+		<string>oacute</string>
+		<string>obreve</string>
+		<string>ocircumflex</string>
+		<string>ocircumflexdotbelow</string>
+		<string>ocircumflexgrave</string>
+		<string>ocircumflextilde</string>
+		<string>odieresis</string>
+		<string>odotbelow</string>
+		<string>ograve</string>
+		<string>ohornacute</string>
+		<string>ohorndotbelow</string>
+		<string>ohorngrave</string>
+		<string>ohorntilde</string>
+		<string>ohungarumlaut</string>
+		<string>oinvertedbreve</string>
+		<string>omacron</string>
+		<string>oogonek</string>
+		<string>otilde</string>
+	</array>
+	<key>@MMK_R_oslash</key>
+	<array>
+		<string>oslash</string>
+		<string>oslashacute</string>
+	</array>
+	<key>@MMK_R_r</key>
+	<array>
+		<string>r</string>
+		<string>racute</string>
+		<string>rcaron</string>
+		<string>rinvertedbreve</string>
+	</array>
+	<key>@MMK_R_r.salt</key>
+	<array>
+		<string>r.salt</string>
+		<string>racute.salt</string>
+		<string>rcaron.salt</string>
+		<string>rinvertedbreve.salt</string>
+	</array>
+	<key>@MMK_R_s</key>
+	<array>
+		<string>s</string>
+		<string>sacute</string>
+		<string>scaron</string>
+		<string>scedilla</string>
+		<string>scircumflex</string>
+		<string>scommaaccent</string>
 	</array>
 	<key>@MMK_R_t</key>
 	<array>
 		<string>t</string>
 		<string>tcommaaccent</string>
+		<string>tcaron</string>
+	</array>
+	<key>@MMK_R_t.salt</key>
+	<array>
+		<string>t.salt</string>
+		<string>tcaron.salt</string>
 	</array>
 	<key>@MMK_R_u</key>
 	<array>
 		<string>u</string>
 		<string>uhorn</string>
+		<string>uacute</string>
+		<string>ubreve</string>
+		<string>ucircumflex</string>
+		<string>udieresis</string>
+		<string>udotbelow</string>
+		<string>ugrave</string>
+		<string>uhornacute</string>
+		<string>uhorndotbelow</string>
+		<string>uhorngrave</string>
+		<string>uhorntilde</string>
+		<string>uhungarumlaut</string>
+		<string>uinvertedbreve</string>
+		<string>umacron</string>
+		<string>uogonek</string>
+		<string>uring</string>
+		<string>utilde</string>
+	</array>
+	<key>@MMK_R_u.salt</key>
+	<array>
+		<string>u.salt</string>
+		<string>uacute.salt</string>
+		<string>ubreve.salt</string>
+		<string>ucircumflex.salt</string>
+		<string>udieresis.salt</string>
+		<string>udotbelow.salt</string>
+		<string>ugrave.salt</string>
+		<string>uhorn.salt</string>
+		<string>uhornacute.salt</string>
+		<string>uhorndotbelow.salt</string>
+		<string>uhorngrave.salt</string>
+		<string>uhorntilde.salt</string>
+		<string>uhungarumlaut.salt</string>
+		<string>uinvertedbreve.salt</string>
+		<string>umacron.salt</string>
+		<string>uogonek.salt</string>
+		<string>uring.salt</string>
+		<string>utilde.salt</string>
+	</array>
+	<key>@MMK_R_w</key>
+	<array>
+		<string>w</string>
+		<string>wacute</string>
+		<string>wcircumflex</string>
+		<string>wdieresis</string>
+		<string>wgrave</string>
+	</array>
+	<key>@MMK_R_w.salt</key>
+	<array>
+		<string>w.salt</string>
+		<string>wacute.salt</string>
+		<string>wcircumflex.salt</string>
+		<string>wdieresis.salt</string>
+		<string>wgrave.salt</string>
+	</array>
+	<key>@MMK_R_y</key>
+	<array>
+		<string>y</string>
+		<string>yacute</string>
+		<string>ycircumflex</string>
+		<string>ydieresis</string>
+		<string>ydotbelow</string>
+		<string>ygrave</string>
+		<string>ymacron</string>
+		<string>ytilde</string>
+	</array>
+	<key>@MMK_R_z</key>
+	<array>
+		<string>z</string>
+		<string>zacute</string>
+		<string>zcaron</string>
+		<string>zdotaccent</string>
+	</array>
+	<key>smallcaps</key>
+	<array>
+		<string>W.salt.smcp</string>
+		<string>Wcircumflex.salt.smcp</string>
+		<string>Wgrave.salt.smcp</string>
+		<string>Wacute.salt.smcp</string>
+		<string>Wdieresis.salt.smcp</string>
+		<string>A.smcp</string>
+		<string>Agrave.smcp</string>
+		<string>Aacute.smcp</string>
+		<string>Acircumflex.smcp</string>
+		<string>Atilde.smcp</string>
+		<string>Adieresis.smcp</string>
+		<string>Aring.smcp</string>
+		<string>Amacron.smcp</string>
+		<string>Abreve.smcp</string>
+		<string>Aogonek.smcp</string>
+		<string>Aringacute.smcp</string>
+		<string>Ainvertedbreve.smcp</string>
+		<string>Adotbelow.smcp</string>
+		<string>Acircumflexacute.smcp</string>
+		<string>Acircumflexgrave.smcp</string>
+		<string>Acircumflextilde.smcp</string>
+		<string>Acircumflexdotbelow.smcp</string>
+		<string>Abreveacute.smcp</string>
+		<string>Abrevegrave.smcp</string>
+		<string>Abrevetilde.smcp</string>
+		<string>Abrevedotbelow.smcp</string>
+		<string>V.smcp</string>
+		<string>W.smcp</string>
+		<string>Wcircumflex.smcp</string>
+		<string>Wgrave.smcp</string>
+		<string>Wacute.smcp</string>
+		<string>Wdieresis.smcp</string>
+	</array>
+	<key>uppercase</key>
+	<array>
+		<string>A</string>
+		<string>Agrave</string>
+		<string>Aacute</string>
+		<string>Acircumflex</string>
+		<string>Atilde</string>
+		<string>Adieresis</string>
+		<string>Aring</string>
+		<string>Amacron</string>
+		<string>Abreve</string>
+		<string>Aogonek</string>
+		<string>Aringacute</string>
+		<string>Ainvertedbreve</string>
+		<string>Adotbelow</string>
+		<string>Acircumflexacute</string>
+		<string>Acircumflexgrave</string>
+		<string>Acircumflextilde</string>
+		<string>Acircumflexdotbelow</string>
+		<string>Abreveacute</string>
+		<string>Abrevegrave</string>
+		<string>Abrevetilde</string>
+		<string>Abrevedotbelow</string>
+		<string>V</string>
+		<string>W</string>
+		<string>Wcircumflex</string>
+		<string>Wgrave</string>
+		<string>Wacute</string>
+		<string>Wdieresis</string>
+		<string>W.salt</string>
+		<string>Wcircumflex.salt</string>
+		<string>Wgrave.salt</string>
+		<string>Wacute.salt</string>
+		<string>Wdieresis.salt</string>
 	</array>
 </dict>
 </plist>

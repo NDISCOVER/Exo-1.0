@@ -2,6 +2,9 @@
 <glyph name="zdotaccent" format="1">
   <advance width="512.0"/>
   <unicode hex="017C"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
   <outline>
     <component base="z"/>
     <component base="dotaccentcomb" xOffset="519"/>

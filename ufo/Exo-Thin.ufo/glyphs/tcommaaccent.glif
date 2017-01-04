@@ -2,6 +2,9 @@
 <glyph name="tcommaaccent" format="1">
   <advance width="350"/>
   <unicode hex="0163"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
   <outline>
     <component base="t"/>
     <component base="commaaccentcomb" xOffset="470"/>

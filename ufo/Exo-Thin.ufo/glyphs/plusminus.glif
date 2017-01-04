@@ -2,6 +2,9 @@
 <glyph name="plusminus" format="1">
   <advance width="609"/>
   <unicode hex="00B1"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
   <outline>
     <component base="minus" yOffset="-200"/>
     <component base="plus" yOffset="150"/>

@@ -2,6 +2,9 @@
 <glyph name="Tcaron" format="1">
   <advance width="550.0"/>
   <unicode hex="0164"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
   <outline>
     <component base="T"/>
     <component base="caroncomb.case" xOffset="544"/>

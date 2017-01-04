@@ -2,9 +2,12 @@
 <glyph name="Uhorngrave" format="1">
   <advance width="692.0"/>
   <unicode hex="1EEA"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
   <outline>
     <component base="Uhorn"/>
-    <component base="gravecomb.case"/>
+    <component base="gravecomb.case" xOffset="600"/>
   </outline>
   <lib>
     <dict>

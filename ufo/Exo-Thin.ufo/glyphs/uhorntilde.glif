@@ -2,6 +2,9 @@
 <glyph name="uhorntilde" format="1">
   <advance width="582.0"/>
   <unicode hex="1EEF"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
   <outline>
     <component base="uhorn"/>
     <component base="tildecomb" xOffset="550"/>

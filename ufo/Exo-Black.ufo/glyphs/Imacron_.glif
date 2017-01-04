@@ -2,6 +2,9 @@
 <glyph name="Imacron" format="1">
   <advance width="304.0"/>
   <unicode hex="012A"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
   <outline>
     <component base="I"/>
     <component base="macroncomb.case" xOffset="421"/>

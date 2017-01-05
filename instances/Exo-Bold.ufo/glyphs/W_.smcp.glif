@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W.smcp" format="1">
+  <advance width="817"/>
+  <outline>
+    <contour>
+      <point x="19" y="560" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="301" y="0" type="line"/>
+      <point x="409" y="351" type="line"/>
+      <point x="516" y="0" type="line"/>
+      <point x="660" y="0" type="line"/>
+      <point x="798" y="560" type="line"/>
+      <point x="641" y="560" type="line"/>
+      <point x="569" y="188" type="line"/>
+      <point x="474" y="560" type="line"/>
+      <point x="344" y="560" type="line"/>
+      <point x="248" y="188" type="line"/>
+      <point x="176" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="408" y="650" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>712</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="w.salt" format="1">
+  <advance width="827"/>
+  <outline>
+    <contour>
+      <point x="12" y="537" type="line"/>
+      <point x="153" y="0" type="line"/>
+      <point x="317" y="0" type="line"/>
+      <point x="410" y="276" type="line"/>
+      <point x="509" y="0" type="line"/>
+      <point x="676" y="0" type="line"/>
+      <point x="815" y="537" type="line"/>
+      <point x="659" y="537" type="line"/>
+      <point x="585" y="140" type="line"/>
+      <point x="494" y="407" type="line"/>
+      <point x="524" y="537" type="line"/>
+      <point x="368" y="537" type="line"/>
+      <point x="251" y="140" type="line"/>
+      <point x="168" y="537" type="line"/>
+    </contour>
+    <contour>
+      <point x="424" y="650" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="424" y="-150" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>511</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>w</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>w.salt</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>774</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

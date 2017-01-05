@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W.salt.smcp" format="1">
+  <advance width="843"/>
+  <outline>
+    <contour>
+      <point x="36" y="560" type="line"/>
+      <point x="220" y="0" type="line"/>
+      <point x="323" y="0" type="line"/>
+      <point x="422" y="271" type="line"/>
+      <point x="524" y="0" type="line"/>
+      <point x="626" y="0" type="line"/>
+      <point x="807" y="560" type="line"/>
+      <point x="728" y="560" type="line"/>
+      <point x="571" y="82" type="line"/>
+      <point x="459" y="380" type="line"/>
+      <point x="515" y="560" type="line"/>
+      <point x="434" y="560" type="line"/>
+      <point x="277" y="82" type="line"/>
+      <point x="118" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="446" y="650" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="426" y="-150" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>712</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

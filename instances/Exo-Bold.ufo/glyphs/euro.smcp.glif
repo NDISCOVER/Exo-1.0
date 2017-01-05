@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="euro.smcp" format="1">
+  <advance width="511"/>
+  <outline>
+    <contour>
+      <point x="22" y="303" type="line"/>
+      <point x="81" y="297" type="line"/>
+      <point x="196" y="297" type="line"/>
+      <point x="409" y="302" type="line"/>
+      <point x="409" y="363" type="line"/>
+      <point x="195" y="369" type="line"/>
+      <point x="89" y="369" type="line"/>
+      <point x="22" y="362" type="line"/>
+    </contour>
+    <contour>
+      <point x="22" y="194" type="line"/>
+      <point x="89" y="188" type="line"/>
+      <point x="195" y="188" type="line"/>
+      <point x="409" y="194" type="line"/>
+      <point x="409" y="255" type="line"/>
+      <point x="196" y="261" type="line"/>
+      <point x="81" y="261" type="line"/>
+      <point x="22" y="256" type="line"/>
+    </contour>
+    <component base="C.smcp" xOffset="21"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-6</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>268</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>430</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>716</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>115</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

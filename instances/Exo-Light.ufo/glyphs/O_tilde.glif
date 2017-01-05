@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Otilde" format="1">
+  <advance width="683"/>
+  <unicode hex="00D5"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
+  <outline>
+    <component base="O"/>
+    <component base="tildecomb.case" xOffset="613"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>0.8</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lslash.smcp" format="1">
+  <advance width="453"/>
+  <outline>
+    <contour>
+      <point x="11" y="234" type="line"/>
+      <point x="79" y="261" type="line"/>
+      <point x="154" y="281" type="line"/>
+      <point x="270" y="329" type="line"/>
+      <point x="270" y="378" type="line"/>
+      <point x="154" y="331" type="line"/>
+      <point x="79" y="311" type="line"/>
+      <point x="11" y="284" type="line"/>
+    </contour>
+    <component base="L.smcp"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>712</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>108</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

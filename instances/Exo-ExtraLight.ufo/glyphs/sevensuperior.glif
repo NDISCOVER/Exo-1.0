@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sevensuperior" format="1">
+  <advance width="457"/>
+  <unicode hex="2077"/>
+  <outline>
+    <contour>
+      <point x="55" y="784" type="line"/>
+      <point x="353" y="784" type="line"/>
+      <point x="146" y="280" type="line"/>
+      <point x="189" y="280" type="line"/>
+      <point x="398" y="797" type="line"/>
+      <point x="382" y="820" type="line"/>
+      <point x="55" y="820" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>708</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

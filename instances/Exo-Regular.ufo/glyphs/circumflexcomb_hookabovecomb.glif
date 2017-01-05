@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflexcomb_hookabovecomb" format="1">
+  <outline>
+    <contour>
+      <point x="-295" y="730" type="line"/>
+      <point x="-416" y="631" type="line"/>
+      <point x="-367" y="631" type="line"/>
+      <point x="-268" y="691" type="line"/>
+      <point x="-177" y="631" type="line"/>
+      <point x="-128" y="631" type="line"/>
+      <point x="-238" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="-189" y="801" type="line"/>
+      <point x="-178" y="804"/>
+      <point x="-165" y="807"/>
+      <point x="-154" y="807" type="curve" smooth="yes"/>
+      <point x="-123" y="807"/>
+      <point x="-112" y="793"/>
+      <point x="-112" y="770" type="curve" smooth="yes"/>
+      <point x="-112" y="752"/>
+      <point x="-125" y="732"/>
+      <point x="-162" y="720" type="curve"/>
+      <point x="-162" y="683" type="line"/>
+      <point x="-99" y="701"/>
+      <point x="-71" y="734"/>
+      <point x="-71" y="774" type="curve" smooth="yes"/>
+      <point x="-71" y="813"/>
+      <point x="-94" y="839"/>
+      <point x="-143" y="839" type="curve" smooth="yes"/>
+      <point x="-160" y="839"/>
+      <point x="-175" y="837"/>
+      <point x="-189" y="832" type="curve"/>
+    </contour>
+    <contour>
+      <point x="-269" y="650" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

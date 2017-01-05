@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="horncomb" format="1">
+  <note>
+    GF Latin Plus glyph
+  </note>
+  <outline>
+    <contour>
+      <point x="-260" y="445" type="line"/>
+      <point x="-153" y="445" type="line" smooth="yes"/>
+      <point x="-58" y="445"/>
+      <point x="3" y="516"/>
+      <point x="3" y="647" type="curve"/>
+      <point x="-116" y="647" type="line"/>
+      <point x="-116" y="565"/>
+      <point x="-140" y="538"/>
+      <point x="-185" y="538" type="curve" smooth="yes"/>
+      <point x="-260" y="538" type="line"/>
+    </contour>
+    <contour>
+      <point x="-287" y="650" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

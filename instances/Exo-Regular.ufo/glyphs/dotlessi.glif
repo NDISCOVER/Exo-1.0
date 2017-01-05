@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotlessi" format="1">
+  <advance width="228"/>
+  <unicode hex="0131"/>
+  <outline>
+    <contour>
+      <point x="75" y="0" type="line"/>
+      <point x="157" y="0" type="line"/>
+      <point x="157" y="534" type="line"/>
+      <point x="75" y="534" type="line"/>
+    </contour>
+    <contour>
+      <point x="116" y="650" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="147" y="0" type="move" name="ogonek"/>
+    </contour>
+    <contour>
+      <point x="116" y="-150" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>511</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>81</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>91.0</real>
+                  <key>y</key>
+                  <integer>0</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>91.0</real>
+                  <key>y</key>
+                  <integer>531</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>115.0</real>
+                  <key>y</key>
+                  <integer>531</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <real>115.0</real>
+                  <key>y</key>
+                  <integer>0</integer>
+                </dict>
+              </array>
+            </dict>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>dotlessi</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>202.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

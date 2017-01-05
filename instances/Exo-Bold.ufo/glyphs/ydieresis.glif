@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ydieresis" format="1">
+  <advance width="570"/>
+  <unicode hex="00FF"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
+  <outline>
+    <component base="y"/>
+    <component base="dieresiscomb" xOffset="544"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>0.8</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

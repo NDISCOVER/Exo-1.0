@@ -94,7 +94,7 @@ Kcommaaccent=K+commaaccentcomb.case@bottom
 kcommaaccent=k+commaaccentcomb@bottom
 Lacute=L+acutecomb.case@top
 lacute=l+acutecomb@top
-Lcaron=L+caroncomb.case@top
+Lcaron=L+caroncomb.alt@altcaron
 lcaron=l+caroncomb.alt@altcaron
 Lcommaaccent=L+commaaccentcomb.case@bottom
 lcommaaccent=l+commaaccentcomb@bottom
@@ -251,7 +251,7 @@ Ecircumflextilde=E+circumflexcomb_tildecomb@top
 Ehookabove=E+hookabovecomb.case@top
 
 Ocircumflexacute=O+circumflexcomb_acutecomb@top
-Ocircumflexdotbelow=O+ircumflexcomb.case@top+dotbelowcomb.case@bottom
+Ocircumflexdotbelow=O+circumflexcomb.case@top+dotbelowcomb.case@bottom
 Ocircumflexgrave=O+circumflexcomb_gravecomb@top
 Ocircumflexhookabove=O+circumflexcomb_hookabovecomb@top
 Ocircumflextilde=O+circumflexcomb_tildecomb@top

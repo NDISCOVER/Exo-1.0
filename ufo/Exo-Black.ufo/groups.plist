@@ -1050,6 +1050,11 @@
 		<string>ccircumflex</string>
 		<string>cdotaccent</string>
 	</array>
+	<key>@MMK_R_colon</key>
+	<array>
+		<string>colon</string>
+		<string>semicolon</string>
+	</array>
 	<key>@MMK_R_d</key>
 	<array>
 		<string>d</string>
@@ -1100,6 +1105,13 @@
 	<array>
 		<string>h</string>
 		<string>hcircumflex</string>
+	</array>
+	<key>@MMK_R_hyphen</key>
+	<array>
+		<string>uni00AD</string>
+		<string>emdash</string>
+		<string>endash</string>
+		<string>hyphen</string>
 	</array>
 	<key>@MMK_R_i</key>
 	<array>
@@ -1169,6 +1181,23 @@
 	<array>
 		<string>oslash</string>
 		<string>oslashacute</string>
+	</array>
+	<key>@MMK_R_period</key>
+	<array>
+		<string>comma</string>
+		<string>period</string>
+		<string>quotedblbase</string>
+		<string>quotesinglbase</string>
+		<string>ellipsis</string>
+	</array>
+	<key>@MMK_R_quote</key>
+	<array>
+		<string>quotedblleft</string>
+		<string>quoteleft</string>
+		<string>quotedblright</string>
+		<string>quoteright</string>
+		<string>quotesingle</string>
+		<string>quotedbl</string>
 	</array>
 	<key>@MMK_R_r</key>
 	<array>

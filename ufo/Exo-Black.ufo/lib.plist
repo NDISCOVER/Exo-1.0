@@ -1783,6 +1783,13 @@
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
+		<key>@MMK_R_colon</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>0.25</real>
+		</array>
 		<key>@MMK_R_d</key>
 		<array>
 			<real>1.0</real>
@@ -1825,6 +1832,13 @@
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
+		<key>@MMK_R_hyphen</key>
+		<array>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
 		<key>@MMK_R_i</key>
 		<array>
 			<real>0.0</real>
@@ -1865,6 +1879,20 @@
 			<real>1.0</real>
 			<real>0.0</real>
 			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_period</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_quote</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_r</key>

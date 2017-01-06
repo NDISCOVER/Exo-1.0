@@ -10,7 +10,7 @@
     <data name="lineViewFilled" value="True"/>
     <data name="lineStacked" value="lined"/>
     <data name="generateFontsAtFolder" value="/Users/rob/Dropbox/Work/2016/Google Fonts/02_Production/Exo-2016/instances"/>
-    <data name="previewtext" value="HHKHHVHHMHHNHHXHHWHHYHHZHH"/>
+    <data name="previewtext" value="OHamburgefonstives"/>
     <data name="verticalPreviewAxis" value="None"/>
     <!-- snippet definitions -->
     <snippet direction="ltr" text="OHamburgefontives ABCDEFGHIJKLmnopqrstuvwxyz 01234"/>
@@ -32,11 +32,13 @@
             <dimension name="weight" xvalue="900.000000"/>
         </location>
         <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
     </master>
     <!-- instance definitions -->
     <instance familyname="Exo" filename="instances/Exo-Regular.ufo" sortorder="3" stylename="Regular">
         <location>
-            <dimension name="weight" xvalue="370.000000"/>
+            <dimension name="weight" xvalue="400.000000"/>
         </location>
         <provideFeatures state="1"/>
         <provideGroups state="1"/>
@@ -63,7 +65,7 @@
     </instance>
     <instance familyname="Exo" filename="instances/Exo-Medium.ufo" sortorder="4" stylename="Medium">
         <location>
-            <dimension name="weight" xvalue="460.000000"/>
+            <dimension name="weight" xvalue="480.000000"/>
         </location>
         <provideFeatures state="1"/>
         <provideGroups state="1"/>

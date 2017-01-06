@@ -1321,13 +1321,6 @@
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
-		<key>@MMK_L_N.smcp</key>
-		<array>
-			<real>0.5</real>
-			<real>0.0</real>
-			<real>1.0</real>
-			<real>0.25</real>
-		</array>
 		<key>@MMK_L_O</key>
 		<array>
 			<real>1.0</real>
@@ -1361,6 +1354,13 @@
 			<real>1.0</real>
 			<real>0.5</real>
 			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_S</key>
+		<array>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_T</key>
@@ -1545,6 +1545,20 @@
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
+		<key>@MMK_L_parenleft</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_parenright</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>0.25</real>
+		</array>
 		<key>@MMK_L_r</key>
 		<array>
 			<real>0.0</real>
@@ -1643,20 +1657,6 @@
 			<real>1.0</real>
 			<real>0.25</real>
 		</array>
-		<key>@MMK_R_R</key>
-		<array>
-			<real>0.0</real>
-			<real>0.0</real>
-			<real>1.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_R.smcp</key>
-		<array>
-			<real>0.5</real>
-			<real>0.0</real>
-			<real>1.0</real>
-			<real>0.25</real>
-		</array>
 		<key>@MMK_R_S</key>
 		<array>
 			<real>1.0</real>
@@ -1706,14 +1706,7 @@
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
-		<key>@MMK_R_W.salt.smcp</key>
-		<array>
-			<real>1.0</real>
-			<real>1.0</real>
-			<real>0.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_W.smcp</key>
+		<key>@MMK_R_V.smcp</key>
 		<array>
 			<real>0.0</real>
 			<real>1.0</real>
@@ -1875,6 +1868,20 @@
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_oslash</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_parenleft</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_parenright</key>
 		<array>
 			<real>1.0</real>
 			<real>0.0</real>

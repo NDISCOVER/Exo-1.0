@@ -12,6 +12,8 @@
 		<integer>-70</integer>
 		<key>@MMK_R_Y</key>
 		<integer>-75</integer>
+		<key>@MMK_R_hyphen</key>
+		<integer>-10</integer>
 	</dict>
 	<key>@MMK_L_F</key>
 	<dict>
@@ -22,6 +24,8 @@
 	<dict>
 		<key>@MMK_R_O</key>
 		<integer>-35</integer>
+		<key>@MMK_R_hyphen</key>
+		<integer>-40</integer>
 	</dict>
 	<key>@MMK_L_L</key>
 	<dict>
@@ -46,6 +50,8 @@
 		<integer>-50</integer>
 		<key>@MMK_R_Y</key>
 		<integer>-35</integer>
+		<key>@MMK_R_period</key>
+		<integer>-20</integer>
 	</dict>
 	<key>@MMK_L_T</key>
 	<dict>
@@ -53,6 +59,12 @@
 		<integer>-80</integer>
 		<key>@MMK_R_O</key>
 		<integer>-10</integer>
+		<key>@MMK_R_colon</key>
+		<integer>-20</integer>
+		<key>@MMK_R_hyphen</key>
+		<integer>-70</integer>
+		<key>@MMK_R_period</key>
+		<integer>-80</integer>
 	</dict>
 	<key>@MMK_L_V</key>
 	<dict>
@@ -60,6 +72,12 @@
 		<integer>-70</integer>
 		<key>@MMK_R_O</key>
 		<integer>-20</integer>
+		<key>@MMK_R_colon</key>
+		<integer>-30</integer>
+		<key>@MMK_R_hyphen</key>
+		<integer>-50</integer>
+		<key>@MMK_R_period</key>
+		<integer>-60</integer>
 	</dict>
 	<key>@MMK_L_Y</key>
 	<dict>
@@ -67,11 +85,25 @@
 		<integer>-75</integer>
 		<key>@MMK_R_O</key>
 		<integer>-35</integer>
+		<key>@MMK_R_colon</key>
+		<integer>-40</integer>
+	</dict>
+	<key>@MMK_L_f</key>
+	<dict>
+		<key>@MMK_R_period</key>
+		<integer>-40</integer>
+	</dict>
+	<key>@MMK_L_r</key>
+	<dict>
+		<key>@MMK_R_period</key>
+		<integer>-70</integer>
 	</dict>
 	<key>X</key>
 	<dict>
 		<key>@MMK_R_O</key>
 		<integer>-35</integer>
+		<key>@MMK_R_hyphen</key>
+		<integer>-40</integer>
 	</dict>
 </dict>
 </plist>

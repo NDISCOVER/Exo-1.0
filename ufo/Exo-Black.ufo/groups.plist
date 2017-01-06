@@ -119,17 +119,6 @@
 		<string>Lcommaaccent.smcp</string>
 		<string>Lslash.smcp</string>
 	</array>
-	<key>@MMK_L_N.smcp</key>
-	<array>
-		<string>N.smcp</string>
-		<string>Nacute.smcp</string>
-		<string>Ncaron.smcp</string>
-		<string>Ntilde.smcp</string>
-		<string>N.salt.smcp</string>
-		<string>Nacute.salt.smcp</string>
-		<string>Ncaron.salt.smcp</string>
-		<string>Ntilde.salt.smcp</string>
-	</array>
 	<key>@MMK_L_O</key>
 	<array>
 		<string>D</string>
@@ -218,6 +207,8 @@
 		<string>Racute</string>
 		<string>Rcaron</string>
 		<string>Rinvertedbreve</string>
+		<string>Rcommaaccent</string>
+		<string>Rdblgrave</string>
 	</array>
 	<key>@MMK_L_R.smcp</key>
 	<array>
@@ -225,6 +216,15 @@
 		<string>Racute.smcp</string>
 		<string>Rcaron.smcp</string>
 		<string>Rinvertedbreve.smcp</string>
+	</array>
+	<key>@MMK_L_S</key>
+	<array>
+		<string>S</string>
+		<string>Sacute</string>
+		<string>Scaron</string>
+		<string>Scedilla</string>
+		<string>Scircumflex</string>
+		<string>Scommaaccent</string>
 	</array>
 	<key>@MMK_L_T</key>
 	<array>
@@ -546,6 +546,18 @@
 		<string>oslash</string>
 		<string>oslashacute</string>
 	</array>
+	<key>@MMK_L_parenleft</key>
+	<array>
+		<string>braceleft</string>
+		<string>bracketleft</string>
+		<string>parenleft</string>
+	</array>
+	<key>@MMK_L_parenright</key>
+	<array>
+		<string>braceright</string>
+		<string>bracketright</string>
+		<string>parenright</string>
+	</array>
 	<key>@MMK_L_r</key>
 	<array>
 		<string>r</string>
@@ -822,20 +834,6 @@
 		<string>Q.smcp</string>
 		<string>OE.smcp</string>
 	</array>
-	<key>@MMK_R_R</key>
-	<array>
-		<string>R</string>
-		<string>Racute</string>
-		<string>Rcaron</string>
-		<string>Rinvertedbreve</string>
-	</array>
-	<key>@MMK_R_R.smcp</key>
-	<array>
-		<string>R.smcp</string>
-		<string>Racute.smcp</string>
-		<string>Rcaron.smcp</string>
-		<string>Rinvertedbreve.smcp</string>
-	</array>
 	<key>@MMK_R_S</key>
 	<array>
 		<string>S</string>
@@ -866,6 +864,7 @@
 		<string>T.smcp</string>
 		<string>Tcaron.smcp</string>
 		<string>Tcedilla.smcp</string>
+		<string>Tcommaaccent.smcp</string>
 	</array>
 	<key>@MMK_R_U</key>
 	<array>
@@ -887,6 +886,9 @@
 		<string>Uogonek</string>
 		<string>Uring</string>
 		<string>Utilde</string>
+		<string>Udblgrave</string>
+		<string>Uhookabove</string>
+		<string>Uhornhookabove</string>
 	</array>
 	<key>@MMK_R_U.smcp</key>
 	<array>
@@ -908,6 +910,9 @@
 		<string>Uogonek.smcp</string>
 		<string>Uring.smcp</string>
 		<string>Utilde.smcp</string>
+		<string>Udblgrave.smcp</string>
+		<string>Uhookabove.smcp</string>
+		<string>Uhornhookabove.smcp</string>
 	</array>
 	<key>@MMK_R_V</key>
 	<array>
@@ -923,21 +928,19 @@
 		<string>Wdieresis.salt</string>
 		<string>Wgrave.salt</string>
 	</array>
-	<key>@MMK_R_W.salt.smcp</key>
-	<array>
-		<string>W.salt.smcp</string>
-		<string>Wacute.salt.smcp</string>
-		<string>Wcircumflex.salt.smcp</string>
-		<string>Wdieresis.salt.smcp</string>
-		<string>Wgrave.salt.smcp</string>
-	</array>
-	<key>@MMK_R_W.smcp</key>
+	<key>@MMK_R_V.smcp</key>
 	<array>
 		<string>W.smcp</string>
 		<string>Wacute.smcp</string>
 		<string>Wcircumflex.smcp</string>
 		<string>Wdieresis.smcp</string>
 		<string>Wgrave.smcp</string>
+		<string>W.salt.smcp</string>
+		<string>Wacute.salt.smcp</string>
+		<string>Wcircumflex.salt.smcp</string>
+		<string>Wdieresis.salt.smcp</string>
+		<string>Wgrave.salt.smcp</string>
+		<string>V.smcp</string>
 	</array>
 	<key>@MMK_R_X</key>
 	<array>
@@ -954,6 +957,7 @@
 		<string>Ygrave</string>
 		<string>Ymacron</string>
 		<string>Ytilde</string>
+		<string>Yhookabove</string>
 	</array>
 	<key>@MMK_R_Y.smcp</key>
 	<array>
@@ -965,6 +969,7 @@
 		<string>Ygrave.smcp</string>
 		<string>Ymacron.smcp</string>
 		<string>Ytilde.smcp</string>
+		<string>Yhookabove.smcp</string>
 	</array>
 	<key>@MMK_R_Z</key>
 	<array>
@@ -1181,6 +1186,18 @@
 	<array>
 		<string>oslash</string>
 		<string>oslashacute</string>
+	</array>
+	<key>@MMK_R_parenleft</key>
+	<array>
+		<string>braceleft</string>
+		<string>bracketleft</string>
+		<string>parenleft</string>
+	</array>
+	<key>@MMK_R_parenright</key>
+	<array>
+		<string>braceright</string>
+		<string>bracketright</string>
+		<string>parenright</string>
 	</array>
 	<key>@MMK_R_period</key>
 	<array>

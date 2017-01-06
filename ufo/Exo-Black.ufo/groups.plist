@@ -400,6 +400,14 @@
 	<key>@MMK_L_ae</key>
 	<array>
 	</array>
+	<key>@MMK_L_b</key>
+	<array>
+		<string>b.salt</string>
+		<string>p.salt</string>
+		<string>b</string>
+		<string>p</string>
+		<string>thorn</string>
+	</array>
 	<key>@MMK_L_c</key>
 	<array>
 		<string>c</string>
@@ -437,6 +445,13 @@
 		<string>etilde</string>
 		<string>ae</string>
 		<string>aeacute</string>
+		<string>oe</string>
+	</array>
+	<key>@MMK_L_f</key>
+	<array>
+		<string>f</string>
+		<string>f.salt</string>
+		<string>f_f</string>
 	</array>
 	<key>@MMK_L_g</key>
 	<array>
@@ -478,6 +493,12 @@
 		<string>j</string>
 		<string>jcircumflex</string>
 	</array>
+	<key>@MMK_L_k</key>
+	<array>
+		<string>k</string>
+		<string>kgreenlandic</string>
+		<string>kcommaaccent</string>
+	</array>
 	<key>@MMK_L_n</key>
 	<array>
 		<string>n</string>
@@ -490,6 +511,9 @@
 		<string>ntilde.salt</string>
 		<string>ncommaaccent</string>
 		<string>ncommaaccent.salt</string>
+		<string>m.salt</string>
+		<string>eng</string>
+		<string>m</string>
 	</array>
 	<key>@MMK_L_o</key>
 	<array>
@@ -557,6 +581,7 @@
 		<string>tcedilla.salt</string>
 		<string>f_t</string>
 		<string>c_t</string>
+		<string>s_t</string>
 	</array>
 	<key>@MMK_L_u</key>
 	<array>
@@ -604,14 +629,12 @@
 		<string>wcircumflex</string>
 		<string>wdieresis</string>
 		<string>wgrave</string>
-	</array>
-	<key>@MMK_L_w.salt</key>
-	<array>
 		<string>w.salt</string>
 		<string>wacute.salt</string>
 		<string>wcircumflex.salt</string>
 		<string>wdieresis.salt</string>
 		<string>wgrave.salt</string>
+		<string>v</string>
 	</array>
 	<key>@MMK_L_y</key>
 	<array>
@@ -623,6 +646,7 @@
 		<string>ygrave</string>
 		<string>ymacron</string>
 		<string>ytilde</string>
+		<string>f_y</string>
 	</array>
 	<key>@MMK_R_A</key>
 	<array>

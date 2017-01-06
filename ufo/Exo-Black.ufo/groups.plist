@@ -364,6 +364,10 @@
 		<string>acircumflexdotbelow</string>
 		<string>acircumflexgrave</string>
 		<string>acircumflextilde</string>
+		<string>abrevehookabove</string>
+		<string>acircumflexhookabove</string>
+		<string>adblgrave</string>
+		<string>ahookabove</string>
 	</array>
 	<key>@MMK_L_a.salt</key>
 	<array>
@@ -388,11 +392,13 @@
 		<string>aring.salt</string>
 		<string>aringacute.salt</string>
 		<string>atilde.salt</string>
+		<string>abrevehookabove.salt</string>
+		<string>acircumflexhookabove.salt</string>
+		<string>adblgrave.salt</string>
+		<string>ahookabove.salt</string>
 	</array>
 	<key>@MMK_L_ae</key>
 	<array>
-		<string>ae</string>
-		<string>aeacute</string>
 	</array>
 	<key>@MMK_L_c</key>
 	<array>
@@ -407,9 +413,6 @@
 	<array>
 		<string>d</string>
 		<string>dcaron</string>
-	</array>
-	<key>@MMK_L_d.salt</key>
-	<array>
 		<string>d.salt</string>
 		<string>dcaron.salt</string>
 	</array>
@@ -432,6 +435,8 @@
 		<string>emacron</string>
 		<string>eogonek</string>
 		<string>etilde</string>
+		<string>ae</string>
+		<string>aeacute</string>
 	</array>
 	<key>@MMK_L_g</key>
 	<array>
@@ -479,13 +484,12 @@
 		<string>ntilde</string>
 		<string>nacute</string>
 		<string>ncaron</string>
-	</array>
-	<key>@MMK_L_n.salt</key>
-	<array>
 		<string>n.salt</string>
 		<string>nacute.salt</string>
 		<string>ncaron.salt</string>
 		<string>ntilde.salt</string>
+		<string>ncommaaccent</string>
+		<string>ncommaaccent.salt</string>
 	</array>
 	<key>@MMK_L_o</key>
 	<array>
@@ -526,15 +530,12 @@
 		<string>rinvertedbreve</string>
 		<string>rcommaaccent</string>
 		<string>rdblgrave</string>
-	</array>
-	<key>@MMK_L_r.salt</key>
-	<array>
 		<string>r.salt</string>
 		<string>racute.salt</string>
 		<string>rcaron.salt</string>
-		<string>rinvertedbreve.salt</string>
 		<string>rcommaaccent.salt</string>
 		<string>rdblgrave.salt</string>
+		<string>rinvertedbreve.salt</string>
 	</array>
 	<key>@MMK_L_s</key>
 	<array>
@@ -577,9 +578,6 @@
 		<string>uogonek</string>
 		<string>uring</string>
 		<string>utilde</string>
-	</array>
-	<key>@MMK_L_u.salt</key>
-	<array>
 		<string>u.salt</string>
 		<string>uacute.salt</string>
 		<string>ubreve.salt</string>
@@ -981,6 +979,10 @@
 		<string>acircumflexdotbelow</string>
 		<string>acircumflexgrave</string>
 		<string>acircumflextilde</string>
+		<string>abrevehookabove</string>
+		<string>acircumflexhookabove</string>
+		<string>adblgrave</string>
+		<string>ahookabove</string>
 	</array>
 	<key>@MMK_R_a.salt</key>
 	<array>
@@ -1005,6 +1007,10 @@
 		<string>acircumflexgrave.salt</string>
 		<string>acircumflextilde.salt</string>
 		<string>ainvertedbreve.salt</string>
+		<string>abrevehookabove.salt</string>
+		<string>acircumflexhookabove.salt</string>
+		<string>adblgrave.salt</string>
+		<string>ahookabove.salt</string>
 	</array>
 	<key>@MMK_R_ae</key>
 	<array>
@@ -1102,13 +1108,12 @@
 		<string>ntilde</string>
 		<string>nacute</string>
 		<string>ncaron</string>
-	</array>
-	<key>@MMK_R_n.salt</key>
-	<array>
 		<string>n.salt</string>
 		<string>nacute.salt</string>
 		<string>ncaron.salt</string>
 		<string>ntilde.salt</string>
+		<string>ncommaaccent</string>
+		<string>ncommaaccent.salt</string>
 	</array>
 	<key>@MMK_R_o</key>
 	<array>
@@ -1147,9 +1152,6 @@
 		<string>racute</string>
 		<string>rcaron</string>
 		<string>rinvertedbreve</string>
-	</array>
-	<key>@MMK_R_r.salt</key>
-	<array>
 		<string>r.salt</string>
 		<string>racute.salt</string>
 		<string>rcaron.salt</string>
@@ -1169,11 +1171,16 @@
 		<string>t</string>
 		<string>tcommaaccent</string>
 		<string>tcaron</string>
+		<string>tcedilla</string>
+		<string>t_t</string>
+		<string>t_y</string>
 	</array>
 	<key>@MMK_R_t.salt</key>
 	<array>
 		<string>t.salt</string>
 		<string>tcaron.salt</string>
+		<string>tcedilla.salt</string>
+		<string>tcommaaccent.salt</string>
 	</array>
 	<key>@MMK_R_u</key>
 	<array>
@@ -1195,9 +1202,6 @@
 		<string>uogonek</string>
 		<string>uring</string>
 		<string>utilde</string>
-	</array>
-	<key>@MMK_R_u.salt</key>
-	<array>
 		<string>u.salt</string>
 		<string>uacute.salt</string>
 		<string>ubreve.salt</string>
@@ -1224,17 +1228,12 @@
 		<string>wcircumflex</string>
 		<string>wdieresis</string>
 		<string>wgrave</string>
-	</array>
-	<key>@MMK_R_w.salt</key>
-	<array>
+		<string>v</string>
 		<string>w.salt</string>
 		<string>wacute.salt</string>
 		<string>wcircumflex.salt</string>
 		<string>wdieresis.salt</string>
 		<string>wgrave.salt</string>
-	</array>
-	<key>@MMK_R_y</key>
-	<array>
 		<string>y</string>
 		<string>yacute</string>
 		<string>ycircumflex</string>

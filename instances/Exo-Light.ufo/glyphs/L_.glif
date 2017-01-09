@@ -7,24 +7,27 @@
   </note>
   <outline>
     <contour>
-      <point x="81" y="138" type="line" smooth="yes"/>
-      <point x="81" y="30"/>
-      <point x="142" y="0"/>
+      <point x="81" y="137" type="line" smooth="yes"/>
+      <point x="81" y="29"/>
+      <point x="143" y="0"/>
       <point x="219" y="0" type="curve" smooth="yes"/>
-      <point x="504" y="0" type="line"/>
-      <point x="504" y="57" type="line"/>
-      <point x="233" y="57" type="line" smooth="yes"/>
-      <point x="187" y="57"/>
-      <point x="142" y="71"/>
-      <point x="142" y="148" type="curve" smooth="yes"/>
-      <point x="142" y="734" type="line"/>
+      <point x="503" y="0" type="line"/>
+      <point x="503" y="54" type="line"/>
+      <point x="231" y="54" type="line" smooth="yes"/>
+      <point x="185" y="54"/>
+      <point x="139" y="68"/>
+      <point x="139" y="146" type="curve" smooth="yes"/>
+      <point x="139" y="734" type="line"/>
       <point x="81" y="734" type="line"/>
     </contour>
     <contour>
-      <point x="111" y="810" type="move" name="top"/>
+      <point x="110" y="810" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="269" y="-150" type="move" name="bottom"/>
+      <point x="179" y="650" type="move" name="altcaron"/>
+    </contour>
+    <contour>
+      <point x="268" y="-150" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

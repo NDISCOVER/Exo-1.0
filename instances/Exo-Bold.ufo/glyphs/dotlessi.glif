@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="dotlessi" format="1">
-  <advance width="261"/>
+  <advance width="259"/>
   <unicode hex="0131"/>
   <outline>
     <contour>
-      <point x="56" y="0" type="line"/>
-      <point x="207" y="0" type="line"/>
-      <point x="207" y="537" type="line"/>
-      <point x="56" y="537" type="line"/>
+      <point x="57" y="0" type="line"/>
+      <point x="205" y="0" type="line"/>
+      <point x="205" y="537" type="line"/>
+      <point x="57" y="537" type="line"/>
     </contour>
     <contour>
-      <point x="132" y="650" type="move" name="top"/>
+      <point x="131" y="650" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="197" y="0" type="move" name="ogonek"/>
+      <point x="195" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="132" y="-150" type="move" name="bottom"/>
+      <point x="131" y="-150" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

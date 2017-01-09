@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I.smcp" format="1">
-  <advance width="260"/>
+  <advance width="258"/>
   <outline>
     <contour>
-      <point x="58" y="0" type="line"/>
-      <point x="202" y="0" type="line"/>
-      <point x="202" y="560" type="line"/>
-      <point x="58" y="560" type="line"/>
+      <point x="59" y="0" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="200" y="560" type="line"/>
+      <point x="59" y="560" type="line"/>
     </contour>
     <contour>
-      <point x="130" y="653" type="move" name="top"/>
+      <point x="129" y="653" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="192" y="0" type="move" name="ogonek"/>
+      <point x="190" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="130" y="-150" type="move" name="bottom"/>
+      <point x="129" y="-150" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Otildemacron" format="1">
-  <advance width="700"/>
+  <advance width="699"/>
   <unicode hex="022C"/>
   <note>
     GF Latin Plus glyph
@@ -8,7 +8,7 @@
   <outline>
     <component base="O"/>
     <component base="macroncomb.case" xOffset="619"/>
-    <component base="tildecomb.case" xOffset="619" yOffset="158"/>
+    <component base="tildecomb.case" xOffset="619" yOffset="157"/>
   </outline>
   <lib>
     <dict>

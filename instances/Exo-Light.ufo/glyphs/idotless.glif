@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="idotless" format="1">
-  <advance width="220"/>
+  <advance width="218"/>
   <note>
     GF Latin Plus glyph
   </note>
   <outline>
     <contour>
-      <point x="81" y="0" type="line"/>
-      <point x="142" y="0" type="line"/>
-      <point x="142" y="533" type="line"/>
-      <point x="81" y="533" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="140" y="533" type="line"/>
+      <point x="82" y="533" type="line"/>
     </contour>
     <contour>
       <point x="111" y="650" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="132" y="0" type="move" name="ogonek"/>
+      <point x="130" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
       <point x="111" y="-150" type="move" name="bottom"/>

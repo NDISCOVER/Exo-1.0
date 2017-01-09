@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Oslash" format="1">
-  <advance width="683"/>
+  <advance width="682"/>
   <unicode hex="00D8"/>
   <note>
     GF Latin Plus glyph
   </note>
   <outline>
     <contour>
-      <point x="560" y="734" type="line"/>
-      <point x="76" y="0" type="line"/>
-      <point x="123" y="0" type="line"/>
-      <point x="607" y="734" type="line"/>
+      <point x="561" y="734" type="line"/>
+      <point x="77" y="0" type="line"/>
+      <point x="122" y="0" type="line"/>
+      <point x="606" y="734" type="line"/>
     </contour>
     <component base="O"/>
     <contour>
-      <point x="342" y="810" type="move" name="top"/>
+      <point x="341" y="810" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

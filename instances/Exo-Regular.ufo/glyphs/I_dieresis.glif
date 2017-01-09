@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Idieresis" format="1">
-  <advance width="235"/>
+  <advance width="234"/>
   <unicode hex="00CF"/>
   <note>
     GF Latin Plus glyph
   </note>
   <outline>
     <component base="I"/>
-    <component base="dieresiscomb.case" xOffset="387"/>
+    <component base="dieresiscomb.case" xOffset="386"/>
   </outline>
   <lib>
     <dict>

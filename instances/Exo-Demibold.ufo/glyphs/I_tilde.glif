@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Itilde" format="1">
-  <advance width="265"/>
+  <advance width="261"/>
   <unicode hex="0128"/>
   <note>
     GF Latin Plus glyph
   </note>
   <outline>
     <component base="I"/>
-    <component base="tildecomb.case" xOffset="408"/>
+    <component base="tildecomb.case" xOffset="405"/>
   </outline>
   <lib>
     <dict>

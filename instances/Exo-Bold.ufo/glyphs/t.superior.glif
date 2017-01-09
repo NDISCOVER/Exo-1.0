@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="t.superior" format="1">
-  <advance width="296"/>
+  <advance width="295"/>
   <outline>
     <contour>
-      <point x="5" y="570" type="line"/>
-      <point x="67" y="570" type="line"/>
+      <point x="5" y="572" type="line"/>
+      <point x="67" y="572" type="line"/>
       <point x="63" y="424" type="line" smooth="yes"/>
       <point x="60" y="316"/>
       <point x="98" y="280"/>
       <point x="197" y="280" type="curve" smooth="yes"/>
-      <point x="276" y="280" type="line"/>
-      <point x="276" y="375" type="line"/>
-      <point x="226" y="380" type="line" smooth="yes"/>
-      <point x="206" y="382"/>
-      <point x="194" y="393"/>
-      <point x="194" y="425" type="curve" smooth="yes"/>
-      <point x="194" y="570" type="line"/>
-      <point x="279" y="570" type="line"/>
-      <point x="279" y="672" type="line"/>
-      <point x="194" y="672" type="line"/>
-      <point x="194" y="781" type="line"/>
+      <point x="275" y="280" type="line"/>
+      <point x="275" y="373" type="line"/>
+      <point x="225" y="378" type="line" smooth="yes"/>
+      <point x="204" y="380"/>
+      <point x="192" y="391"/>
+      <point x="192" y="424" type="curve" smooth="yes"/>
+      <point x="192" y="572" type="line"/>
+      <point x="278" y="572" type="line"/>
+      <point x="278" y="672" type="line"/>
+      <point x="192" y="672" type="line"/>
+      <point x="192" y="781" type="line"/>
       <point x="89" y="781" type="line"/>
       <point x="73" y="672" type="line"/>
       <point x="5" y="652" type="line"/>
     </contour>
     <contour>
-      <point x="209" y="753" type="move" name="altcaron"/>
+      <point x="207" y="753" type="move" name="altcaron"/>
     </contour>
     <contour>
-      <point x="161" y="171" type="move" name="bottom"/>
+      <point x="160" y="170" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

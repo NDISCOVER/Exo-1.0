@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name=".notdef" format="1">
-  <advance width="702"/>
+  <advance width="657"/>
   <unicode hex="0000"/>
   <outline>
     <contour>
-      <point x="72" y="0" type="line"/>
-      <point x="72" y="531" type="line"/>
-      <point x="630" y="531" type="line"/>
-      <point x="630" y="0" type="line"/>
+      <point x="53" y="-7" type="line"/>
+      <point x="604" y="-7" type="line"/>
+      <point x="604" y="544" type="line"/>
+      <point x="53" y="544" type="line"/>
     </contour>
     <contour>
-      <point x="607" y="518" type="line"/>
-      <point x="96" y="518" type="line"/>
-      <point x="353" y="276" type="line"/>
+      <point x="496" y="162" type="line"/>
+      <point x="390" y="268" type="line"/>
+      <point x="496" y="374" type="line"/>
+      <point x="435" y="435" type="line"/>
+      <point x="329" y="329" type="line"/>
+      <point x="223" y="435" type="line"/>
+      <point x="162" y="374" type="line"/>
+      <point x="268" y="268" type="line"/>
+      <point x="162" y="162" type="line"/>
+      <point x="223" y="101" type="line"/>
+      <point x="329" y="207" type="line"/>
+      <point x="435" y="101" type="line"/>
     </contour>
     <contour>
-      <point x="86" y="22" type="line"/>
-      <point x="342" y="266" type="line"/>
-      <point x="86" y="507" type="line"/>
-    </contour>
-    <contour>
-      <point x="99" y="13" type="line"/>
-      <point x="606" y="13" type="line"/>
-      <point x="353" y="256" type="line"/>
-    </contour>
-    <contour>
-      <point x="616" y="506" type="line"/>
-      <point x="364" y="266" type="line"/>
-      <point x="616" y="25" type="line"/>
+      <point x="121" y="61" type="line"/>
+      <point x="121" y="476" type="line"/>
+      <point x="536" y="476" type="line"/>
+      <point x="536" y="61" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -272,7 +272,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>798</integer>
+          <integer>651</integer>
         </dict>
       </dict>
     </dict>

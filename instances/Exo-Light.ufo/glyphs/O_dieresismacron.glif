@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Odieresismacron" format="1">
-  <advance width="683"/>
+  <advance width="682"/>
   <unicode hex="022A"/>
   <note>
     GF Latin Plus glyph
   </note>
   <outline>
     <component base="O"/>
-    <component base="dieresiscomb.case" xOffset="611"/>
-    <component base="macroncomb.case" xOffset="611" yOffset="161"/>
+    <component base="dieresiscomb.case" xOffset="610"/>
+    <component base="macroncomb.case" xOffset="610" yOffset="160"/>
   </outline>
   <lib>
     <dict>

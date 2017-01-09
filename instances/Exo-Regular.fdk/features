@@ -73,7 +73,6 @@ lookup featureSmallCaps {
     sub \gcircumflex by \Gcircumflex.smcp;
     sub \gcommaaccent by \Gcommaaccent.smcp;
     sub \gdotaccent by \Gdotaccent.smcp;
-    sub \Germandbls by \Germandbls.smcp;
     sub \h by \H.smcp;
     sub \hbar by \Hbar.smcp;
     sub \hcircumflex by \Hcircumflex.smcp;
@@ -617,6 +616,10 @@ lookup sinfScientificInferiorslookup3 {
 lookup zeroSlashedZerolookup20 {
   lookupflag 0;
     sub \zero by \zero.zero ;
+    sub \zero.smcp by \zero.zero.smcp ;
+    sub \zero.tnum by \zero.tnum.zero ;
+    sub \zero.tosf by \zero.tosf.zero ;
+    sub \zero.oldstyle by \zero.oldstyle.zero ;
 } zeroSlashedZerolookup20;
 
 lookup numrNumeratorslookup9 {
@@ -906,46 +909,104 @@ table GDEF {
 
 
 feature kern {
-    @MMK_L_A = [A Aacute Abreve Abrevedotbelow Acircumflex Adieresis Adotbelow Agrave Amacron Aogonek Aring Aringacute Atilde];
+    @MMK_L_A = [A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahookabove Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde];
+    @MMK_L_A.smcp = [A.smcp Aacute.smcp Abreve.smcp Abreveacute.smcp Abrevedotbelow.smcp Abrevegrave.smcp Abrevehookabove.smcp Abrevetilde.smcp Acircumflex.smcp Acircumflexacute.smcp Acircumflexdotbelow.smcp Acircumflexgrave.smcp Acircumflexhookabove.smcp Acircumflextilde.smcp Adblgrave.smcp Adieresis.smcp Adotbelow.smcp Agrave.smcp Ahookabove.smcp Ainvertedbreve.smcp Amacron.smcp Aogonek.smcp Aring.smcp Aringacute.smcp Atilde.smcp];
     @MMK_L_F = [F];
-    @MMK_L_K = [K];
-    @MMK_L_L = [L Lslash];
-    @MMK_L_O = [D Dcroat Eth O Odieresismacron Odotaccentmacron Ohorn Oslash Otildemacron Q Schwa];
-    @MMK_L_T = [T Tcommaaccent];
-    @MMK_L_V = [V W W.salt];
-    @MMK_L_Y = [Y];
-    @MMK_R_A = [A AE Aacute Abreve Abrevedotbelow Acircumflex Adieresis Adotbelow Agrave Amacron Aogonek Aring Aringacute Atilde];
-    @MMK_R_O = [C G O OE Odieresismacron Ohorn Oslash Otildemacron Q];
-    @MMK_R_T = [T Tcommaaccent];
-    @MMK_R_V = [V W W.salt];
+    @MMK_L_F.smcp = [F.smcp];
+    @MMK_L_K = [K Kcommaaccent];
+    @MMK_L_K.smcp = [K.smcp Kcommaaccent.smcp];
+    @MMK_L_L = [L Lacute Lcaron Lcommaaccent Lslash];
+    @MMK_L_L.smcp = [L.smcp Lacute.smcp Lcaron.smcp Lcommaaccent.smcp Lslash.smcp];
+    @MMK_L_O = [D Dcaron Dcroat Eth O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Oogonek Oslash Oslashacute Otilde Otildemacron Q Schwa];
+    @MMK_L_O.smcp = [D.smcp Dcaron.smcp Dcroat.smcp Eth.smcp O.smcp Oacute.smcp Obreve.smcp Ocircumflex.smcp Ocircumflexacute.smcp Ocircumflexdotbelow.smcp Ocircumflexgrave.smcp Ocircumflexhookabove.smcp Ocircumflextilde.smcp Odblgrave.smcp Odieresis.smcp Odieresismacron.smcp Odotaccentmacron.smcp Odotbelow.smcp Ograve.smcp Ohookabove.smcp Ohorn.smcp Ohornacute.smcp Ohorndotbelow.smcp Ohorngrave.smcp Ohornhookabove.smcp Ohorntilde.smcp Ohungarumlaut.smcp Oinvertedbreve.smcp Omacron.smcp Oogonek.smcp Oslash.smcp Oslashacute.smcp Otilde.smcp Otildemacron.smcp Q.smcp Schwa.smcp];
+    @MMK_L_T = [T Tcaron Tcedilla Tcommaaccent];
+    @MMK_L_T.smcp = [T.smcp Tcaron.smcp Tcedilla.smcp Tcommaaccent.smcp];
+    @MMK_L_V = [V W W.salt Wacute Wacute.salt Wcircumflex Wcircumflex.salt Wdieresis Wdieresis.salt Wgrave Wgrave.salt];
+    @MMK_L_V.smcp = [V.smcp W.salt.smcp W.smcp Wacute.salt.smcp Wacute.smcp Wcircumflex.salt.smcp Wcircumflex.smcp Wdieresis.salt.smcp Wdieresis.smcp Wgrave.salt.smcp Wgrave.smcp];
+    @MMK_L_Y = [Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ymacron Ytilde];
+    @MMK_L_Y.smcp = [Y.smcp Yacute.smcp Ycircumflex.smcp Ydieresis.smcp Ydotbelow.smcp Ygrave.smcp Ymacron.smcp Ytilde.smcp colonsign.smcp];
+    @MMK_L_dcaron = [dcaron dcaron.salt lcaron];
+    @MMK_L_f = [f f.salt f_f];
+    @MMK_L_r = [r r.salt racute racute.salt rcaron rcaron.salt rcommaaccent rcommaaccent.salt rdblgrave rdblgrave.salt rinvertedbreve rinvertedbreve.salt];
+    @MMK_R_A = [A AE AEacute Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahookabove Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde];
+    @MMK_R_A.smcp = [A.smcp AE.smcp AEacute.smcp Aacute.smcp Abreve.smcp Abreveacute.smcp Abrevedotbelow.smcp Abrevegrave.smcp Abrevehookabove.smcp Abrevetilde.smcp Acircumflex.smcp Acircumflexacute.smcp Acircumflexdotbelow.smcp Acircumflexgrave.smcp Acircumflexhookabove.smcp Acircumflextilde.smcp Adblgrave.smcp Adieresis.smcp Adotbelow.smcp Agrave.smcp Ahookabove.smcp Ainvertedbreve.smcp Amacron.smcp Aogonek.smcp Aring.smcp Aringacute.smcp Atilde.smcp];
+    @MMK_R_O = [C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent O OE Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Oogonek Oslash Oslashacute Otilde Otildemacron Q];
+    @MMK_R_O.smcp = [C.smcp Cacute.smcp Ccaron.smcp Ccedilla.smcp Ccircumflex.smcp Cdotaccent.smcp G.smcp Gbreve.smcp Gcaron.smcp Gcircumflex.smcp Gcommaaccent.smcp Gdotaccent.smcp O.smcp OE.smcp Oacute.smcp Obreve.smcp Ocircumflex.smcp Ocircumflexacute.smcp Ocircumflexdotbelow.smcp Ocircumflexgrave.smcp Ocircumflexhookabove.smcp Ocircumflextilde.smcp Odblgrave.smcp Odieresis.smcp Odieresismacron.smcp Odotaccentmacron.smcp Odotbelow.smcp Ograve.smcp Ohookabove.smcp Ohorn.smcp Ohornacute.smcp Ohorndotbelow.smcp Ohorngrave.smcp Ohornhookabove.smcp Ohorntilde.smcp Ohungarumlaut.smcp Oinvertedbreve.smcp Omacron.smcp Oogonek.smcp Oslash.smcp Oslashacute.smcp Otilde.smcp Otildemacron.smcp Q.smcp];
+    @MMK_R_T = [T Tcaron Tcedilla Tcommaaccent];
+    @MMK_R_T.smcp = [T.smcp Tcaron.smcp Tcedilla.smcp Tcommaaccent.smcp];
+    @MMK_R_V = [V W W.salt Wacute Wacute.salt Wcircumflex Wcircumflex.salt Wdieresis Wdieresis.salt Wgrave Wgrave.salt];
+    @MMK_R_V.smcp = [V.smcp W.salt.smcp W.smcp Wacute.salt.smcp Wacute.smcp Wcircumflex.salt.smcp Wcircumflex.smcp Wdieresis.salt.smcp Wdieresis.smcp Wgrave.salt.smcp Wgrave.smcp];
     @MMK_R_X = [X X.salt];
-    @MMK_R_Y = [Y];
+    @MMK_R_Y = [Y Yacute Ycircumflex Ydieresis Ydotbelow Ygrave Yhookabove Ymacron Ytilde];
+    @MMK_R_Y.smcp = [Y.smcp Yacute.smcp Ycircumflex.smcp Ydieresis.smcp Ydotbelow.smcp Ygrave.smcp Yhookabove.smcp Ymacron.smcp Ytilde.smcp];
+    @MMK_R_colon = [colon semicolon];
+    @MMK_R_hyphen = [emdash endash hyphen uni00AD];
+    @MMK_R_l = [b b.salt j jcircumflex k kcommaaccent l lacute lcaron];
+    @MMK_R_period = [comma ellipsis period quotedblbase quotesinglbase];
 
     # glyph, group
-    pos X @MMK_R_O -42;
+    pos X @MMK_R_O -25;
+    pos X @MMK_R_hyphen -30;
+
+    # group, glyph
+    pos @MMK_L_O.smcp X.smcp -30;
 
     # group, group
-    pos @MMK_L_A @MMK_R_O -15;
-    pos @MMK_L_A @MMK_R_T -87;
-    pos @MMK_L_A @MMK_R_V -80;
-    pos @MMK_L_A @MMK_R_Y -85;
-    pos @MMK_L_F @MMK_R_A -70;
-    pos @MMK_L_K @MMK_R_O -35;
-    pos @MMK_L_L @MMK_R_O -17;
-    pos @MMK_L_L @MMK_R_T -77;
-    pos @MMK_L_L @MMK_R_V -57;
-    pos @MMK_L_L @MMK_R_Y -90;
-    pos @MMK_L_O @MMK_R_A -15;
-    pos @MMK_L_O @MMK_R_T -17;
-    pos @MMK_L_O @MMK_R_V -30;
-    pos @MMK_L_O @MMK_R_X -50;
-    pos @MMK_L_O @MMK_R_Y -35;
-    pos @MMK_L_T @MMK_R_A -87;
-    pos @MMK_L_T @MMK_R_O -17;
-    pos @MMK_L_V @MMK_R_A -87;
-    pos @MMK_L_V @MMK_R_O -27;
-    pos @MMK_L_Y @MMK_R_A -88;
-    pos @MMK_L_Y @MMK_R_O -42;
+    pos @MMK_L_A @MMK_R_O -10;
+    pos @MMK_L_A @MMK_R_T -60;
+    pos @MMK_L_A @MMK_R_V -55;
+    pos @MMK_L_A @MMK_R_Y -55;
+    pos @MMK_L_A @MMK_R_hyphen -10;
+    pos @MMK_L_A.smcp @MMK_R_O.smcp -15;
+    pos @MMK_L_A.smcp @MMK_R_T.smcp -80;
+    pos @MMK_L_A.smcp @MMK_R_V.smcp -70;
+    pos @MMK_L_A.smcp @MMK_R_Y.smcp -75;
+    pos @MMK_L_F @MMK_R_A -40;
+    pos @MMK_L_F @MMK_R_period -70;
+    pos @MMK_L_F.smcp @MMK_R_A.smcp -50;
+    pos @MMK_L_K @MMK_R_O -25;
+    pos @MMK_L_K @MMK_R_hyphen -30;
+    pos @MMK_L_K.smcp @MMK_R_O.smcp -35;
+    pos @MMK_L_L @MMK_R_O -10;
+    pos @MMK_L_L @MMK_R_T -55;
+    pos @MMK_L_L @MMK_R_V -40;
+    pos @MMK_L_L @MMK_R_Y -55;
+    pos @MMK_L_L.smcp @MMK_R_O.smcp -10;
+    pos @MMK_L_L.smcp @MMK_R_T.smcp -70;
+    pos @MMK_L_L.smcp @MMK_R_V.smcp -50;
+    pos @MMK_L_L.smcp @MMK_R_Y.smcp -70;
+    pos @MMK_L_O @MMK_R_A -10;
+    pos @MMK_L_O @MMK_R_T -10;
+    pos @MMK_L_O @MMK_R_V -25;
+    pos @MMK_L_O @MMK_R_X -40;
+    pos @MMK_L_O @MMK_R_Y -25;
+    pos @MMK_L_O @MMK_R_period -15;
+    pos @MMK_L_O.smcp @MMK_R_A.smcp -15;
+    pos @MMK_L_O.smcp @MMK_R_T.smcp -10;
+    pos @MMK_L_O.smcp @MMK_R_V.smcp -30;
+    pos @MMK_L_O.smcp @MMK_R_Y.smcp -35;
+    pos @MMK_L_T @MMK_R_A -60;
+    pos @MMK_L_T @MMK_R_O -10;
+    pos @MMK_L_T @MMK_R_colon -15;
+    pos @MMK_L_T @MMK_R_hyphen -55;
+    pos @MMK_L_T @MMK_R_period -60;
+    pos @MMK_L_T.smcp @MMK_R_A.smcp -80;
+    pos @MMK_L_T.smcp @MMK_R_O.smcp -10;
+    pos @MMK_L_V @MMK_R_A -55;
+    pos @MMK_L_V @MMK_R_O -15;
+    pos @MMK_L_V @MMK_R_colon -25;
+    pos @MMK_L_V @MMK_R_hyphen -40;
+    pos @MMK_L_V @MMK_R_period -45;
+    pos @MMK_L_V.smcp @MMK_R_A.smcp -70;
+    pos @MMK_L_V.smcp @MMK_R_O.smcp -20;
+    pos @MMK_L_Y @MMK_R_A -55;
+    pos @MMK_L_Y @MMK_R_O -25;
+    pos @MMK_L_Y @MMK_R_colon -30;
+    pos @MMK_L_Y.smcp @MMK_R_A.smcp -75;
+    pos @MMK_L_Y.smcp @MMK_R_O.smcp -35;
+    pos @MMK_L_dcaron @MMK_R_l 155;
+    pos @MMK_L_f @MMK_R_period -30;
+    pos @MMK_L_r @MMK_R_period -70;
 } kern;
 
 table OS/2 {
@@ -955,10 +1016,10 @@ table OS/2 {
     TypoDescender -200;
     TypoLineGap 90;
     winAscent 1002;
-    winDescent 287;
+    winDescent 286;
     XHeight 534;
     CapHeight 736;
-    WeightClass 370;
+    WeightClass 360;
     WidthClass 5;
     Vendor "NONE";
 } OS/2;
@@ -969,7 +1030,7 @@ table head {
 
 table hhea {
     Ascender 1002;
-    Descender -287;
+    Descender -286;
     LineGap 90;
     CaretOffset 0;
 } hhea;

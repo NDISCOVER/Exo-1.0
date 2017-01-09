@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quotedbl" format="1">
-  <advance width="405"/>
+  <advance width="400"/>
   <unicode hex="0022"/>
   <note>
     GF Latin Plus glyph
   </note>
   <outline>
     <component base="quotesingle"/>
-    <component base="quotesingle" xOffset="185"/>
+    <component base="quotesingle" xOffset="182"/>
   </outline>
   <lib>
     <dict>

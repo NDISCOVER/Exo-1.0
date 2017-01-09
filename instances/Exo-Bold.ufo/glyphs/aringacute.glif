@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="aringacute" format="1">
-  <advance width="551"/>
+  <advance width="550"/>
   <unicode hex="01FB"/>
   <note>
     GF Latin Plus glyph
@@ -8,7 +8,7 @@
   <outline>
     <component base="a"/>
     <component base="ringcomb" xOffset="539"/>
-    <component base="acutecomb.case" xOffset="538"/>
+    <component base="acutecomb.case" xOffset="537"/>
   </outline>
   <lib>
     <dict>

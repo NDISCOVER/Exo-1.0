@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l.superior" format="1">
-  <advance width="223"/>
+  <advance width="222"/>
   <outline>
     <contour>
       <point x="53" y="399" type="line" smooth="yes"/>
@@ -8,22 +8,22 @@
       <point x="91" y="279"/>
       <point x="163" y="279" type="curve" smooth="yes"/>
       <point x="215" y="279" type="line"/>
-      <point x="215" y="329" type="line"/>
-      <point x="178" y="334" type="line" smooth="yes"/>
-      <point x="144" y="338"/>
-      <point x="125" y="351"/>
-      <point x="125" y="415" type="curve" smooth="yes"/>
-      <point x="125" y="854" type="line"/>
+      <point x="215" y="328" type="line"/>
+      <point x="177" y="333" type="line" smooth="yes"/>
+      <point x="143" y="337"/>
+      <point x="123" y="350"/>
+      <point x="123" y="415" type="curve" smooth="yes"/>
+      <point x="123" y="854" type="line"/>
       <point x="53" y="854" type="line"/>
     </contour>
     <contour>
-      <point x="140" y="756" type="move" name="altcaron"/>
+      <point x="138" y="756" type="move" name="altcaron"/>
     </contour>
     <contour>
-      <point x="89" y="924" type="move" name="top"/>
+      <point x="88" y="925" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="128" y="170" type="move" name="bottom"/>
+      <point x="127" y="170" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

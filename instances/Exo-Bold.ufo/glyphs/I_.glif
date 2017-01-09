@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I" format="1">
-  <advance width="278"/>
+  <advance width="276"/>
   <unicode hex="0049"/>
   <note>
     GF Latin Plus glyph
   </note>
   <outline>
     <contour>
-      <point x="63" y="0" type="line"/>
-      <point x="215" y="0" type="line"/>
-      <point x="215" y="740" type="line"/>
-      <point x="63" y="740" type="line"/>
+      <point x="64" y="0" type="line"/>
+      <point x="212" y="0" type="line"/>
+      <point x="212" y="740" type="line"/>
+      <point x="64" y="740" type="line"/>
     </contour>
     <contour>
-      <point x="139" y="810" type="move" name="top"/>
+      <point x="138" y="810" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="205" y="0" type="move" name="ogonek"/>
+      <point x="202" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
-      <point x="139" y="-150" type="move" name="bottom"/>
+      <point x="138" y="-150" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

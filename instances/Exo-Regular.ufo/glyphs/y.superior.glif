@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="y.superior" format="1">
-  <advance width="410"/>
+  <advance width="409"/>
   <outline>
     <contour>
       <point x="13" y="672" type="line"/>
-      <point x="104" y="374" type="line" smooth="yes"/>
-      <point x="125" y="305"/>
-      <point x="168" y="281"/>
+      <point x="105" y="374" type="line" smooth="yes"/>
+      <point x="126" y="304"/>
+      <point x="169" y="281"/>
       <point x="214" y="280" type="curve"/>
       <point x="158" y="82" type="line"/>
-      <point x="215" y="82" type="line"/>
-      <point x="251" y="157" type="line"/>
-      <point x="397" y="672" type="line"/>
-      <point x="323" y="672" type="line"/>
-      <point x="228" y="339" type="line"/>
-      <point x="223" y="339"/>
-      <point x="190" y="336"/>
-      <point x="171" y="390" type="curve" smooth="yes"/>
-      <point x="88" y="672" type="line"/>
+      <point x="213" y="82" type="line"/>
+      <point x="249" y="157" type="line"/>
+      <point x="396" y="672" type="line"/>
+      <point x="324" y="672" type="line"/>
+      <point x="228" y="337" type="line"/>
+      <point x="223" y="338"/>
+      <point x="189" y="334"/>
+      <point x="171" y="389" type="curve" smooth="yes"/>
+      <point x="86" y="672" type="line"/>
     </contour>
     <contour>
       <point x="201" y="756" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="354" y="170" type="move" name="bottom"/>
+      <point x="353" y="170" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

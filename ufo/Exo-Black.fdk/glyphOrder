@@ -681,7 +681,10 @@ seven.denominator seven.denominator
 eight.denominator eight.denominator
 nine.denominator nine.denominator
 zero.zero zero.zero
+zero.tnum.zero zero.tnum.zero
+zero.tosf.zero zero.tosf.zero
 zero.zero.smcp zero.zero.smcp
+zero.oldstyle.zero zero.oldstyle.zero
 M.salt.smcp M.salt.smcp
 N.salt.smcp N.salt.smcp
 W.salt.smcp W.salt.smcp
@@ -773,6 +776,7 @@ rcaron.salt rcaron.salt
 rinvertedbreve.salt rinvertedbreve.salt
 t.salt t.salt
 tcaron.salt tcaron.salt
+tcommaaccent.salt tcommaaccent.salt
 u.salt u.salt
 ugrave.salt ugrave.salt
 uacute.salt uacute.salt

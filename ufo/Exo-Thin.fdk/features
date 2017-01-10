@@ -615,11 +615,11 @@ lookup sinfScientificInferiorslookup3 {
 
 lookup zeroSlashedZerolookup20 {
   lookupflag 0;
-    sub \zero by \zero.zero ;
     sub \zero.oldstyle by \zero.oldstyle.zero ;
-    sub \zero.tnum by \zero.tnum.zero ;
     sub \zero.tosf by \zero.tosf.zero ;
     sub \zero.smcp by \zero.zero.smcp ;
+    sub \zero.tnum by \zero.tnum.zero ;
+    sub \zero by \zero.zero ;
 } zeroSlashedZerolookup20;
 
 lookup numrNumeratorslookup9 {
@@ -673,6 +673,7 @@ lookup onumOldstyleFiguresinLatinlookup5 {
     sub \seven by \seven.oldstyle ;
     sub \nine by \nine.oldstyle ;
     sub \eight by \eight.oldstyle ;
+    sub \zero.zero by \zero.oldstyle.zero ;
     sub \zero.tnum by \zero.tosf ;
     sub \one.tnum by \one.tosf ;
     sub \two.tnum by \two.tosf ;
@@ -979,9 +980,9 @@ feature kern {
     pos M @MMK_R_g -10;
     pos M @MMK_R_o -10;
     pos M @MMK_R_s -10;
-    pos M @MMK_R_t -20;
+    pos M @MMK_R_t -10;
     pos M @MMK_R_u -10;
-    pos M @MMK_R_w -20;
+    pos M @MMK_R_w -10;
     pos X @MMK_R_O -15;
     pos X @MMK_R_a -20;
     pos X @MMK_R_c -30;
@@ -994,6 +995,12 @@ feature kern {
     pos X @MMK_R_t -40;
     pos X @MMK_R_u -20;
     pos X @MMK_R_w -40;
+    pos colon @MMK_R_T -10;
+    pos colon @MMK_R_V -15;
+    pos comma @MMK_R_T -40;
+    pos comma @MMK_R_V -30;
+    pos emdash @MMK_R_T -35;
+    pos emdash @MMK_R_V -25;
 
     # group, glyph
     pos @MMK_L_A f -10;
@@ -1002,17 +1009,17 @@ feature kern {
     pos @MMK_L_K f -10;
     pos @MMK_L_L f -20;
     pos @MMK_L_O.smcp X.smcp -20;
-    pos @MMK_L_T m -20;
-    pos @MMK_L_T p -20;
+    pos @MMK_L_T m -40;
+    pos @MMK_L_T p -40;
     pos @MMK_L_T x -50;
     pos @MMK_L_V f -10;
-    pos @MMK_L_V m -30;
-    pos @MMK_L_V p -30;
+    pos @MMK_L_V m -50;
+    pos @MMK_L_V p -50;
     pos @MMK_L_V x -10;
-    pos @MMK_L_Y f -20;
+    pos @MMK_L_Y f -30;
     pos @MMK_L_Y germandbls -40;
-    pos @MMK_L_Y m -50;
-    pos @MMK_L_Y p -50;
+    pos @MMK_L_Y m -70;
+    pos @MMK_L_Y p -70;
     pos @MMK_L_Y x -50;
 
     # group, group
@@ -1063,14 +1070,14 @@ feature kern {
     pos @MMK_L_K.smcp @MMK_R_O.smcp -15;
     pos @MMK_L_L @MMK_R_O -5;
     pos @MMK_L_L @MMK_R_T -35;
-    pos @MMK_L_L @MMK_R_V -25;
-    pos @MMK_L_L @MMK_R_Y -35;
+    pos @MMK_L_L @MMK_R_V -65;
+    pos @MMK_L_L @MMK_R_Y -75;
     pos @MMK_L_L @MMK_R_t -20;
     pos @MMK_L_L @MMK_R_w -50;
     pos @MMK_L_L.smcp @MMK_R_O.smcp -5;
     pos @MMK_L_L.smcp @MMK_R_T.smcp -35;
-    pos @MMK_L_L.smcp @MMK_R_V.smcp -25;
-    pos @MMK_L_L.smcp @MMK_R_Y.smcp -35;
+    pos @MMK_L_L.smcp @MMK_R_V.smcp -65;
+    pos @MMK_L_L.smcp @MMK_R_Y.smcp -75;
     pos @MMK_L_O @MMK_R_A -5;
     pos @MMK_L_O @MMK_R_T -5;
     pos @MMK_L_O @MMK_R_V -15;
@@ -1101,20 +1108,20 @@ feature kern {
     pos @MMK_L_R @MMK_R_u -10;
     pos @MMK_L_T @MMK_R_A -40;
     pos @MMK_L_T @MMK_R_O -5;
-    pos @MMK_L_T @MMK_R_a -40;
-    pos @MMK_L_T @MMK_R_c -50;
+    pos @MMK_L_T @MMK_R_a -60;
+    pos @MMK_L_T @MMK_R_c -70;
     pos @MMK_L_T @MMK_R_colon -10;
-    pos @MMK_L_T @MMK_R_d -50;
-    pos @MMK_L_T @MMK_R_e -50;
-    pos @MMK_L_T @MMK_R_g -30;
+    pos @MMK_L_T @MMK_R_d -70;
+    pos @MMK_L_T @MMK_R_e -70;
+    pos @MMK_L_T @MMK_R_g -70;
     pos @MMK_L_T @MMK_R_hyphen -35;
-    pos @MMK_L_T @MMK_R_n -20;
-    pos @MMK_L_T @MMK_R_o -50;
+    pos @MMK_L_T @MMK_R_n -40;
+    pos @MMK_L_T @MMK_R_o -70;
     pos @MMK_L_T @MMK_R_period -40;
-    pos @MMK_L_T @MMK_R_r -20;
-    pos @MMK_L_T @MMK_R_s -50;
-    pos @MMK_L_T @MMK_R_t -10;
-    pos @MMK_L_T @MMK_R_u -20;
+    pos @MMK_L_T @MMK_R_r -40;
+    pos @MMK_L_T @MMK_R_s -70;
+    pos @MMK_L_T @MMK_R_t -20;
+    pos @MMK_L_T @MMK_R_u -40;
     pos @MMK_L_T @MMK_R_w -40;
     pos @MMK_L_T @MMK_R_z -70;
     pos @MMK_L_T.smcp @MMK_R_A.smcp -40;
@@ -1122,18 +1129,18 @@ feature kern {
     pos @MMK_L_U @MMK_R_g -10;
     pos @MMK_L_V @MMK_R_A -35;
     pos @MMK_L_V @MMK_R_O -10;
-    pos @MMK_L_V @MMK_R_a -30;
-    pos @MMK_L_V @MMK_R_c -40;
+    pos @MMK_L_V @MMK_R_a -50;
+    pos @MMK_L_V @MMK_R_c -60;
     pos @MMK_L_V @MMK_R_colon -15;
-    pos @MMK_L_V @MMK_R_d -40;
-    pos @MMK_L_V @MMK_R_e -40;
-    pos @MMK_L_V @MMK_R_g -40;
+    pos @MMK_L_V @MMK_R_d -60;
+    pos @MMK_L_V @MMK_R_e -60;
+    pos @MMK_L_V @MMK_R_g -60;
     pos @MMK_L_V @MMK_R_hyphen -25;
-    pos @MMK_L_V @MMK_R_n -30;
-    pos @MMK_L_V @MMK_R_o -40;
+    pos @MMK_L_V @MMK_R_n -50;
+    pos @MMK_L_V @MMK_R_o -60;
     pos @MMK_L_V @MMK_R_period -30;
-    pos @MMK_L_V @MMK_R_r -30;
-    pos @MMK_L_V @MMK_R_s -40;
+    pos @MMK_L_V @MMK_R_r -50;
+    pos @MMK_L_V @MMK_R_s -50;
     pos @MMK_L_V @MMK_R_t -10;
     pos @MMK_L_V @MMK_R_u -30;
     pos @MMK_L_V @MMK_R_w -20;
@@ -1142,25 +1149,25 @@ feature kern {
     pos @MMK_L_V.smcp @MMK_R_O.smcp -10;
     pos @MMK_L_Y @MMK_R_A -35;
     pos @MMK_L_Y @MMK_R_O -15;
-    pos @MMK_L_Y @MMK_R_a -60;
-    pos @MMK_L_Y @MMK_R_c -70;
+    pos @MMK_L_Y @MMK_R_a -80;
+    pos @MMK_L_Y @MMK_R_c -90;
     pos @MMK_L_Y @MMK_R_colon -20;
-    pos @MMK_L_Y @MMK_R_d -70;
-    pos @MMK_L_Y @MMK_R_e -70;
-    pos @MMK_L_Y @MMK_R_g -80;
-    pos @MMK_L_Y @MMK_R_n -50;
-    pos @MMK_L_Y @MMK_R_o -70;
-    pos @MMK_L_Y @MMK_R_r -50;
-    pos @MMK_L_Y @MMK_R_s -70;
+    pos @MMK_L_Y @MMK_R_d -90;
+    pos @MMK_L_Y @MMK_R_e -90;
+    pos @MMK_L_Y @MMK_R_g -100;
+    pos @MMK_L_Y @MMK_R_n -70;
+    pos @MMK_L_Y @MMK_R_o -90;
+    pos @MMK_L_Y @MMK_R_r -70;
+    pos @MMK_L_Y @MMK_R_s -80;
     pos @MMK_L_Y @MMK_R_t -40;
-    pos @MMK_L_Y @MMK_R_u -50;
+    pos @MMK_L_Y @MMK_R_u -70;
     pos @MMK_L_Y @MMK_R_w -60;
     pos @MMK_L_Y @MMK_R_z -50;
     pos @MMK_L_Y.smcp @MMK_R_A.smcp -35;
     pos @MMK_L_Y.smcp @MMK_R_O.smcp -15;
-    pos @MMK_L_dcaron @MMK_R_l 100;
-    pos @MMK_L_f @MMK_R_period -20;
-    pos @MMK_L_r @MMK_R_period -45;
+    pos @MMK_L_dcaron @MMK_R_l 5;
+    pos @MMK_L_f @MMK_R_period -50;
+    pos @MMK_L_r @MMK_R_period -75;
 } kern;
 
 table OS/2 {

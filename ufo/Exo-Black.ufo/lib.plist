@@ -1252,6 +1252,20 @@
 			<real>0.5</real>
 			<real>0.25</real>
 		</array>
+		<key>@MMK_L_E</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_E.smcp</key>
+		<array>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
 		<key>@MMK_L_F</key>
 		<array>
 			<real>1.0</real>
@@ -1364,6 +1378,13 @@
 			<real>1.0</real>
 			<real>0.25</real>
 		</array>
+		<key>@MMK_L_S.smcp</key>
+		<array>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
 		<key>@MMK_L_T</key>
 		<array>
 			<real>0.0</real>
@@ -1432,13 +1453,6 @@
 			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.5</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_L_ae</key>
-		<array>
-			<real>1.0</real>
-			<real>0.5</real>
-			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_b</key>
@@ -1616,6 +1630,20 @@
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
+		<key>@MMK_L_zero</key>
+		<array>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_zero.oldstyle</key>
+		<array>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
 		<key>@MMK_R_A</key>
 		<array>
 			<real>1.0</real>
@@ -1628,6 +1656,20 @@
 			<real>0.0</real>
 			<real>0.0</real>
 			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_E</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_E.smcp</key>
+		<array>
+			<real>1.0</real>
+			<real>0.5</real>
+			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_H</key>

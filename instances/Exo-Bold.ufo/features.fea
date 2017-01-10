@@ -615,11 +615,11 @@ lookup sinfScientificInferiorslookup3 {
 
 lookup zeroSlashedZerolookup20 {
   lookupflag 0;
-    sub \zero by \zero.zero ;
+    sub \zero.oldstyle by \zero.oldstyle.zero ;
+    sub \zero.tosf by \zero.tosf.zero ;
     sub \zero.smcp by \zero.zero.smcp ;
     sub \zero.tnum by \zero.tnum.zero ;
-    sub \zero.tosf by \zero.tosf.zero ;
-    sub \zero.oldstyle by \zero.oldstyle.zero ;
+    sub \zero by \zero.zero ;
 } zeroSlashedZerolookup20;
 
 lookup numrNumeratorslookup9 {
@@ -673,6 +673,7 @@ lookup onumOldstyleFiguresinLatinlookup5 {
     sub \seven by \seven.oldstyle ;
     sub \nine by \nine.oldstyle ;
     sub \eight by \eight.oldstyle ;
+    sub \zero.zero by \zero.oldstyle.zero ;
     sub \zero.tnum by \zero.tosf ;
     sub \one.tnum by \one.tosf ;
     sub \two.tnum by \two.tosf ;

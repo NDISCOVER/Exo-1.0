@@ -58,6 +58,52 @@
 		<string>Adblgrave.smcp</string>
 		<string>Ahookabove.smcp</string>
 	</array>
+	<key>@MMK_L_E</key>
+	<array>
+		<string>E</string>
+		<string>Eacute</string>
+		<string>Ebreve</string>
+		<string>Ecaron</string>
+		<string>Ecircumflex</string>
+		<string>Ecircumflexacute</string>
+		<string>Ecircumflexdotbelow</string>
+		<string>Ecircumflexgrave</string>
+		<string>Ecircumflextilde</string>
+		<string>Edieresis</string>
+		<string>Edotaccent</string>
+		<string>Edotbelow</string>
+		<string>Egrave</string>
+		<string>Einvertedbreve</string>
+		<string>Emacron</string>
+		<string>Eogonek</string>
+		<string>Etilde</string>
+		<string>Ecircumflexhookabove</string>
+		<string>Edblgrave</string>
+		<string>Ehookabove</string>
+	</array>
+	<key>@MMK_L_E.smcp</key>
+	<array>
+		<string>E.smcp</string>
+		<string>Eacute.smcp</string>
+		<string>Ebreve.smcp</string>
+		<string>Ecaron.smcp</string>
+		<string>Ecircumflex.smcp</string>
+		<string>Ecircumflexacute.smcp</string>
+		<string>Ecircumflexdotbelow.smcp</string>
+		<string>Ecircumflexgrave.smcp</string>
+		<string>Ecircumflexhookabove.smcp</string>
+		<string>Ecircumflextilde.smcp</string>
+		<string>Edblgrave.smcp</string>
+		<string>Edieresis.smcp</string>
+		<string>Edotaccent.smcp</string>
+		<string>Edotbelow.smcp</string>
+		<string>Egrave.smcp</string>
+		<string>Ehookabove.smcp</string>
+		<string>Einvertedbreve.smcp</string>
+		<string>Emacron.smcp</string>
+		<string>Eogonek.smcp</string>
+		<string>Etilde.smcp</string>
+	</array>
 	<key>@MMK_L_F</key>
 	<array>
 		<string>F</string>
@@ -236,6 +282,15 @@
 		<string>Scircumflex</string>
 		<string>Scommaaccent</string>
 	</array>
+	<key>@MMK_L_S.smcp</key>
+	<array>
+		<string>S.smcp</string>
+		<string>Sacute.smcp</string>
+		<string>Scaron.smcp</string>
+		<string>Scedilla.smcp</string>
+		<string>Scircumflex.smcp</string>
+		<string>Scommaaccent.smcp</string>
+	</array>
 	<key>@MMK_L_T</key>
 	<array>
 		<string>T</string>
@@ -348,7 +403,7 @@
 		<string>Ygrave.smcp</string>
 		<string>Ymacron.smcp</string>
 		<string>Ytilde.smcp</string>
-		<string>colonsign.smcp</string>
+		<string>Yhookabove.smcp</string>
 	</array>
 	<key>@MMK_L_a</key>
 	<array>
@@ -691,6 +746,16 @@
 		<string>ytilde</string>
 		<string>f_y</string>
 	</array>
+	<key>@MMK_L_zero</key>
+	<array>
+		<string>zero</string>
+		<string>zero.tnum.zero</string>
+	</array>
+	<key>@MMK_L_zero.oldstyle</key>
+	<array>
+		<string>zero.oldstyle</string>
+		<string>zero.oldstyle.zero</string>
+	</array>
 	<key>@MMK_R_A</key>
 	<array>
 		<string>A</string>
@@ -750,6 +815,54 @@
 		<string>Acircumflexhookabove.smcp</string>
 		<string>Adblgrave.smcp</string>
 		<string>Ahookabove.smcp</string>
+	</array>
+	<key>@MMK_R_E</key>
+	<array>
+		<string>E</string>
+		<string>Eacute</string>
+		<string>Ebreve</string>
+		<string>Ecaron</string>
+		<string>Ecircumflex</string>
+		<string>Ecircumflexacute</string>
+		<string>Ecircumflexdotbelow</string>
+		<string>Ecircumflexgrave</string>
+		<string>Ecircumflextilde</string>
+		<string>Edieresis</string>
+		<string>Edotaccent</string>
+		<string>Edotbelow</string>
+		<string>Egrave</string>
+		<string>Einvertedbreve</string>
+		<string>Emacron</string>
+		<string>Eogonek</string>
+		<string>Etilde</string>
+		<string>F</string>
+		<string>Ecircumflexhookabove</string>
+		<string>Edblgrave</string>
+		<string>Ehookabove</string>
+	</array>
+	<key>@MMK_R_E.smcp</key>
+	<array>
+		<string>E.smcp</string>
+		<string>Eacute.smcp</string>
+		<string>Ebreve.smcp</string>
+		<string>Ecaron.smcp</string>
+		<string>Ecircumflex.smcp</string>
+		<string>Ecircumflexacute.smcp</string>
+		<string>Ecircumflexdotbelow.smcp</string>
+		<string>Ecircumflexgrave.smcp</string>
+		<string>Ecircumflexhookabove.smcp</string>
+		<string>Ecircumflextilde.smcp</string>
+		<string>Edblgrave.smcp</string>
+		<string>Edieresis.smcp</string>
+		<string>Edotaccent.smcp</string>
+		<string>Edotbelow.smcp</string>
+		<string>Egrave.smcp</string>
+		<string>Ehookabove.smcp</string>
+		<string>Einvertedbreve.smcp</string>
+		<string>Emacron.smcp</string>
+		<string>Eogonek.smcp</string>
+		<string>Etilde.smcp</string>
+		<string>F.smcp</string>
 	</array>
 	<key>@MMK_R_H</key>
 	<array>

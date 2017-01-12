@@ -15,6 +15,12 @@
       <point x="382" y="539" type="line"/>
     </contour>
     <component base="u.salt"/>
+    <contour>
+      <point x="293" y="650" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="293" y="-150" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

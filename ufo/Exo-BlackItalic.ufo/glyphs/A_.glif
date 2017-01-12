@@ -4,19 +4,19 @@
   <unicode hex="0041"/>
   <outline>
     <contour>
-      <point x="343" y="293" type="line"/>
-      <point x="437" y="515" type="line"/>
-      <point x="460" y="293" type="line"/>
+      <point x="334" y="292" type="line"/>
+      <point x="446" y="578" type="line"/>
+      <point x="467" y="292" type="line"/>
     </contour>
     <contour>
       <point x="15" y="0" type="line"/>
-      <point x="220" y="0" type="line"/>
-      <point x="274" y="129" type="line"/>
-      <point x="477" y="129" type="line"/>
-      <point x="491" y="0" type="line"/>
-      <point x="695" y="0" type="line"/>
-      <point x="594" y="743" type="line"/>
-      <point x="360" y="743" type="line"/>
+      <point x="214" y="0" type="line"/>
+      <point x="262" y="118" type="line"/>
+      <point x="485" y="118" type="line"/>
+      <point x="496" y="0" type="line"/>
+      <point x="697" y="0" type="line"/>
+      <point x="595" y="743" type="line"/>
+      <point x="353" y="743" type="line"/>
     </contour>
     <contour>
       <point x="480" y="810" type="move" name="top"/>
@@ -25,7 +25,7 @@
       <point x="328" y="-150" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="685" y="0" type="move" name="ogonek"/>
+      <point x="687" y="0" type="move" name="ogonek"/>
     </contour>
   </outline>
   <lib>
@@ -63,19 +63,6 @@
           </array>
           <key>components</key>
           <array>
-            <dict>
-              <key>baseGlyph</key>
-              <string>V</string>
-              <key>transformation</key>
-              <array>
-                <real>-1.0</real>
-                <real>0.0</real>
-                <real>0.0</real>
-                <real>-1.0</real>
-                <real>828.3203608389</real>
-                <integer>743</integer>
-              </array>
-            </dict>
           </array>
           <key>contours</key>
           <array>
@@ -196,6 +183,126 @@
                   <real>-519.6796391611</real>
                   <key>y</key>
                   <integer>0</integer>
+                </dict>
+              </array>
+            </dict>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>334</integer>
+                  <key>y</key>
+                  <integer>292</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>446</integer>
+                  <key>y</key>
+                  <integer>578</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>467</integer>
+                  <key>y</key>
+                  <integer>292</integer>
+                </dict>
+              </array>
+            </dict>
+            <dict>
+              <key>points</key>
+              <array>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>15</integer>
+                  <key>y</key>
+                  <integer>0</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>214</integer>
+                  <key>y</key>
+                  <integer>0</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>262</integer>
+                  <key>y</key>
+                  <integer>118</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>485</integer>
+                  <key>y</key>
+                  <integer>118</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>496</integer>
+                  <key>y</key>
+                  <integer>0</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>697</integer>
+                  <key>y</key>
+                  <integer>0</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>595</integer>
+                  <key>y</key>
+                  <integer>743</integer>
+                </dict>
+                <dict>
+                  <key>segmentType</key>
+                  <string>line</string>
+                  <key>smooth</key>
+                  <false/>
+                  <key>x</key>
+                  <integer>353</integer>
+                  <key>y</key>
+                  <integer>743</integer>
                 </dict>
               </array>
             </dict>

@@ -8,5 +8,11 @@
   <outline>
     <component base="o"/>
     <component base="horncomb" xOffset="564"/>
+    <contour>
+      <point x="287" y="650" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="287" y="-150" type="move" name="bottom"/>
+    </contour>
   </outline>
 </glyph>

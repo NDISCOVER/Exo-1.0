@@ -335,6 +335,8 @@
 		<integer>10</integer>
 		<key>@MMK_R_w</key>
 		<integer>10</integer>
+		<key>lslash</key>
+		<integer>10</integer>
 	</dict>
 	<key>@MMK_L_P.smcp</key>
 	<dict>
@@ -771,6 +773,8 @@
 	<dict>
 		<key>@MMK_R_parenright</key>
 		<integer>-20</integer>
+		<key>lslash</key>
+		<integer>20</integer>
 	</dict>
 	<key>@MMK_L_dcaron</key>
 	<dict>
@@ -813,6 +817,8 @@
 		<integer>-20</integer>
 		<key>@MMK_R_w</key>
 		<integer>-10</integer>
+		<key>lslash</key>
+		<integer>10</integer>
 		<key>x</key>
 		<integer>-20</integer>
 	</dict>
@@ -832,6 +838,8 @@
 		<integer>10</integer>
 		<key>exclam</key>
 		<integer>20</integer>
+		<key>lslash</key>
+		<integer>30</integer>
 		<key>question</key>
 		<integer>20</integer>
 		<key>slash</key>
@@ -847,6 +855,8 @@
 		<integer>-10</integer>
 		<key>@MMK_R_t</key>
 		<integer>10</integer>
+		<key>lslash</key>
+		<integer>20</integer>
 		<key>underscore</key>
 		<integer>10</integer>
 	</dict>
@@ -938,6 +948,8 @@
 		<integer>-45</integer>
 		<key>@MMK_R_t</key>
 		<integer>10</integer>
+		<key>lslash</key>
+		<integer>20</integer>
 		<key>slash</key>
 		<integer>-60</integer>
 		<key>underscore</key>
@@ -957,6 +969,11 @@
 		<integer>-20</integer>
 		<key>x</key>
 		<integer>-10</integer>
+	</dict>
+	<key>@MMK_L_t</key>
+	<dict>
+		<key>lslash</key>
+		<integer>20</integer>
 	</dict>
 	<key>@MMK_L_w</key>
 	<dict>
@@ -980,6 +997,8 @@
 		<integer>-15</integer>
 		<key>four.oldstyle</key>
 		<integer>-30</integer>
+		<key>lslash</key>
+		<integer>10</integer>
 		<key>q</key>
 		<integer>-20</integer>
 		<key>slash</key>
@@ -1279,6 +1298,19 @@
 	<dict>
 		<key>@MMK_R_quote</key>
 		<integer>-30</integer>
+	</dict>
+	<key>lslash</key>
+	<dict>
+		<key>@MMK_R_t</key>
+		<integer>20</integer>
+		<key>@MMK_R_w</key>
+		<integer>10</integer>
+		<key>@MMK_R_z</key>
+		<integer>10</integer>
+		<key>f</key>
+		<integer>10</integer>
+		<key>lslash</key>
+		<integer>15</integer>
 	</dict>
 	<key>nine</key>
 	<dict>

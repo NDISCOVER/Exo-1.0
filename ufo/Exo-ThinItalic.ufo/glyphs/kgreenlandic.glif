@@ -1,22 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kgreenlandic" format="1">
-  <advance width="442"/>
+  <advance width="497.0"/>
   <unicode hex="0138"/>
   <outline>
     <contour>
-      <point x="60" y="0" type="line"/>
-      <point x="144" y="531" type="line"/>
-      <point x="168" y="531" type="line"/>
-      <point x="128" y="279" type="line"/>
-      <point x="243" y="279" type="line"/>
-      <point x="478" y="531" type="line"/>
-      <point x="509" y="531" type="line"/>
-      <point x="263" y="264" type="line"/>
-      <point x="410" y="0" type="line"/>
-      <point x="381" y="0" type="line"/>
-      <point x="239" y="255" type="line"/>
-      <point x="124" y="255" type="line"/>
-      <point x="84" y="0" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="104" y="0" type="line"/>
+      <point x="144" y="255" type="line"/>
+      <point x="175.26495726495727" y="255.0"/>
+      <point x="224.70520314925088" y="259.92032517547324"/>
+      <point x="262" y="270" type="curve"/>
+      <point x="429" y="0" type="line"/>
+      <point x="457" y="0" type="line"/>
+      <point x="286" y="277" type="line"/>
+      <point x="364.9222036564069" y="307.7489105154832"/>
+      <point x="438.71568205568497" y="379.7852557998998"/>
+      <point x="483" y="531" type="curve"/>
+      <point x="459" y="531" type="line"/>
+      <point x="400.7216552256729" y="339.976536573039"/>
+      <point x="290.37337662337666" y="277.0"/>
+      <point x="148" y="277" type="curve"/>
+      <point x="188" y="531" type="line"/>
+      <point x="164" y="531" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -202,7 +207,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>442</integer>
+          <real>497.0</real>
         </dict>
       </dict>
     </dict>

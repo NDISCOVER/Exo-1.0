@@ -1,38 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Eth" format="1">
-  <advance width="640"/>
+  <advance width="696.0"/>
   <unicode hex="00D0"/>
   <outline>
     <contour>
-      <point x="265" y="164" type="line"/>
-      <point x="374" y="164" type="line" smooth="yes"/>
-      <point x="431" y="164"/>
-      <point x="458" y="223"/>
-      <point x="480" y="364" type="curve" smooth="yes"/>
-      <point x="509" y="545"/>
-      <point x="485" y="568"/>
-      <point x="438" y="568" type="curve" smooth="yes"/>
-      <point x="329" y="568" type="line"/>
-      <point x="304" y="410" type="line"/>
-      <point x="393" y="410" type="line"/>
-      <point x="381" y="336" type="line"/>
-      <point x="292" y="336" type="line"/>
+      <point x="54" y="311" type="line"/>
+      <point x="378" y="311" type="line"/>
+      <point x="398" y="435" type="line"/>
+      <point x="74" y="435" type="line"/>
     </contour>
-    <contour>
-      <point x="33" y="336" type="line"/>
-      <point x="45" y="410" type="line"/>
-      <point x="110" y="410" type="line"/>
-      <point x="161" y="732" type="line"/>
-      <point x="484" y="732" type="line" smooth="yes"/>
-      <point x="683" y="732"/>
-      <point x="707" y="540"/>
-      <point x="674" y="333" type="curve" smooth="yes"/>
-      <point x="633" y="77"/>
-      <point x="555" y="0"/>
-      <point x="388" y="0" type="curve" smooth="yes"/>
-      <point x="45" y="0" type="line"/>
-      <point x="98" y="336" type="line"/>
-    </contour>
+    <component base="D"/>
   </outline>
   <lib>
     <dict>
@@ -336,7 +313,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>640</integer>
+          <real>696.0</real>
         </dict>
       </dict>
     </dict>

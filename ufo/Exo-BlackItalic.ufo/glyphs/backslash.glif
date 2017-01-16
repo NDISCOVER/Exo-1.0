@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="backslash" format="1">
-  <advance width="497"/>
+  <advance width="502"/>
   <unicode hex="005C"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
   <outline>
     <contour>
-      <point x="132" y="770" type="line"/>
-      <point x="280" y="-72" type="line"/>
-      <point x="476" y="-72" type="line"/>
-      <point x="328" y="770" type="line"/>
+      <point x="133" y="770" type="line"/>
+      <point x="281" y="-72" type="line"/>
+      <point x="480" y="-72" type="line"/>
+      <point x="332" y="770" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -33,7 +36,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>132</integer>
+                  <integer>11</integer>
                   <key>y</key>
                   <integer>770</integer>
                 </dict>
@@ -43,7 +46,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>328</integer>
+                  <integer>210</integer>
                   <key>y</key>
                   <integer>770</integer>
                 </dict>
@@ -53,7 +56,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>476</integer>
+                  <integer>491</integer>
                   <key>y</key>
                   <integer>-72</integer>
                 </dict>
@@ -63,7 +66,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>280</integer>
+                  <integer>292</integer>
                   <key>y</key>
                   <integer>-72</integer>
                 </dict>
@@ -79,7 +82,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>497</integer>
+          <integer>502</integer>
         </dict>
       </dict>
     </dict>

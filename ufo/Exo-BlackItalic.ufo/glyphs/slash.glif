@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="slash" format="1">
-  <advance width="503"/>
+  <advance width="502"/>
   <unicode hex="002F"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
   <outline>
     <contour>
       <point x="0" y="-72" type="line"/>
@@ -33,7 +36,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>0</integer>
+                  <integer>11</integer>
                   <key>y</key>
                   <integer>-72</integer>
                 </dict>
@@ -43,7 +46,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>414</integer>
+                  <integer>292</integer>
                   <key>y</key>
                   <integer>770</integer>
                 </dict>
@@ -53,7 +56,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>613</integer>
+                  <integer>491</integer>
                   <key>y</key>
                   <integer>770</integer>
                 </dict>
@@ -63,7 +66,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>199</integer>
+                  <integer>210</integer>
                   <key>y</key>
                   <integer>-72</integer>
                 </dict>
@@ -79,7 +82,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>503</integer>
+          <integer>502</integer>
         </dict>
       </dict>
     </dict>

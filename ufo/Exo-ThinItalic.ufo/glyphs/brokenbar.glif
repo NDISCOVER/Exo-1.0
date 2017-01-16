@@ -1,19 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="brokenbar" format="1">
-  <advance width="217"/>
+  <advance width="254"/>
   <unicode hex="00A6"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
   <outline>
     <contour>
-      <point x="153" y="429" type="line"/>
-      <point x="207" y="770" type="line"/>
-      <point x="231" y="770" type="line"/>
-      <point x="177" y="429" type="line"/>
+      <point x="183" y="429" type="line"/>
+      <point x="207" y="429" type="line"/>
+      <point x="261" y="770" type="line"/>
+      <point x="237" y="770" type="line"/>
     </contour>
     <contour>
-      <point x="74" y="-72" type="line"/>
-      <point x="126" y="256" type="line"/>
-      <point x="150" y="256" type="line"/>
-      <point x="98" y="-72" type="line"/>
+      <point x="104" y="-72" type="line"/>
+      <point x="128" y="-72" type="line"/>
+      <point x="180" y="256" type="line"/>
+      <point x="156" y="256" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -24,9 +27,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>74</integer>
+            <integer>116</integer>
             <key>width</key>
-            <integer>157</integer>
+            <integer>24</integer>
           </dict>
         </array>
       </dict>
@@ -51,7 +54,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>153</integer>
+                  <integer>116</integer>
                   <key>y</key>
                   <integer>429</integer>
                 </dict>
@@ -61,7 +64,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>207</integer>
+                  <integer>116</integer>
                   <key>y</key>
                   <integer>770</integer>
                 </dict>
@@ -71,7 +74,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>231</integer>
+                  <integer>140</integer>
                   <key>y</key>
                   <integer>770</integer>
                 </dict>
@@ -81,7 +84,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>177</integer>
+                  <integer>140</integer>
                   <key>y</key>
                   <integer>429</integer>
                 </dict>
@@ -96,7 +99,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>74</integer>
+                  <integer>116</integer>
                   <key>y</key>
                   <integer>-72</integer>
                 </dict>
@@ -106,7 +109,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>126</integer>
+                  <integer>116</integer>
                   <key>y</key>
                   <integer>256</integer>
                 </dict>
@@ -116,7 +119,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>150</integer>
+                  <integer>140</integer>
                   <key>y</key>
                   <integer>256</integer>
                 </dict>
@@ -126,7 +129,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>98</integer>
+                  <integer>140</integer>
                   <key>y</key>
                   <integer>-72</integer>
                 </dict>
@@ -142,7 +145,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>217</integer>
+          <integer>254</integer>
         </dict>
       </dict>
     </dict>

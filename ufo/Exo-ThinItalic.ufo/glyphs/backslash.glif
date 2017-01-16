@@ -1,13 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="backslash" format="1">
-  <advance width="432"/>
+  <advance width="354"/>
   <unicode hex="005C"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
   <outline>
     <contour>
-      <point x="141" y="770" type="line"/>
-      <point x="160" y="770" type="line"/>
-      <point x="308" y="-72" type="line"/>
-      <point x="289" y="-72" type="line"/>
+      <point x="149" y="770" type="line"/>
+      <point x="297" y="-72" type="line"/>
+      <point x="316" y="-72" type="line"/>
+      <point x="168" y="770" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -18,9 +21,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>141</integer>
+            <integer>27</integer>
             <key>width</key>
-            <integer>167</integer>
+            <integer>300</integer>
           </dict>
         </array>
       </dict>
@@ -45,7 +48,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>141</integer>
+                  <integer>27</integer>
                   <key>y</key>
                   <integer>770</integer>
                 </dict>
@@ -55,7 +58,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>160</integer>
+                  <integer>46</integer>
                   <key>y</key>
                   <integer>770</integer>
                 </dict>
@@ -65,7 +68,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>308</integer>
+                  <integer>327</integer>
                   <key>y</key>
                   <integer>-72</integer>
                 </dict>
@@ -75,7 +78,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>289</integer>
+                  <integer>308</integer>
                   <key>y</key>
                   <integer>-72</integer>
                 </dict>
@@ -91,7 +94,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>432</integer>
+          <integer>354</integer>
         </dict>
       </dict>
     </dict>

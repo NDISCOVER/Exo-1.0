@@ -2,12 +2,15 @@
 <glyph name="bar" format="1">
   <advance width="250"/>
   <unicode hex="007C"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
   <outline>
     <contour>
-      <point x="36" y="-72" type="line"/>
-      <point x="190" y="-72" type="line"/>
-      <point x="323" y="770" type="line"/>
-      <point x="169" y="770" type="line"/>
+      <point x="37" y="-72" type="line"/>
+      <point x="191" y="-72" type="line"/>
+      <point x="324" y="770" type="line"/>
+      <point x="170" y="770" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -18,9 +21,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>36</integer>
+            <integer>48</integer>
             <key>width</key>
-            <integer>287</integer>
+            <integer>154</integer>
           </dict>
         </array>
       </dict>
@@ -45,7 +48,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>36</integer>
+                  <integer>48</integer>
                   <key>y</key>
                   <integer>-72</integer>
                 </dict>
@@ -55,7 +58,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>169</integer>
+                  <integer>48</integer>
                   <key>y</key>
                   <integer>770</integer>
                 </dict>
@@ -65,7 +68,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>323</integer>
+                  <integer>202</integer>
                   <key>y</key>
                   <integer>770</integer>
                 </dict>
@@ -75,7 +78,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>190</integer>
+                  <integer>202</integer>
                   <key>y</key>
                   <integer>-72</integer>
                 </dict>

@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="z" format="1">
-  <advance width="512.0"/>
+  <advance width="502.0"/>
   <unicode hex="007A"/>
   <outline>
     <contour>
-      <point x="41" y="0" type="line"/>
-      <point x="482" y="0" type="line"/>
-      <point x="482" y="0"/>
-      <point x="507" y="153"/>
-      <point x="506" y="154" type="curve"/>
-      <point x="289" y="154" type="line"/>
-      <point x="546" y="401" type="line"/>
-      <point x="567" y="539" type="line"/>
-      <point x="115" y="539" type="line"/>
-      <point x="91" y="385" type="line"/>
-      <point x="319" y="385" type="line"/>
-      <point x="63" y="138" type="line"/>
+      <point x="31" y="0" type="line"/>
+      <point x="472" y="0" type="line"/>
+      <point x="472" y="0"/>
+      <point x="497" y="153"/>
+      <point x="496" y="154" type="curve"/>
+      <point x="279" y="154" type="line"/>
+      <point x="536" y="401" type="line"/>
+      <point x="557" y="539" type="line"/>
+      <point x="105" y="539" type="line"/>
+      <point x="81" y="385" type="line"/>
+      <point x="309" y="385" type="line"/>
+      <point x="53" y="138" type="line"/>
     </contour>
     <contour>
-      <point x="334" y="650" type="move" name="top"/>
+      <point x="324" y="650" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="208" y="-150" type="move" name="bottom"/>
+      <point x="198" y="-150" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
@@ -65,7 +65,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>91</integer>
+                  <real>81.0</real>
                   <key>y</key>
                   <integer>385</integer>
                 </dict>
@@ -75,7 +75,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>319</integer>
+                  <real>309.0</real>
                   <key>y</key>
                   <integer>385</integer>
                 </dict>
@@ -85,7 +85,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>63</integer>
+                  <real>53.0</real>
                   <key>y</key>
                   <integer>138</integer>
                 </dict>
@@ -95,7 +95,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>41</integer>
+                  <real>31.0</real>
                   <key>y</key>
                   <integer>0</integer>
                 </dict>
@@ -105,7 +105,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>482</integer>
+                  <real>472.0</real>
                   <key>y</key>
                   <integer>0</integer>
                 </dict>
@@ -113,7 +113,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>482</integer>
+                  <real>472.0</real>
                   <key>y</key>
                   <integer>0</integer>
                 </dict>
@@ -121,7 +121,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>507</integer>
+                  <real>497.0</real>
                   <key>y</key>
                   <integer>153</integer>
                 </dict>
@@ -131,7 +131,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>506</integer>
+                  <real>496.0</real>
                   <key>y</key>
                   <integer>154</integer>
                 </dict>
@@ -141,7 +141,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>289</integer>
+                  <real>279.0</real>
                   <key>y</key>
                   <integer>154</integer>
                 </dict>
@@ -151,7 +151,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>546</integer>
+                  <real>536.0</real>
                   <key>y</key>
                   <integer>401</integer>
                 </dict>
@@ -161,7 +161,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>567</integer>
+                  <real>557.0</real>
                   <key>y</key>
                   <integer>539</integer>
                 </dict>
@@ -171,7 +171,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>115</integer>
+                  <real>105.0</real>
                   <key>y</key>
                   <integer>539</integer>
                 </dict>
@@ -187,7 +187,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>512.0</real>
+          <real>502.0</real>
         </dict>
       </dict>
     </dict>

@@ -1,18 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="r.salt" format="1">
-  <advance width="404"/>
+  <advance width="376.0"/>
   <outline>
     <contour>
-      <point x="34" y="0" type="line"/>
-      <point x="109" y="473" type="line"/>
-      <point x="187" y="542"/>
-      <point x="317" y="552"/>
-      <point x="478" y="538" type="curve"/>
-      <point x="452" y="373" type="line"/>
-      <point x="397" y="386"/>
-      <point x="324" y="386"/>
-      <point x="286" y="369" type="curve"/>
-      <point x="228" y="0" type="line"/>
+      <point x="44" y="0" type="line"/>
+      <point x="238" y="0" type="line"/>
+      <point x="295" y="357" type="line"/>
+      <point x="316" y="364"/>
+      <point x="343" y="369"/>
+      <point x="376" y="369" type="curve" smooth="yes"/>
+      <point x="393" y="369"/>
+      <point x="410" y="367"/>
+      <point x="428" y="365" type="curve"/>
+      <point x="456" y="542" type="line"/>
+      <point x="430" y="545"/>
+      <point x="403" y="546"/>
+      <point x="377" y="546" type="curve" smooth="yes"/>
+      <point x="282" y="546"/>
+      <point x="188" y="520"/>
+      <point x="120" y="483" type="curve"/>
+    </contour>
+    <contour>
+      <point x="308" y="650" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="117" y="-150" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
@@ -27,6 +39,21 @@
             <key>width</key>
             <integer>21</integer>
           </dict>
+          <dict>
+            <key>position</key>
+            <integer>373</integer>
+            <key>width</key>
+            <integer>165</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>34</integer>
+            <key>width</key>
+            <integer>194</integer>
+          </dict>
         </array>
       </dict>
       <key>com.typemytype.robofont.layerData</key>
@@ -38,6 +65,19 @@
           </array>
           <key>components</key>
           <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>r</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
           </array>
           <key>contours</key>
           <array>
@@ -50,7 +90,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>34</integer>
+                  <integer>-366</integer>
                   <key>y</key>
                   <integer>0</integer>
                 </dict>
@@ -60,7 +100,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>109</integer>
+                  <integer>-366</integer>
                   <key>y</key>
                   <integer>473</integer>
                 </dict>
@@ -68,7 +108,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>187</integer>
+                  <integer>-299</integer>
                   <key>y</key>
                   <integer>542</integer>
                 </dict>
@@ -76,7 +116,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>317</integer>
+                  <integer>-170</integer>
                   <key>y</key>
                   <integer>552</integer>
                 </dict>
@@ -86,7 +126,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>478</integer>
+                  <integer>-7</integer>
                   <key>y</key>
                   <integer>538</integer>
                 </dict>
@@ -96,7 +136,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>452</integer>
+                  <integer>-7</integer>
                   <key>y</key>
                   <integer>373</integer>
                 </dict>
@@ -104,7 +144,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>397</integer>
+                  <integer>-64</integer>
                   <key>y</key>
                   <integer>386</integer>
                 </dict>
@@ -112,7 +152,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>324</integer>
+                  <integer>-137</integer>
                   <key>y</key>
                   <integer>386</integer>
                 </dict>
@@ -122,7 +162,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>286</integer>
+                  <integer>-172</integer>
                   <key>y</key>
                   <integer>369</integer>
                 </dict>
@@ -132,7 +172,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>228</integer>
+                  <integer>-172</integer>
                   <key>y</key>
                   <integer>0</integer>
                 </dict>
@@ -148,9 +188,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>404</integer>
+          <real>376.0</real>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

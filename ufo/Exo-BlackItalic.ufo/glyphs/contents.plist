@@ -22,8 +22,6 @@
 	<string>E_ng.glif</string>
 	<key>Eth</key>
 	<string>E_th.glif</string>
-	<key>Euro.smcp</key>
-	<string>E_uro.smcp.glif</string>
 	<key>F</key>
 	<string>F_.glif</string>
 	<key>G</key>
@@ -232,6 +230,8 @@
 	<string>bullet.glif</string>
 	<key>bullet.smcp</key>
 	<string>bullet.smcp.glif</string>
+	<key>bulletoperator</key>
+	<string>bulletoperator.glif</string>
 	<key>c</key>
 	<string>c.glif</string>
 	<key>c.smcp</key>
@@ -264,6 +264,8 @@
 	<string>ccircumflex.smcp.glif</string>
 	<key>cdotaccent.smcp</key>
 	<string>cdotaccent.smcp.glif</string>
+	<key>cedi</key>
+	<string>cedi.glif</string>
 	<key>cedilla</key>
 	<string>cedilla.glif</string>
 	<key>cedillacomb</key>
@@ -348,10 +350,12 @@
 	<string>dieresiscomb.case.glif</string>
 	<key>divide</key>
 	<string>divide.glif</string>
+	<key>divisionslash</key>
+	<string>divisionslash.glif</string>
 	<key>dollar</key>
 	<string>dollar.glif</string>
-	<key>dollar.smcp</key>
-	<string>dollar.smcp.glif</string>
+	<key>dong</key>
+	<string>dong.glif</string>
 	<key>dotaccent</key>
 	<string>dotaccent.glif</string>
 	<key>dotaccentcomb</key>
@@ -502,6 +506,8 @@
 	<string>foursuperior.glif</string>
 	<key>fraction</key>
 	<string>fraction.glif</string>
+	<key>franc</key>
+	<string>franc.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
 	<key>g.salt</key>
@@ -518,10 +524,6 @@
 	<string>gcircumflex.salt.glif</string>
 	<key>gcircumflex.smcp</key>
 	<string>gcircumflex.smcp.glif</string>
-	<key>gcommaaccent.salt</key>
-	<string>gcommaaccent.salt.glif</string>
-	<key>gcommaaccent.smcp</key>
-	<string>gcommaaccent.smcp.glif</string>
 	<key>gdotaccent.salt</key>
 	<string>gdotaccent.salt.glif</string>
 	<key>gdotaccent.smcp</key>
@@ -542,6 +544,8 @@
 	<string>greater.glif</string>
 	<key>greaterequal</key>
 	<string>greaterequal.glif</string>
+	<key>guarani</key>
+	<string>guarani.glif</string>
 	<key>guillemetleft</key>
 	<string>guillemetleft.glif</string>
 	<key>guillemetright</key>
@@ -628,10 +632,10 @@
 	<string>k.smcp.glif</string>
 	<key>k.superior</key>
 	<string>k.superior.glif</string>
-	<key>kcommaaccent.smcp</key>
-	<string>kcommaaccent.smcp.glif</string>
 	<key>kgreenlandic</key>
 	<string>kgreenlandic.glif</string>
+	<key>kip</key>
+	<string>kip.glif</string>
 	<key>l</key>
 	<string>l.glif</string>
 	<key>l.smcp</key>
@@ -642,12 +646,12 @@
 	<string>lacute.smcp.glif</string>
 	<key>lcaron.smcp</key>
 	<string>lcaron.smcp.glif</string>
-	<key>lcommaaccent.smcp</key>
-	<string>lcommaaccent.smcp.glif</string>
 	<key>less</key>
 	<string>less.glif</string>
 	<key>lessequal</key>
 	<string>lessequal.glif</string>
+	<key>lira</key>
+	<string>lira.glif</string>
 	<key>logicalnot</key>
 	<string>logicalnot.glif</string>
 	<key>lozenge</key>
@@ -676,6 +680,8 @@
 	<string>macroncomb.glif</string>
 	<key>macroncomb.case</key>
 	<string>macroncomb.case.glif</string>
+	<key>manat</key>
+	<string>manat.glif</string>
 	<key>minus</key>
 	<string>minus.glif</string>
 	<key>multiply</key>
@@ -692,6 +698,8 @@
 	<string>nacute.salt.glif</string>
 	<key>nacute.smcp</key>
 	<string>nacute.smcp.glif</string>
+	<key>naira</key>
+	<string>naira.glif</string>
 	<key>nbspace</key>
 	<string>nbspace.glif</string>
 	<key>ncaron.salt</key>
@@ -836,6 +844,10 @@
 	<string>perthousand.glif</string>
 	<key>perthousand.smcp</key>
 	<string>perthousand.smcp.glif</string>
+	<key>peseta</key>
+	<string>peseta.glif</string>
+	<key>peso</key>
+	<string>peso.glif</string>
 	<key>pi</key>
 	<string>pi.glif</string>
 	<key>plus</key>
@@ -924,6 +936,8 @@
 	<string>ringcomb.glif</string>
 	<key>ringcomb.case</key>
 	<string>ringcomb.case.glif</string>
+	<key>ruble</key>
+	<string>ruble.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
 	<key>s.smcp</key>
@@ -988,8 +1002,6 @@
 	<string>space.glif</string>
 	<key>sterling</key>
 	<string>sterling.glif</string>
-	<key>sterling.smcp</key>
-	<string>sterling.smcp.glif</string>
 	<key>strokeshortcomb</key>
 	<string>strokeshortcomb.glif</string>
 	<key>summation</key>
@@ -1210,6 +1222,8 @@
 	<string>wdieresis.smcp.glif</string>
 	<key>wgrave.smcp</key>
 	<string>wgrave.smcp.glif</string>
+	<key>won</key>
+	<string>won.glif</string>
 	<key>x</key>
 	<string>x.glif</string>
 	<key>x.salt</key>
@@ -1232,8 +1246,6 @@
 	<string>ydieresis.smcp.glif</string>
 	<key>yen</key>
 	<string>yen.glif</string>
-	<key>yen.smcp</key>
-	<string>yen.smcp.glif</string>
 	<key>ygrave.smcp</key>
 	<string>ygrave.smcp.glif</string>
 	<key>z</key>

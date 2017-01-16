@@ -2,6 +2,9 @@
 <glyph name="quotedblbase" format="1">
   <advance width="235.0"/>
   <unicode hex="201E"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
   <outline>
     <component base="quotesinglbase"/>
     <component base="quotesinglbase" xOffset="80"/>

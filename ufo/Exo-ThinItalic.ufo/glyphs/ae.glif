@@ -80,6 +80,9 @@
       <point x="95" y="46"/>
       <point x="158" y="-6"/>
     </contour>
+    <contour>
+      <point x="556" y="650" type="move" name="top"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -149,7 +152,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>915.0766221158749</real>
+          <real>915.076622116</real>
         </dict>
       </dict>
     </dict>

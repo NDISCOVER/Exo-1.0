@@ -1,28 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="t.superior" format="1">
-  <advance width="233"/>
+  <advance width="277"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
   <outline>
     <contour>
-      <point x="121" y="716" type="line"/>
-      <point x="122" y="724" type="line"/>
-      <point x="198" y="732" type="line"/>
-      <point x="224" y="833" type="line"/>
-      <point x="232" y="833" type="line"/>
-      <point x="216" y="734" type="line"/>
-      <point x="328" y="734" type="line"/>
-      <point x="325" y="716" type="line"/>
-      <point x="213" y="716" type="line"/>
-      <point x="179" y="502" type="line" smooth="yes"/>
-      <point x="167" y="429"/>
-      <point x="183" y="400"/>
-      <point x="246" y="393" type="curve" smooth="yes"/>
-      <point x="302" y="387" type="line"/>
-      <point x="301" y="379" type="line"/>
-      <point x="246" y="379" type="line" smooth="yes"/>
-      <point x="175" y="379"/>
-      <point x="146" y="411"/>
-      <point x="161" y="503" type="curve" smooth="yes"/>
-      <point x="195" y="716" type="line"/>
+      <point x="133.0" y="652" type="line"/>
+      <point x="197.0" y="652" type="line"/>
+      <point x="159.0" y="420" type="line" smooth="yes"/>
+      <point x="156.0" y="401"/>
+      <point x="152.0" y="381"/>
+      <point x="152.0" y="359" type="curve" smooth="yes"/>
+      <point x="152.0" y="309"/>
+      <point x="181.0" y="280"/>
+      <point x="239.0" y="280" type="curve" smooth="yes"/>
+      <point x="282.0" y="280" type="line"/>
+      <point x="284.0" y="295" type="line"/>
+      <point x="235.0" y="299" type="line" smooth="yes"/>
+      <point x="193.0" y="303"/>
+      <point x="174.0" y="323"/>
+      <point x="174.0" y="361" type="curve" smooth="yes"/>
+      <point x="174.0" y="380"/>
+      <point x="178.0" y="401"/>
+      <point x="181.0" y="419" type="curve" smooth="yes"/>
+      <point x="218.0" y="652" type="line"/>
+      <point x="348.0" y="652" type="line"/>
+      <point x="350.0" y="672" type="line"/>
+      <point x="220.0" y="672" type="line"/>
+      <point x="238.0" y="782" type="line"/>
+      <point x="223.0" y="782" type="line"/>
+      <point x="199.0" y="672" type="line"/>
+      <point x="135.0" y="667" type="line"/>
+    </contour>
+    <contour>
+      <point x="255.0" y="774" type="move" name="altcaron"/>
+    </contour>
+    <contour>
+      <point x="206.0" y="169" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
@@ -33,30 +48,30 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>379</integer>
+            <integer>-1</integer>
             <key>width</key>
-            <integer>8</integer>
+            <integer>13</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>716</integer>
+            <integer>508</integer>
             <key>width</key>
-            <integer>18</integer>
+            <integer>24</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>716</integer>
+            <integer>508</integer>
             <key>width</key>
-            <integer>8</integer>
+            <integer>16</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>224</integer>
+            <integer>92</integer>
             <key>width</key>
-            <integer>8</integer>
+            <integer>287</integer>
           </dict>
         </array>
       </dict>
@@ -279,7 +294,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>233</integer>
+          <integer>277</integer>
         </dict>
       </dict>
     </dict>

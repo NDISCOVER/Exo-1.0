@@ -1,20 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="z.superior" format="1">
-  <advance width="369"/>
+  <advance width="374"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
   <outline>
     <contour>
-      <point x="109" y="379" type="line"/>
-      <point x="111" y="393" type="line"/>
-      <point x="408" y="718" type="line"/>
-      <point x="152" y="718" type="line"/>
-      <point x="154" y="732" type="line"/>
-      <point x="434" y="732" type="line"/>
-      <point x="433" y="724" type="line"/>
-      <point x="130" y="393" type="line"/>
-      <point x="379" y="393" type="line"/>
-      <point x="380" y="392"/>
-      <point x="377" y="379"/>
-      <point x="377" y="379" type="curve"/>
+      <point x="92.0" y="281" type="line"/>
+      <point x="380.0" y="281" type="line"/>
+      <point x="380.0" y="281"/>
+      <point x="384.0" y="299"/>
+      <point x="383.0" y="300" type="curve"/>
+      <point x="120.0" y="300" type="line"/>
+      <point x="425.0" y="653" type="line"/>
+      <point x="427.0" y="672" type="line"/>
+      <point x="143.0" y="672" type="line"/>
+      <point x="140.0" y="652" type="line"/>
+      <point x="400.0" y="652" type="line"/>
+      <point x="95.0" y="299" type="line"/>
+    </contour>
+    <contour>
+      <point x="303.0" y="759" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="210.0" y="169" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
@@ -25,24 +34,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>379</integer>
+            <integer>1</integer>
             <key>width</key>
-            <integer>14</integer>
+            <integer>24</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>718</integer>
+            <integer>507</integer>
             <key>width</key>
-            <integer>14</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>109</integer>
-            <key>width</key>
-            <integer>325</integer>
+            <integer>24</integer>
           </dict>
         </array>
       </dict>
@@ -189,7 +189,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>369</integer>
+          <integer>374</integer>
         </dict>
       </dict>
     </dict>

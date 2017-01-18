@@ -1,33 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="j.superior" format="1">
-  <advance width="160"/>
+  <advance width="141"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
   <outline>
     <contour>
-      <point x="187" y="793" type="curve" smooth="yes"/>
-      <point x="192" y="826" type="line" smooth="yes"/>
-      <point x="193" y="834"/>
-      <point x="198" y="838"/>
-      <point x="206" y="838" type="curve" smooth="yes"/>
-      <point x="210" y="838" type="line" smooth="yes"/>
-      <point x="218" y="838"/>
-      <point x="220" y="833"/>
-      <point x="219" y="826" type="curve" smooth="yes"/>
-      <point x="214" y="793" type="line" smooth="yes"/>
-      <point x="213" y="785"/>
-      <point x="208" y="782"/>
-      <point x="201" y="782" type="curve" smooth="yes"/>
-      <point x="197" y="782" type="line" smooth="yes"/>
-      <point x="190" y="782"/>
-      <point x="186" y="786"/>
+      <point x="176.0" y="760" type="line" smooth="yes"/>
+      <point x="175.0" y="755"/>
+      <point x="178.0" y="751"/>
+      <point x="183.0" y="751" type="curve" smooth="yes"/>
+      <point x="195.0" y="751" type="line" smooth="yes"/>
+      <point x="200.0" y="751"/>
+      <point x="204.0" y="754"/>
+      <point x="205.0" y="760" type="curve" smooth="yes"/>
+      <point x="213.0" y="807" type="line" smooth="yes"/>
+      <point x="213.0" y="812"/>
+      <point x="212.0" y="816"/>
+      <point x="206.0" y="816" type="curve" smooth="yes"/>
+      <point x="194.0" y="816" type="line" smooth="yes"/>
+      <point x="188.0" y="816"/>
+      <point x="184.0" y="813"/>
+      <point x="183.0" y="807" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="96" y="196" type="line"/>
-      <point x="181" y="733" type="line"/>
-      <point x="200" y="733" type="line"/>
-      <point x="143" y="375" type="line"/>
-      <point x="135" y="317"/>
-      <point x="119" y="248"/>
-      <point x="104" y="196" type="curve"/>
+      <point x="187" y="672" type="line"/>
+      <point x="165" y="672" type="line"/>
+      <point x="78" y="120" type="line"/>
+      <point x="90" y="120" type="line"/>
+      <point x="102" y="161"/>
+      <point x="114" y="214"/>
+      <point x="125" y="281" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -38,24 +41,24 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>713</integer>
+            <integer>511</integer>
             <key>width</key>
             <integer>20</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>782</integer>
+            <integer>630</integer>
             <key>width</key>
-            <integer>56</integer>
+            <integer>66</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>96</integer>
+            <integer>28</integer>
             <key>width</key>
-            <integer>8</integer>
+            <integer>180</integer>
           </dict>
         </array>
       </dict>
@@ -301,7 +304,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>160</integer>
+          <integer>141</integer>
         </dict>
       </dict>
     </dict>

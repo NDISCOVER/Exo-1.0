@@ -1,30 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="f.superior" format="1">
-  <advance width="292"/>
+  <advance width="272"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
   <outline>
     <contour>
-      <point x="121" y="694" type="line"/>
-      <point x="122" y="702" type="line"/>
-      <point x="198" y="711" type="line"/>
-      <point x="211" y="798" type="line" smooth="yes"/>
-      <point x="217" y="834"/>
-      <point x="233" y="903"/>
-      <point x="323" y="903" type="curve" smooth="yes"/>
-      <point x="360" y="903"/>
-      <point x="379" y="901"/>
-      <point x="409" y="897" type="curve"/>
-      <point x="407" y="885" type="line"/>
-      <point x="325" y="885" type="line" smooth="yes"/>
-      <point x="268" y="885"/>
-      <point x="239" y="856"/>
-      <point x="229" y="796" type="curve" smooth="yes"/>
-      <point x="216" y="711" type="line"/>
-      <point x="348" y="711" type="line"/>
-      <point x="345" y="694" type="line"/>
-      <point x="213" y="694" type="line"/>
-      <point x="163" y="378" type="line"/>
-      <point x="145" y="378" type="line"/>
-      <point x="195" y="694" type="line"/>
+      <point x="127.0" y="651" type="line"/>
+      <point x="192.0" y="651" type="line"/>
+      <point x="133.0" y="280" type="line"/>
+      <point x="155.0" y="280" type="line"/>
+      <point x="214.0" y="651" type="line"/>
+      <point x="353.0" y="651" type="line"/>
+      <point x="357.0" y="672" type="line"/>
+      <point x="217.0" y="672" type="line"/>
+      <point x="227.0" y="733" type="line" smooth="yes"/>
+      <point x="237.0" y="790"/>
+      <point x="249.0" y="828"/>
+      <point x="311.0" y="828" type="curve" smooth="yes"/>
+      <point x="397.0" y="828" type="line"/>
+      <point x="399.0" y="843" type="line"/>
+      <point x="374.0" y="845"/>
+      <point x="340.0" y="847"/>
+      <point x="312.0" y="847" type="curve" smooth="yes"/>
+      <point x="218.0" y="847"/>
+      <point x="213.0" y="776"/>
+      <point x="206.0" y="734" type="curve" smooth="yes"/>
+      <point x="195.0" y="672" type="line"/>
+      <point x="129.0" y="665" type="line"/>
+    </contour>
+    <contour>
+      <point x="134.0" y="169" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
@@ -35,30 +41,33 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>694</integer>
+            <integer>0</integer>
             <key>width</key>
-            <integer>17</integer>
+            <integer>21</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>694</integer>
+            <integer>507</integer>
             <key>width</key>
-            <integer>8</integer>
+            <integer>24</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>885</integer>
+            <integer>507</integer>
             <key>width</key>
-            <integer>18</integer>
+            <integer>14</integer>
           </dict>
-        </array>
-        <key>vhints</key>
-        <array>
           <dict>
             <key>position</key>
-            <integer>121</integer>
+            <integer>762</integer>
             <key>width</key>
-            <integer>288</integer>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>762</integer>
+            <key>width</key>
+            <integer>13</integer>
           </dict>
         </array>
       </dict>
@@ -297,7 +306,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>292</integer>
+          <integer>272</integer>
         </dict>
       </dict>
     </dict>

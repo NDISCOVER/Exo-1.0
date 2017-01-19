@@ -248,12 +248,20 @@
 	<string>N_.smcp.glif</string>
 	<key>Nacute</key>
 	<string>Nacute_.glif</string>
+	<key>Nacute.salt</key>
+	<string>Nacute_.salt.glif</string>
 	<key>Ncaron</key>
 	<string>Ncaron_.glif</string>
+	<key>Ncaron.salt</key>
+	<string>Ncaron_.salt.glif</string>
 	<key>Ncommaaccent</key>
 	<string>Ncommaaccent_.glif</string>
+	<key>Ncommaaccent.salt</key>
+	<string>Ncommaaccent_.salt.glif</string>
 	<key>Ntilde</key>
 	<string>Ntilde_.glif</string>
+	<key>Ntilde.salt</key>
+	<string>Ntilde_.salt.glif</string>
 	<key>O</key>
 	<string>O_.glif</string>
 	<key>O.smcp</key>
@@ -440,12 +448,20 @@
 	<string>W_.smcp.glif</string>
 	<key>Wacute</key>
 	<string>Wacute_.glif</string>
+	<key>Wacute.salt</key>
+	<string>Wacute_.salt.glif</string>
 	<key>Wcircumflex</key>
 	<string>Wcircumflex_.glif</string>
+	<key>Wcircumflex.salt</key>
+	<string>Wcircumflex_.salt.glif</string>
 	<key>Wdieresis</key>
 	<string>Wdieresis_.glif</string>
+	<key>Wdieresis.salt</key>
+	<string>Wdieresis_.salt.glif</string>
 	<key>Wgrave</key>
 	<string>Wgrave_.glif</string>
+	<key>Wgrave.salt</key>
+	<string>Wgrave_.salt.glif</string>
 	<key>X</key>
 	<string>X_.glif</string>
 	<key>X.salt</key>
@@ -492,30 +508,56 @@
 	<string>a.superior.glif</string>
 	<key>aacute</key>
 	<string>aacute.glif</string>
+	<key>aacute.salt</key>
+	<string>aacute.salt.glif</string>
 	<key>abreve</key>
 	<string>abreve.glif</string>
+	<key>abreve.salt</key>
+	<string>abreve.salt.glif</string>
 	<key>abreveacute</key>
 	<string>abreveacute.glif</string>
+	<key>abreveacute.salt</key>
+	<string>abreveacute.salt.glif</string>
 	<key>abrevedotbelow</key>
 	<string>abrevedotbelow.glif</string>
+	<key>abrevedotbelow.salt</key>
+	<string>abrevedotbelow.salt.glif</string>
 	<key>abrevegrave</key>
 	<string>abrevegrave.glif</string>
+	<key>abrevegrave.salt</key>
+	<string>abrevegrave.salt.glif</string>
 	<key>abrevehookabove</key>
 	<string>abrevehookabove.glif</string>
+	<key>abrevehookabove.salt</key>
+	<string>abrevehookabove.salt.glif</string>
 	<key>abrevetilde</key>
 	<string>abrevetilde.glif</string>
+	<key>abrevetilde.salt</key>
+	<string>abrevetilde.salt.glif</string>
 	<key>acircumflex</key>
 	<string>acircumflex.glif</string>
+	<key>acircumflex.salt</key>
+	<string>acircumflex.salt.glif</string>
 	<key>acircumflexacute</key>
 	<string>acircumflexacute.glif</string>
+	<key>acircumflexacute.salt</key>
+	<string>acircumflexacute.salt.glif</string>
 	<key>acircumflexdotbelow</key>
 	<string>acircumflexdotbelow.glif</string>
+	<key>acircumflexdotbelow.salt</key>
+	<string>acircumflexdotbelow.salt.glif</string>
 	<key>acircumflexgrave</key>
 	<string>acircumflexgrave.glif</string>
+	<key>acircumflexgrave.salt</key>
+	<string>acircumflexgrave.salt.glif</string>
 	<key>acircumflexhookabove</key>
 	<string>acircumflexhookabove.glif</string>
+	<key>acircumflexhookabove.salt</key>
+	<string>acircumflexhookabove.salt.glif</string>
 	<key>acircumflextilde</key>
 	<string>acircumflextilde.glif</string>
+	<key>acircumflextilde.salt</key>
+	<string>acircumflextilde.salt.glif</string>
 	<key>acute</key>
 	<string>acute.glif</string>
 	<key>acutecomb</key>
@@ -524,10 +566,16 @@
 	<string>acutecomb.case.glif</string>
 	<key>adblgrave</key>
 	<string>adblgrave.glif</string>
+	<key>adblgrave.salt</key>
+	<string>adblgrave.salt.glif</string>
 	<key>adieresis</key>
 	<string>adieresis.glif</string>
+	<key>adieresis.salt</key>
+	<string>adieresis.salt.glif</string>
 	<key>adotbelow</key>
 	<string>adotbelow.glif</string>
+	<key>adotbelow.salt</key>
+	<string>adotbelow.salt.glif</string>
 	<key>ae</key>
 	<string>ae.glif</string>
 	<key>aeacute</key>
@@ -538,12 +586,20 @@
 	<string>afii61352.glif</string>
 	<key>agrave</key>
 	<string>agrave.glif</string>
+	<key>agrave.salt</key>
+	<string>agrave.salt.glif</string>
 	<key>ahookabove</key>
 	<string>ahookabove.glif</string>
+	<key>ahookabove.salt</key>
+	<string>ahookabove.salt.glif</string>
 	<key>ainvertedbreve</key>
 	<string>ainvertedbreve.glif</string>
+	<key>ainvertedbreve.salt</key>
+	<string>ainvertedbreve.salt.glif</string>
 	<key>amacron</key>
 	<string>amacron.glif</string>
+	<key>amacron.salt</key>
+	<string>amacron.salt.glif</string>
 	<key>ampersand</key>
 	<string>ampersand.glif</string>
 	<key>ampersand.salt</key>
@@ -552,14 +608,20 @@
 	<string>ampersand.smcp.glif</string>
 	<key>aogonek</key>
 	<string>aogonek.glif</string>
+	<key>aogonek.salt</key>
+	<string>aogonek.salt.glif</string>
 	<key>apostrophemod</key>
 	<string>apostrophemod.glif</string>
 	<key>approxequal</key>
 	<string>approxequal.glif</string>
 	<key>aring</key>
 	<string>aring.glif</string>
+	<key>aring.salt</key>
+	<string>aring.salt.glif</string>
 	<key>aringacute</key>
 	<string>aringacute.glif</string>
+	<key>aringacute.salt</key>
+	<string>aringacute.salt.glif</string>
 	<key>asciicircum</key>
 	<string>asciicircum.glif</string>
 	<key>asciitilde</key>
@@ -576,6 +638,8 @@
 	<string>at.smcp.glif</string>
 	<key>atilde</key>
 	<string>atilde.glif</string>
+	<key>atilde.salt</key>
+	<string>atilde.salt.glif</string>
 	<key>b</key>
 	<string>b.glif</string>
 	<key>b.salt</key>
@@ -722,6 +786,8 @@
 	<string>dblgravecomb.case.glif</string>
 	<key>dcaron</key>
 	<string>dcaron.glif</string>
+	<key>dcaron.salt</key>
+	<string>dcaron.salt.glif</string>
 	<key>dcroat</key>
 	<string>dcroat.glif</string>
 	<key>dcroat.salt</key>
@@ -934,14 +1000,24 @@
 	<string>g.superior.glif</string>
 	<key>gbreve</key>
 	<string>gbreve.glif</string>
+	<key>gbreve.salt</key>
+	<string>gbreve.salt.glif</string>
 	<key>gcaron</key>
 	<string>gcaron.glif</string>
+	<key>gcaron.salt</key>
+	<string>gcaron.salt.glif</string>
 	<key>gcircumflex</key>
 	<string>gcircumflex.glif</string>
+	<key>gcircumflex.salt</key>
+	<string>gcircumflex.salt.glif</string>
 	<key>gcommaaccent</key>
 	<string>gcommaaccent.glif</string>
+	<key>gcommaaccent.salt</key>
+	<string>gcommaaccent.salt.glif</string>
 	<key>gdotaccent</key>
 	<string>gdotaccent.glif</string>
+	<key>gdotaccent.salt</key>
+	<string>gdotaccent.salt.glif</string>
 	<key>germandbls</key>
 	<string>germandbls.glif</string>
 	<key>germandbls.smcp</key>
@@ -1120,6 +1196,8 @@
 	<string>n.superior.glif</string>
 	<key>nacute</key>
 	<string>nacute.glif</string>
+	<key>nacute.salt</key>
+	<string>nacute.salt.glif</string>
 	<key>naira</key>
 	<string>naira.glif</string>
 	<key>naira.smcp</key>
@@ -1128,8 +1206,12 @@
 	<string>nbspace.glif</string>
 	<key>ncaron</key>
 	<string>ncaron.glif</string>
+	<key>ncaron.salt</key>
+	<string>ncaron.salt.glif</string>
 	<key>ncommaaccent</key>
 	<string>ncommaaccent.glif</string>
+	<key>ncommaaccent.salt</key>
+	<string>ncommaaccent.salt.glif</string>
 	<key>nine</key>
 	<string>nine.glif</string>
 	<key>nine.denominator</key>
@@ -1152,6 +1234,8 @@
 	<string>notequal.glif</string>
 	<key>ntilde</key>
 	<string>ntilde.glif</string>
+	<key>ntilde.salt</key>
+	<string>ntilde.salt.glif</string>
 	<key>numbersign</key>
 	<string>numbersign.glif</string>
 	<key>numbersign.smcp</key>
@@ -1366,14 +1450,22 @@
 	<string>r.superior.glif</string>
 	<key>racute</key>
 	<string>racute.glif</string>
+	<key>racute.salt</key>
+	<string>racute.salt.glif</string>
 	<key>radical</key>
 	<string>radical.glif</string>
 	<key>rcaron</key>
 	<string>rcaron.glif</string>
+	<key>rcaron.salt</key>
+	<string>rcaron.salt.glif</string>
 	<key>rcommaaccent</key>
 	<string>rcommaaccent.glif</string>
+	<key>rcommaaccent.salt</key>
+	<string>rcommaaccent.salt.glif</string>
 	<key>rdblgrave</key>
 	<string>rdblgrave.glif</string>
+	<key>rdblgrave.salt</key>
+	<string>rdblgrave.salt.glif</string>
 	<key>registered</key>
 	<string>registered.glif</string>
 	<key>ring</key>
@@ -1384,6 +1476,8 @@
 	<string>ringcomb.case.glif</string>
 	<key>rinvertedbreve</key>
 	<string>rinvertedbreve.glif</string>
+	<key>rinvertedbreve.salt</key>
+	<string>rinvertedbreve.salt.glif</string>
 	<key>ruble</key>
 	<string>ruble.glif</string>
 	<key>ruble.smcp</key>
@@ -1476,12 +1570,20 @@
 	<string>t_y.glif</string>
 	<key>tbar</key>
 	<string>tbar.glif</string>
+	<key>tbar.salt</key>
+	<string>tbar.salt.glif</string>
 	<key>tcaron</key>
 	<string>tcaron.glif</string>
+	<key>tcaron.salt</key>
+	<string>tcaron.salt.glif</string>
 	<key>tcedilla</key>
 	<string>tcedilla.glif</string>
+	<key>tcedilla.salt</key>
+	<string>tcedilla.salt.glif</string>
 	<key>tcommaaccent</key>
 	<string>tcommaaccent.glif</string>
+	<key>tcommaaccent.salt</key>
+	<string>tcommaaccent.salt.glif</string>
 	<key>thorn</key>
 	<string>thorn.glif</string>
 	<key>three</key>
@@ -1538,38 +1640,72 @@
 	<string>u.superior.glif</string>
 	<key>uacute</key>
 	<string>uacute.glif</string>
+	<key>uacute.salt</key>
+	<string>uacute.salt.glif</string>
 	<key>ubreve</key>
 	<string>ubreve.glif</string>
+	<key>ubreve.salt</key>
+	<string>ubreve.salt.glif</string>
 	<key>ucircumflex</key>
 	<string>ucircumflex.glif</string>
+	<key>ucircumflex.salt</key>
+	<string>ucircumflex.salt.glif</string>
 	<key>udblgrave</key>
 	<string>udblgrave.glif</string>
+	<key>udblgrave.salt</key>
+	<string>udblgrave.salt.glif</string>
 	<key>udieresis</key>
 	<string>udieresis.glif</string>
+	<key>udieresis.salt</key>
+	<string>udieresis.salt.glif</string>
 	<key>udotbelow</key>
 	<string>udotbelow.glif</string>
+	<key>udotbelow.salt</key>
+	<string>udotbelow.salt.glif</string>
 	<key>ugrave</key>
 	<string>ugrave.glif</string>
+	<key>ugrave.salt</key>
+	<string>ugrave.salt.glif</string>
 	<key>uhookabove</key>
 	<string>uhookabove.glif</string>
+	<key>uhookabove.salt</key>
+	<string>uhookabove.salt.glif</string>
 	<key>uhorn</key>
 	<string>uhorn.glif</string>
+	<key>uhorn.salt</key>
+	<string>uhorn.salt.glif</string>
 	<key>uhornacute</key>
 	<string>uhornacute.glif</string>
+	<key>uhornacute.salt</key>
+	<string>uhornacute.salt.glif</string>
 	<key>uhorndotbelow</key>
 	<string>uhorndotbelow.glif</string>
+	<key>uhorndotbelow.salt</key>
+	<string>uhorndotbelow.salt.glif</string>
 	<key>uhorngrave</key>
 	<string>uhorngrave.glif</string>
+	<key>uhorngrave.salt</key>
+	<string>uhorngrave.salt.glif</string>
 	<key>uhornhookabove</key>
 	<string>uhornhookabove.glif</string>
+	<key>uhornhookabove.salt</key>
+	<string>uhornhookabove.salt.glif</string>
 	<key>uhorntilde</key>
 	<string>uhorntilde.glif</string>
+	<key>uhorntilde.salt</key>
+	<string>uhorntilde.salt.glif</string>
 	<key>uhungarumlaut</key>
 	<string>uhungarumlaut.glif</string>
+	<key>uhungarumlaut.salt</key>
+	<string>uhungarumlaut.salt.glif</string>
 	<key>uinvertedbreve</key>
 	<string>uinvertedbreve.glif</string>
+	<key>uinvertedbreve.salt</key>
+	<string>uinvertedbreve.salt.glif</string>
 	<key>umacron</key>
 	<string>umacron.glif</string>
+	<key>umacron.salt</key>
+	<string>umacron.salt.glif</string>
 	<key>underscore</key>
 	<string>underscore.glif</string>
 	<key>uni000D</key>
@@ -1588,10 +1724,16 @@
 	<string>uni2206.glif</string>
 	<key>uogonek</key>
 	<string>uogonek.glif</string>
+	<key>uogonek.salt</key>
+	<string>uogonek.salt.glif</string>
 	<key>uring</key>
 	<string>uring.glif</string>
+	<key>uring.salt</key>
+	<string>uring.salt.glif</string>
 	<key>utilde</key>
 	<string>utilde.glif</string>
+	<key>utilde.salt</key>
+	<string>utilde.salt.glif</string>
 	<key>v</key>
 	<string>v.glif</string>
 	<key>v.superior</key>
@@ -1604,12 +1746,20 @@
 	<string>w.superior.glif</string>
 	<key>wacute</key>
 	<string>wacute.glif</string>
+	<key>wacute.salt</key>
+	<string>wacute.salt.glif</string>
 	<key>wcircumflex</key>
 	<string>wcircumflex.glif</string>
+	<key>wcircumflex.salt</key>
+	<string>wcircumflex.salt.glif</string>
 	<key>wdieresis</key>
 	<string>wdieresis.glif</string>
+	<key>wdieresis.salt</key>
+	<string>wdieresis.salt.glif</string>
 	<key>wgrave</key>
 	<string>wgrave.glif</string>
+	<key>wgrave.salt</key>
+	<string>wgrave.salt.glif</string>
 	<key>won</key>
 	<string>won.glif</string>
 	<key>won.smcp</key>

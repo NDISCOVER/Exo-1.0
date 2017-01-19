@@ -5,8 +5,18 @@
     GF Latin Plus glyph
   </note>
   <outline>
-    <component base="gravecomb" xOffset="-160"/>
-    <component base="gravecomb" xOffset="40"/>
+    <contour>
+      <point x="-556" y="774" type="line"/>
+      <point x="-471" y="631" type="line"/>
+      <point x="-357" y="631" type="line"/>
+      <point x="-402" y="774" type="line"/>
+    </contour>
+    <contour>
+      <point x="-356" y="774" type="line"/>
+      <point x="-271" y="631" type="line"/>
+      <point x="-157" y="631" type="line"/>
+      <point x="-202" y="774" type="line"/>
+    </contour>
     <contour>
       <point x="-320.0" y="650.0" type="move" name="_top"/>
     </contour>

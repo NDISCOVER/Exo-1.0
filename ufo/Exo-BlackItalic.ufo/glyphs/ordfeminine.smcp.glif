@@ -1,47 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="ordfeminine.smcp" format="1">
-  <advance width="315"/>
+  <advance width="404"/>
   <note>
     GF Latin Plus glyph
   </note>
   <outline>
     <contour>
-      <point x="185" y="425" type="curve" smooth="yes"/>
-      <point x="181" y="401"/>
-      <point x="173" y="376"/>
-      <point x="196" y="376" type="curve" smooth="yes"/>
-      <point x="215" y="376"/>
-      <point x="222" y="381"/>
-      <point x="224" y="395" type="curve" smooth="yes"/>
-      <point x="235" y="467" type="line"/>
-      <point x="230" y="470"/>
-      <point x="224" y="470"/>
-      <point x="217" y="470" type="curve" smooth="yes"/>
-      <point x="211" y="470"/>
-      <point x="190" y="459"/>
+      <point x="258" y="492" type="line"/>
+      <point x="297" y="606" type="line"/>
+      <point x="300" y="492" type="line"/>
     </contour>
     <contour>
-      <point x="72" y="441" type="curve"/>
-      <point x="98" y="554"/>
-      <point x="166" y="552"/>
-      <point x="225" y="552" type="curve" smooth="yes"/>
-      <point x="268" y="551"/>
-      <point x="339" y="547"/>
-      <point x="367" y="522" type="curve"/>
-      <point x="332" y="276" type="line"/>
-      <point x="235" y="276" type="line"/>
-      <point x="214" y="305" type="line"/>
-      <point x="204" y="278"/>
-      <point x="163" y="272"/>
-      <point x="138" y="272" type="curve" smooth="yes"/>
-      <point x="86" y="272"/>
-      <point x="46" y="342"/>
+      <point x="60" y="355" type="line"/>
+      <point x="208" y="355" type="line"/>
+      <point x="215" y="379" type="line"/>
+      <point x="307" y="379" type="line"/>
+      <point x="306" y="355" type="line"/>
+      <point x="456" y="355" type="line"/>
+      <point x="407" y="721" type="line"/>
+      <point x="224" y="721" type="line"/>
     </contour>
     <contour>
-      <point x="53" y="188" type="line"/>
-      <point x="64" y="258" type="line"/>
-      <point x="340" y="258" type="line"/>
-      <point x="329" y="188" type="line"/>
+      <point x="45" y="218" type="line"/>
+      <point x="429" y="218" type="line"/>
+      <point x="442" y="306" type="line"/>
+      <point x="58" y="306" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -52,22 +35,28 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>258</integer>
+            <integer>0</integer>
             <key>width</key>
-            <integer>78</integer>
+            <integer>21</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>365</integer>
+            <integer>128</integer>
             <key>width</key>
-            <integer>116</integer>
+            <integer>165</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>712</integer>
+            <key>width</key>
+            <integer>20</integer>
           </dict>
         </array>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
         <real>1.0</real>
-        <real>0.0</real>
+        <real>1.0</real>
         <real>0.0</real>
         <real>1.0</real>
       </array>

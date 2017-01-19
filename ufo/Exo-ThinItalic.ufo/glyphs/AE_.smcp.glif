@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="AE.smcp" format="1">
   <advance width="753"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
   <outline>
     <contour>
-      <point x="239" y="211" type="line"/>
+      <point x="238" y="210" type="line"/>
       <point x="479" y="502" type="line"/>
-      <point x="433" y="211" type="line"/>
+      <point x="432" y="210" type="line"/>
     </contour>
     <contour>
       <point x="36" y="0" type="line"/>
@@ -40,6 +43,9 @@
       <point x="502" y="561"/>
       <point x="473" y="527"/>
       <point x="409" y="450" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="502" y="619" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

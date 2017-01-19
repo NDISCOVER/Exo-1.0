@@ -130,6 +130,8 @@
 	<string>Emacron_.glif</string>
 	<key>Eng</key>
 	<string>E_ng.glif</string>
+	<key>Eng.smcp</key>
+	<string>Eng_.smcp.glif</string>
 	<key>Eogonek</key>
 	<string>Eogonek_.glif</string>
 	<key>Eth</key>
@@ -166,6 +168,8 @@
 	<string>H_.smcp.glif</string>
 	<key>Hbar</key>
 	<string>H_bar.glif</string>
+	<key>Hbar.smcp</key>
+	<string>Hbar_.smcp.glif</string>
 	<key>Hcircumflex</key>
 	<string>Hcircumflex_.glif</string>
 	<key>I</key>
@@ -312,6 +316,8 @@
 	<string>Oogonek_.glif</string>
 	<key>Oslash</key>
 	<string>O_slash.glif</string>
+	<key>Oslash.smcp</key>
+	<string>Oslash_.smcp.glif</string>
 	<key>Oslashacute</key>
 	<string>Oslashacute_.glif</string>
 	<key>Otilde</key>
@@ -352,6 +358,8 @@
 	<string>Scedilla_.glif</string>
 	<key>Schwa</key>
 	<string>Schwa_.glif</string>
+	<key>Schwa.smcp</key>
+	<string>Schwa_.smcp.glif</string>
 	<key>Scircumflex</key>
 	<string>Scircumflex_.glif</string>
 	<key>Scommaaccent</key>
@@ -362,6 +370,8 @@
 	<string>T_.smcp.glif</string>
 	<key>Tbar</key>
 	<string>T_bar.glif</string>
+	<key>Tbar.smcp</key>
+	<string>Tbar_.smcp.glif</string>
 	<key>Tcaron</key>
 	<string>Tcaron_.glif</string>
 	<key>Tcedilla</key>
@@ -562,6 +572,8 @@
 	<string>at.glif</string>
 	<key>at.alt</key>
 	<string>at.alt.glif</string>
+	<key>at.smcp</key>
+	<string>at.smcp.glif</string>
 	<key>atilde</key>
 	<string>atilde.glif</string>
 	<key>b</key>
@@ -576,12 +588,20 @@
 	<string>bar.glif</string>
 	<key>braceleft</key>
 	<string>braceleft.glif</string>
+	<key>braceleft.smcp</key>
+	<string>braceleft.smcp.glif</string>
 	<key>braceright</key>
 	<string>braceright.glif</string>
+	<key>braceright.smcp</key>
+	<string>braceright.smcp.glif</string>
 	<key>bracketleft</key>
 	<string>bracketleft.glif</string>
+	<key>bracketleft.smcp</key>
+	<string>bracketleft.smcp.glif</string>
 	<key>bracketright</key>
 	<string>bracketright.glif</string>
+	<key>bracketright.smcp</key>
+	<string>bracketright.smcp.glif</string>
 	<key>breve</key>
 	<string>breve.glif</string>
 	<key>brevebelowcomb</key>
@@ -608,6 +628,8 @@
 	<string>brokenbar.glif</string>
 	<key>bullet</key>
 	<string>bullet.glif</string>
+	<key>bullet.smcp</key>
+	<string>bullet.smcp.glif</string>
 	<key>bulletoperator</key>
 	<string>bulletoperator.glif</string>
 	<key>c</key>
@@ -640,6 +662,8 @@
 	<string>cdotaccent.glif</string>
 	<key>cedi</key>
 	<string>cedi.glif</string>
+	<key>cedi.smcp</key>
+	<string>cedi.smcp.glif</string>
 	<key>cedilla</key>
 	<string>cedilla.glif</string>
 	<key>cedillacomb</key>
@@ -666,6 +690,8 @@
 	<string>colon.glif</string>
 	<key>colonsign</key>
 	<string>colonsign.glif</string>
+	<key>colonsign.smcp</key>
+	<string>colonsign.smcp.glif</string>
 	<key>comma</key>
 	<string>comma.glif</string>
 	<key>commaaccentcomb</key>
@@ -702,6 +728,8 @@
 	<string>dcroat.salt.glif</string>
 	<key>degree</key>
 	<string>degree.glif</string>
+	<key>degree.smcp</key>
+	<string>degree.smcp.glif</string>
 	<key>dieresis</key>
 	<string>dieresis.glif</string>
 	<key>dieresisbelowcomb</key>
@@ -718,8 +746,12 @@
 	<string>divisionslash.glif</string>
 	<key>dollar</key>
 	<string>dollar.glif</string>
+	<key>dollar.smcp</key>
+	<string>dollar.smcp.glif</string>
 	<key>dong</key>
 	<string>dong.glif</string>
+	<key>dong.smcp</key>
+	<string>dong.smcp.glif</string>
 	<key>dotaccent</key>
 	<string>dotaccent.glif</string>
 	<key>dotaccentcomb</key>
@@ -794,10 +826,14 @@
 	<string>emdash.glif</string>
 	<key>emdash.alt</key>
 	<string>emdash.alt.glif</string>
+	<key>emdash.smcp</key>
+	<string>emdash.smcp.glif</string>
 	<key>endash</key>
 	<string>endash.glif</string>
 	<key>endash.alt</key>
 	<string>endash.alt.glif</string>
+	<key>endash.smcp</key>
+	<string>endash.smcp.glif</string>
 	<key>eng</key>
 	<string>eng.glif</string>
 	<key>eogonek</key>
@@ -812,6 +848,8 @@
 	<string>etilde.glif</string>
 	<key>euro</key>
 	<string>euro.glif</string>
+	<key>euro.smcp</key>
+	<string>euro.smcp.glif</string>
 	<key>exclam</key>
 	<string>exclam.glif</string>
 	<key>exclam.smcp</key>
@@ -820,6 +858,8 @@
 	<string>exclamdown.glif</string>
 	<key>exclamdown.alt</key>
 	<string>exclamdown.alt.glif</string>
+	<key>exclamdown.smcp</key>
+	<string>exclamdown.smcp.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
 	<key>f.salt</key>
@@ -884,6 +924,8 @@
 	<string>fraction.glif</string>
 	<key>franc</key>
 	<string>franc.glif</string>
+	<key>franc.smcp</key>
+	<string>franc.smcp.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
 	<key>g.salt</key>
@@ -902,6 +944,8 @@
 	<string>gdotaccent.glif</string>
 	<key>germandbls</key>
 	<string>germandbls.glif</string>
+	<key>germandbls.smcp</key>
+	<string>germandbls.smcp.glif</string>
 	<key>grave</key>
 	<string>grave.glif</string>
 	<key>gravecomb</key>
@@ -914,6 +958,8 @@
 	<string>greaterequal.glif</string>
 	<key>guarani</key>
 	<string>guarani.glif</string>
+	<key>guarani.smcp</key>
+	<string>guarani.smcp.glif</string>
 	<key>guillemetleft</key>
 	<string>guillemetleft.glif</string>
 	<key>guillemetright</key>
@@ -952,6 +998,8 @@
 	<string>hyphen.glif</string>
 	<key>hyphen.alt</key>
 	<string>hyphen.alt.glif</string>
+	<key>hyphen.smcp</key>
+	<string>hyphen.smcp.glif</string>
 	<key>i</key>
 	<string>i.glif</string>
 	<key>i.superior</key>
@@ -1006,6 +1054,8 @@
 	<string>kgreenlandic.glif</string>
 	<key>kip</key>
 	<string>kip.glif</string>
+	<key>kip.smcp</key>
+	<string>kip.smcp.glif</string>
 	<key>l</key>
 	<string>l.glif</string>
 	<key>l.superior</key>
@@ -1028,6 +1078,8 @@
 	<string>lira.smcp.glif</string>
 	<key>liraTurkish</key>
 	<string>liraTurkish_.glif</string>
+	<key>liraTurkish.smcp</key>
+	<string>liraTurkish_.smcp.glif</string>
 	<key>logicalnot</key>
 	<string>logicalnot.glif</string>
 	<key>lozenge</key>
@@ -1052,6 +1104,8 @@
 	<string>macroncomb.case.glif</string>
 	<key>manat</key>
 	<string>manat.glif</string>
+	<key>manat.smcp</key>
+	<string>manat.smcp.glif</string>
 	<key>micro</key>
 	<string>micro.glif</string>
 	<key>minus</key>
@@ -1068,6 +1122,8 @@
 	<string>nacute.glif</string>
 	<key>naira</key>
 	<string>naira.glif</string>
+	<key>naira.smcp</key>
+	<string>naira.smcp.glif</string>
 	<key>nbspace</key>
 	<string>nbspace.glif</string>
 	<key>ncaron</key>
@@ -1188,8 +1244,12 @@
 	<string>oogonek.glif</string>
 	<key>ordfeminine</key>
 	<string>ordfeminine.glif</string>
+	<key>ordfeminine.smcp</key>
+	<string>ordfeminine.smcp.glif</string>
 	<key>ordmasculine</key>
 	<string>ordmasculine.glif</string>
+	<key>ordmasculine.smcp</key>
+	<string>ordmasculine.smcp.glif</string>
 	<key>oslash</key>
 	<string>oslash.glif</string>
 	<key>oslashacute</key>
@@ -1222,6 +1282,8 @@
 	<string>partialdiff.glif</string>
 	<key>percent</key>
 	<string>percent.glif</string>
+	<key>percent.smcp</key>
+	<string>percent.smcp.glif</string>
 	<key>period</key>
 	<string>period.glif</string>
 	<key>periodcentered</key>
@@ -1232,10 +1294,16 @@
 	<string>periodcentered.loclCAT_.case.glif</string>
 	<key>perthousand</key>
 	<string>perthousand.glif</string>
+	<key>perthousand.smcp</key>
+	<string>perthousand.smcp.glif</string>
 	<key>peseta</key>
 	<string>peseta.glif</string>
+	<key>peseta.smcp</key>
+	<string>peseta.smcp.glif</string>
 	<key>peso</key>
 	<string>peso.glif</string>
+	<key>peso.smcp</key>
+	<string>peso.smcp.glif</string>
 	<key>pi</key>
 	<string>pi.glif</string>
 	<key>plus</key>
@@ -1256,10 +1324,14 @@
 	<string>questiondown.glif</string>
 	<key>questiondown.alt</key>
 	<string>questiondown.alt.glif</string>
+	<key>questiondown.smcp</key>
+	<string>questiondown.smcp.glif</string>
 	<key>quotedbl</key>
 	<string>quotedbl.glif</string>
 	<key>quotedblbase</key>
 	<string>quotedblbase.glif</string>
+	<key>quotedblbase.smcp</key>
+	<string>quotedblbase.smcp.glif</string>
 	<key>quotedblleft</key>
 	<string>quotedblleft.glif</string>
 	<key>quotedblright</key>
@@ -1270,6 +1342,8 @@
 	<string>quoteright.glif</string>
 	<key>quotesinglbase</key>
 	<string>quotesinglbase.glif</string>
+	<key>quotesinglbase.smcp</key>
+	<string>quotesinglbase.smcp.glif</string>
 	<key>quotesingle</key>
 	<string>quotesingle.glif</string>
 	<key>r</key>
@@ -1304,6 +1378,8 @@
 	<string>ruble.smcp.glif</string>
 	<key>rupeeIndian</key>
 	<string>rupeeIndian_.glif</string>
+	<key>rupeeIndian.smcp</key>
+	<string>rupeeIndian_.smcp.glif</string>
 	<key>s</key>
 	<string>s.glif</string>
 	<key>s.superior</key>
@@ -1370,6 +1446,8 @@
 	<string>space.glif</string>
 	<key>sterling</key>
 	<string>sterling.glif</string>
+	<key>sterling.smcp</key>
+	<string>sterling.smcp.glif</string>
 	<key>strokeshortcomb</key>
 	<string>strokeshortcomb.glif</string>
 	<key>summation</key>
@@ -1488,6 +1566,8 @@
 	<string>uni00A_D_.glif</string>
 	<key>uni00AD.alt</key>
 	<string>uni00A_D_.alt.glif</string>
+	<key>uni00AD.smcp</key>
+	<string>uni00AD_.smcp.glif</string>
 	<key>uni00B5</key>
 	<string>uni00B_5.glif</string>
 	<key>uni0338</key>
@@ -1520,6 +1600,8 @@
 	<string>wgrave.glif</string>
 	<key>won</key>
 	<string>won.glif</string>
+	<key>won.smcp</key>
+	<string>won.smcp.glif</string>
 	<key>x</key>
 	<string>x.glif</string>
 	<key>x.salt</key>
@@ -1540,6 +1622,8 @@
 	<string>ydotbelow.glif</string>
 	<key>yen</key>
 	<string>yen.glif</string>
+	<key>yen.smcp</key>
+	<string>yen.smcp.glif</string>
 	<key>ygrave</key>
 	<string>ygrave.glif</string>
 	<key>yhookabove</key>
@@ -1580,6 +1664,8 @@
 	<string>zero.tosf.zero.glif</string>
 	<key>zero.zero</key>
 	<string>zero.zero.glif</string>
+	<key>zero.zero.smcp</key>
+	<string>zero.zero.smcp.glif</string>
 	<key>zeroinferior</key>
 	<string>zeroinferior.glif</string>
 	<key>zerosuperior</key>

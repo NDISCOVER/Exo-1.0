@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="emdash.alt" format="1">
-  <advance width="750"/>
+<glyph name="hyphen.case" format="1">
+  <advance width="368"/>
   <note>
   </note>
   <outline>
     <contour>
-      <point x="27" y="347" type="line"/>
+      <point x="27" y="348" type="line"/>
       <point x="27" y="372" type="line"/>
-      <point x="723" y="372" type="line"/>
-      <point x="723" y="347" type="line"/>
+      <point x="341" y="372" type="line"/>
+      <point x="341" y="348" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -19,9 +19,18 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>347</integer>
+            <integer>348</integer>
             <key>width</key>
-            <integer>25</integer>
+            <integer>24</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>27</integer>
+            <key>width</key>
+            <integer>314</integer>
           </dict>
         </array>
       </dict>
@@ -48,7 +57,7 @@
                   <key>x</key>
                   <integer>27</integer>
                   <key>y</key>
-                  <integer>347</integer>
+                  <integer>348</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -66,7 +75,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>723</integer>
+                  <integer>341</integer>
                   <key>y</key>
                   <integer>372</integer>
                 </dict>
@@ -76,9 +85,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>723</integer>
+                  <integer>341</integer>
                   <key>y</key>
-                  <integer>347</integer>
+                  <integer>348</integer>
                 </dict>
               </array>
             </dict>
@@ -87,14 +96,21 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>emdash.alt</string>
+          <string>hyphen.case</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>750</integer>
+          <integer>368</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>0.8</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

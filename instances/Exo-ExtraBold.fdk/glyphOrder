@@ -310,7 +310,7 @@ Tbar Tbar uni0166
 Tbar.smcp Tbar.smcp
 Tcaron Tcaron uni0164
 Tcaron.smcp Tcaron.smcp
-Tcedilla Tcedilla
+Tcedilla Tcedilla uni0162
 Tcedilla.smcp Tcedilla.smcp
 Tcommaaccent Tcommaaccent
 Tcommaaccent.smcp Tcommaaccent.smcp
@@ -475,7 +475,7 @@ asciitilde asciitilde uni007E
 asterisk asterisk uni002A
 asterisk.smcp asterisk.smcp
 at at uni0040
-at.alt at.alt
+at.case at.case
 at.smcp at.smcp
 atilde atilde uni00E3
 atilde.salt atilde.salt
@@ -485,12 +485,16 @@ b.superior b.superior
 backslash backslash uni005C
 bar bar uni007C
 braceleft braceleft uni007B
+braceleft.case braceleft.case
 braceleft.smcp braceleft.smcp
 braceright braceright uni007D
+braceright.case braceright.case
 braceright.smcp braceright.smcp
 bracketleft bracketleft uni005B
+bracketleft.case bracketleft.case
 bracketleft.smcp bracketleft.smcp
 bracketright bracketright uni005D
+bracketright.case bracketright.case
 bracketright.smcp bracketright.smcp
 breve breve uni02D8
 brevebelowcomb brevebelowcomb
@@ -604,10 +608,10 @@ einvertedbreve einvertedbreve uni0207
 ellipsis ellipsis uni2026
 emacron emacron uni0113
 emdash emdash uni2014
-emdash.alt emdash.alt
+emdash.case emdash.case
 emdash.smcp emdash.smcp
 endash endash uni2013
-endash.alt endash.alt
+endash.case endash.case
 endash.smcp endash.smcp
 eng eng uni014B
 eogonek eogonek uni0119
@@ -620,7 +624,7 @@ euro.smcp euro.smcp
 exclam exclam uni0021
 exclam.smcp exclam.smcp
 exclamdown exclamdown uni00A1
-exclamdown.alt exclamdown.alt
+exclamdown.case exclamdown.case
 exclamdown.smcp exclamdown.smcp
 f f uni0066
 f.salt f.salt
@@ -696,7 +700,7 @@ hungarumlaut hungarumlaut uni02DD
 hungarumlautcomb hungarumlautcomb
 hungarumlautcomb.case hungarumlautcomb.case
 hyphen hyphen uni002D
-hyphen.alt hyphen.alt
+hyphen.case hyphen.case
 hyphen.smcp hyphen.smcp
 i i uni0069
 i.superior i.superior uni2071
@@ -836,10 +840,10 @@ p.salt p.salt
 p.superior p.superior
 paragraph paragraph uni00B6
 parenleft parenleft uni0028
-parenleft.alt parenleft.alt
+parenleft.case parenleft.case
 parenleft.smcp parenleft.smcp
 parenright parenright uni0029
-parenright.alt parenright.alt
+parenright.case parenright.case
 parenright.smcp parenright.smcp
 partialdiff partialdiff uni2202
 percent percent uni0025
@@ -865,7 +869,7 @@ q.superior q.superior
 question question uni003F
 question.smcp question.smcp
 questiondown questiondown uni00BF
-questiondown.alt questiondown.alt
+questiondown.case questiondown.case
 questiondown.smcp questiondown.smcp
 quotedbl quotedbl uni0022
 quotedbl.smcp quotedbl.smcp
@@ -950,7 +954,7 @@ tbar tbar uni0167
 tbar.salt tbar.salt
 tcaron tcaron uni0165
 tcaron.salt tcaron.salt
-tcedilla tcedilla
+tcedilla tcedilla uni0163
 tcedilla.salt tcedilla.salt
 tcommaaccent tcommaaccent
 tcommaaccent.salt tcommaaccent.salt
@@ -1018,7 +1022,7 @@ umacron.salt umacron.salt
 underscore underscore uni005F
 uni000D uni000D uni000D
 uni00AD uni00AD uni00AD
-uni00AD.alt uni00AD.alt
+uni00AD.case uni00AD.case
 uni00AD.smcp uni00AD.smcp
 uni2206 uni2206 uni2206
 uogonek uogonek uni0173
@@ -1076,3 +1080,12 @@ zero.zero zero.zero
 zero.zero.smcp zero.zero.smcp
 zeroinferior zeroinferior uni2080
 zerosuperior zerosuperior uni2070
+at.alt at.alt
+emdash.alt emdash.alt
+endash.alt endash.alt
+exclamdown.alt exclamdown.alt
+hyphen.alt hyphen.alt
+parenleft.alt parenleft.alt
+parenright.alt parenright.alt
+questiondown.alt questiondown.alt
+uni00AD.alt uni00AD.alt

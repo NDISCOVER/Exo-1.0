@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uni00AD.alt" format="1">
-  <advance width="354"/>
+<glyph name="endash.case" format="1">
+  <advance width="527"/>
+  <note>
+  </note>
   <outline>
     <contour>
-      <point x="20" y="283" type="line"/>
-      <point x="20" y="437" type="line"/>
-      <point x="334" y="437" type="line"/>
-      <point x="334" y="283" type="line"/>
+      <point x="27" y="345" type="line"/>
+      <point x="27" y="370" type="line"/>
+      <point x="500" y="370" type="line"/>
+      <point x="500" y="345" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -17,18 +19,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>283</integer>
+            <integer>345</integer>
             <key>width</key>
-            <integer>154</integer>
-          </dict>
-        </array>
-        <key>vhints</key>
-        <array>
-          <dict>
-            <key>position</key>
-            <integer>20</integer>
-            <key>width</key>
-            <integer>314</integer>
+            <integer>25</integer>
           </dict>
         </array>
       </dict>
@@ -53,9 +46,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>20</integer>
+                  <integer>27</integer>
                   <key>y</key>
-                  <integer>283</integer>
+                  <integer>345</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -63,9 +56,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>20</integer>
+                  <integer>27</integer>
                   <key>y</key>
-                  <integer>437</integer>
+                  <integer>370</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -73,9 +66,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>334</integer>
+                  <integer>500</integer>
                   <key>y</key>
-                  <integer>437</integer>
+                  <integer>370</integer>
                 </dict>
                 <dict>
                   <key>segmentType</key>
@@ -83,9 +76,9 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>334</integer>
+                  <integer>500</integer>
                   <key>y</key>
-                  <integer>283</integer>
+                  <integer>345</integer>
                 </dict>
               </array>
             </dict>
@@ -94,14 +87,21 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>uni00AD.alt</string>
+          <string>endash.case</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>354</integer>
+          <integer>527</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>0.8</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

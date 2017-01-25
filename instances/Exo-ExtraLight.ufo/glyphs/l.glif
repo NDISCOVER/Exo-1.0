@@ -7,7 +7,7 @@
   </note>
   <outline>
     <contour>
-      <point x="86" y="168" type="line" smooth="yes"/>
+      <point x="86" y="170" type="line" smooth="yes"/>
       <point x="86" y="37"/>
       <point x="132" y="0"/>
       <point x="211" y="0" type="curve" smooth="yes"/>
@@ -25,6 +25,9 @@
     </contour>
     <contour>
       <point x="107" y="895" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="221" y="350" type="move" name="dot"/>
     </contour>
     <contour>
       <point x="155" y="-150" type="move" name="bottom"/>

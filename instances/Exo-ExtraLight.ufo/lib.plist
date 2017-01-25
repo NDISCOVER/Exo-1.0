@@ -481,7 +481,7 @@
 		<string>asterisk</string>
 		<string>asterisk.smcp</string>
 		<string>at</string>
-		<string>at.alt</string>
+		<string>at.case</string>
 		<string>at.smcp</string>
 		<string>atilde</string>
 		<string>atilde.salt</string>
@@ -491,12 +491,16 @@
 		<string>backslash</string>
 		<string>bar</string>
 		<string>braceleft</string>
+		<string>braceleft.case</string>
 		<string>braceleft.smcp</string>
 		<string>braceright</string>
+		<string>braceright.case</string>
 		<string>braceright.smcp</string>
 		<string>bracketleft</string>
+		<string>bracketleft.case</string>
 		<string>bracketleft.smcp</string>
 		<string>bracketright</string>
+		<string>bracketright.case</string>
 		<string>bracketright.smcp</string>
 		<string>breve</string>
 		<string>brevebelowcomb</string>
@@ -610,10 +614,10 @@
 		<string>ellipsis</string>
 		<string>emacron</string>
 		<string>emdash</string>
-		<string>emdash.alt</string>
+		<string>emdash.case</string>
 		<string>emdash.smcp</string>
 		<string>endash</string>
-		<string>endash.alt</string>
+		<string>endash.case</string>
 		<string>endash.smcp</string>
 		<string>eng</string>
 		<string>eogonek</string>
@@ -626,7 +630,7 @@
 		<string>exclam</string>
 		<string>exclam.smcp</string>
 		<string>exclamdown</string>
-		<string>exclamdown.alt</string>
+		<string>exclamdown.case</string>
 		<string>exclamdown.smcp</string>
 		<string>f</string>
 		<string>f.salt</string>
@@ -702,7 +706,7 @@
 		<string>hungarumlautcomb</string>
 		<string>hungarumlautcomb.case</string>
 		<string>hyphen</string>
-		<string>hyphen.alt</string>
+		<string>hyphen.case</string>
 		<string>hyphen.smcp</string>
 		<string>i</string>
 		<string>i.superior</string>
@@ -842,10 +846,10 @@
 		<string>p.superior</string>
 		<string>paragraph</string>
 		<string>parenleft</string>
-		<string>parenleft.alt</string>
+		<string>parenleft.case</string>
 		<string>parenleft.smcp</string>
 		<string>parenright</string>
-		<string>parenright.alt</string>
+		<string>parenright.case</string>
 		<string>parenright.smcp</string>
 		<string>partialdiff</string>
 		<string>percent</string>
@@ -871,7 +875,7 @@
 		<string>question</string>
 		<string>question.smcp</string>
 		<string>questiondown</string>
-		<string>questiondown.alt</string>
+		<string>questiondown.case</string>
 		<string>questiondown.smcp</string>
 		<string>quotedbl</string>
 		<string>quotedbl.smcp</string>
@@ -1024,7 +1028,7 @@
 		<string>underscore</string>
 		<string>uni000D</string>
 		<string>uni00AD</string>
-		<string>uni00AD.alt</string>
+		<string>uni00AD.case</string>
 		<string>uni00AD.smcp</string>
 		<string>uni2206</string>
 		<string>uogonek</string>

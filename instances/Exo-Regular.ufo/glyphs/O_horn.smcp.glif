@@ -4,6 +4,12 @@
   <outline>
     <component base="O.smcp"/>
     <component base="horncomb" xOffset="583" yOffset="28"/>
+    <contour>
+      <point x="290" y="657" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="290" y="-150" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

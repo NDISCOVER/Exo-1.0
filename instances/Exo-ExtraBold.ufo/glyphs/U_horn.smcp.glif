@@ -15,6 +15,12 @@
       <point x="389" y="560" type="line"/>
     </contour>
     <component base="U.smcp"/>
+    <contour>
+      <point x="287" y="650" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="287" y="-150" type="move" name="bottom"/>
+    </contour>
   </outline>
   <lib>
     <dict>

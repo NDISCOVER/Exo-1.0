@@ -3,7 +3,7 @@ languagesystem latn dflt;
 languagesystem latn TRK;
 
 
-# GSUB 
+# GSUB
 
 lookup featureSmallCaps {
   lookupflag 0;
@@ -214,10 +214,6 @@ lookup featureSmallCaps {
     sub \ampersand by \ampersand.smcp;
     sub \asterisk by \asterisk.smcp;
     sub \at by \at.smcp;
-    sub \braceleft by \braceleft.smcp;
-    sub \braceright by \braceright.smcp;
-    sub \bracketleft by \bracketleft.smcp;
-    sub \bracketright by \bracketright.smcp;
     sub \bullet by \bullet.smcp;
     sub \cedi by \cedi.smcp;
     sub \colonsign by \colonsign.smcp;
@@ -247,8 +243,6 @@ lookup featureSmallCaps {
     sub \one by \one.smcp;
     sub \ordfeminine by \ordfeminine.smcp;
     sub \ordmasculine by \ordmasculine.smcp;
-    sub \parenleft by \parenleft.smcp;
-    sub \parenright by \parenright.smcp;
     sub \percent by \percent.smcp;
     sub \periodcentered.loclCAT by \periodcentered.loclCAT.smcp;
     sub \periodcentered by \periodcentered.smcp;
@@ -486,14 +480,129 @@ lookup featureSmallCapsFromCaps {
     sub \Zacute by \Zacute.smcp;
     sub \Zcaron by \Zcaron.smcp;
     sub \Zdotaccent by \Zdotaccent.smcp;
+    sub \parenleft by \parenleft.smcp;
+    sub \parenright by \parenright.smcp;
+    sub \braceleft by \braceleft.smcp;
+    sub \braceright by \braceright.smcp;
+    sub \bracketleft by \bracketleft.smcp;
+    sub \bracketright by \bracketright.smcp;
 } featureSmallCapsFromCaps;
 
+lookup featureStylisticAlternates {
+  lookupflag 0;
+    sub \M by \M.salt;
+    sub \M.smcp by \M.salt.smcp;
+    sub \N by \N.salt;
+    sub \N.smcp by \N.salt.smcp;
+    sub \Nacute by \Nacute.salt;
+    sub \Nacute.smcp by \Nacute.salt.smcp;
+    sub \Ncaron by \Ncaron.salt;
+    sub \Ncaron.smcp by \Ncaron.salt.smcp;
+    sub \Ncommaaccent by \Ncommaaccent.salt;
+    sub \Ncommaaccent.smcp by \Ncommaaccent.salt.smcp;
+    sub \Ntilde by \Ntilde.salt;
+    sub \Ntilde.smcp by \Ntilde.salt.smcp;
+    sub \W by \W.salt;
+    sub \W.smcp by \W.salt.smcp;
+    sub \Wacute by \Wacute.salt;
+    sub \Wacute.smcp by \Wacute.salt.smcp;
+    sub \Wcircumflex by \Wcircumflex.salt;
+    sub \Wcircumflex.smcp by \Wcircumflex.salt.smcp;
+    sub \Wdieresis by \Wdieresis.salt;
+    sub \Wdieresis.smcp by \Wdieresis.salt.smcp;
+    sub \Wgrave by \Wgrave.salt;
+    sub \Wgrave.smcp by \Wgrave.salt.smcp;
+    sub \X by \X.salt;
+    sub \X.smcp by \X.salt.smcp;
+    sub \a by \a.salt;
+    sub \aacute by \aacute.salt;
+    sub \abreve by \abreve.salt;
+    sub \abreveacute by \abreveacute.salt;
+    sub \abrevedotbelow by \abrevedotbelow.salt;
+    sub \abrevegrave by \abrevegrave.salt;
+    sub \abrevehookabove by \abrevehookabove.salt;
+    sub \abrevetilde by \abrevetilde.salt;
+    sub \acircumflex by \acircumflex.salt;
+    sub \acircumflexacute by \acircumflexacute.salt;
+    sub \acircumflexdotbelow by \acircumflexdotbelow.salt;
+    sub \acircumflexgrave by \acircumflexgrave.salt;
+    sub \acircumflexhookabove by \acircumflexhookabove.salt;
+    sub \acircumflextilde by \acircumflextilde.salt;
+    sub \adblgrave by \adblgrave.salt;
+    sub \adieresis by \adieresis.salt;
+    sub \adotbelow by \adotbelow.salt;
+    sub \agrave by \agrave.salt;
+    sub \ahookabove by \ahookabove.salt;
+    sub \ainvertedbreve by \ainvertedbreve.salt;
+    sub \amacron by \amacron.salt;
+    sub \ampersand by \ampersand.salt;
+    sub \aogonek by \aogonek.salt;
+    sub \aring by \aring.salt;
+    sub \aringacute by \aringacute.salt;
+    sub \atilde by \atilde.salt;
+    sub \b by \b.salt;
+    sub \d by \d.salt;
+    sub \dcaron by \dcaron.salt;
+    sub \dcroat by \dcroat.salt;
+    sub \f by \f.salt;
+    sub \g by \g.salt;
+    sub \gbreve by \gbreve.salt;
+    sub \gcaron by \gcaron.salt;
+    sub \gcircumflex by \gcircumflex.salt;
+    sub \gcommaaccent by \gcommaaccent.salt;
+    sub \gdotaccent by \gdotaccent.salt;
+    sub \m by \m.salt;
+    sub \n by \n.salt;
+    sub \nacute by \nacute.salt;
+    sub \ncaron by \ncaron.salt;
+    sub \ncommaaccent by \ncommaaccent.salt;
+    sub \ntilde by \ntilde.salt;
+    sub \p by \p.salt;
+    sub \r by \r.salt;
+    sub \racute by \racute.salt;
+    sub \rcaron by \rcaron.salt;
+    sub \rcommaaccent by \rcommaaccent.salt;
+    sub \rdblgrave by \rdblgrave.salt;
+    sub \rinvertedbreve by \rinvertedbreve.salt;
+    sub \t by \t.salt;
+    sub \tbar by \tbar.salt;
+    sub \tcaron by \tcaron.salt;
+    sub \tcedilla by \tcedilla.salt;
+    sub \tcommaaccent by \tcommaaccent.salt;
+    sub \u by \u.salt;
+    sub \uacute by \uacute.salt;
+    sub \ubreve by \ubreve.salt;
+    sub \ucircumflex by \ucircumflex.salt;
+    sub \udblgrave by \udblgrave.salt;
+    sub \udieresis by \udieresis.salt;
+    sub \udotbelow by \udotbelow.salt;
+    sub \ugrave by \ugrave.salt;
+    sub \uhookabove by \uhookabove.salt;
+    sub \uhorn by \uhorn.salt;
+    sub \uhornacute by \uhornacute.salt;
+    sub \uhorndotbelow by \uhorndotbelow.salt;
+    sub \uhorngrave by \uhorngrave.salt;
+    sub \uhornhookabove by \uhornhookabove.salt;
+    sub \uhorntilde by \uhorntilde.salt;
+    sub \uhungarumlaut by \uhungarumlaut.salt;
+    sub \uinvertedbreve by \uinvertedbreve.salt;
+    sub \umacron by \umacron.salt;
+    sub \uogonek by \uogonek.salt;
+    sub \uring by \uring.salt;
+    sub \utilde by \utilde.salt;
+    sub \w by \w.salt;
+    sub \wacute by \wacute.salt;
+    sub \wcircumflex by \wcircumflex.salt;
+    sub \wdieresis by \wdieresis.salt;
+    sub \wgrave by \wgrave.salt;
+    sub \x by \x.salt;
+} featureStylisticAlternates;
 
 lookup dligDiscretionaryLigatureslookup14 {
   lookupflag 0;
-    sub \f \f  by \f_f;
     sub \f \f \i  by \f_f_i;
     sub \f \f \l  by \ffl;
+    sub \f \f  by \f_f;
     sub \c \t  by \c_t;
     sub \s \t  by \s_t;
     sub \t \t  by \t_t;
@@ -529,14 +638,13 @@ lookup fracDiagonalFractionslookup12 {
     sub \slash by \fraction ;
 } fracDiagonalFractionslookup12;
 
+@fraction_marker = [ fraction slash ];
+
 lookup fracDiagonalFractionslookup11 {
   lookupflag 0;
-    sub \one \fraction \four  by \onequarter;
-    sub \one \slash \four  by \onequarter;
-    sub \one \fraction \two  by \onehalf;
-    sub \one \slash \two  by \onehalf;
-    sub \three \fraction \four  by \threequarters;
-    sub \three \slash \four  by \threequarters;
+    sub \one @fraction_marker \four  by \onequarter;
+    sub \one @fraction_marker \two  by \onehalf;
+    sub \three @fraction_marker \four  by \threequarters;
 } fracDiagonalFractionslookup11;
 
 lookup fracDiagonalFractionslookup10 {
@@ -700,17 +808,61 @@ lookup supsSuperscriptlookup2 {
     sub \nine by \ninesuperior ;
 } supsSuperscriptlookup2;
 
+@ordnSingleBase = [ a o b c d e f g h i j k l m n p q r s t u v w x y z A.smcp O.smcp ];
+@ordnSingleTarget = [ ordfeminine ordmasculine b.superior c.superior d.superior e.superior 
+    f.superior g.superior h.superior i.superior j.superior k.superior l.superior m.superior 
+    n.superior p.superior q.superior r.superior s.superior t.superior u.superior v.superior 
+    w.superior x.superior y.superior z.superior ordfeminine.smcp ordmasculine.smcp ];
+
+lookup ordnLookupSingle {
+  lookupflag 0;
+    sub @ordnSingleBase by @ordnSingleTarget;
+} ordnLookupSingle;
+
+lookup ordnLookupDouble {
+  lookupflag 0;
+    sub \N \o by \numero;
+} ordnLookupDouble;
+
 lookup caseCaseSensitiveFormslookup1 {
   lookupflag 0;
-    sub \hyphen by \hyphen.alt ;
-    sub \parenleft by \parenleft.alt ;
-    sub \parenright by \parenright.alt ;
-    sub \endash by \endash.alt ;
-    sub \emdash by \emdash.alt ;
-    sub \at by \at.alt ;
-    sub \uni00AD by \uni00AD.alt ;
-    sub \questiondown by \questiondown.alt ;
-    sub \exclamdown by \exclamdown.alt ;
+    sub \acutecomb by \acutecomb.case;
+    sub \at by \at.case;
+    sub \braceleft by \braceleft.case;
+    sub \braceright by \braceright.case;
+    sub \bracketleft by \bracketleft.case;
+    sub \bracketright by \bracketright.case;
+    sub \brevebelowcomb by \brevebelowcomb.case;
+    sub \brevecomb by \brevecomb.case;
+    sub \breveinvertedcomb by \breveinvertedcomb.case;
+    sub \caroncomb by \caroncomb.case;
+    sub \cedillacomb by \cedillacomb.case;
+    sub \circumflexcomb by \circumflexcomb.case;
+    sub \commaaccentcomb by \commaaccentcomb.case;
+    sub \commaturnedabovecomb by \commaturnedabovecomb.case;
+    sub \dblgravecomb by \dblgravecomb.case;
+    sub \dieresisbelowcomb by \dieresisbelowcomb.case;
+    sub \dieresiscomb by \dieresiscomb.case;
+    sub \dotaccentcomb by \dotaccentcomb.case;
+    sub \dotbelowcomb by \dotbelowcomb.case;
+    sub \emdash by \emdash.case;
+    sub \endash by \endash.case;
+    sub \exclamdown by \exclamdown.case;
+    sub \gravecomb by \gravecomb.case;
+    sub \hookabovecomb by \hookabovecomb.case;
+    sub \horncomb by \horncomb.case;
+    sub \hungarumlautcomb by \hungarumlautcomb.case;
+    sub \hyphen by \hyphen.case;
+    sub \macronbelowcomb by \macronbelowcomb.case;
+    sub \macroncomb by \macroncomb.case;
+    sub \ogonekcomb by \ogonekcomb.case;
+    sub \parenleft by \parenleft.case;
+    sub \parenright by \parenright.case;
+    sub \periodcentered.loclCAT by \periodcentered.loclCAT.case;
+    sub \questiondown by \questiondown.case;
+    sub \ringcomb by \ringcomb.case;
+    sub \tildecomb by \tildecomb.case;
+    sub \uni00AD by \uni00AD.case;
 } caseCaseSensitiveFormslookup1;
 
 lookup dnomDenominatorslookup0 {
@@ -727,9 +879,15 @@ lookup dnomDenominatorslookup0 {
     sub \nine by \nine.denominator ;
 } dnomDenominatorslookup0;
 
+# LOCL
+feature locl {
+  script DFLT;
+    language TRK;
+      sub \i by \idotaccent;
+} locl;
 
+# SMCP
 feature smcp {
-
  script DFLT;
      language dflt ;
       lookup featureSmallCaps;
@@ -739,8 +897,8 @@ feature smcp {
       lookup featureSmallCaps;
 } smcp;
 
+#C2SC
 feature c2sc {
-
  script DFLT;
      language dflt ;
       lookup featureSmallCapsFromCaps;
@@ -750,8 +908,21 @@ feature c2sc {
       lookup featureSmallCapsFromCaps;
 } c2sc;
 
-feature dlig {
+# ORDN
+feature ordn {
+  script dflt;
+    language dflt;
+      lookup ordnLookupSingle;
+      lookup ordnLookupDouble;
 
+  script latn;
+    language dflt;
+      lookup ordnLookupSingle;
+      lookup ordnLookupDouble;
+} ordn;
+
+# DLIG
+feature dlig {
  script DFLT;
      language dflt ;
       lookup dligDiscretionaryLigatureslookup14;
@@ -761,8 +932,8 @@ feature dlig {
       lookup dligDiscretionaryLigatureslookup14;
 } dlig;
 
+# LIGA
 feature liga {
-
  script DFLT;
      language dflt ;
       lookup ligaStandardLigatureslookup15;
@@ -772,8 +943,19 @@ feature liga {
       lookup ligaStandardLigatureslookup15;
 } liga;
 
-feature frac {
+# SALT
+feature salt {
+  script DFLT;
+    language dflt;
+      lookup featureStylisticAlternates;
 
+  script latn;
+    language dflt;
+      lookup featureStylisticAlternates;
+} salt;
+
+# FRAC
+feature frac {
  script DFLT;
      language dflt ;
       lookup fracDiagonalFractionslookup13;
@@ -788,8 +970,8 @@ feature frac {
       lookup fracDiagonalFractionslookup10;
 } frac;
 
+# LNUM
 feature lnum {
-
  script DFLT;
      language dflt ;
       lookup lnumLiningFigureslookup19;
@@ -799,9 +981,8 @@ feature lnum {
       lookup lnumLiningFigureslookup19;
 } lnum;
 
-
+# SINF
 feature sinf {
-
  script DFLT;
      language dflt ;
       lookup sinfScientificInferiorslookup3;
@@ -811,8 +992,8 @@ feature sinf {
       lookup sinfScientificInferiorslookup3;
 } sinf;
 
+# ZERO
 feature zero {
-
  script DFLT;
      language dflt ;
       lookup zeroSlashedZerolookup20;
@@ -822,8 +1003,8 @@ feature zero {
       lookup zeroSlashedZerolookup20;
 } zero;
 
+# NUMR
 feature numr {
-
  script DFLT;
      language dflt ;
       lookup numrNumeratorslookup9;
@@ -893,7 +1074,7 @@ feature dnom {
 
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
-@GDEF_Simple = [A A.smcp AE AE.smcp B B.smcp C C.smcp D D.smcp E E.smcp F F.smcp G G.smcp H H.smcp I I.smcp J J.smcp K K.smcp L L.smcp M M.salt M.salt.smcp M.smcp N N.salt N.salt.smcp N.smcp O O.smcp Oslash Oslash.smcp P P.smcp R R.smcp S S.smcp T T.smcp U U.smcp W W.salt W.salt.smcp W.smcp X X.salt X.salt.smcp X.smcp Y Y.smcp Z Z.smcp a a.salt a.superior ae c c.superior d d.salt d.superior dotlessi e e.superior g g.salt g.superior h i i.superior idotless jdotless k k.superior l l.superior m m.salt m.superior n n.salt n.superior o o.superior oslash p.salt r r.salt r.superior s s.superior t t.salt t.superior u u.salt u.superior w w.salt w.superior x.salt y y.superior z z.superior];
+@GDEF_Simple = [A A.smcp AE AE.smcp B B.smcp C C.smcp D D.smcp E E.smcp F F.smcp G G.smcp H H.smcp I I.smcp J J.smcp K K.smcp L L.smcp M M.salt M.salt.smcp M.smcp N N.salt N.salt.smcp N.smcp O O.smcp Ohorn Ohorn.smcp Oslash Oslash.smcp P P.smcp R R.smcp S S.smcp T T.smcp U U.smcp Uhorn Uhorn.smcp W W.salt W.salt.smcp W.smcp X X.salt X.salt.smcp X.smcp Y Y.smcp Z Z.smcp a a.salt a.superior ae c c.superior d d.salt d.superior dotlessi e e.superior g g.salt g.superior h i i.superior idotless jdotless k k.superior l l.superior m m.salt m.superior n n.salt n.superior o o.superior ohorn oslash p.salt r r.salt r.superior s s.superior t t.salt t.superior u u.salt u.superior uhorn uhorn.salt w w.salt w.superior x.salt y y.superior z z.superior];
 @GDEF_Ligature = [\ordmasculine \ordfeminine \fi \fl \b.superior \c.superior 
 	\d.superior \e.superior \f.superior \g.superior \h.superior \i.superior 
 	\j.superior \k.superior \l.superior \m.superior \n.superior \p.superior 

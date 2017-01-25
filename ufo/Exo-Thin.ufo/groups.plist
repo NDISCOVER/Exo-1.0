@@ -147,11 +147,15 @@
 	<array>
 		<string>K</string>
 		<string>Kcommaaccent</string>
+		<string>X</string>
+		<string>X.salt</string>
 	</array>
 	<key>@MMK_L_K.smcp</key>
 	<array>
 		<string>Kcommaaccent.smcp</string>
 		<string>K.smcp</string>
+		<string>X.salt.smcp</string>
+		<string>X.smcp</string>
 	</array>
 	<key>@MMK_L_L</key>
 	<array>
@@ -290,6 +294,7 @@
 		<string>Scedilla.smcp</string>
 		<string>Scircumflex.smcp</string>
 		<string>Scommaaccent.smcp</string>
+		<string>germandbls.smcp</string>
 	</array>
 	<key>@MMK_L_T</key>
 	<array>
@@ -528,6 +533,7 @@
 		<string>gcaron</string>
 		<string>gcircumflex</string>
 		<string>gdotaccent</string>
+		<string>gcommaaccent</string>
 	</array>
 	<key>@MMK_L_g.salt</key>
 	<array>
@@ -536,6 +542,7 @@
 		<string>gcaron.salt</string>
 		<string>gcircumflex.salt</string>
 		<string>gdotaccent.salt</string>
+		<string>gcommaaccent.salt</string>
 	</array>
 	<key>@MMK_L_h</key>
 	<array>
@@ -555,6 +562,10 @@
 		<string>imacron</string>
 		<string>iogonek</string>
 		<string>itilde</string>
+		<string>idblgrave</string>
+		<string>idotaccent</string>
+		<string>idotless</string>
+		<string>ihookabove</string>
 	</array>
 	<key>@MMK_L_j</key>
 	<array>
@@ -608,6 +619,12 @@
 		<string>omacron</string>
 		<string>oogonek</string>
 		<string>otilde</string>
+		<string>schwa</string>
+		<string>ocircumflexhookabove</string>
+		<string>odblgrave</string>
+		<string>odotaccentmacron</string>
+		<string>ohookabove</string>
+		<string>ohornhookabove</string>
 	</array>
 	<key>@MMK_L_oslash</key>
 	<array>
@@ -620,11 +637,23 @@
 		<string>bracketleft</string>
 		<string>parenleft</string>
 	</array>
+	<key>@MMK_L_parenleft.case</key>
+	<array>
+		<string>braceleft.case</string>
+		<string>bracketleft.case</string>
+		<string>parenleft.case</string>
+	</array>
 	<key>@MMK_L_parenright</key>
 	<array>
 		<string>braceright</string>
 		<string>bracketright</string>
 		<string>parenright</string>
+	</array>
+	<key>@MMK_L_parenright.case</key>
+	<array>
+		<string>braceright.case</string>
+		<string>bracketright.case</string>
+		<string>parenright.case</string>
 	</array>
 	<key>@MMK_L_quote</key>
 	<array>
@@ -680,6 +709,10 @@
 		<string>f_t</string>
 		<string>c_t</string>
 		<string>s_t</string>
+		<string>tbar</string>
+		<string>tbar.salt</string>
+		<string>t_t</string>
+		<string>tcommaaccent.salt</string>
 	</array>
 	<key>@MMK_L_u</key>
 	<array>
@@ -719,6 +752,12 @@
 		<string>uogonek.salt</string>
 		<string>uring.salt</string>
 		<string>utilde.salt</string>
+		<string>udblgrave</string>
+		<string>udblgrave.salt</string>
+		<string>uhookabove</string>
+		<string>uhookabove.salt</string>
+		<string>uhornhookabove</string>
+		<string>uhornhookabove.salt</string>
 	</array>
 	<key>@MMK_L_w</key>
 	<array>
@@ -745,6 +784,7 @@
 		<string>ymacron</string>
 		<string>ytilde</string>
 		<string>f_y</string>
+		<string>yhookabove</string>
 	</array>
 	<key>@MMK_L_zero</key>
 	<array>
@@ -995,6 +1035,7 @@
 		<string>Scedilla.smcp</string>
 		<string>Scircumflex.smcp</string>
 		<string>Scommaaccent.smcp</string>
+		<string>germandbls.smcp</string>
 	</array>
 	<key>@MMK_R_T</key>
 	<array>
@@ -1241,6 +1282,7 @@
 		<string>gcaron</string>
 		<string>gcircumflex</string>
 		<string>gdotaccent</string>
+		<string>gcommaaccent</string>
 	</array>
 	<key>@MMK_R_g.salt</key>
 	<array>
@@ -1249,6 +1291,7 @@
 		<string>gcaron.salt</string>
 		<string>gcircumflex.salt</string>
 		<string>gdotaccent.salt</string>
+		<string>gcommaaccent.salt</string>
 	</array>
 	<key>@MMK_R_h</key>
 	<array>
@@ -1329,6 +1372,12 @@
 		<string>omacron</string>
 		<string>oogonek</string>
 		<string>otilde</string>
+		<string>ocircumflexhookabove</string>
+		<string>odblgrave</string>
+		<string>odotaccentmacron</string>
+		<string>oe</string>
+		<string>ohookabove</string>
+		<string>ohornhookabove</string>
 	</array>
 	<key>@MMK_R_oslash</key>
 	<array>
@@ -1341,11 +1390,23 @@
 		<string>bracketleft</string>
 		<string>parenleft</string>
 	</array>
+	<key>@MMK_R_parenleft.case</key>
+	<array>
+		<string>braceleft.case</string>
+		<string>bracketleft.case</string>
+		<string>parenleft.case</string>
+	</array>
 	<key>@MMK_R_parenright</key>
 	<array>
 		<string>braceright</string>
 		<string>bracketright</string>
 		<string>parenright</string>
+	</array>
+	<key>@MMK_R_parenright.case</key>
+	<array>
+		<string>braceright.case</string>
+		<string>bracketright.case</string>
+		<string>parenright.case</string>
 	</array>
 	<key>@MMK_R_period</key>
 	<array>
@@ -1392,6 +1453,7 @@
 		<string>tcedilla</string>
 		<string>t_t</string>
 		<string>t_y</string>
+		<string>tbar</string>
 	</array>
 	<key>@MMK_R_t.salt</key>
 	<array>
@@ -1399,6 +1461,7 @@
 		<string>tcaron.salt</string>
 		<string>tcedilla.salt</string>
 		<string>tcommaaccent.salt</string>
+		<string>tbar.salt</string>
 	</array>
 	<key>@MMK_R_u</key>
 	<array>
@@ -1438,6 +1501,12 @@
 		<string>uogonek.salt</string>
 		<string>uring.salt</string>
 		<string>utilde.salt</string>
+		<string>udblgrave</string>
+		<string>udblgrave.salt</string>
+		<string>uhookabove</string>
+		<string>uhookabove.salt</string>
+		<string>uhornhookabove</string>
+		<string>uhornhookabove.salt</string>
 	</array>
 	<key>@MMK_R_w</key>
 	<array>
@@ -1483,8 +1552,8 @@
 		<string>hyphen</string>
 		<string>endash</string>
 		<string>emdash</string>
-		<string>parenleft.alt</string>
-		<string>parenright.alt</string>
+		<string>parenleft.case</string>
+		<string>parenright.case</string>
 		<string>quoteleft</string>
 		<string>quotedblleft</string>
 		<string>exclam</string>
@@ -1517,8 +1586,8 @@
 		<string>parenright.ucalt</string>
 		<string>bracketright.ucalt</string>
 		<string>braceright.ucalt</string>
-		<string>parenleft.alt</string>
-		<string>parenright.alt</string>
+		<string>parenleft.case</string>
+		<string>parenright.case</string>
 	</array>
 	<key>den</key>
 	<array>
@@ -1883,10 +1952,10 @@
 		<string>hyphen</string>
 		<string>endash</string>
 		<string>emdash</string>
-		<string>parenleft.alt</string>
+		<string>parenleft.case</string>
 		<string>bracketleft.alt</string>
 		<string>braceleft.alt</string>
-		<string>parenright.alt</string>
+		<string>parenright.case</string>
 		<string>bracketright.alt</string>
 		<string>braceright.alt</string>
 		<string>guillemotleft</string>

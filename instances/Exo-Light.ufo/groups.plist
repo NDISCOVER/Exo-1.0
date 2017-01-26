@@ -1539,6 +1539,7 @@
 		<string>sterling</string>
 		<string>yen</string>
 		<string>perthousand</string>
+		<string>euro</string>
 	</array>
 	<key>basic_punc</key>
 	<array>
@@ -1575,6 +1576,10 @@
 	<array>
 		<string>parenleft.case</string>
 		<string>parenright.case</string>
+		<string>bracketleft.case</string>
+		<string>braceleft.case</string>
+		<string>bracketright.case</string>
+		<string>braceright.case</string>
 	</array>
 	<key>den</key>
 	<array>
@@ -1631,6 +1636,7 @@
 		<string>seven</string>
 		<string>eight</string>
 		<string>nine</string>
+		<string>zero.zero</string>
 	</array>
 	<key>lc</key>
 	<array>
@@ -1678,8 +1684,11 @@
 		<string>eth</string>
 		<string>thorn</string>
 		<string>dotlessi</string>
+		<string>jdotless</string>
 		<string>f</string>
 		<string>f_f</string>
+		<string>fi</string>
+		<string>fl</string>
 		<string>agrave</string>
 		<string>aacute</string>
 		<string>acircumflex</string>
@@ -1821,7 +1830,6 @@
 		<string>kgreenlandic</string>
 		<string>fi</string>
 		<string>fl</string>
-		<string>ffl</string>
 		<string>s_t</string>
 		<string>a.salt</string>
 		<string>agrave.salt</string>
@@ -1904,6 +1912,12 @@
 		<string>guilsinglleft</string>
 		<string>guillemotright</string>
 		<string>guilsinglright</string>
+	</array>
+	<key>lc2uc-uc</key>
+	<array>
+		<string>hyphen.case</string>
+		<string>endash.case</string>
+		<string>emdash.case</string>
 	</array>
 	<key>num</key>
 	<array>
@@ -2367,6 +2381,22 @@
 		<string>Wdieresis.salt</string>
 		<string>X.salt</string>
 		<string>Germandbls</string>
+	</array>
+	<key>uc_punc</key>
+	<array>
+		<string>hyphen.case</string>
+		<string>endash.case</string>
+		<string>emdash.case</string>
+		<string>parenleft.case</string>
+		<string>bracketleft.case</string>
+		<string>braceleft.case</string>
+		<string>parenright.case</string>
+		<string>bracketright.case</string>
+		<string>braceright.case</string>
+		<string>at.case</string>
+		<string>exclamdown.case</string>
+		<string>questiondown.case</string>
+		<string>uni00AD.case</string>
 	</array>
 </dict>
 </plist>

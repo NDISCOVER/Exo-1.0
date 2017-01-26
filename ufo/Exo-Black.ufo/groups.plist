@@ -1316,9 +1316,6 @@
 		<string>iogonek</string>
 		<string>itilde</string>
 	</array>
-	<key>@MMK_R_j</key>
-	<array>
-	</array>
 	<key>@MMK_R_l</key>
 	<array>
 		<string>l</string>
@@ -1541,8 +1538,8 @@
 		<string>cent</string>
 		<string>sterling</string>
 		<string>yen</string>
-		<string>Euro</string>
 		<string>perthousand</string>
+		<string>euro</string>
 	</array>
 	<key>basic_punc</key>
 	<array>
@@ -1577,27 +1574,15 @@
 	</array>
 	<key>containers_uc</key>
 	<array>
-		<string>parenleft.ucalt</string>
-		<string>bracketleft.ucalt</string>
-		<string>braceleft.ucalt</string>
-		<string>parenright.ucalt</string>
-		<string>bracketright.ucalt</string>
-		<string>braceright.ucalt</string>
 		<string>parenleft.case</string>
 		<string>parenright.case</string>
+		<string>bracketleft.case</string>
+		<string>braceleft.case</string>
+		<string>bracketright.case</string>
+		<string>braceright.case</string>
 	</array>
 	<key>den</key>
 	<array>
-		<string>zero.den</string>
-		<string>one.den</string>
-		<string>two.den</string>
-		<string>three.den</string>
-		<string>four.den</string>
-		<string>five.den</string>
-		<string>six.den</string>
-		<string>seven.den</string>
-		<string>eight.den</string>
-		<string>nine.den</string>
 		<string>zero.denominator</string>
 		<string>one.denominator</string>
 		<string>two.denominator</string>
@@ -1613,20 +1598,14 @@
 	<array>
 		<string>florin</string>
 		<string>numbersign</string>
-		<string>minute</string>
-		<string>second</string>
 	</array>
 	<key>ext_punc</key>
 	<array>
 		<string>ordfeminine</string>
 		<string>ordmasculine</string>
 		<string>underscore</string>
-		<string>bracketleft.alt</string>
-		<string>braceleft.alt</string>
 		<string>quotesinglbase</string>
 		<string>quotedblbase</string>
-		<string>bracketright.alt</string>
-		<string>braceright.alt</string>
 		<string>guillemotleft</string>
 		<string>guilsinglleft</string>
 		<string>guillemotright</string>
@@ -1638,17 +1617,12 @@
 		<string>exclamdown</string>
 		<string>periodcentered</string>
 		<string>questiondown</string>
-		<string>dagger.alt1</string>
-		<string>daggerdbl.alt1</string>
 		<string>bullet</string>
-		<string>dagger.alt2</string>
-		<string>daggerdbl.alt2</string>
 		<string>multiply</string>
 		<string>copyright</string>
 		<string>registered</string>
 		<string>degree</string>
 		<string>trademark</string>
-		<string>Pcircle</string>
 	</array>
 	<key>fig</key>
 	<array>
@@ -1662,6 +1636,7 @@
 		<string>seven</string>
 		<string>eight</string>
 		<string>nine</string>
+		<string>zero.zero</string>
 	</array>
 	<key>lc</key>
 	<array>
@@ -1709,11 +1684,11 @@
 		<string>eth</string>
 		<string>thorn</string>
 		<string>dotlessi</string>
-		<string>dotlessj</string>
+		<string>jdotless</string>
 		<string>f</string>
 		<string>f_f</string>
-		<string>f_i</string>
-		<string>f_l</string>
+		<string>fi</string>
+		<string>fl</string>
 		<string>agrave</string>
 		<string>aacute</string>
 		<string>acircumflex</string>
@@ -1744,18 +1719,10 @@
 		<string>oslash</string>
 		<string>dcroat</string>
 		<string>hbar</string>
-		<string>ij</string>
 		<string>lslash</string>
-		<string>napostrophe</string>
 		<string>eng</string>
 		<string>oe</string>
 		<string>tbar</string>
-		<string>f_b</string>
-		<string>f_f_b</string>
-		<string>f_f_h</string>
-		<string>f_h</string>
-		<string>f_j</string>
-		<string>f_k</string>
 		<string>idotaccent</string>
 		<string>cacute</string>
 		<string>ccircumflex</string>
@@ -1766,8 +1733,6 @@
 		<string>edotaccent</string>
 		<string>ecaron</string>
 		<string>f_f_i</string>
-		<string>f_f_j</string>
-		<string>f_f_k</string>
 		<string>f_f_l</string>
 		<string>gcircumflex</string>
 		<string>gbreve</string>
@@ -1810,13 +1775,6 @@
 		<string>oslashacute</string>
 		<string>ldot</string>
 		<string>florin</string>
-		<string>f.lig</string>
-		<string>f_f.lig</string>
-		<string>cacute.pl</string>
-		<string>nacute.pl</string>
-		<string>oacute.pl</string>
-		<string>sacute.pl</string>
-		<string>zacute.pl</string>
 		<string>ainvertedbreve</string>
 		<string>adotbelow</string>
 		<string>acircumflexacute</string>
@@ -1949,11 +1907,7 @@
 		<string>endash</string>
 		<string>emdash</string>
 		<string>parenleft.case</string>
-		<string>bracketleft.alt</string>
-		<string>braceleft.alt</string>
 		<string>parenright.case</string>
-		<string>bracketright.alt</string>
-		<string>braceright.alt</string>
 		<string>guillemotleft</string>
 		<string>guilsinglleft</string>
 		<string>guillemotright</string>
@@ -1961,22 +1915,12 @@
 	</array>
 	<key>lc2uc-uc</key>
 	<array>
-		<string>hyphen.uc</string>
-		<string>endash.uc</string>
-		<string>emdash.uc</string>
+		<string>hyphen.case</string>
+		<string>endash.case</string>
+		<string>emdash.case</string>
 	</array>
 	<key>num</key>
 	<array>
-		<string>zero.num</string>
-		<string>one.num</string>
-		<string>two.num</string>
-		<string>three.num</string>
-		<string>four.num</string>
-		<string>five.num</string>
-		<string>six.num</string>
-		<string>seven.num</string>
-		<string>eight.num</string>
-		<string>nine.num</string>
 		<string>zero.numerator</string>
 		<string>one.numerator</string>
 		<string>two.numerator</string>
@@ -2201,16 +2145,6 @@
 	</array>
 	<key>sub</key>
 	<array>
-		<string>zero.sub</string>
-		<string>one.sub</string>
-		<string>two.sub</string>
-		<string>three.sub</string>
-		<string>four.sub</string>
-		<string>five.sub</string>
-		<string>six.sub</string>
-		<string>seven.sub</string>
-		<string>eight.sub</string>
-		<string>nine.sub</string>
 		<string>zeroinferior</string>
 		<string>oneinferior</string>
 		<string>twoinferior</string>
@@ -2224,16 +2158,6 @@
 	</array>
 	<key>sup</key>
 	<array>
-		<string>zero.sup</string>
-		<string>one.sup</string>
-		<string>two.sup</string>
-		<string>three.sup</string>
-		<string>four.sup</string>
-		<string>five.sup</string>
-		<string>six.sup</string>
-		<string>seven.sup</string>
-		<string>eight.sup</string>
-		<string>nine.sup</string>
 		<string>twosuperior</string>
 		<string>threesuperior</string>
 		<string>onesuperior</string>
@@ -2316,7 +2240,6 @@
 		<string>Oslash</string>
 		<string>Dcroat</string>
 		<string>Hbar</string>
-		<string>IJ</string>
 		<string>Lslash</string>
 		<string>Eng</string>
 		<string>OE</string>
@@ -2400,11 +2323,6 @@
 		<string>AEacute</string>
 		<string>Oslashacute</string>
 		<string>Ldot</string>
-		<string>Cacute.pl</string>
-		<string>Nacute.pl</string>
-		<string>Oacute.pl</string>
-		<string>Sacute.pl</string>
-		<string>Zacute.pl</string>
 		<string>Ainvertedbreve</string>
 		<string>Adotbelow</string>
 		<string>Acircumflexacute</string>
@@ -2466,14 +2384,19 @@
 	</array>
 	<key>uc_punc</key>
 	<array>
-		<string>hyphen.uc</string>
-		<string>endash.uc</string>
-		<string>emdash.uc</string>
-		<string>slash.uc</string>
-		<string>at.uc</string>
-		<string>backslash.uc</string>
-		<string>exclamdown.uc</string>
-		<string>questiondown.uc</string>
+		<string>hyphen.case</string>
+		<string>endash.case</string>
+		<string>emdash.case</string>
+		<string>parenleft.case</string>
+		<string>bracketleft.case</string>
+		<string>braceleft.case</string>
+		<string>parenright.case</string>
+		<string>bracketright.case</string>
+		<string>braceright.case</string>
+		<string>at.case</string>
+		<string>exclamdown.case</string>
+		<string>questiondown.case</string>
+		<string>uni00AD.case</string>
 	</array>
 </dict>
 </plist>

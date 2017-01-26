@@ -906,12 +906,12 @@
 				<string>f.salt</string>
 				<string>r.salt</string>
 				<string>aringacute.salt</string>
-				<string>exclamdown.alt</string>
+				<string>exclamdown.case</string>
 				<string>braceleft.smcp</string>
 				<string>G.smcp</string>
 				<string>three.tnum</string>
 				<string>quoteleft.smcp</string>
-				<string>questiondown.alt</string>
+				<string>questiondown.case</string>
 				<string>dcroat.salt</string>
 				<string>endash.smcp</string>
 				<string>r.superior</string>
@@ -932,12 +932,12 @@
 				<string>Ydieresis.smcp</string>
 				<string>estimated</string>
 				<string>bracketright.smcp</string>
-				<string>parenleft.alt</string>
+				<string>parenleft.case</string>
 				<string>q.superior</string>
 				<string>Adotbelow.smcp</string>
 				<string>Omega</string>
 				<string>Acircumflexdotbelow.smcp</string>
-				<string>endash.alt</string>
+				<string>endash.case</string>
 				<string>three.tosf</string>
 				<string>one.numerator</string>
 				<string>guarani.smcp</string>
@@ -976,11 +976,11 @@
 				<string>Ncaron.salt</string>
 				<string>six.tnum</string>
 				<string>two.tnum</string>
-				<string>emdash.alt</string>
+				<string>emdash.case</string>
 				<string>p.salt</string>
 				<string>acircumflexhookabove.salt</string>
 				<string>afii61289</string>
-				<string>parenright.alt</string>
+				<string>parenright.case</string>
 				<string>rdblgrave.salt</string>
 				<string>ugrave.salt</string>
 				<string>nine.oldstyle</string>
@@ -1013,7 +1013,7 @@
 				<string>I.smcp</string>
 				<string>Ohorn.smcp</string>
 				<string>Wacute.salt.smcp</string>
-				<string>hyphen.alt</string>
+				<string>hyphen.case</string>
 				<string>j.superior</string>
 				<string>seven.tosf</string>
 				<string>l.superior</string>
@@ -1058,7 +1058,7 @@
 				<string>V.smcp</string>
 				<string>Ohornacute.smcp</string>
 				<string>zero.zero.smcp</string>
-				<string>uni00AD.alt</string>
+				<string>uni00AD.case</string>
 				<string>Yacute.smcp</string>
 				<string>fivesuperior</string>
 				<string>W.salt.smcp</string>
@@ -1221,7 +1221,7 @@
 				<string>circumflexcomb_hookabovecomb</string>
 				<string>Eogonek.smcp</string>
 				<string>Ymacron.smcp</string>
-				<string>at.alt</string>
+				<string>at.case</string>
 				<string>Wgrave.smcp</string>
 				<string>N.smcp</string>
 				<string>exclam.smcp</string>
@@ -1229,6 +1229,10 @@
 				<string>Iogonek.smcp</string>
 				<string>gbreve.salt</string>
 				<string>e.superior</string>
+				<string>bracketright.case</string>
+				<string>braceleft.case</string>
+				<string>bracketleft.case</string>
+				<string>braceright.case</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>

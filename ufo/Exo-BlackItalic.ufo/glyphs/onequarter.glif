@@ -1,48 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onequarter" format="1">
-  <advance width="1021"/>
+  <advance width="282"/>
   <unicode hex="00BC"/>
   <note>
     GF Latin Plus glyph
   </note>
   <outline>
-    <contour>
-      <point x="597" y="144" type="line"/>
-      <point x="792" y="486" type="line"/>
-      <point x="945" y="486" type="line"/>
-      <point x="796" y="213" type="line"/>
-      <point x="863" y="213" type="line"/>
-      <point x="877" y="300" type="line"/>
-      <point x="906" y="351" type="line"/>
-      <point x="1025" y="351" type="line"/>
-      <point x="1003" y="213" type="line"/>
-      <point x="1043" y="213" type="line"/>
-      <point x="1025" y="101" type="line"/>
-      <point x="979" y="80" type="line"/>
-      <point x="970" y="1" type="line"/>
-      <point x="830" y="1" type="line"/>
-      <point x="842" y="79" type="line"/>
-      <point x="620" y="79" type="line"/>
-    </contour>
-    <contour>
-      <point x="208" y="0" type="line"/>
-      <point x="696" y="770" type="line"/>
-      <point x="837" y="770" type="line"/>
-      <point x="349" y="0" type="line"/>
-    </contour>
-    <contour>
-      <point x="105" y="587" type="curve"/>
-      <point x="120" y="687" type="line"/>
-      <point x="120" y="687"/>
-      <point x="187" y="705"/>
-      <point x="219" y="742" type="curve"/>
-      <point x="363" y="742" type="line"/>
-      <point x="286" y="255" type="line"/>
-      <point x="140" y="255" type="line"/>
-      <point x="196" y="600" type="line"/>
-      <point x="168" y="578"/>
-      <point x="105" y="587"/>
-    </contour>
+    <component base="one.numerator"/>
   </outline>
   <lib>
     <dict>
@@ -397,7 +361,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1021</integer>
+          <integer>282</integer>
         </dict>
       </dict>
     </dict>

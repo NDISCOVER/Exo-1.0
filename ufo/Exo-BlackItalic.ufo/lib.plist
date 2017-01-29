@@ -465,7 +465,6 @@
 		<string>Tbar.smcp</string>
 		<string>Schwa.smcp</string>
 		<string>Germandbls.smcp</string>
-		<string>Omega</string>
 		<string>uni00B5</string>
 		<string>afii61289</string>
 		<string>a</string>
@@ -655,7 +654,6 @@
 		<string>fi</string>
 		<string>fl</string>
 		<string>f_f_i</string>
-		<string>ffl</string>
 		<string>s_t</string>
 		<string>a.salt</string>
 		<string>agrave.salt</string>
@@ -877,9 +875,9 @@
 		<string>hyphen</string>
 		<string>endash</string>
 		<string>emdash</string>
-		<string>hyphen.alt</string>
-		<string>endash.alt</string>
-		<string>emdash.alt</string>
+		<string>hyphen.case</string>
+		<string>endash.case</string>
+		<string>emdash.case</string>
 		<string>hyphen.smcp</string>
 		<string>endash.smcp</string>
 		<string>emdash.smcp</string>
@@ -888,7 +886,9 @@
 		<string>braceleft</string>
 		<string>quotesinglbase</string>
 		<string>quotedblbase</string>
-		<string>parenleft.alt</string>
+		<string>parenleft.case</string>
+		<string>bracketleft.case</string>
+		<string>braceleft.case</string>
 		<string>parenleft.smcp</string>
 		<string>bracketleft.smcp</string>
 		<string>braceleft.smcp</string>
@@ -897,16 +897,20 @@
 		<string>parenright</string>
 		<string>bracketright</string>
 		<string>braceright</string>
-		<string>parenright.alt</string>
+		<string>parenright.case</string>
+		<string>bracketright.case</string>
+		<string>braceright.case</string>
 		<string>parenright.smcp</string>
 		<string>bracketright.smcp</string>
 		<string>braceright.smcp</string>
+		<string>guillemetleft</string>
 		<string>guillemotleft</string>
 		<string>quoteleft</string>
 		<string>quotedblleft</string>
 		<string>guilsinglleft</string>
 		<string>quoteleft.smcp</string>
 		<string>quotedblleft.smcp</string>
+		<string>guillemetright</string>
 		<string>guillemotright</string>
 		<string>quoteright</string>
 		<string>quotedblright</string>
@@ -936,9 +940,9 @@
 		<string>bullet</string>
 		<string>ellipsis</string>
 		<string>perthousand</string>
-		<string>at.alt</string>
-		<string>exclamdown.alt</string>
-		<string>questiondown.alt</string>
+		<string>at.case</string>
+		<string>exclamdown.case</string>
+		<string>questiondown.case</string>
 		<string>periodcentered.loclCAT</string>
 		<string>periodcentered.loclCAT.case</string>
 		<string>ampersand.salt</string>
@@ -1026,7 +1030,7 @@
 		<string>registered</string>
 		<string>degree</string>
 		<string>paragraph</string>
-		<string>afii61352</string>
+		<string>numero</string>
 		<string>trademark</string>
 		<string>estimated</string>
 		<string>lozenge</string>
@@ -1036,12 +1040,13 @@
 		<string>.notdef</string>
 		<string>uni000D</string>
 		<string>uni00AD</string>
-		<string>uni00AD.alt</string>
+		<string>uni00AD.case</string>
 		<string>uni00AD.smcp</string>
 		<string>manat</string>
 		<string>ruble</string>
 		<string>manat.smcp</string>
 		<string>ruble.smcp</string>
+		<string>Omega</string>
 		<string>Abrevehookabove</string>
 		<string>Acircumflexhookabove</string>
 		<string>Adblgrave</string>
@@ -1100,8 +1105,6 @@
 		<string>firsttonechinese</string>
 		<string>gcommaaccent</string>
 		<string>gravecomb</string>
-		<string>guillemetleft</string>
-		<string>guillemetright</string>
 		<string>hookabovecomb</string>
 		<string>horncomb</string>
 		<string>hungarumlautcomb</string>
@@ -1117,7 +1120,6 @@
 		<string>macroncomb</string>
 		<string>micro</string>
 		<string>ncommaaccent</string>
-		<string>numero</string>
 		<string>ocircumflexhookabove</string>
 		<string>odblgrave</string>
 		<string>odotaccentmacron</string>

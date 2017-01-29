@@ -80,6 +80,9 @@
 		<string>Ecircumflexhookabove</string>
 		<string>Edblgrave</string>
 		<string>Ehookabove</string>
+		<string>Ecedillabreve</string>
+		<string>Emacronacute</string>
+		<string>Emacrongrave</string>
 	</array>
 	<key>@MMK_L_E.smcp</key>
 	<array>
@@ -164,6 +167,8 @@
 		<string>Lacute</string>
 		<string>Lcaron</string>
 		<string>Lcommaaccent</string>
+		<string>Ldotbelow</string>
+		<string>Llinebelow</string>
 	</array>
 	<key>@MMK_L_L.smcp</key>
 	<array>
@@ -211,6 +216,12 @@
 		<string>Ohookabove</string>
 		<string>Ohornhookabove</string>
 		<string>Odblgrave</string>
+		<string>Omacronacute</string>
+		<string>Omacrongrave</string>
+		<string>Otildeacute</string>
+		<string>Otildedieresis</string>
+		<string>Ddotbelow</string>
+		<string>Dlinebelow</string>
 	</array>
 	<key>@MMK_L_O.smcp</key>
 	<array>
@@ -267,6 +278,8 @@
 		<string>Rinvertedbreve</string>
 		<string>Rcommaaccent</string>
 		<string>Rdblgrave</string>
+		<string>Rdotbelow</string>
+		<string>Rlinebelow</string>
 	</array>
 	<key>@MMK_L_R.smcp</key>
 	<array>
@@ -285,6 +298,11 @@
 		<string>Scedilla</string>
 		<string>Scircumflex</string>
 		<string>Scommaaccent</string>
+		<string>Sacutedotaccent</string>
+		<string>Sdotbelow</string>
+		<string>Scarondotaccent</string>
+		<string>Sdotaccent</string>
+		<string>Sdotbelowdotaccent</string>
 	</array>
 	<key>@MMK_L_S.smcp</key>
 	<array>
@@ -302,6 +320,8 @@
 		<string>Tcommaaccent</string>
 		<string>Tcaron</string>
 		<string>Tcedilla</string>
+		<string>Tdotbelow</string>
+		<string>Tlinebelow</string>
 	</array>
 	<key>@MMK_L_T.smcp</key>
 	<array>
@@ -397,6 +417,7 @@
 		<string>Ymacron</string>
 		<string>Ytilde</string>
 		<string>Yhookabove</string>
+		<string>Ydotaccent</string>
 	</array>
 	<key>@MMK_L_Y.smcp</key>
 	<array>
@@ -487,6 +508,8 @@
 	<array>
 		<string>d</string>
 		<string>d.salt</string>
+		<string>dlinebelow</string>
+		<string>ddotbelow</string>
 	</array>
 	<key>@MMK_L_dcaron</key>
 	<array>
@@ -516,6 +539,12 @@
 		<string>ae</string>
 		<string>aeacute</string>
 		<string>oe</string>
+		<string>ecircumflexhookabove</string>
+		<string>edblgrave</string>
+		<string>ehookabove</string>
+		<string>ecedillabreve</string>
+		<string>emacronacute</string>
+		<string>emacrongrave</string>
 	</array>
 	<key>@MMK_L_f</key>
 	<array>
@@ -531,6 +560,7 @@
 		<string>gcircumflex</string>
 		<string>gdotaccent</string>
 		<string>gcommaaccent</string>
+		<string>gmacron</string>
 	</array>
 	<key>@MMK_L_g.salt</key>
 	<array>
@@ -568,6 +598,7 @@
 	<array>
 		<string>j</string>
 		<string>jcircumflex</string>
+		<string>jdotless</string>
 	</array>
 	<key>@MMK_L_k</key>
 	<array>
@@ -590,6 +621,9 @@
 		<string>m.salt</string>
 		<string>eng</string>
 		<string>m</string>
+		<string>ndotbelow</string>
+		<string>nlinebelow</string>
+		<string>ndotaccent</string>
 	</array>
 	<key>@MMK_L_o</key>
 	<array>
@@ -622,6 +656,10 @@
 		<string>odotaccentmacron</string>
 		<string>ohookabove</string>
 		<string>ohornhookabove</string>
+		<string>omacronacute</string>
+		<string>omacrongrave</string>
+		<string>otildeacute</string>
+		<string>otildedieresis</string>
 	</array>
 	<key>@MMK_L_oslash</key>
 	<array>
@@ -684,6 +722,8 @@
 		<string>rcommaaccent.salt</string>
 		<string>rdblgrave.salt</string>
 		<string>rinvertedbreve.salt</string>
+		<string>rdotbelow</string>
+		<string>rlinebelow</string>
 	</array>
 	<key>@MMK_L_s</key>
 	<array>
@@ -693,6 +733,11 @@
 		<string>scedilla</string>
 		<string>scircumflex</string>
 		<string>scommaaccent</string>
+		<string>scarondotaccent</string>
+		<string>sdotaccent</string>
+		<string>sdotbelowdotaccent</string>
+		<string>sacutedotaccent</string>
+		<string>sdotbelow</string>
 	</array>
 	<key>@MMK_L_t</key>
 	<array>
@@ -710,6 +755,9 @@
 		<string>tbar.salt</string>
 		<string>t_t</string>
 		<string>tcommaaccent.salt</string>
+		<string>tdieresis</string>
+		<string>tdotbelow</string>
+		<string>tlinebelow</string>
 	</array>
 	<key>@MMK_L_u</key>
 	<array>
@@ -782,6 +830,7 @@
 		<string>ytilde</string>
 		<string>f_y</string>
 		<string>yhookabove</string>
+		<string>ydotaccent</string>
 	</array>
 	<key>@MMK_L_zero</key>
 	<array>
@@ -1583,16 +1632,16 @@
 	</array>
 	<key>den</key>
 	<array>
-		<string>zero.denominator</string>
-		<string>one.denominator</string>
-		<string>two.denominator</string>
-		<string>three.denominator</string>
-		<string>four.denominator</string>
-		<string>five.denominator</string>
-		<string>six.denominator</string>
-		<string>seven.denominator</string>
-		<string>eight.denominator</string>
-		<string>nine.denominator</string>
+		<string>zero.dnom</string>
+		<string>one.dnom</string>
+		<string>two.dnom</string>
+		<string>three.dnom</string>
+		<string>four.dnom</string>
+		<string>five.dnom</string>
+		<string>six.dnom</string>
+		<string>seven.dnom</string>
+		<string>eight.dnom</string>
+		<string>nine.dnom</string>
 	</array>
 	<key>ext_figpunc</key>
 	<array>
@@ -1921,16 +1970,16 @@
 	</array>
 	<key>num</key>
 	<array>
-		<string>zero.numerator</string>
-		<string>one.numerator</string>
-		<string>two.numerator</string>
-		<string>three.numerator</string>
-		<string>four.numerator</string>
-		<string>five.numerator</string>
-		<string>six.numerator</string>
-		<string>seven.numerator</string>
-		<string>eight.numerator</string>
-		<string>nine.numerator</string>
+		<string>zero.numr</string>
+		<string>one.numr</string>
+		<string>two.numr</string>
+		<string>three.numr</string>
+		<string>four.numr</string>
+		<string>five.numr</string>
+		<string>six.numr</string>
+		<string>seven.numr</string>
+		<string>eight.numr</string>
+		<string>nine.numr</string>
 	</array>
 	<key>sc</key>
 	<array>

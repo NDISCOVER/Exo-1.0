@@ -908,8 +908,6 @@
 	<string>aeacute.glif</string>
 	<key>afii61289</key>
 	<string>afii61289.glif</string>
-	<key>afii61352</key>
-	<string>afii61352.glif</string>
 	<key>agrave</key>
 	<string>agrave.glif</string>
 	<key>agrave.salt</key>
@@ -958,8 +956,8 @@
 	<string>asterisk.smcp.glif</string>
 	<key>at</key>
 	<string>at.glif</string>
-	<key>at.alt</key>
-	<string>at.alt.glif</string>
+	<key>at.case</key>
+	<string>at.case.glif</string>
 	<key>at.smcp</key>
 	<string>at.smcp.glif</string>
 	<key>atilde</key>
@@ -978,18 +976,26 @@
 	<string>bar.glif</string>
 	<key>braceleft</key>
 	<string>braceleft.glif</string>
+	<key>braceleft.case</key>
+	<string>braceleft.case.glif</string>
 	<key>braceleft.smcp</key>
 	<string>braceleft.smcp.glif</string>
 	<key>braceright</key>
 	<string>braceright.glif</string>
+	<key>braceright.case</key>
+	<string>braceright.case.glif</string>
 	<key>braceright.smcp</key>
 	<string>braceright.smcp.glif</string>
 	<key>bracketleft</key>
 	<string>bracketleft.glif</string>
+	<key>bracketleft.case</key>
+	<string>bracketleft.case.glif</string>
 	<key>bracketleft.smcp</key>
 	<string>bracketleft.smcp.glif</string>
 	<key>bracketright</key>
 	<string>bracketright.glif</string>
+	<key>bracketright.case</key>
+	<string>bracketright.case.glif</string>
 	<key>bracketright.smcp</key>
 	<string>bracketright.smcp.glif</string>
 	<key>breve</key>
@@ -1216,14 +1222,14 @@
 	<string>emacron.glif</string>
 	<key>emdash</key>
 	<string>emdash.glif</string>
-	<key>emdash.alt</key>
-	<string>emdash.alt.glif</string>
+	<key>emdash.case</key>
+	<string>emdash.case.glif</string>
 	<key>emdash.smcp</key>
 	<string>emdash.smcp.glif</string>
 	<key>endash</key>
 	<string>endash.glif</string>
-	<key>endash.alt</key>
-	<string>endash.alt.glif</string>
+	<key>endash.case</key>
+	<string>endash.case.glif</string>
 	<key>endash.smcp</key>
 	<string>endash.smcp.glif</string>
 	<key>eng</key>
@@ -1248,8 +1254,8 @@
 	<string>exclam.smcp.glif</string>
 	<key>exclamdown</key>
 	<string>exclamdown.glif</string>
-	<key>exclamdown.alt</key>
-	<string>exclamdown.alt.glif</string>
+	<key>exclamdown.case</key>
+	<string>exclamdown.case.glif</string>
 	<key>exclamdown.smcp</key>
 	<string>exclamdown.smcp.glif</string>
 	<key>f</key>
@@ -1266,8 +1272,6 @@
 	<string>f_t.glif</string>
 	<key>f_y</key>
 	<string>f_y.glif</string>
-	<key>ffl</key>
-	<string>ffl.glif</string>
 	<key>fi</key>
 	<string>fi.glif</string>
 	<key>five</key>
@@ -1398,8 +1402,8 @@
 	<string>hungarumlautcomb.case.glif</string>
 	<key>hyphen</key>
 	<string>hyphen.glif</string>
-	<key>hyphen.alt</key>
-	<string>hyphen.alt.glif</string>
+	<key>hyphen.case</key>
+	<string>hyphen.case.glif</string>
 	<key>hyphen.smcp</key>
 	<string>hyphen.smcp.glif</string>
 	<key>i</key>
@@ -1678,14 +1682,14 @@
 	<string>paragraph.glif</string>
 	<key>parenleft</key>
 	<string>parenleft.glif</string>
-	<key>parenleft.alt</key>
-	<string>parenleft.alt.glif</string>
+	<key>parenleft.case</key>
+	<string>parenleft.case.glif</string>
 	<key>parenleft.smcp</key>
 	<string>parenleft.smcp.glif</string>
 	<key>parenright</key>
 	<string>parenright.glif</string>
-	<key>parenright.alt</key>
-	<string>parenright.alt.glif</string>
+	<key>parenright.case</key>
+	<string>parenright.case.glif</string>
 	<key>parenright.smcp</key>
 	<string>parenright.smcp.glif</string>
 	<key>partialdiff</key>
@@ -1732,8 +1736,8 @@
 	<string>question.smcp.glif</string>
 	<key>questiondown</key>
 	<string>questiondown.glif</string>
-	<key>questiondown.alt</key>
-	<string>questiondown.alt.glif</string>
+	<key>questiondown.case</key>
+	<string>questiondown.case.glif</string>
 	<key>questiondown.smcp</key>
 	<string>questiondown.smcp.glif</string>
 	<key>quotedbl</key>
@@ -2038,8 +2042,8 @@
 	<string>uni000D_.glif</string>
 	<key>uni00AD</key>
 	<string>uni00A_D_.glif</string>
-	<key>uni00AD.alt</key>
-	<string>uni00A_D_.alt.glif</string>
+	<key>uni00AD.case</key>
+	<string>uni00AD_.case.glif</string>
 	<key>uni00AD.smcp</key>
 	<string>uni00AD_.smcp.glif</string>
 	<key>uni00B5</key>

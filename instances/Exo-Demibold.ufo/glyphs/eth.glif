@@ -7,22 +7,52 @@
   </note>
   <outline>
     <contour>
-      <point x="135" y="689" type="line"/>
+      <point x="46" y="263" type="curve" smooth="yes"/>
+      <point x="46" y="55"/>
+      <point x="118" y="-5"/>
+      <point x="287" y="-5" type="curve" smooth="yes"/>
+      <point x="460" y="-5"/>
+      <point x="529" y="52"/>
+      <point x="529" y="269" type="curve" smooth="yes"/>
+      <point x="529" y="352"/>
+      <point x="480" y="392"/>
+      <point x="443" y="442" type="curve"/>
+      <point x="417" y="505"/>
+      <point x="358" y="530"/>
+      <point x="271" y="530" type="curve" smooth="yes"/>
+      <point x="130" y="530"/>
+      <point x="46" y="480"/>
+    </contour>
+    <contour>
+      <point x="170" y="264" type="curve" smooth="yes"/>
+      <point x="170" y="415"/>
+      <point x="207" y="432"/>
+      <point x="287" y="432" type="curve" smooth="yes"/>
+      <point x="368" y="432"/>
+      <point x="405" y="415"/>
+      <point x="405" y="264" type="curve" smooth="yes"/>
+      <point x="405" y="112"/>
+      <point x="368" y="94"/>
+      <point x="287" y="94" type="curve" smooth="yes"/>
+      <point x="207" y="94"/>
+      <point x="170" y="112"/>
+    </contour>
+    <contour>
+      <point x="135" y="690" type="line"/>
       <point x="327" y="680"/>
       <point x="418" y="595"/>
       <point x="418" y="312" type="curve"/>
-      <point x="529" y="265" type="line"/>
-      <point x="529" y="636"/>
-      <point x="411" y="756"/>
+      <point x="529" y="269" type="line"/>
+      <point x="529" y="637"/>
+      <point x="410" y="756"/>
       <point x="135" y="765" type="curve"/>
     </contour>
     <contour>
-      <point x="173" y="572" type="line"/>
-      <point x="516" y="719" type="line"/>
-      <point x="498" y="759" type="line"/>
-      <point x="155" y="612" type="line"/>
+      <point x="166" y="564" type="line"/>
+      <point x="524" y="702" type="line"/>
+      <point x="508" y="745" type="line"/>
+      <point x="150" y="606" type="line"/>
     </contour>
-    <component base="o"/>
   </outline>
   <lib>
     <dict>

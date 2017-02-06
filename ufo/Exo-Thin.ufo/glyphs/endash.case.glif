@@ -4,12 +4,7 @@
   <note>
   </note>
   <outline>
-    <contour>
-      <point x="27" y="345" type="line"/>
-      <point x="27" y="370" type="line"/>
-      <point x="500" y="370" type="line"/>
-      <point x="500" y="345" type="line"/>
-    </contour>
+    <component base="endash" yOffset="70"/>
   </outline>
   <lib>
     <dict>

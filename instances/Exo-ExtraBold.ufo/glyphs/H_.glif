@@ -9,8 +9,8 @@
     <contour>
       <point x="59" y="0" type="line"/>
       <point x="232" y="0" type="line"/>
-      <point x="232" y="291" type="line"/>
-      <point x="479" y="291" type="line"/>
+      <point x="232" y="290" type="line"/>
+      <point x="479" y="290" type="line"/>
       <point x="479" y="0" type="line"/>
       <point x="652" y="0" type="line"/>
       <point x="652" y="742" type="line"/>
@@ -22,6 +22,9 @@
     </contour>
     <contour>
       <point x="356" y="810" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="356" y="-150" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

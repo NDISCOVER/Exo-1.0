@@ -25,11 +25,14 @@
       <point x="299" y="545"/>
       <point x="229" y="512"/>
       <point x="187" y="480" type="curve"/>
-      <point x="187" y="763" type="line"/>
-      <point x="63" y="763" type="line"/>
+      <point x="187" y="762" type="line"/>
+      <point x="63" y="762" type="line"/>
     </contour>
     <contour>
-      <point x="125" y="871" type="move" name="top"/>
+      <point x="154" y="871" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="297" y="-150" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

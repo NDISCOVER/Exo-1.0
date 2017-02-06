@@ -2,12 +2,7 @@
 <glyph name="emdash.case" format="1">
   <advance width="745"/>
   <outline>
-    <contour>
-      <point x="25" y="326" type="line"/>
-      <point x="25" y="393" type="line"/>
-      <point x="721" y="393" type="line"/>
-      <point x="721" y="326" type="line"/>
-    </contour>
+    <component base="emdash" yOffset="70"/>
   </outline>
   <lib>
     <dict>

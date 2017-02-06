@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="hyphen.case" format="1">
-  <advance width="358"/>
+  <advance width="350"/>
   <outline>
-    <contour>
-      <point x="22" y="300" type="line"/>
-      <point x="22" y="420" type="line"/>
-      <point x="336" y="420" type="line"/>
-      <point x="336" y="300" type="line"/>
-    </contour>
+    <component base="hyphen" yOffset="70"/>
   </outline>
   <lib>
     <dict>
@@ -99,7 +94,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>368</integer>
+          <integer>338</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

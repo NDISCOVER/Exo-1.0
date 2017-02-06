@@ -69,6 +69,8 @@
 		<string>Ccaron.smcp</string>
 		<string>Ccedilla</string>
 		<string>Ccedilla.smcp</string>
+		<string>Ccedillaacute</string>
+		<string>Ccedillaacute.smcp</string>
 		<string>Ccircumflex</string>
 		<string>Ccircumflex.smcp</string>
 		<string>Cdotaccent</string>
@@ -79,6 +81,10 @@
 		<string>Dcaron.smcp</string>
 		<string>Dcroat</string>
 		<string>Dcroat.smcp</string>
+		<string>Ddotbelow</string>
+		<string>Ddotbelow.smcp</string>
+		<string>Dlinebelow</string>
+		<string>Dlinebelow.smcp</string>
 		<string>E</string>
 		<string>E.smcp</string>
 		<string>Eacute</string>
@@ -87,6 +93,8 @@
 		<string>Ebreve.smcp</string>
 		<string>Ecaron</string>
 		<string>Ecaron.smcp</string>
+		<string>Ecedillabreve</string>
+		<string>Ecedillabreve.smcp</string>
 		<string>Ecircumflex</string>
 		<string>Ecircumflex.smcp</string>
 		<string>Ecircumflexacute</string>
@@ -115,6 +123,10 @@
 		<string>Einvertedbreve.smcp</string>
 		<string>Emacron</string>
 		<string>Emacron.smcp</string>
+		<string>Emacronacute</string>
+		<string>Emacronacute.smcp</string>
+		<string>Emacrongrave</string>
+		<string>Emacrongrave.smcp</string>
 		<string>Eng</string>
 		<string>Eng.smcp</string>
 		<string>Eogonek</string>
@@ -139,12 +151,18 @@
 		<string>Gdotaccent.smcp</string>
 		<string>Germandbls</string>
 		<string>Germandbls.smcp</string>
+		<string>Gmacron</string>
+		<string>Gmacron.smcp</string>
 		<string>H</string>
 		<string>H.smcp</string>
 		<string>Hbar</string>
 		<string>Hbar.smcp</string>
+		<string>Hbrevebelow</string>
+		<string>Hbrevebelow.smcp</string>
 		<string>Hcircumflex</string>
 		<string>Hcircumflex.smcp</string>
+		<string>Hdotbelow</string>
+		<string>Hdotbelow.smcp</string>
 		<string>I</string>
 		<string>I.smcp</string>
 		<string>Iacute</string>
@@ -157,6 +175,8 @@
 		<string>Idblgrave.smcp</string>
 		<string>Idieresis</string>
 		<string>Idieresis.smcp</string>
+		<string>Idieresisacute</string>
+		<string>Idieresisacute.smcp</string>
 		<string>Idotaccent</string>
 		<string>Idotaccent.smcp</string>
 		<string>Idotbelow</string>
@@ -191,12 +211,20 @@
 		<string>Lcommaaccent.smcp</string>
 		<string>Ldot</string>
 		<string>Ldot.smcp</string>
+		<string>Ldotbelow</string>
+		<string>Ldotbelow.smcp</string>
+		<string>Llinebelow</string>
+		<string>Llinebelow.smcp</string>
 		<string>Lslash</string>
 		<string>Lslash.smcp</string>
 		<string>M</string>
 		<string>M.salt</string>
 		<string>M.salt.smcp</string>
 		<string>M.smcp</string>
+		<string>Mdotbelow</string>
+		<string>Mdotbelow.salt</string>
+		<string>Mdotbelow.salt.smcp</string>
+		<string>Mdotbelow.smcp</string>
 		<string>N</string>
 		<string>N.salt</string>
 		<string>N.salt.smcp</string>
@@ -213,6 +241,18 @@
 		<string>Ncommaaccent.salt</string>
 		<string>Ncommaaccent.salt.smcp</string>
 		<string>Ncommaaccent.smcp</string>
+		<string>Ndotaccent</string>
+		<string>Ndotaccent.salt</string>
+		<string>Ndotaccent.salt.smcp</string>
+		<string>Ndotaccent.smcp</string>
+		<string>Ndotbelow</string>
+		<string>Ndotbelow.salt</string>
+		<string>Ndotbelow.salt.smcp</string>
+		<string>Ndotbelow.smcp</string>
+		<string>Nlinebelow</string>
+		<string>Nlinebelow.salt</string>
+		<string>Nlinebelow.salt.smcp</string>
+		<string>Nlinebelow.smcp</string>
 		<string>Ntilde</string>
 		<string>Ntilde.salt</string>
 		<string>Ntilde.salt.smcp</string>
@@ -249,6 +289,7 @@
 		<string>Odotbelow.smcp</string>
 		<string>Ograve</string>
 		<string>Ograve.smcp</string>
+		<string>Ohm</string>
 		<string>Ohookabove</string>
 		<string>Ohookabove.smcp</string>
 		<string>Ohorn</string>
@@ -269,6 +310,10 @@
 		<string>Oinvertedbreve.smcp</string>
 		<string>Omacron</string>
 		<string>Omacron.smcp</string>
+		<string>Omacronacute</string>
+		<string>Omacronacute.smcp</string>
+		<string>Omacrongrave</string>
+		<string>Omacrongrave.smcp</string>
 		<string>Omega</string>
 		<string>Oogonek</string>
 		<string>Oogonek.smcp</string>
@@ -278,6 +323,10 @@
 		<string>Oslashacute.smcp</string>
 		<string>Otilde</string>
 		<string>Otilde.smcp</string>
+		<string>Otildeacute</string>
+		<string>Otildeacute.smcp</string>
+		<string>Otildedieresis</string>
+		<string>Otildedieresis.smcp</string>
 		<string>Otildemacron</string>
 		<string>Otildemacron.smcp</string>
 		<string>P</string>
@@ -294,14 +343,22 @@
 		<string>Rcommaaccent.smcp</string>
 		<string>Rdblgrave</string>
 		<string>Rdblgrave.smcp</string>
+		<string>Rdotbelow</string>
+		<string>Rdotbelow.smcp</string>
 		<string>Rinvertedbreve</string>
 		<string>Rinvertedbreve.smcp</string>
+		<string>Rlinebelow</string>
+		<string>Rlinebelow.smcp</string>
 		<string>S</string>
 		<string>S.smcp</string>
 		<string>Sacute</string>
 		<string>Sacute.smcp</string>
+		<string>Sacutedotaccent</string>
+		<string>Sacutedotaccent.smcp</string>
 		<string>Scaron</string>
 		<string>Scaron.smcp</string>
+		<string>Scarondotaccent</string>
+		<string>Scarondotaccent.smcp</string>
 		<string>Scedilla</string>
 		<string>Scedilla.smcp</string>
 		<string>Schwa</string>
@@ -310,6 +367,12 @@
 		<string>Scircumflex.smcp</string>
 		<string>Scommaaccent</string>
 		<string>Scommaaccent.smcp</string>
+		<string>Sdotaccent</string>
+		<string>Sdotaccent.smcp</string>
+		<string>Sdotbelow</string>
+		<string>Sdotbelow.smcp</string>
+		<string>Sdotbelowdotaccent</string>
+		<string>Sdotbelowdotaccent.smcp</string>
 		<string>T</string>
 		<string>T.smcp</string>
 		<string>Tbar</string>
@@ -320,8 +383,12 @@
 		<string>Tcedilla.smcp</string>
 		<string>Tcommaaccent</string>
 		<string>Tcommaaccent.smcp</string>
+		<string>Tdotbelow</string>
+		<string>Tdotbelow.smcp</string>
 		<string>Thorn</string>
 		<string>Thorn.smcp</string>
+		<string>Tlinebelow</string>
+		<string>Tlinebelow.smcp</string>
 		<string>U</string>
 		<string>U.smcp</string>
 		<string>Uacute</string>
@@ -358,12 +425,16 @@
 		<string>Uinvertedbreve.smcp</string>
 		<string>Umacron</string>
 		<string>Umacron.smcp</string>
+		<string>Umacrondieresis</string>
+		<string>Umacrondieresis.smcp</string>
 		<string>Uogonek</string>
 		<string>Uogonek.smcp</string>
 		<string>Uring</string>
 		<string>Uring.smcp</string>
 		<string>Utilde</string>
 		<string>Utilde.smcp</string>
+		<string>Utildeacute</string>
+		<string>Utildeacute.smcp</string>
 		<string>V</string>
 		<string>V.smcp</string>
 		<string>W</string>
@@ -398,6 +469,8 @@
 		<string>Ycircumflex.smcp</string>
 		<string>Ydieresis</string>
 		<string>Ydieresis.smcp</string>
+		<string>Ydotaccent</string>
+		<string>Ydotaccent.smcp</string>
 		<string>Ydotbelow</string>
 		<string>Ydotbelow.smcp</string>
 		<string>Ygrave</string>
@@ -416,6 +489,8 @@
 		<string>Zcaron.smcp</string>
 		<string>Zdotaccent</string>
 		<string>Zdotaccent.smcp</string>
+		<string>Zdotbelow</string>
+		<string>Zdotbelow.smcp</string>
 		<string>a</string>
 		<string>a.salt</string>
 		<string>a.superior</string>
@@ -456,7 +531,6 @@
 		<string>adotbelow.salt</string>
 		<string>ae</string>
 		<string>aeacute</string>
-		<string>afii61289</string>
 		<string>agrave</string>
 		<string>agrave.salt</string>
 		<string>ahookabove</string>
@@ -489,6 +563,7 @@
 		<string>b.salt</string>
 		<string>b.superior</string>
 		<string>backslash</string>
+		<string>backslash.case</string>
 		<string>bar</string>
 		<string>braceleft</string>
 		<string>braceleft.case</string>
@@ -515,6 +590,7 @@
 		<string>breveinvertedcomb.case</string>
 		<string>brokenbar</string>
 		<string>bullet</string>
+		<string>bullet.case</string>
 		<string>bullet.smcp</string>
 		<string>bulletoperator</string>
 		<string>c</string>
@@ -529,6 +605,7 @@
 		<string>caroncomb.case</string>
 		<string>ccaron</string>
 		<string>ccedilla</string>
+		<string>ccedillaacute</string>
 		<string>ccircumflex</string>
 		<string>cdotaccent</string>
 		<string>cedi</string>
@@ -552,6 +629,7 @@
 		<string>commaaccentcomb.case</string>
 		<string>commaturnedabovecomb</string>
 		<string>commaturnedabovecomb.case</string>
+		<string>commaturnedmod</string>
 		<string>copyright</string>
 		<string>currency</string>
 		<string>d</string>
@@ -565,6 +643,8 @@
 		<string>dcaron.salt</string>
 		<string>dcroat</string>
 		<string>dcroat.salt</string>
+		<string>ddotbelow</string>
+		<string>ddotbelow.salt</string>
 		<string>degree</string>
 		<string>degree.smcp</string>
 		<string>dieresis</string>
@@ -574,6 +654,8 @@
 		<string>dieresiscomb.case</string>
 		<string>divide</string>
 		<string>divisionslash</string>
+		<string>dlinebelow</string>
+		<string>dlinebelow.salt</string>
 		<string>dollar</string>
 		<string>dollar.smcp</string>
 		<string>dong</string>
@@ -584,11 +666,13 @@
 		<string>dotbelowcomb</string>
 		<string>dotbelowcomb.case</string>
 		<string>dotlessi</string>
+		<string>doubleprimemod</string>
 		<string>e</string>
 		<string>e.superior</string>
 		<string>eacute</string>
 		<string>ebreve</string>
 		<string>ecaron</string>
+		<string>ecedillabreve</string>
 		<string>ecircumflex</string>
 		<string>ecircumflexacute</string>
 		<string>ecircumflexdotbelow</string>
@@ -606,6 +690,7 @@
 		<string>eight.numerator</string>
 		<string>eight.oldstyle</string>
 		<string>eight.smcp</string>
+		<string>eight.subs</string>
 		<string>eight.tnum</string>
 		<string>eight.tosf</string>
 		<string>eightinferior</string>
@@ -613,9 +698,12 @@
 		<string>einvertedbreve</string>
 		<string>ellipsis</string>
 		<string>emacron</string>
+		<string>emacronacute</string>
+		<string>emacrongrave</string>
 		<string>emdash</string>
 		<string>emdash.case</string>
 		<string>emdash.smcp</string>
+		<string>emptyset</string>
 		<string>endash</string>
 		<string>endash.case</string>
 		<string>endash.smcp</string>
@@ -641,11 +729,15 @@
 		<string>f_t</string>
 		<string>f_y</string>
 		<string>fi</string>
+		<string>figuredash</string>
+		<string>figurespace</string>
+		<string>firsttonechinese</string>
 		<string>five</string>
 		<string>five.denominator</string>
 		<string>five.numerator</string>
 		<string>five.oldstyle</string>
 		<string>five.smcp</string>
+		<string>five.subs</string>
 		<string>five.tnum</string>
 		<string>five.tosf</string>
 		<string>fiveinferior</string>
@@ -658,10 +750,12 @@
 		<string>four.numerator</string>
 		<string>four.oldstyle</string>
 		<string>four.smcp</string>
+		<string>four.subs</string>
 		<string>four.tnum</string>
 		<string>four.tosf</string>
 		<string>fourinferior</string>
 		<string>foursuperior</string>
+		<string>fourthtonechinese</string>
 		<string>fraction</string>
 		<string>franc</string>
 		<string>franc.smcp</string>
@@ -680,6 +774,8 @@
 		<string>gdotaccent.salt</string>
 		<string>germandbls</string>
 		<string>germandbls.smcp</string>
+		<string>gmacron</string>
+		<string>gmacron.salt</string>
 		<string>grave</string>
 		<string>gravecomb</string>
 		<string>gravecomb.case</string>
@@ -688,17 +784,25 @@
 		<string>guarani</string>
 		<string>guarani.smcp</string>
 		<string>guillemetleft</string>
+		<string>guillemetleft.case</string>
 		<string>guillemetright</string>
+		<string>guillemetright.case</string>
 		<string>guillemotleft</string>
 		<string>guillemotright</string>
 		<string>guilsinglleft</string>
+		<string>guilsinglleft.case</string>
 		<string>guilsinglright</string>
+		<string>guilsinglright.case</string>
 		<string>h</string>
 		<string>h.superior</string>
+		<string>hairspace</string>
 		<string>hbar</string>
+		<string>hbrevebelow</string>
 		<string>hcircumflex</string>
+		<string>hdotbelow</string>
 		<string>hookabovecomb</string>
 		<string>hookabovecomb.case</string>
+		<string>horizontalbar</string>
 		<string>horncomb</string>
 		<string>horncomb.case</string>
 		<string>hungarumlaut</string>
@@ -707,6 +811,7 @@
 		<string>hyphen</string>
 		<string>hyphen.case</string>
 		<string>hyphen.smcp</string>
+		<string>hyphentwo</string>
 		<string>i</string>
 		<string>i.superior</string>
 		<string>iacute</string>
@@ -714,6 +819,7 @@
 		<string>icircumflex</string>
 		<string>idblgrave</string>
 		<string>idieresis</string>
+		<string>idieresisacute</string>
 		<string>idotaccent</string>
 		<string>idotbelow</string>
 		<string>idotless</string>
@@ -721,6 +827,7 @@
 		<string>ihookabove</string>
 		<string>iinvertedbreve</string>
 		<string>imacron</string>
+		<string>increment</string>
 		<string>infinity</string>
 		<string>integral</string>
 		<string>iogonek</string>
@@ -733,6 +840,7 @@
 		<string>k.superior</string>
 		<string>kcommaaccent</string>
 		<string>kgreenlandic</string>
+		<string>kgreenlandic.smcp</string>
 		<string>kip</string>
 		<string>kip.smcp</string>
 		<string>l</string>
@@ -741,12 +849,15 @@
 		<string>lcaron</string>
 		<string>lcommaaccent</string>
 		<string>ldot</string>
+		<string>ldotbelow</string>
 		<string>less</string>
 		<string>lessequal</string>
 		<string>lira</string>
 		<string>lira.smcp</string>
 		<string>liraTurkish</string>
 		<string>liraTurkish.smcp</string>
+		<string>literSign</string>
+		<string>llinebelow</string>
 		<string>logicalnot</string>
 		<string>lozenge</string>
 		<string>lslash</string>
@@ -760,8 +871,11 @@
 		<string>macroncomb.case</string>
 		<string>manat</string>
 		<string>manat.smcp</string>
+		<string>mdotbelow</string>
+		<string>mdotbelow.salt</string>
 		<string>micro</string>
 		<string>minus</string>
+		<string>minute</string>
 		<string>multiply</string>
 		<string>n</string>
 		<string>n.salt</string>
@@ -775,15 +889,22 @@
 		<string>ncaron.salt</string>
 		<string>ncommaaccent</string>
 		<string>ncommaaccent.salt</string>
+		<string>ndotaccent</string>
+		<string>ndotaccent.salt</string>
+		<string>ndotbelow</string>
+		<string>ndotbelow.salt</string>
 		<string>nine</string>
 		<string>nine.denominator</string>
 		<string>nine.numerator</string>
 		<string>nine.oldstyle</string>
 		<string>nine.smcp</string>
+		<string>nine.subs</string>
 		<string>nine.tnum</string>
 		<string>nine.tosf</string>
 		<string>nineinferior</string>
 		<string>ninesuperior</string>
+		<string>nlinebelow</string>
+		<string>nlinebelow.salt</string>
 		<string>notequal</string>
 		<string>ntilde</string>
 		<string>ntilde.salt</string>
@@ -820,11 +941,14 @@
 		<string>ohungarumlaut</string>
 		<string>oinvertedbreve</string>
 		<string>omacron</string>
+		<string>omacronacute</string>
+		<string>omacrongrave</string>
 		<string>one</string>
 		<string>one.denominator</string>
 		<string>one.numerator</string>
 		<string>one.oldstyle</string>
 		<string>one.smcp</string>
+		<string>one.subs</string>
 		<string>one.tnum</string>
 		<string>one.tosf</string>
 		<string>onehalf</string>
@@ -839,6 +963,8 @@
 		<string>oslash</string>
 		<string>oslashacute</string>
 		<string>otilde</string>
+		<string>otildeacute</string>
+		<string>otildedieresis</string>
 		<string>otildemacron</string>
 		<string>p</string>
 		<string>p.salt</string>
@@ -855,6 +981,7 @@
 		<string>percent.smcp</string>
 		<string>period</string>
 		<string>periodcentered</string>
+		<string>periodcentered.case</string>
 		<string>periodcentered.loclCAT</string>
 		<string>periodcentered.loclCAT.case</string>
 		<string>periodcentered.loclCAT.smcp</string>
@@ -868,7 +995,9 @@
 		<string>pi</string>
 		<string>plus</string>
 		<string>plusminus</string>
+		<string>primemod</string>
 		<string>product</string>
+		<string>punctuationspace</string>
 		<string>q</string>
 		<string>q.superior</string>
 		<string>question</string>
@@ -904,12 +1033,18 @@
 		<string>rcommaaccent.salt</string>
 		<string>rdblgrave</string>
 		<string>rdblgrave.salt</string>
+		<string>rdotbelow</string>
+		<string>rdotbelow.salt</string>
 		<string>registered</string>
 		<string>ring</string>
 		<string>ringcomb</string>
 		<string>ringcomb.case</string>
+		<string>ringhalfleft</string>
+		<string>ringhalfright</string>
 		<string>rinvertedbreve</string>
 		<string>rinvertedbreve.salt</string>
+		<string>rlinebelow</string>
+		<string>rlinebelow.salt</string>
 		<string>ruble</string>
 		<string>ruble.smcp</string>
 		<string>rupeeIndian</string>
@@ -918,11 +1053,18 @@
 		<string>s.superior</string>
 		<string>s_t</string>
 		<string>sacute</string>
+		<string>sacutedotaccent</string>
 		<string>scaron</string>
+		<string>scarondotaccent</string>
 		<string>scedilla</string>
 		<string>schwa</string>
 		<string>scircumflex</string>
 		<string>scommaaccent</string>
+		<string>sdotaccent</string>
+		<string>sdotbelow</string>
+		<string>sdotbelowdotaccent</string>
+		<string>second</string>
+		<string>secondtonechinese</string>
 		<string>section</string>
 		<string>semicolon</string>
 		<string>seven</string>
@@ -930,6 +1072,7 @@
 		<string>seven.numerator</string>
 		<string>seven.oldstyle</string>
 		<string>seven.smcp</string>
+		<string>seven.subs</string>
 		<string>seven.tnum</string>
 		<string>seven.tosf</string>
 		<string>seveninferior</string>
@@ -939,11 +1082,13 @@
 		<string>six.numerator</string>
 		<string>six.oldstyle</string>
 		<string>six.smcp</string>
+		<string>six.subs</string>
 		<string>six.tnum</string>
 		<string>six.tosf</string>
 		<string>sixinferior</string>
 		<string>sixsuperior</string>
 		<string>slash</string>
+		<string>slash.case</string>
 		<string>softhyphen</string>
 		<string>space</string>
 		<string>sterling</string>
@@ -963,12 +1108,18 @@
 		<string>tcedilla.salt</string>
 		<string>tcommaaccent</string>
 		<string>tcommaaccent.salt</string>
+		<string>tdieresis</string>
+		<string>tdieresis.salt</string>
+		<string>tdotbelow</string>
+		<string>tdotbelow.salt</string>
+		<string>thinspace</string>
 		<string>thorn</string>
 		<string>three</string>
 		<string>three.denominator</string>
 		<string>three.numerator</string>
 		<string>three.oldstyle</string>
 		<string>three.smcp</string>
+		<string>three.subs</string>
 		<string>three.tnum</string>
 		<string>three.tosf</string>
 		<string>threeinferior</string>
@@ -977,12 +1128,15 @@
 		<string>tilde</string>
 		<string>tildecomb</string>
 		<string>tildecomb.case</string>
+		<string>tlinebelow</string>
+		<string>tlinebelow.salt</string>
 		<string>trademark</string>
 		<string>two</string>
 		<string>two.denominator</string>
 		<string>two.numerator</string>
 		<string>two.oldstyle</string>
 		<string>two.smcp</string>
+		<string>two.subs</string>
 		<string>two.tnum</string>
 		<string>two.tosf</string>
 		<string>twoinferior</string>
@@ -1024,20 +1178,25 @@
 		<string>uinvertedbreve.salt</string>
 		<string>umacron</string>
 		<string>umacron.salt</string>
+		<string>umacrondieresis</string>
+		<string>umacrondieresis.salt</string>
 		<string>underscore</string>
 		<string>uni000D</string>
 		<string>uni00AD</string>
 		<string>uni00AD.case</string>
 		<string>uni00AD.smcp</string>
-		<string>uni2206</string>
 		<string>uogonek</string>
 		<string>uogonek.salt</string>
 		<string>uring</string>
 		<string>uring.salt</string>
 		<string>utilde</string>
 		<string>utilde.salt</string>
+		<string>utildeacute</string>
+		<string>utildeacute.salt</string>
 		<string>v</string>
 		<string>v.superior</string>
+		<string>verticallinelowmod</string>
+		<string>verticallinemod</string>
 		<string>w</string>
 		<string>w.salt</string>
 		<string>w.superior</string>
@@ -1059,6 +1218,7 @@
 		<string>yacute</string>
 		<string>ycircumflex</string>
 		<string>ydieresis</string>
+		<string>ydotaccent</string>
 		<string>ydotbelow</string>
 		<string>yen</string>
 		<string>yen.smcp</string>
@@ -1071,12 +1231,14 @@
 		<string>zacute</string>
 		<string>zcaron</string>
 		<string>zdotaccent</string>
+		<string>zdotbelow</string>
 		<string>zero</string>
 		<string>zero.denominator</string>
 		<string>zero.numerator</string>
 		<string>zero.oldstyle</string>
 		<string>zero.oldstyle.zero</string>
 		<string>zero.smcp</string>
+		<string>zero.subs</string>
 		<string>zero.tnum</string>
 		<string>zero.tnum.zero</string>
 		<string>zero.tosf</string>
@@ -1085,6 +1247,7 @@
 		<string>zero.zero.smcp</string>
 		<string>zeroinferior</string>
 		<string>zerosuperior</string>
+		<string>zerowidthspace</string>
 	</array>
 </dict>
 </plist>

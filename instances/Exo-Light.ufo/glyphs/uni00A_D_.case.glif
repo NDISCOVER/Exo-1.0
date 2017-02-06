@@ -2,12 +2,7 @@
 <glyph name="uni00AD.case" format="1">
   <advance width="365"/>
   <outline>
-    <contour>
-      <point x="26" y="335" type="line"/>
-      <point x="26" y="385" type="line"/>
-      <point x="340" y="385" type="line"/>
-      <point x="340" y="335" type="line"/>
-    </contour>
+    <component base="uni00AD" yOffset="70"/>
   </outline>
   <lib>
     <dict>

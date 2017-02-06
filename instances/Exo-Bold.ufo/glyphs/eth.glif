@@ -7,22 +7,52 @@
   </note>
   <outline>
     <contour>
-      <point x="127" y="675" type="line"/>
+      <point x="41" y="262" type="curve" smooth="yes"/>
+      <point x="41" y="60"/>
+      <point x="109" y="-5"/>
+      <point x="287" y="-5" type="curve" smooth="yes"/>
+      <point x="468" y="-5"/>
+      <point x="534" y="56"/>
+      <point x="534" y="270" type="curve" smooth="yes"/>
+      <point x="534" y="357"/>
+      <point x="477" y="395"/>
+      <point x="434" y="448" type="curve"/>
+      <point x="410" y="502"/>
+      <point x="351" y="528"/>
+      <point x="267" y="528" type="curve" smooth="yes"/>
+      <point x="125" y="528"/>
+      <point x="41" y="476"/>
+    </contour>
+    <contour>
+      <point x="189" y="263" type="curve" smooth="yes"/>
+      <point x="189" y="397"/>
+      <point x="218" y="412"/>
+      <point x="287" y="412" type="curve" smooth="yes"/>
+      <point x="357" y="412"/>
+      <point x="386" y="397"/>
+      <point x="386" y="263" type="curve" smooth="yes"/>
+      <point x="386" y="128"/>
+      <point x="357" y="113"/>
+      <point x="287" y="113" type="curve" smooth="yes"/>
+      <point x="218" y="113"/>
+      <point x="189" y="128"/>
+    </contour>
+    <contour>
+      <point x="127" y="676" type="line"/>
       <point x="320" y="669"/>
       <point x="401" y="589"/>
       <point x="401" y="323" type="curve"/>
-      <point x="534" y="265" type="line"/>
+      <point x="534" y="270" type="line"/>
       <point x="534" y="637"/>
       <point x="423" y="758"/>
       <point x="127" y="765" type="curve"/>
     </contour>
     <contour>
-      <point x="165" y="564" type="line"/>
-      <point x="517" y="717" type="line"/>
-      <point x="496" y="764" type="line"/>
-      <point x="144" y="610" type="line"/>
+      <point x="156" y="555" type="line"/>
+      <point x="527" y="697" type="line"/>
+      <point x="508" y="745" type="line"/>
+      <point x="138" y="602" type="line"/>
     </contour>
-    <component base="o"/>
   </outline>
   <lib>
     <dict>

@@ -39,15 +39,19 @@ lookup featureSmallCaps {
     sub \cacute by \Cacute.smcp;
     sub \ccaron by \Ccaron.smcp;
     sub \ccedilla by \Ccedilla.smcp;
+    sub \ccedillaacute by \Ccedillaacute.smcp;
     sub \ccircumflex by \Ccircumflex.smcp;
     sub \cdotaccent by \Cdotaccent.smcp;
     sub \d by \D.smcp;
     sub \dcaron by \Dcaron.smcp;
     sub \dcroat by \Dcroat.smcp;
+    sub \ddotbelow by \Ddotbelow.smcp;
+    sub \dlinebelow by \Dlinebelow.smcp;
     sub \e by \E.smcp;
     sub \eacute by \Eacute.smcp;
     sub \ebreve by \Ebreve.smcp;
     sub \ecaron by \Ecaron.smcp;
+    sub \ecedillabreve by \Ecedillabreve.smcp;
     sub \ecircumflex by \Ecircumflex.smcp;
     sub \ecircumflexacute by \Ecircumflexacute.smcp;
     sub \ecircumflexdotbelow by \Ecircumflexdotbelow.smcp;
@@ -62,6 +66,8 @@ lookup featureSmallCaps {
     sub \ehookabove by \Ehookabove.smcp;
     sub \einvertedbreve by \Einvertedbreve.smcp;
     sub \emacron by \Emacron.smcp;
+    sub \emacronacute by \Emacronacute.smcp;
+    sub \emacrongrave by \Emacrongrave.smcp;
     sub \eng by \Eng.smcp;
     sub \eogonek by \Eogonek.smcp;
     sub \eth by \Eth.smcp;
@@ -73,15 +79,20 @@ lookup featureSmallCaps {
     sub \gcircumflex by \Gcircumflex.smcp;
     sub \gcommaaccent by \Gcommaaccent.smcp;
     sub \gdotaccent by \Gdotaccent.smcp;
+    sub \gmacron by \Gmacron.smcp;
     sub \h by \H.smcp;
     sub \hbar by \Hbar.smcp;
+    sub \hbrevebelow by \Hbrevebelow.smcp;
     sub \hcircumflex by \Hcircumflex.smcp;
+    sub \hdotbelow by \Hdotbelow.smcp;
     sub \i by \I.smcp;
+    sub \idotless by \I.smcp;
     sub \iacute by \Iacute.smcp;
     sub \ibreve by \Ibreve.smcp;
     sub \icircumflex by \Icircumflex.smcp;
     sub \idblgrave by \Idblgrave.smcp;
     sub \idieresis by \Idieresis.smcp;
+    sub \idieresisacute by \Idieresisacute.smcp;
     sub \idotaccent by \Idotaccent.smcp;
     sub \idotbelow by \Idotbelow.smcp;
     sub \igrave by \Igrave.smcp;
@@ -94,14 +105,19 @@ lookup featureSmallCaps {
     sub \jcircumflex by \Jcircumflex.smcp;
     sub \k by \K.smcp;
     sub \kcommaaccent by \Kcommaaccent.smcp;
+    sub \kgreenlandic by \kgreenlandic.smcp;
     sub \l by \L.smcp;
     sub \lacute by \Lacute.smcp;
     sub \lcaron by \Lcaron.smcp;
     sub \lcommaaccent by \Lcommaaccent.smcp;
     sub \ldot by \Ldot.smcp;
+    sub \ldotbelow by \Ldotbelow.smcp;
+    sub \llinebelow by \Llinebelow.smcp;
     sub \lslash by \Lslash.smcp;
     sub \m.salt by \M.salt.smcp;
     sub \m by \M.smcp;
+    sub \mdotbelow.salt by \Mdotbelow.salt.smcp;
+    sub \mdotbelow by \Mdotbelow.smcp;
     sub \n.salt by \N.salt.smcp;
     sub \n by \N.smcp;
     sub \nacute.salt by \Nacute.salt.smcp;
@@ -110,6 +126,12 @@ lookup featureSmallCaps {
     sub \ncaron by \Ncaron.smcp;
     sub \ncommaaccent.salt by \Ncommaaccent.salt.smcp;
     sub \ncommaaccent by \Ncommaaccent.smcp;
+    sub \ndotaccent.salt by \Ndotaccent.salt.smcp;
+    sub \ndotaccent by \Ndotaccent.smcp;
+    sub \ndotbelow.salt by \Ndotbelow.salt.smcp;
+    sub \ndotbelow by \Ndotbelow.smcp;
+    sub \nlinebelow.salt by \Nlinebelow.salt.smcp;
+    sub \nlinebelow by \Nlinebelow.smcp;
     sub \ntilde.salt by \Ntilde.salt.smcp;
     sub \ntilde by \Ntilde.smcp;
     sub \o by \O.smcp;
@@ -138,10 +160,14 @@ lookup featureSmallCaps {
     sub \ohungarumlaut by \Ohungarumlaut.smcp;
     sub \oinvertedbreve by \Oinvertedbreve.smcp;
     sub \omacron by \Omacron.smcp;
+    sub \omacronacute by \Omacronacute.smcp;
+    sub \omacrongrave by \Omacrongrave.smcp;
     sub \oogonek by \Oogonek.smcp;
     sub \oslash by \Oslash.smcp;
     sub \oslashacute by \Oslashacute.smcp;
     sub \otilde by \Otilde.smcp;
+    sub \otildeacute by \Otildeacute.smcp;
+    sub \otildedieresis by \Otildedieresis.smcp;
     sub \otildemacron by \Otildemacron.smcp;
     sub \p by \P.smcp;
     sub \q by \Q.smcp;
@@ -150,20 +176,29 @@ lookup featureSmallCaps {
     sub \rcaron by \Rcaron.smcp;
     sub \rcommaaccent by \Rcommaaccent.smcp;
     sub \rdblgrave by \Rdblgrave.smcp;
+    sub \rdotbelow by \Rdotbelow.smcp;
     sub \rinvertedbreve by \Rinvertedbreve.smcp;
+    sub \rlinebelow by \Rlinebelow.smcp;
     sub \s by \S.smcp;
     sub \sacute by \Sacute.smcp;
+    sub \sacutedotaccent by \Sacutedotaccent.smcp;
     sub \scaron by \Scaron.smcp;
+    sub \scarondotaccent by \Scarondotaccent.smcp;
     sub \scedilla by \Scedilla.smcp;
     sub \schwa by \Schwa.smcp;
     sub \scircumflex by \Scircumflex.smcp;
     sub \scommaaccent by \Scommaaccent.smcp;
+    sub \sdotaccent by \Sdotaccent.smcp;
+    sub \sdotbelow by \Sdotbelow.smcp;
+    sub \sdotbelowdotaccent by \Sdotbelowdotaccent.smcp;
     sub \t by \T.smcp;
     sub \tbar by \Tbar.smcp;
     sub \tcaron by \Tcaron.smcp;
     sub \tcedilla by \Tcedilla.smcp;
     sub \tcommaaccent by \Tcommaaccent.smcp;
+    sub \tdotbelow by \Tdotbelow.smcp;
     sub \thorn by \Thorn.smcp;
+    sub \tlinebelow by \Tlinebelow.smcp;
     sub \u by \U.smcp;
     sub \uacute by \Uacute.smcp;
     sub \ubreve by \Ubreve.smcp;
@@ -182,9 +217,11 @@ lookup featureSmallCaps {
     sub \uhungarumlaut by \Uhungarumlaut.smcp;
     sub \uinvertedbreve by \Uinvertedbreve.smcp;
     sub \umacron by \Umacron.smcp;
+    sub \umacrondieresis by \Umacrondieresis.smcp;
     sub \uogonek by \Uogonek.smcp;
     sub \uring by \Uring.smcp;
     sub \utilde by \Utilde.smcp;
+    sub \utildeacute by \Utildeacute.smcp;
     sub \v by \V.smcp;
     sub \w.salt by \W.salt.smcp;
     sub \w by \W.smcp;
@@ -202,6 +239,7 @@ lookup featureSmallCaps {
     sub \yacute by \Yacute.smcp;
     sub \ycircumflex by \Ycircumflex.smcp;
     sub \ydieresis by \Ydieresis.smcp;
+    sub \ydotaccent by \Ydotaccent.smcp;
     sub \ydotbelow by \Ydotbelow.smcp;
     sub \ygrave by \Ygrave.smcp;
     sub \yhookabove by \Yhookabove.smcp;
@@ -211,9 +249,14 @@ lookup featureSmallCaps {
     sub \zacute by \Zacute.smcp;
     sub \zcaron by \Zcaron.smcp;
     sub \zdotaccent by \Zdotaccent.smcp;
+    sub \zdotbelow by \Zdotbelow.smcp;
     sub \ampersand by \ampersand.smcp;
     sub \asterisk by \asterisk.smcp;
     sub \at by \at.smcp;
+    sub \braceleft by \braceleft.smcp;
+    sub \braceright by \braceright.smcp;
+    sub \bracketleft by \bracketleft.smcp;
+    sub \bracketright by \bracketright.smcp;
     sub \bullet by \bullet.smcp;
     sub \cedi by \cedi.smcp;
     sub \colonsign by \colonsign.smcp;
@@ -243,6 +286,8 @@ lookup featureSmallCaps {
     sub \one by \one.smcp;
     sub \ordfeminine by \ordfeminine.smcp;
     sub \ordmasculine by \ordmasculine.smcp;
+    sub \parenleft by \parenleft.smcp;
+    sub \parenright by \parenright.smcp;
     sub \percent by \percent.smcp;
     sub \periodcentered.loclCAT by \periodcentered.loclCAT.smcp;
     sub \periodcentered by \periodcentered.smcp;
@@ -307,15 +352,19 @@ lookup featureSmallCapsFromCaps {
     sub \Cacute by \Cacute.smcp;
     sub \Ccaron by \Ccaron.smcp;
     sub \Ccedilla by \Ccedilla.smcp;
+    sub \Ccedillaacute by \Ccedillaacute.smcp;
     sub \Ccircumflex by \Ccircumflex.smcp;
     sub \Cdotaccent by \Cdotaccent.smcp;
     sub \D by \D.smcp;
     sub \Dcaron by \Dcaron.smcp;
     sub \Dcroat by \Dcroat.smcp;
+    sub \Ddotbelow by \Ddotbelow.smcp;
+    sub \Dlinebelow by \Dlinebelow.smcp;
     sub \E by \E.smcp;
     sub \Eacute by \Eacute.smcp;
     sub \Ebreve by \Ebreve.smcp;
     sub \Ecaron by \Ecaron.smcp;
+    sub \Ecedillabreve by \Ecedillabreve.smcp;
     sub \Ecircumflex by \Ecircumflex.smcp;
     sub \Ecircumflexacute by \Ecircumflexacute.smcp;
     sub \Ecircumflexdotbelow by \Ecircumflexdotbelow.smcp;
@@ -330,6 +379,8 @@ lookup featureSmallCapsFromCaps {
     sub \Ehookabove by \Ehookabove.smcp;
     sub \Einvertedbreve by \Einvertedbreve.smcp;
     sub \Emacron by \Emacron.smcp;
+    sub \Emacronacute by \Emacronacute.smcp;
+    sub \Emacrongrave by \Emacrongrave.smcp;
     sub \Eng by \Eng.smcp;
     sub \Eogonek by \Eogonek.smcp;
     sub \Eth by \Eth.smcp;
@@ -342,15 +393,19 @@ lookup featureSmallCapsFromCaps {
     sub \Gcommaaccent by \Gcommaaccent.smcp;
     sub \Gdotaccent by \Gdotaccent.smcp;
     sub \Germandbls by \Germandbls.smcp;
+    sub \Gmacron by \Gmacron.smcp;
     sub \H by \H.smcp;
     sub \Hbar by \Hbar.smcp;
+    sub \Hbrevebelow by \Hbrevebelow.smcp;
     sub \Hcircumflex by \Hcircumflex.smcp;
+    sub \Hdotbelow by \Hdotbelow.smcp;
     sub \I by \I.smcp;
     sub \Iacute by \Iacute.smcp;
     sub \Ibreve by \Ibreve.smcp;
     sub \Icircumflex by \Icircumflex.smcp;
     sub \Idblgrave by \Idblgrave.smcp;
     sub \Idieresis by \Idieresis.smcp;
+    sub \Idieresisacute by \Idieresisacute.smcp;
     sub \Idotaccent by \Idotaccent.smcp;
     sub \Idotbelow by \Idotbelow.smcp;
     sub \Igrave by \Igrave.smcp;
@@ -368,9 +423,13 @@ lookup featureSmallCapsFromCaps {
     sub \Lcaron by \Lcaron.smcp;
     sub \Lcommaaccent by \Lcommaaccent.smcp;
     sub \Ldot by \Ldot.smcp;
+    sub \Ldotbelow by \Ldotbelow.smcp;
+    sub \Llinebelow by \Llinebelow.smcp;
     sub \Lslash by \Lslash.smcp;
     sub \M.salt by \M.salt.smcp;
     sub \M by \M.smcp;
+    sub \Mdotbelow.salt by \Mdotbelow.salt.smcp;
+    sub \Mdotbelow by \Mdotbelow.smcp;
     sub \N.salt by \N.salt.smcp;
     sub \N by \N.smcp;
     sub \Nacute.salt by \Nacute.salt.smcp;
@@ -379,6 +438,12 @@ lookup featureSmallCapsFromCaps {
     sub \Ncaron by \Ncaron.smcp;
     sub \Ncommaaccent.salt by \Ncommaaccent.salt.smcp;
     sub \Ncommaaccent by \Ncommaaccent.smcp;
+    sub \Ndotaccent.salt by \Ndotaccent.salt.smcp;
+    sub \Ndotaccent by \Ndotaccent.smcp;
+    sub \Ndotbelow.salt by \Ndotbelow.salt.smcp;
+    sub \Ndotbelow by \Ndotbelow.smcp;
+    sub \Nlinebelow.salt by \Nlinebelow.salt.smcp;
+    sub \Nlinebelow by \Nlinebelow.smcp;
     sub \Ntilde.salt by \Ntilde.salt.smcp;
     sub \Ntilde by \Ntilde.smcp;
     sub \O by \O.smcp;
@@ -407,10 +472,14 @@ lookup featureSmallCapsFromCaps {
     sub \Ohungarumlaut by \Ohungarumlaut.smcp;
     sub \Oinvertedbreve by \Oinvertedbreve.smcp;
     sub \Omacron by \Omacron.smcp;
+    sub \Omacronacute by \Omacronacute.smcp;
+    sub \Omacrongrave by \Omacrongrave.smcp;
     sub \Oogonek by \Oogonek.smcp;
     sub \Oslash by \Oslash.smcp;
     sub \Oslashacute by \Oslashacute.smcp;
     sub \Otilde by \Otilde.smcp;
+    sub \Otildeacute by \Otildeacute.smcp;
+    sub \Otildedieresis by \Otildedieresis.smcp;
     sub \Otildemacron by \Otildemacron.smcp;
     sub \P by \P.smcp;
     sub \Q by \Q.smcp;
@@ -419,20 +488,29 @@ lookup featureSmallCapsFromCaps {
     sub \Rcaron by \Rcaron.smcp;
     sub \Rcommaaccent by \Rcommaaccent.smcp;
     sub \Rdblgrave by \Rdblgrave.smcp;
+    sub \Rdotbelow by \Rdotbelow.smcp;
     sub \Rinvertedbreve by \Rinvertedbreve.smcp;
+    sub \Rlinebelow by \Rlinebelow.smcp;
     sub \S by \S.smcp;
     sub \Sacute by \Sacute.smcp;
+    sub \Sacutedotaccent by \Sacutedotaccent.smcp;
     sub \Scaron by \Scaron.smcp;
+    sub \Scarondotaccent by \Scarondotaccent.smcp;
     sub \Scedilla by \Scedilla.smcp;
     sub \Schwa by \Schwa.smcp;
     sub \Scircumflex by \Scircumflex.smcp;
     sub \Scommaaccent by \Scommaaccent.smcp;
+    sub \Sdotaccent by \Sdotaccent.smcp;
+    sub \Sdotbelow by \Sdotbelow.smcp;
+    sub \Sdotbelowdotaccent by \Sdotbelowdotaccent.smcp;
     sub \T by \T.smcp;
     sub \Tbar by \Tbar.smcp;
     sub \Tcaron by \Tcaron.smcp;
     sub \Tcedilla by \Tcedilla.smcp;
     sub \Tcommaaccent by \Tcommaaccent.smcp;
+    sub \Tdotbelow by \Tdotbelow.smcp;
     sub \Thorn by \Thorn.smcp;
+    sub \Tlinebelow by \Tlinebelow.smcp;
     sub \U by \U.smcp;
     sub \Uacute by \Uacute.smcp;
     sub \Ubreve by \Ubreve.smcp;
@@ -451,9 +529,11 @@ lookup featureSmallCapsFromCaps {
     sub \Uhungarumlaut by \Uhungarumlaut.smcp;
     sub \Uinvertedbreve by \Uinvertedbreve.smcp;
     sub \Umacron by \Umacron.smcp;
+    sub \Umacrondieresis by \Umacrondieresis.smcp;
     sub \Uogonek by \Uogonek.smcp;
     sub \Uring by \Uring.smcp;
     sub \Utilde by \Utilde.smcp;
+    sub \Utildeacute by \Utildeacute.smcp;
     sub \V by \V.smcp;
     sub \W.salt by \W.salt.smcp;
     sub \W by \W.smcp;
@@ -471,6 +551,7 @@ lookup featureSmallCapsFromCaps {
     sub \Yacute by \Yacute.smcp;
     sub \Ycircumflex by \Ycircumflex.smcp;
     sub \Ydieresis by \Ydieresis.smcp;
+    sub \Ydotaccent by \Ydotaccent.smcp;
     sub \Ydotbelow by \Ydotbelow.smcp;
     sub \Ygrave by \Ygrave.smcp;
     sub \Yhookabove by \Yhookabove.smcp;
@@ -480,18 +561,80 @@ lookup featureSmallCapsFromCaps {
     sub \Zacute by \Zacute.smcp;
     sub \Zcaron by \Zcaron.smcp;
     sub \Zdotaccent by \Zdotaccent.smcp;
-    sub \parenleft by \parenleft.smcp;
-    sub \parenright by \parenright.smcp;
+    sub \Zdotbelow by \Zdotbelow.smcp;
+    sub \ampersand by \ampersand.smcp;
+    sub \asterisk by \asterisk.smcp;
+    sub \at by \at.smcp;
     sub \braceleft by \braceleft.smcp;
     sub \braceright by \braceright.smcp;
     sub \bracketleft by \bracketleft.smcp;
     sub \bracketright by \bracketright.smcp;
+    sub \bullet by \bullet.smcp;
+    sub \cedi by \cedi.smcp;
+    sub \colonsign by \colonsign.smcp;
+    sub \degree by \degree.smcp;
+    sub \dollar by \dollar.smcp;
+    sub \dong by \dong.smcp;
+    sub \eight by \eight.smcp;
+    sub \emdash by \emdash.smcp;
+    sub \endash by \endash.smcp;
+    sub \euro by \euro.smcp;
+    sub \exclam by \exclam.smcp;
+    sub \exclamdown by \exclamdown.smcp;
+    sub \five by \five.smcp;
+    sub \florin by \florin.smcp;
+    sub \four by \four.smcp;
+    sub \franc by \franc.smcp;
+    sub \guarani by \guarani.smcp;
+    sub \hyphen by \hyphen.smcp;
+    sub \kip by \kip.smcp;
+    sub \lira by \lira.smcp;
+    sub \liraTurkish by \liraTurkish.smcp;
+    sub \manat by \manat.smcp;
+    sub \naira by \naira.smcp;
+    sub \nine by \nine.smcp;
+    sub \numbersign by \numbersign.smcp;
+    sub \one by \one.smcp;
+    sub \ordfeminine by \ordfeminine.smcp;
+    sub \ordmasculine by \ordmasculine.smcp;
+    sub \parenleft by \parenleft.smcp;
+    sub \parenright by \parenright.smcp;
+    sub \percent by \percent.smcp;
+    sub \periodcentered.loclCAT by \periodcentered.loclCAT.smcp;
+    sub \periodcentered by \periodcentered.smcp;
+    sub \perthousand by \perthousand.smcp;
+    sub \peseta by \peseta.smcp;
+    sub \peso by \peso.smcp;
+    sub \question by \question.smcp;
+    sub \questiondown by \questiondown.smcp;
+    sub \quotedbl by \quotedbl.smcp;
+    sub \quotedblbase by \quotedblbase.smcp;
+    sub \quotedblleft by \quotedblleft.smcp;
+    sub \quotedblright by \quotedblright.smcp;
+    sub \quoteleft by \quoteleft.smcp;
+    sub \quoteright by \quoteright.smcp;
+    sub \quotesinglbase by \quotesinglbase.smcp;
+    sub \quotesingle by \quotesingle.smcp;
+    sub \ruble by \ruble.smcp;
+    sub \rupeeIndian by \rupeeIndian.smcp;
+    sub \seven by \seven.smcp;
+    sub \six by \six.smcp;
+    sub \sterling by \sterling.smcp;
+    sub \three by \three.smcp;
+    sub \two by \two.smcp;
+    sub \uni00AD by \uni00AD.smcp;
+    sub \won by \won.smcp;
+    sub \yen by \yen.smcp;
+    sub \zero by \zero.smcp;
+    sub \zero.zero by \zero.zero.smcp;
 } featureSmallCapsFromCaps;
 
 lookup featureStylisticAlternates {
   lookupflag 0;
     sub \M by \M.salt;
     sub \M.smcp by \M.salt.smcp;
+    sub \Mdotbelow by \Mdotbelow.salt;
+    sub \Mdotbelow.smcp by \Mdotbelow.salt.smcp;
     sub \N by \N.salt;
     sub \N.smcp by \N.salt.smcp;
     sub \Nacute by \Nacute.salt;
@@ -500,6 +643,12 @@ lookup featureStylisticAlternates {
     sub \Ncaron.smcp by \Ncaron.salt.smcp;
     sub \Ncommaaccent by \Ncommaaccent.salt;
     sub \Ncommaaccent.smcp by \Ncommaaccent.salt.smcp;
+    sub \Ndotaccent by \Ndotaccent.salt;
+    sub \Ndotaccent.smcp by \Ndotaccent.salt.smcp;
+    sub \Ndotbelow by \Ndotbelow.salt;
+    sub \Ndotbelow.smcp by \Ndotbelow.salt.smcp;
+    sub \Nlinebelow by \Nlinebelow.salt;
+    sub \Nlinebelow.smcp by \Nlinebelow.salt.smcp;
     sub \Ntilde by \Ntilde.salt;
     sub \Ntilde.smcp by \Ntilde.salt.smcp;
     sub \W by \W.salt;
@@ -544,6 +693,8 @@ lookup featureStylisticAlternates {
     sub \d by \d.salt;
     sub \dcaron by \dcaron.salt;
     sub \dcroat by \dcroat.salt;
+    sub \ddotbelow by \ddotbelow.salt;
+    sub \dlinebelow by \dlinebelow.salt;
     sub \f by \f.salt;
     sub \g by \g.salt;
     sub \gbreve by \gbreve.salt;
@@ -551,11 +702,16 @@ lookup featureStylisticAlternates {
     sub \gcircumflex by \gcircumflex.salt;
     sub \gcommaaccent by \gcommaaccent.salt;
     sub \gdotaccent by \gdotaccent.salt;
+    sub \gmacron by \gmacron.salt;
     sub \m by \m.salt;
+    sub \mdotbelow by \mdotbelow.salt;
     sub \n by \n.salt;
     sub \nacute by \nacute.salt;
     sub \ncaron by \ncaron.salt;
     sub \ncommaaccent by \ncommaaccent.salt;
+    sub \ndotaccent by \ndotaccent.salt;
+    sub \ndotbelow by \ndotbelow.salt;
+    sub \nlinebelow by \nlinebelow.salt;
     sub \ntilde by \ntilde.salt;
     sub \p by \p.salt;
     sub \r by \r.salt;
@@ -563,12 +719,17 @@ lookup featureStylisticAlternates {
     sub \rcaron by \rcaron.salt;
     sub \rcommaaccent by \rcommaaccent.salt;
     sub \rdblgrave by \rdblgrave.salt;
+    sub \rdotbelow by \rdotbelow.salt;
     sub \rinvertedbreve by \rinvertedbreve.salt;
+    sub \rlinebelow by \rlinebelow.salt;
     sub \t by \t.salt;
     sub \tbar by \tbar.salt;
     sub \tcaron by \tcaron.salt;
     sub \tcedilla by \tcedilla.salt;
     sub \tcommaaccent by \tcommaaccent.salt;
+    sub \tdieresis by \tdieresis.salt;
+    sub \tdotbelow by \tdotbelow.salt;
+    sub \tlinebelow by \tlinebelow.salt;
     sub \u by \u.salt;
     sub \uacute by \uacute.salt;
     sub \ubreve by \ubreve.salt;
@@ -587,9 +748,11 @@ lookup featureStylisticAlternates {
     sub \uhungarumlaut by \uhungarumlaut.salt;
     sub \uinvertedbreve by \uinvertedbreve.salt;
     sub \umacron by \umacron.salt;
+    sub \umacrondieresis by \umacrondieresis.salt;
     sub \uogonek by \uogonek.salt;
     sub \uring by \uring.salt;
     sub \utilde by \utilde.salt;
+    sub \utildeacute by \utildeacute.salt;
     sub \w by \w.salt;
     sub \wacute by \wacute.salt;
     sub \wcircumflex by \wcircumflex.salt;
@@ -828,6 +991,7 @@ lookup caseCaseSensitiveFormslookup1 {
   lookupflag 0;
     sub \acutecomb by \acutecomb.case;
     sub \at by \at.case;
+    sub \backslash by \backslash.case;
     sub \braceleft by \braceleft.case;
     sub \braceright by \braceright.case;
     sub \bracketleft by \bracketleft.case;
@@ -835,6 +999,7 @@ lookup caseCaseSensitiveFormslookup1 {
     sub \brevebelowcomb by \brevebelowcomb.case;
     sub \brevecomb by \brevecomb.case;
     sub \breveinvertedcomb by \breveinvertedcomb.case;
+    sub \bullet by \bullet.case;
     sub \caroncomb by \caroncomb.case;
     sub \cedillacomb by \cedillacomb.case;
     sub \circumflexcomb by \circumflexcomb.case;
@@ -849,6 +1014,10 @@ lookup caseCaseSensitiveFormslookup1 {
     sub \endash by \endash.case;
     sub \exclamdown by \exclamdown.case;
     sub \gravecomb by \gravecomb.case;
+    sub \guillemetleft by \guillemetleft.case;
+    sub \guillemetright by \guillemetright.case;
+    sub \guilsinglleft by \guilsinglleft.case;
+    sub \guilsinglright by \guilsinglright.case;
     sub \hookabovecomb by \hookabovecomb.case;
     sub \horncomb by \horncomb.case;
     sub \hungarumlautcomb by \hungarumlautcomb.case;
@@ -858,9 +1027,11 @@ lookup caseCaseSensitiveFormslookup1 {
     sub \ogonekcomb by \ogonekcomb.case;
     sub \parenleft by \parenleft.case;
     sub \parenright by \parenright.case;
+    sub \periodcentered by \periodcentered.case;
     sub \periodcentered.loclCAT by \periodcentered.loclCAT.case;
     sub \questiondown by \questiondown.case;
     sub \ringcomb by \ringcomb.case;
+    sub \slash by \slash.case;
     sub \tildecomb by \tildecomb.case;
     sub \uni00AD by \uni00AD.case;
 } caseCaseSensitiveFormslookup1;
@@ -881,7 +1052,7 @@ lookup dnomDenominatorslookup0 {
 
 # LOCL
 feature locl {
-  script DFLT;
+  script latn;
     language TRK;
       sub \i by \idotaccent;
 } locl;
@@ -910,7 +1081,7 @@ feature c2sc {
 
 # ORDN
 feature ordn {
-  script dflt;
+  script DFLT;
     language dflt;
       lookup ordnLookupSingle;
       lookup ordnLookupDouble;
@@ -1074,13 +1245,13 @@ feature dnom {
 
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
-@GDEF_Simple = [A A.smcp AE AE.smcp B B.smcp C C.smcp D D.smcp E E.smcp F F.smcp G G.smcp H H.smcp I I.smcp J J.smcp K K.smcp L L.smcp M M.salt M.salt.smcp M.smcp N N.salt N.salt.smcp N.smcp O O.smcp Ohorn Ohorn.smcp Oslash Oslash.smcp P P.smcp R R.smcp S S.smcp T T.smcp U U.smcp Uhorn Uhorn.smcp W W.salt W.salt.smcp W.smcp X X.salt X.salt.smcp X.smcp Y Y.smcp Z Z.smcp a a.salt a.superior ae c c.superior d d.salt d.superior dotlessi e e.superior g g.salt g.superior h i i.superior idotless jdotless k k.superior l l.superior m m.salt m.superior n n.salt n.superior o o.superior ohorn oslash p.salt r r.salt r.superior s s.superior t t.salt t.superior u u.salt u.superior uhorn uhorn.salt w w.salt w.superior x.salt y y.superior z z.superior];
+@GDEF_Simple = [A A.smcp AE AE.smcp B B.smcp C C.smcp D D.smcp E E.smcp F F.smcp G G.smcp H H.smcp I I.smcp J J.smcp K K.smcp L L.smcp M M.salt M.salt.smcp M.smcp N N.salt N.salt.smcp N.smcp O O.smcp Ohorn Ohorn.smcp Oslash Oslash.smcp P P.smcp R R.smcp S S.smcp T T.smcp U U.smcp Uhorn Uhorn.smcp W W.salt W.salt.smcp W.smcp X X.salt X.salt.smcp X.smcp Y Y.smcp Z Z.smcp a a.salt a.superior ae b.salt c c.superior d d.salt d.superior dotlessi e e.superior g g.salt g.superior h i i.superior idotless jdotless k k.superior l l.superior m m.salt m.superior n n.salt n.superior o o.superior ohorn oslash p.salt r r.salt r.superior s s.superior t t.salt t.superior u u.salt u.superior uhorn uhorn.salt w w.salt w.superior x.salt y y.superior z z.superior];
 @GDEF_Ligature = [\ordmasculine \ordfeminine \fi \fl \b.superior \c.superior 
 	\d.superior \e.superior \f.superior \g.superior \h.superior \i.superior 
 	\j.superior \k.superior \l.superior \m.superior \n.superior \p.superior 
 	\q.superior \r.superior \s.superior \t.superior \u.superior \v.superior 
 	\w.superior \x.superior \y.superior \z.superior \onequarter \onehalf 
-	\threequarters \f_f \f_f_i \ffl \c_t \s_t \t_t \f_t \t_y \f_y \ordmasculine.smcp 
+	\threequarters \f_f \f_f_i \f_f_l \c_t \s_t \t_t \f_t \t_y \f_y \ordmasculine.smcp 
 	\ordfeminine.smcp \numero \c_k \c_h ];
 
 table GDEF {

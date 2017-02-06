@@ -140,12 +140,8 @@
 		<integer>-20</integer>
 		<key>four</key>
 		<integer>-30</integer>
-		<key>m</key>
-		<integer>-10</integer>
 		<key>one</key>
 		<integer>20</integer>
-		<key>p</key>
-		<integer>-10</integer>
 		<key>seven</key>
 		<integer>20</integer>
 	</dict>
@@ -332,6 +328,8 @@
 		<integer>-5</integer>
 		<key>@MMK_R_V.smcp</key>
 		<integer>-10</integer>
+		<key>@MMK_R_X.smcp</key>
+		<integer>-15</integer>
 		<key>@MMK_R_Y.smcp</key>
 		<integer>-10</integer>
 		<key>@MMK_R_parenright</key>
@@ -340,8 +338,6 @@
 		<integer>-20</integer>
 		<key>@MMK_R_quote</key>
 		<integer>-10</integer>
-		<key>X.smcp</key>
-		<integer>-15</integer>
 	</dict>
 	<key>@MMK_L_P</key>
 	<dict>
@@ -473,6 +469,8 @@
 		<integer>-20</integer>
 		<key>@MMK_R_w</key>
 		<integer>-40</integer>
+		<key>@MMK_R_x</key>
+		<integer>-50</integer>
 		<key>@MMK_R_z</key>
 		<integer>-70</integer>
 		<key>B.smcp</key>
@@ -487,20 +485,12 @@
 		<integer>-30</integer>
 		<key>four</key>
 		<integer>-50</integer>
-		<key>m</key>
-		<integer>-20</integer>
 		<key>nine.oldstyle</key>
 		<integer>-30</integer>
 		<key>one</key>
 		<integer>20</integer>
-		<key>p</key>
-		<integer>-20</integer>
-		<key>q</key>
-		<integer>-50</integer>
 		<key>seven</key>
 		<integer>20</integer>
-		<key>x</key>
-		<integer>-50</integer>
 		<key>zero.oldstyle</key>
 		<integer>-30</integer>
 	</dict>
@@ -573,6 +563,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_V.smcp</key>
 		<integer>-20</integer>
+		<key>@MMK_R_X.smcp</key>
+		<integer>-20</integer>
 		<key>@MMK_R_Y.smcp</key>
 		<integer>-10</integer>
 		<key>@MMK_R_Z.smcp</key>
@@ -607,6 +599,8 @@
 		<integer>-30</integer>
 		<key>@MMK_R_w</key>
 		<integer>-20</integer>
+		<key>@MMK_R_x</key>
+		<integer>-10</integer>
 		<key>@MMK_R_z</key>
 		<integer>-30</integer>
 		<key>B.smcp</key>
@@ -631,8 +625,6 @@
 		<integer>-10</integer>
 		<key>P.smcp</key>
 		<integer>-30</integer>
-		<key>X.smcp</key>
-		<integer>-20</integer>
 		<key>eight</key>
 		<integer>-20</integer>
 		<key>f</key>
@@ -643,22 +635,16 @@
 		<integer>-80</integer>
 		<key>four.smcp</key>
 		<integer>-70</integer>
-		<key>m</key>
-		<integer>-30</integer>
 		<key>nine</key>
 		<integer>-10</integer>
 		<key>nine.oldstyle</key>
 		<integer>-40</integer>
 		<key>one</key>
 		<integer>30</integer>
-		<key>p</key>
-		<integer>-30</integer>
 		<key>seven</key>
 		<integer>30</integer>
 		<key>six</key>
 		<integer>-30</integer>
-		<key>x</key>
-		<integer>-10</integer>
 		<key>zero.oldstyle</key>
 		<integer>-30</integer>
 	</dict>
@@ -703,6 +689,8 @@
 		<integer>-50</integer>
 		<key>@MMK_R_V.smcp</key>
 		<integer>-30</integer>
+		<key>@MMK_R_X.smcp</key>
+		<integer>-30</integer>
 		<key>@MMK_R_Y.smcp</key>
 		<integer>-30</integer>
 		<key>@MMK_R_Z.smcp</key>
@@ -737,6 +725,8 @@
 		<integer>-50</integer>
 		<key>@MMK_R_w</key>
 		<integer>-60</integer>
+		<key>@MMK_R_x</key>
+		<integer>-50</integer>
 		<key>@MMK_R_z</key>
 		<integer>-50</integer>
 		<key>B.smcp</key>
@@ -761,22 +751,12 @@
 		<integer>-50</integer>
 		<key>P.smcp</key>
 		<integer>-50</integer>
-		<key>X.salt.smcp</key>
-		<integer>-30</integer>
-		<key>X.smcp</key>
-		<integer>-30</integer>
 		<key>f</key>
 		<integer>-20</integer>
 		<key>germandbls</key>
 		<integer>-40</integer>
-		<key>m</key>
-		<integer>-50</integer>
 		<key>nine.oldstyle</key>
 		<integer>-30</integer>
-		<key>p</key>
-		<integer>-50</integer>
-		<key>x</key>
-		<integer>-50</integer>
 		<key>zero.oldstyle</key>
 		<integer>-30</integer>
 	</dict>
@@ -810,10 +790,10 @@
 		<integer>-30</integer>
 		<key>@MMK_R_w</key>
 		<integer>-20</integer>
+		<key>@MMK_R_x</key>
+		<integer>-30</integer>
 		<key>slash</key>
 		<integer>-20</integer>
-		<key>x</key>
-		<integer>-30</integer>
 	</dict>
 	<key>@MMK_L_c</key>
 	<dict>
@@ -863,10 +843,10 @@
 		<integer>-20</integer>
 		<key>@MMK_R_w</key>
 		<integer>-10</integer>
+		<key>@MMK_R_x</key>
+		<integer>-20</integer>
 		<key>lslash</key>
 		<integer>10</integer>
-		<key>x</key>
-		<integer>-20</integer>
 	</dict>
 	<key>@MMK_L_f</key>
 	<dict>
@@ -906,10 +886,51 @@
 		<key>underscore</key>
 		<integer>10</integer>
 	</dict>
+	<key>@MMK_L_hyphen</key>
+	<dict>
+		<key>@MMK_R_A</key>
+		<integer>-10</integer>
+		<key>@MMK_R_J</key>
+		<integer>-30</integer>
+		<key>@MMK_R_T</key>
+		<integer>-35</integer>
+		<key>@MMK_R_V</key>
+		<integer>-25</integer>
+		<key>@MMK_R_X</key>
+		<integer>-30</integer>
+		<key>@MMK_R_Y</key>
+		<integer>-40</integer>
+		<key>@MMK_R_parenright</key>
+		<integer>-20</integer>
+		<key>four</key>
+		<integer>10</integer>
+		<key>one</key>
+		<integer>-30</integer>
+		<key>seven</key>
+		<integer>-40</integer>
+		<key>slash</key>
+		<integer>-40</integer>
+		<key>two</key>
+		<integer>-20</integer>
+	</dict>
 	<key>@MMK_L_k</key>
 	<dict>
+		<key>@MMK_R_a</key>
+		<integer>0</integer>
+		<key>@MMK_R_c</key>
+		<integer>0</integer>
+		<key>@MMK_R_d</key>
+		<integer>0</integer>
+		<key>@MMK_R_e</key>
+		<integer>0</integer>
+		<key>@MMK_R_g</key>
+		<integer>0</integer>
+		<key>@MMK_R_o</key>
+		<integer>0</integer>
 		<key>@MMK_R_oslash</key>
 		<integer>-10</integer>
+		<key>@MMK_R_s</key>
+		<integer>0</integer>
 	</dict>
 	<key>@MMK_L_n</key>
 	<dict>
@@ -931,7 +952,7 @@
 	</dict>
 	<key>@MMK_L_oslash</key>
 	<dict>
-		<key>x</key>
+		<key>@MMK_R_x</key>
 		<integer>-10</integer>
 	</dict>
 	<key>@MMK_L_parenleft</key>
@@ -1003,8 +1024,6 @@
 		<integer>-30</integer>
 		<key>four</key>
 		<integer>-80</integer>
-		<key>q</key>
-		<integer>-30</integer>
 		<key>six</key>
 		<integer>-10</integer>
 		<key>slash</key>
@@ -1039,10 +1058,10 @@
 		<integer>-20</integer>
 		<key>@MMK_R_w</key>
 		<integer>-15</integer>
+		<key>@MMK_R_x</key>
+		<integer>-10</integer>
 		<key>slash</key>
 		<integer>-20</integer>
-		<key>x</key>
-		<integer>-10</integer>
 	</dict>
 	<key>@MMK_L_t</key>
 	<dict>
@@ -1073,8 +1092,6 @@
 		<integer>-30</integer>
 		<key>lslash</key>
 		<integer>10</integer>
-		<key>q</key>
-		<integer>-20</integer>
 		<key>slash</key>
 		<integer>-70</integer>
 	</dict>
@@ -1097,6 +1114,8 @@
 		<integer>-20</integer>
 		<key>@MMK_R_T.smcp</key>
 		<integer>-10</integer>
+		<key>@MMK_R_X.smcp</key>
+		<integer>-10</integer>
 		<key>@MMK_R_Y.smcp</key>
 		<integer>-10</integer>
 		<key>@MMK_R_g</key>
@@ -1105,10 +1124,6 @@
 		<integer>-10</integer>
 		<key>M.smcp</key>
 		<integer>-20</integer>
-		<key>X.salt.smcp</key>
-		<integer>-10</integer>
-		<key>X.smcp</key>
-		<integer>-10</integer>
 	</dict>
 	<key>C</key>
 	<dict>
@@ -1279,15 +1294,6 @@
 		<key>backslash</key>
 		<integer>-30</integer>
 	</dict>
-	<key>emdash</key>
-	<dict>
-		<key>@MMK_R_T</key>
-		<integer>-35</integer>
-		<key>@MMK_R_V</key>
-		<integer>-25</integer>
-		<key>@MMK_R_Y</key>
-		<integer>-40</integer>
-	</dict>
 	<key>endash</key>
 	<dict>
 		<key>seven</key>
@@ -1320,29 +1326,6 @@
 	<key>germandbls</key>
 	<dict>
 		<key>@MMK_R_quote</key>
-		<integer>-20</integer>
-	</dict>
-	<key>hyphen</key>
-	<dict>
-		<key>@MMK_R_A</key>
-		<integer>-10</integer>
-		<key>@MMK_R_J</key>
-		<integer>-30</integer>
-		<key>@MMK_R_X</key>
-		<integer>-30</integer>
-		<key>@MMK_R_Y</key>
-		<integer>-40</integer>
-		<key>@MMK_R_parenright</key>
-		<integer>-20</integer>
-		<key>four</key>
-		<integer>10</integer>
-		<key>one</key>
-		<integer>-30</integer>
-		<key>seven</key>
-		<integer>-40</integer>
-		<key>slash</key>
-		<integer>-40</integer>
-		<key>two</key>
 		<integer>-20</integer>
 	</dict>
 	<key>l</key>
@@ -1445,26 +1428,22 @@
 		<integer>-40</integer>
 		<key>@MMK_R_w</key>
 		<integer>-20</integer>
+		<key>@MMK_R_x</key>
+		<integer>-20</integer>
 		<key>@MMK_R_z</key>
 		<integer>-40</integer>
 		<key>f</key>
 		<integer>-30</integer>
 		<key>four</key>
 		<integer>-80</integer>
-		<key>m</key>
-		<integer>-40</integer>
 		<key>nine</key>
 		<integer>-10</integer>
-		<key>p</key>
-		<integer>-40</integer>
 		<key>q</key>
 		<integer>-80</integer>
 		<key>seven</key>
 		<integer>20</integer>
 		<key>slash</key>
 		<integer>-140</integer>
-		<key>x</key>
-		<integer>-20</integer>
 	</dict>
 	<key>underscore</key>
 	<dict>
@@ -1487,8 +1466,6 @@
 		<integer>-15</integer>
 		<key>@MMK_R_o</key>
 		<integer>-30</integer>
-		<key>@MMK_R_oslash</key>
-		<integer>-10</integer>
 		<key>@MMK_R_s</key>
 		<integer>-10</integer>
 		<key>q</key>

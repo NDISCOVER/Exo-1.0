@@ -1669,6 +1669,13 @@
 			<real>1.0</real>
 			<real>0.25</real>
 		</array>
+		<key>@MMK_L_hyphen</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
 		<key>@MMK_L_i</key>
 		<array>
 			<real>1.0</real>
@@ -1725,6 +1732,13 @@
 			<real>1.0</real>
 			<real>0.25</real>
 		</array>
+		<key>@MMK_L_parenleft.smcp</key>
+		<array>
+			<real>1.0</real>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
 		<key>@MMK_L_parenright</key>
 		<array>
 			<real>1.0</real>
@@ -1737,6 +1751,13 @@
 			<real>1.0</real>
 			<real>0.0</real>
 			<real>0.5</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_parenright.smcp</key>
+		<array>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_quote</key>
@@ -1942,6 +1963,13 @@
 			<real>1.0</real>
 			<real>0.25</real>
 		</array>
+		<key>@MMK_R_X.smcp</key>
+		<array>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
 		<key>@MMK_R_Y</key>
 		<array>
 			<real>0.0</real>
@@ -2010,13 +2038,6 @@
 			<real>1.0</real>
 			<real>0.0</real>
 			<real>1.0</real>
-			<real>0.25</real>
-		</array>
-		<key>@MMK_R_d.salt</key>
-		<array>
-			<real>1.0</real>
-			<real>0.0</real>
-			<real>0.5</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_e</key>
@@ -2110,6 +2131,13 @@
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
+		<key>@MMK_R_parenleft.smcp</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
 		<key>@MMK_R_parenright</key>
 		<array>
 			<real>1.0</real>
@@ -2122,6 +2150,13 @@
 			<real>0.0</real>
 			<real>1.0</real>
 			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_parenright.smcp</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_period</key>
@@ -2177,6 +2212,13 @@
 		<array>
 			<real>0.0</real>
 			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_x</key>
+		<array>
+			<real>0.0</real>
+			<real>0.5</real>
 			<real>1.0</real>
 			<real>0.25</real>
 		</array>

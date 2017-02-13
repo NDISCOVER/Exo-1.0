@@ -1,28 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four.numerator" format="1">
-  <advance width="451"/>
+  <advance width="440"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
   <outline>
     <contour>
-      <point x="72" y="400" type="line"/>
-      <point x="267" y="742" type="line"/>
-      <point x="420" y="742" type="line"/>
-      <point x="271" y="469" type="line"/>
-      <point x="338" y="469" type="line"/>
-      <point x="352" y="556" type="line"/>
-      <point x="381" y="607" type="line"/>
-      <point x="500" y="607" type="line"/>
-      <point x="478" y="469" type="line"/>
-      <point x="518" y="469" type="line"/>
-      <point x="500" y="357" type="line"/>
-      <point x="454" y="336" type="line"/>
-      <point x="444" y="257" type="line"/>
-      <point x="304" y="257" type="line"/>
-      <point x="317" y="335" type="line"/>
-      <point x="95" y="335" type="line"/>
+      <point x="95.0" y="500" type="line"/>
+      <point x="112.0" y="434" type="line"/>
+      <point x="309.0" y="434" type="line"/>
+      <point x="296.0" y="355" type="line"/>
+      <point x="452.0" y="355" type="line"/>
+      <point x="465.0" y="434" type="line"/>
+      <point x="498.0" y="457" type="line"/>
+      <point x="516.0" y="561" type="line"/>
+      <point x="485.0" y="561" type="line"/>
+      <point x="504.0" y="683" type="line"/>
+      <point x="377.0" y="683" type="line"/>
+      <point x="337.0" y="615" type="line"/>
+      <point x="329.0" y="561" type="line"/>
+      <point x="292.0" y="561" type="line"/>
+      <point x="438.0" y="842" type="line"/>
+      <point x="279.0" y="842" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>2</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>137</integer>
+            <key>width</key>
+            <integer>178</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>712</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>370</integer>
+            <key>width</key>
+            <integer>194</integer>
+          </dict>
+        </array>
+      </dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>
@@ -210,7 +246,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>451</integer>
+          <integer>440</integer>
         </dict>
       </dict>
     </dict>

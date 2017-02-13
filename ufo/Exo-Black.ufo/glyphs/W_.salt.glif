@@ -19,7 +19,7 @@
       <point x="206" y="743" type="line"/>
     </contour>
     <contour>
-      <point x="534" y="810" type="move" name="top"/>
+      <point x="534.0" y="810.0" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -51,19 +51,6 @@
           </array>
           <key>components</key>
           <array>
-            <dict>
-              <key>baseGlyph</key>
-              <string>V</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <integer>369</integer>
-                <integer>0</integer>
-              </array>
-            </dict>
             <dict>
               <key>baseGlyph</key>
               <string>W</string>

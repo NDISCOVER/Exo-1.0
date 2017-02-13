@@ -100,6 +100,842 @@
 	</array>
 	<key>com.typemytype.robofont.templateCharacterSet</key>
 	<string>GF Latin Plus</string>
+	<key>com.typesupply.MetricsMachine4.groupColors</key>
+	<dict>
+		<key>@MMK_L_A</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_A.smcp</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_E</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_E.smcp</key>
+		<array>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_F</key>
+		<array>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_F.smcp</key>
+		<array>
+			<real>1.0</real>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_H.smcp</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_J</key>
+		<array>
+			<real>1.0</real>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_J.smcp</key>
+		<array>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_K</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_K.smcp</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_L</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_L.smcp</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_O</key>
+		<array>
+			<real>1.0</real>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_O.smcp</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_P</key>
+		<array>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_P.smcp</key>
+		<array>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_R</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_R.smcp</key>
+		<array>
+			<real>1.0</real>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_S</key>
+		<array>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_S.smcp</key>
+		<array>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_T</key>
+		<array>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_T.smcp</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_U</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_U.smcp</key>
+		<array>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_V</key>
+		<array>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_V.smcp</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_Y</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_Y.smcp</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_a</key>
+		<array>
+			<real>1.0</real>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_a.salt</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_b</key>
+		<array>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_c</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_d</key>
+		<array>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_dcaron</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_e</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_f</key>
+		<array>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_g</key>
+		<array>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_g.salt</key>
+		<array>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_h</key>
+		<array>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_hyphen</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_i</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_j</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_k</key>
+		<array>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_n</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_o</key>
+		<array>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_oslash</key>
+		<array>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_parenleft</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_parenleft.case</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_parenleft.smcp</key>
+		<array>
+			<real>1.0</real>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_parenright</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_parenright.case</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_parenright.smcp</key>
+		<array>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_quote</key>
+		<array>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_quote.smcp</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_r</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_s</key>
+		<array>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_t</key>
+		<array>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_u</key>
+		<array>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_w</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_y</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_zero</key>
+		<array>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_zero.oldstyle</key>
+		<array>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_A</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_A.smcp</key>
+		<array>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_E</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_E.smcp</key>
+		<array>
+			<real>1.0</real>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_H</key>
+		<array>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_H.smcp</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_J</key>
+		<array>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_J.smcp</key>
+		<array>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_O</key>
+		<array>
+			<real>1.0</real>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_O.smcp</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_S</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_S.smcp</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_T</key>
+		<array>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_T.smcp</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_U</key>
+		<array>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_U.smcp</key>
+		<array>
+			<real>1.0</real>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_V</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_V.smcp</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_X</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_X.smcp</key>
+		<array>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_Y</key>
+		<array>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_Y.smcp</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_Z</key>
+		<array>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_Z.smcp</key>
+		<array>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_a</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_a.salt</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_ae</key>
+		<array>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_c</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_colon</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_d</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_e</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_g</key>
+		<array>
+			<real>1.0</real>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_g.salt</key>
+		<array>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_h</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_hyphen</key>
+		<array>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_i</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_l</key>
+		<array>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_n</key>
+		<array>
+			<real>1.0</real>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_o</key>
+		<array>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_oslash</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_parenleft</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_parenleft.case</key>
+		<array>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_parenleft.smcp</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_parenright</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_parenright.case</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_parenright.smcp</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_period</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_quote</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_r</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_s</key>
+		<array>
+			<real>1.0</real>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_t</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_t.salt</key>
+		<array>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_u</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_w</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_x</key>
+		<array>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_z</key>
+		<array>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+	</dict>
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
@@ -130,8 +966,11 @@
 		<string>Ccircumflex</string>
 		<string>Cdotaccent</string>
 		<string>Ccaron</string>
+		<string>Ccedillaacute</string>
 		<string>D</string>
 		<string>Dcaron</string>
+		<string>Ddotbelow</string>
+		<string>Dlinebelow</string>
 		<string>E</string>
 		<string>Egrave</string>
 		<string>Eacute</string>
@@ -143,6 +982,9 @@
 		<string>Eogonek</string>
 		<string>Ecaron</string>
 		<string>Einvertedbreve</string>
+		<string>Emacrongrave</string>
+		<string>Emacronacute</string>
+		<string>Ecedillabreve</string>
 		<string>Edotbelow</string>
 		<string>Etilde</string>
 		<string>Ecircumflexacute</string>
@@ -155,8 +997,11 @@
 		<string>Gbreve</string>
 		<string>Gdotaccent</string>
 		<string>Gcaron</string>
+		<string>Gmacron</string>
 		<string>H</string>
 		<string>Hcircumflex</string>
+		<string>Hdotbelow</string>
+		<string>Hbrevebelow</string>
 		<string>I</string>
 		<string>Igrave</string>
 		<string>Iacute</string>
@@ -168,6 +1013,7 @@
 		<string>Iogonek</string>
 		<string>Idotaccent</string>
 		<string>Iinvertedbreve</string>
+		<string>Idieresisacute</string>
 		<string>Idotbelow</string>
 		<string>J</string>
 		<string>Jcircumflex</string>
@@ -175,11 +1021,16 @@
 		<string>L</string>
 		<string>Lacute</string>
 		<string>Lcaron</string>
+		<string>Ldotbelow</string>
+		<string>Llinebelow</string>
 		<string>M</string>
+		<string>Mdotbelow</string>
 		<string>N</string>
 		<string>Ntilde</string>
 		<string>Nacute</string>
 		<string>Ncaron</string>
+		<string>Ndotbelow</string>
+		<string>Nlinebelow</string>
 		<string>O</string>
 		<string>Ograve</string>
 		<string>Oacute</string>
@@ -194,6 +1045,10 @@
 		<string>Oinvertedbreve</string>
 		<string>Odieresismacron</string>
 		<string>Otildemacron</string>
+		<string>Otildeacute</string>
+		<string>Otildedieresis</string>
+		<string>Omacrongrave</string>
+		<string>Omacronacute</string>
 		<string>Odotbelow</string>
 		<string>Ocircumflexacute</string>
 		<string>Ocircumflexgrave</string>
@@ -209,16 +1064,22 @@
 		<string>Racute</string>
 		<string>Rcaron</string>
 		<string>Rinvertedbreve</string>
+		<string>Rdotbelow</string>
+		<string>Rlinebelow</string>
 		<string>S</string>
 		<string>Sacute</string>
 		<string>Scircumflex</string>
 		<string>Scedilla</string>
 		<string>Scaron</string>
 		<string>Scommaaccent</string>
+		<string>Sdotbelow</string>
+		<string>Sacutedotaccent</string>
 		<string>T</string>
 		<string>Tcedilla</string>
 		<string>Tcaron</string>
 		<string>Tcommaaccent</string>
+		<string>Tdotbelow</string>
+		<string>Tlinebelow</string>
 		<string>U</string>
 		<string>Ugrave</string>
 		<string>Uacute</string>
@@ -232,6 +1093,8 @@
 		<string>Uogonek</string>
 		<string>Uhorn</string>
 		<string>Uinvertedbreve</string>
+		<string>Utildeacute</string>
+		<string>Umacrondieresis</string>
 		<string>Udotbelow</string>
 		<string>Uhornacute</string>
 		<string>Uhorngrave</string>
@@ -256,6 +1119,7 @@
 		<string>Zacute</string>
 		<string>Zdotaccent</string>
 		<string>Zcaron</string>
+		<string>Zdotbelow</string>
 		<string>AE</string>
 		<string>AEacute</string>
 		<string>Eth</string>
@@ -275,10 +1139,13 @@
 		<string>NJ</string>
 		<string>Germandbls</string>
 		<string>M.salt</string>
+		<string>Mdotbelow.salt</string>
 		<string>N.salt</string>
 		<string>Ntilde.salt</string>
 		<string>Nacute.salt</string>
 		<string>Ncaron.salt</string>
+		<string>Ndotbelow.salt</string>
+		<string>Nlinebelow.salt</string>
 		<string>W.salt</string>
 		<string>Wcircumflex.salt</string>
 		<string>Wgrave.salt</string>
@@ -289,9 +1156,12 @@
 		<string>N.salt.smcp</string>
 		<string>W.salt.smcp</string>
 		<string>X.salt.smcp</string>
+		<string>Mdotbelow.salt.smcp</string>
 		<string>Ntilde.salt.smcp</string>
 		<string>Nacute.salt.smcp</string>
 		<string>Ncaron.salt.smcp</string>
+		<string>Ndotbelow.salt.smcp</string>
+		<string>Nlinebelow.salt.smcp</string>
 		<string>Wcircumflex.salt.smcp</string>
 		<string>Wgrave.salt.smcp</string>
 		<string>Wacute.salt.smcp</string>
@@ -324,8 +1194,11 @@
 		<string>Ccircumflex.smcp</string>
 		<string>Cdotaccent.smcp</string>
 		<string>Ccaron.smcp</string>
+		<string>Ccedillaacute.smcp</string>
 		<string>D.smcp</string>
 		<string>Dcaron.smcp</string>
+		<string>Ddotbelow.smcp</string>
+		<string>Dlinebelow.smcp</string>
 		<string>E.smcp</string>
 		<string>Egrave.smcp</string>
 		<string>Eacute.smcp</string>
@@ -337,6 +1210,9 @@
 		<string>Eogonek.smcp</string>
 		<string>Ecaron.smcp</string>
 		<string>Einvertedbreve.smcp</string>
+		<string>Emacrongrave.smcp</string>
+		<string>Emacronacute.smcp</string>
+		<string>Ecedillabreve.smcp</string>
 		<string>Edotbelow.smcp</string>
 		<string>Etilde.smcp</string>
 		<string>Ecircumflexacute.smcp</string>
@@ -349,8 +1225,11 @@
 		<string>Gbreve.smcp</string>
 		<string>Gdotaccent.smcp</string>
 		<string>Gcaron.smcp</string>
+		<string>Gmacron.smcp</string>
 		<string>H.smcp</string>
 		<string>Hcircumflex.smcp</string>
+		<string>Hdotbelow.smcp</string>
+		<string>Hbrevebelow.smcp</string>
 		<string>I.smcp</string>
 		<string>Igrave.smcp</string>
 		<string>Iacute.smcp</string>
@@ -362,6 +1241,7 @@
 		<string>Iogonek.smcp</string>
 		<string>Idotaccent.smcp</string>
 		<string>Iinvertedbreve.smcp</string>
+		<string>Idieresisacute.smcp</string>
 		<string>Idotbelow.smcp</string>
 		<string>J.smcp</string>
 		<string>Jcircumflex.smcp</string>
@@ -369,11 +1249,16 @@
 		<string>L.smcp</string>
 		<string>Lacute.smcp</string>
 		<string>Lcaron.smcp</string>
+		<string>Ldotbelow.smcp</string>
+		<string>Llinebelow.smcp</string>
 		<string>M.smcp</string>
+		<string>Mdotbelow.smcp</string>
 		<string>N.smcp</string>
 		<string>Ntilde.smcp</string>
 		<string>Nacute.smcp</string>
 		<string>Ncaron.smcp</string>
+		<string>Ndotbelow.smcp</string>
+		<string>Nlinebelow.smcp</string>
 		<string>O.smcp</string>
 		<string>Ograve.smcp</string>
 		<string>Oacute.smcp</string>
@@ -388,6 +1273,10 @@
 		<string>Oinvertedbreve.smcp</string>
 		<string>Odieresismacron.smcp</string>
 		<string>Otildemacron.smcp</string>
+		<string>Otildeacute.smcp</string>
+		<string>Otildedieresis.smcp</string>
+		<string>Omacrongrave.smcp</string>
+		<string>Omacronacute.smcp</string>
 		<string>Odotbelow.smcp</string>
 		<string>Ocircumflexacute.smcp</string>
 		<string>Ocircumflexgrave.smcp</string>
@@ -403,16 +1292,22 @@
 		<string>Racute.smcp</string>
 		<string>Rcaron.smcp</string>
 		<string>Rinvertedbreve.smcp</string>
+		<string>Rdotbelow.smcp</string>
+		<string>Rlinebelow.smcp</string>
 		<string>S.smcp</string>
 		<string>Sacute.smcp</string>
 		<string>Scircumflex.smcp</string>
 		<string>Scedilla.smcp</string>
 		<string>Scaron.smcp</string>
 		<string>Scommaaccent.smcp</string>
+		<string>Sdotbelow.smcp</string>
+		<string>Sacutedotaccent.smcp</string>
 		<string>T.smcp</string>
 		<string>Tcedilla.smcp</string>
 		<string>Tcaron.smcp</string>
 		<string>Tcommaaccent.smcp</string>
+		<string>Tdotbelow.smcp</string>
+		<string>Tlinebelow.smcp</string>
 		<string>U.smcp</string>
 		<string>Ugrave.smcp</string>
 		<string>Uacute.smcp</string>
@@ -426,6 +1321,8 @@
 		<string>Uogonek.smcp</string>
 		<string>Uhorn.smcp</string>
 		<string>Uinvertedbreve.smcp</string>
+		<string>Utildeacute.smcp</string>
+		<string>Umacrondieresis.smcp</string>
 		<string>Udotbelow.smcp</string>
 		<string>Uhornacute.smcp</string>
 		<string>Uhorngrave.smcp</string>
@@ -450,6 +1347,7 @@
 		<string>Zacute.smcp</string>
 		<string>Zdotaccent.smcp</string>
 		<string>Zcaron.smcp</string>
+		<string>Zdotbelow.smcp</string>
 		<string>AE.smcp</string>
 		<string>AEacute.smcp</string>
 		<string>Eth.smcp</string>
@@ -465,8 +1363,7 @@
 		<string>Tbar.smcp</string>
 		<string>Schwa.smcp</string>
 		<string>Germandbls.smcp</string>
-		<string>uni00B5</string>
-		<string>afii61289</string>
+		<string>literSign</string>
 		<string>a</string>
 		<string>agrave</string>
 		<string>aacute</string>
@@ -495,11 +1392,14 @@
 		<string>ccircumflex</string>
 		<string>cdotaccent</string>
 		<string>ccaron</string>
+		<string>ccedillaacute</string>
 		<string>c_h</string>
 		<string>c_k</string>
 		<string>c_t</string>
 		<string>d</string>
 		<string>dcaron</string>
+		<string>ddotbelow</string>
+		<string>dlinebelow</string>
 		<string>e</string>
 		<string>egrave</string>
 		<string>eacute</string>
@@ -511,6 +1411,9 @@
 		<string>eogonek</string>
 		<string>ecaron</string>
 		<string>einvertedbreve</string>
+		<string>emacrongrave</string>
+		<string>emacronacute</string>
+		<string>ecedillabreve</string>
 		<string>edotbelow</string>
 		<string>etilde</string>
 		<string>ecircumflexacute</string>
@@ -518,7 +1421,6 @@
 		<string>ecircumflextilde</string>
 		<string>ecircumflexdotbelow</string>
 		<string>f</string>
-		<string>f_f_l</string>
 		<string>f_t</string>
 		<string>f_y</string>
 		<string>g</string>
@@ -526,8 +1428,11 @@
 		<string>gbreve</string>
 		<string>gdotaccent</string>
 		<string>gcaron</string>
+		<string>gmacron</string>
 		<string>h</string>
 		<string>hcircumflex</string>
+		<string>hdotbelow</string>
+		<string>hbrevebelow</string>
 		<string>i</string>
 		<string>igrave</string>
 		<string>iacute</string>
@@ -538,6 +1443,7 @@
 		<string>ibreve</string>
 		<string>iogonek</string>
 		<string>iinvertedbreve</string>
+		<string>idieresisacute</string>
 		<string>idotbelow</string>
 		<string>j</string>
 		<string>jcircumflex</string>
@@ -545,11 +1451,16 @@
 		<string>l</string>
 		<string>lacute</string>
 		<string>lcaron</string>
+		<string>ldotbelow</string>
+		<string>llinebelow</string>
 		<string>m</string>
+		<string>mdotbelow</string>
 		<string>n</string>
 		<string>ntilde</string>
 		<string>nacute</string>
 		<string>ncaron</string>
+		<string>ndotbelow</string>
+		<string>nlinebelow</string>
 		<string>o</string>
 		<string>ograve</string>
 		<string>oacute</string>
@@ -564,6 +1475,10 @@
 		<string>oinvertedbreve</string>
 		<string>odieresismacron</string>
 		<string>otildemacron</string>
+		<string>otildeacute</string>
+		<string>otildedieresis</string>
+		<string>omacrongrave</string>
+		<string>omacronacute</string>
 		<string>odotbelow</string>
 		<string>ocircumflexacute</string>
 		<string>ocircumflexgrave</string>
@@ -579,16 +1494,23 @@
 		<string>racute</string>
 		<string>rcaron</string>
 		<string>rinvertedbreve</string>
+		<string>rdotbelow</string>
+		<string>rlinebelow</string>
 		<string>s</string>
 		<string>sacute</string>
 		<string>scircumflex</string>
 		<string>scedilla</string>
 		<string>scaron</string>
 		<string>scommaaccent</string>
+		<string>sdotbelow</string>
+		<string>sacutedotaccent</string>
 		<string>t</string>
 		<string>tcedilla</string>
 		<string>tcaron</string>
 		<string>tcommaaccent</string>
+		<string>tdotbelow</string>
+		<string>tlinebelow</string>
+		<string>tdieresis</string>
 		<string>t_t</string>
 		<string>t_y</string>
 		<string>u</string>
@@ -604,6 +1526,8 @@
 		<string>uogonek</string>
 		<string>uhorn</string>
 		<string>uinvertedbreve</string>
+		<string>utildeacute</string>
+		<string>umacrondieresis</string>
 		<string>udotbelow</string>
 		<string>uhornacute</string>
 		<string>uhorngrave</string>
@@ -628,6 +1552,7 @@
 		<string>zacute</string>
 		<string>zdotaccent</string>
 		<string>zcaron</string>
+		<string>zdotbelow</string>
 		<string>ordfeminine</string>
 		<string>ordmasculine</string>
 		<string>germandbls</string>
@@ -654,6 +1579,7 @@
 		<string>fi</string>
 		<string>fl</string>
 		<string>f_f_i</string>
+		<string>f_f_l</string>
 		<string>s_t</string>
 		<string>a.salt</string>
 		<string>agrave.salt</string>
@@ -679,26 +1605,37 @@
 		<string>b.salt</string>
 		<string>d.salt</string>
 		<string>dcaron.salt</string>
+		<string>ddotbelow.salt</string>
+		<string>dlinebelow.salt</string>
 		<string>f.salt</string>
 		<string>g.salt</string>
 		<string>gcircumflex.salt</string>
 		<string>gbreve.salt</string>
 		<string>gdotaccent.salt</string>
 		<string>gcaron.salt</string>
+		<string>gmacron.salt</string>
 		<string>m.salt</string>
+		<string>mdotbelow.salt</string>
 		<string>n.salt</string>
 		<string>ntilde.salt</string>
 		<string>nacute.salt</string>
 		<string>ncaron.salt</string>
+		<string>ndotbelow.salt</string>
+		<string>nlinebelow.salt</string>
 		<string>p.salt</string>
 		<string>r.salt</string>
 		<string>racute.salt</string>
 		<string>rcaron.salt</string>
 		<string>rinvertedbreve.salt</string>
+		<string>rdotbelow.salt</string>
+		<string>rlinebelow.salt</string>
 		<string>t.salt</string>
 		<string>tcedilla.salt</string>
 		<string>tcaron.salt</string>
 		<string>tcommaaccent.salt</string>
+		<string>tdotbelow.salt</string>
+		<string>tlinebelow.salt</string>
+		<string>tdieresis.salt</string>
 		<string>u.salt</string>
 		<string>ugrave.salt</string>
 		<string>uacute.salt</string>
@@ -712,6 +1649,8 @@
 		<string>uogonek.salt</string>
 		<string>uhorn.salt</string>
 		<string>uinvertedbreve.salt</string>
+		<string>utildeacute.salt</string>
+		<string>umacrondieresis.salt</string>
 		<string>udotbelow.salt</string>
 		<string>uhornacute.salt</string>
 		<string>uhorngrave.salt</string>
@@ -728,6 +1667,7 @@
 		<string>ordfeminine.smcp</string>
 		<string>ordmasculine.smcp</string>
 		<string>germandbls.smcp</string>
+		<string>kgreenlandic.smcp</string>
 		<string>florin.smcp</string>
 		<string>a.superior</string>
 		<string>b.superior</string>
@@ -757,12 +1697,15 @@
 		<string>Dzcaron</string>
 		<string>Lj</string>
 		<string>Nj</string>
+		<string>primemod</string>
+		<string>commaturnedmod</string>
 		<string>apostrophemod</string>
 		<string>circumflex</string>
 		<string>caron</string>
+		<string>verticallinemod</string>
+		<string>verticallinelowmod</string>
 		<string>i.superior</string>
 		<string>n.superior</string>
-		<string>uni0338</string>
 		<string>zero</string>
 		<string>one</string>
 		<string>two</string>
@@ -824,6 +1767,16 @@
 		<string>seven.smcp</string>
 		<string>eight.smcp</string>
 		<string>nine.smcp</string>
+		<string>zero.subs</string>
+		<string>one.subs</string>
+		<string>two.subs</string>
+		<string>three.subs</string>
+		<string>four.subs</string>
+		<string>five.subs</string>
+		<string>six.subs</string>
+		<string>seven.subs</string>
+		<string>eight.subs</string>
+		<string>nine.subs</string>
 		<string>zero.tnum</string>
 		<string>one.tnum</string>
 		<string>two.tnum</string>
@@ -873,8 +1826,10 @@
 		<string>nineinferior</string>
 		<string>underscore</string>
 		<string>hyphen</string>
+		<string>figuredash</string>
 		<string>endash</string>
 		<string>emdash</string>
+		<string>horizontalbar</string>
 		<string>hyphen.case</string>
 		<string>endash.case</string>
 		<string>emdash.case</string>
@@ -908,6 +1863,8 @@
 		<string>quoteleft</string>
 		<string>quotedblleft</string>
 		<string>guilsinglleft</string>
+		<string>guillemetleft.case</string>
+		<string>guilsinglleft.case</string>
 		<string>quoteleft.smcp</string>
 		<string>quotedblleft.smcp</string>
 		<string>guillemetright</string>
@@ -915,6 +1872,8 @@
 		<string>quoteright</string>
 		<string>quotedblright</string>
 		<string>guilsinglright</string>
+		<string>guillemetright.case</string>
+		<string>guilsinglright.case</string>
 		<string>quoteright.smcp</string>
 		<string>quotedblright.smcp</string>
 		<string>exclam</string>
@@ -940,11 +1899,18 @@
 		<string>bullet</string>
 		<string>ellipsis</string>
 		<string>perthousand</string>
+		<string>minute</string>
+		<string>second</string>
+		<string>slash.case</string>
 		<string>at.case</string>
+		<string>backslash.case</string>
 		<string>exclamdown.case</string>
+		<string>periodcentered.case</string>
 		<string>questiondown.case</string>
+		<string>bullet.case</string>
 		<string>periodcentered.loclCAT</string>
 		<string>periodcentered.loclCAT.case</string>
+		<string>periodcentered.loclCAT.smcp</string>
 		<string>ampersand.salt</string>
 		<string>exclam.smcp</string>
 		<string>quotedbl.smcp</string>
@@ -956,6 +1922,7 @@
 		<string>question.smcp</string>
 		<string>at.smcp</string>
 		<string>exclamdown.smcp</string>
+		<string>periodcentered.smcp</string>
 		<string>questiondown.smcp</string>
 		<string>bullet.smcp</string>
 		<string>perthousand.smcp</string>
@@ -971,7 +1938,8 @@
 		<string>divide</string>
 		<string>fraction</string>
 		<string>partialdiff</string>
-		<string>uni2206</string>
+		<string>emptyset</string>
+		<string>increment</string>
 		<string>product</string>
 		<string>summation</string>
 		<string>minus</string>
@@ -1037,9 +2005,14 @@
 		<string>degree.smcp</string>
 		<string>space</string>
 		<string>nbspace</string>
+		<string>figurespace</string>
+		<string>punctuationspace</string>
+		<string>thinspace</string>
+		<string>hairspace</string>
 		<string>.notdef</string>
 		<string>uni000D</string>
 		<string>uni00AD</string>
+		<string>zerowidthspace</string>
 		<string>uni00AD.case</string>
 		<string>uni00AD.smcp</string>
 		<string>manat</string>
@@ -1060,16 +2033,22 @@
 		<string>Kcommaaccent</string>
 		<string>Lcommaaccent</string>
 		<string>Ncommaaccent</string>
+		<string>Ndotaccent</string>
 		<string>Ocircumflexhookabove</string>
 		<string>Odblgrave</string>
 		<string>Odotaccentmacron</string>
+		<string>Ohm</string>
 		<string>Ohookabove</string>
 		<string>Ohornhookabove</string>
 		<string>Rcommaaccent</string>
 		<string>Rdblgrave</string>
+		<string>Scarondotaccent</string>
+		<string>Sdotaccent</string>
+		<string>Sdotbelowdotaccent</string>
 		<string>Udblgrave</string>
 		<string>Uhookabove</string>
 		<string>Uhornhookabove</string>
+		<string>Ydotaccent</string>
 		<string>Yhookabove</string>
 		<string>abrevehookabove</string>
 		<string>acircumflexhookabove</string>
@@ -1098,16 +2077,19 @@
 		<string>dieresiscomb</string>
 		<string>dotaccentcomb</string>
 		<string>dotbelowcomb</string>
+		<string>doubleprimemod</string>
 		<string>ecircumflexhookabove</string>
 		<string>edblgrave</string>
 		<string>ehookabove</string>
 		<string>euro</string>
 		<string>firsttonechinese</string>
+		<string>fourthtonechinese</string>
 		<string>gcommaaccent</string>
 		<string>gravecomb</string>
 		<string>hookabovecomb</string>
 		<string>horncomb</string>
 		<string>hungarumlautcomb</string>
+		<string>hyphentwo</string>
 		<string>idblgrave</string>
 		<string>idotaccent</string>
 		<string>idotless</string>
@@ -1120,6 +2102,7 @@
 		<string>macroncomb</string>
 		<string>micro</string>
 		<string>ncommaaccent</string>
+		<string>ndotaccent</string>
 		<string>ocircumflexhookabove</string>
 		<string>odblgrave</string>
 		<string>odotaccentmacron</string>
@@ -1129,14 +2112,21 @@
 		<string>rcommaaccent</string>
 		<string>rdblgrave</string>
 		<string>ringcomb</string>
+		<string>ringhalfleft</string>
+		<string>ringhalfright</string>
 		<string>rupeeIndian</string>
+		<string>scarondotaccent</string>
 		<string>schwa</string>
+		<string>sdotaccent</string>
+		<string>sdotbelowdotaccent</string>
+		<string>secondtonechinese</string>
 		<string>softhyphen</string>
 		<string>strokeshortcomb</string>
 		<string>tildecomb</string>
 		<string>udblgrave</string>
 		<string>uhookabove</string>
 		<string>uhornhookabove</string>
+		<string>ydotaccent</string>
 		<string>yhookabove</string>
 		<string>caroncomb.alt</string>
 		<string>acutecomb.case</string>
@@ -1163,18 +2153,21 @@
 		<string>ringcomb.case</string>
 		<string>tildecomb.case</string>
 		<string>Ncommaaccent.salt</string>
+		<string>Ndotaccent.salt</string>
 		<string>abrevehookabove.salt</string>
 		<string>acircumflexhookabove.salt</string>
 		<string>adblgrave.salt</string>
 		<string>ahookabove.salt</string>
 		<string>gcommaaccent.salt</string>
 		<string>ncommaaccent.salt</string>
+		<string>ndotaccent.salt</string>
 		<string>rcommaaccent.salt</string>
 		<string>rdblgrave.salt</string>
 		<string>udblgrave.salt</string>
 		<string>uhookabove.salt</string>
 		<string>uhornhookabove.salt</string>
 		<string>Ncommaaccent.salt.smcp</string>
+		<string>Ndotaccent.salt.smcp</string>
 		<string>Abrevehookabove.smcp</string>
 		<string>Acircumflexhookabove.smcp</string>
 		<string>Adblgrave.smcp</string>
@@ -1188,6 +2181,7 @@
 		<string>Kcommaaccent.smcp</string>
 		<string>Lcommaaccent.smcp</string>
 		<string>Ncommaaccent.smcp</string>
+		<string>Ndotaccent.smcp</string>
 		<string>Ocircumflexhookabove.smcp</string>
 		<string>Odblgrave.smcp</string>
 		<string>Odotaccentmacron.smcp</string>
@@ -1195,9 +2189,13 @@
 		<string>Ohornhookabove.smcp</string>
 		<string>Rcommaaccent.smcp</string>
 		<string>Rdblgrave.smcp</string>
+		<string>Scarondotaccent.smcp</string>
+		<string>Sdotaccent.smcp</string>
+		<string>Sdotbelowdotaccent.smcp</string>
 		<string>Udblgrave.smcp</string>
 		<string>Uhookabove.smcp</string>
 		<string>Uhornhookabove.smcp</string>
+		<string>Ydotaccent.smcp</string>
 		<string>Yhookabove.smcp</string>
 		<string>colonsign.smcp</string>
 		<string>euro.smcp</string>

@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="seven.numerator" format="1">
-  <advance width="430"/>
+  <advance width="386"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
   <outline>
     <contour>
-      <point x="104" y="611" type="line"/>
-      <point x="125" y="742" type="line"/>
-      <point x="502" y="742" type="line"/>
-      <point x="529" y="683" type="line"/>
-      <point x="278" y="255" type="line"/>
-      <point x="119" y="255" type="line"/>
-      <point x="328" y="611" type="line"/>
+      <point x="119.0" y="691" type="line"/>
+      <point x="282.0" y="691" type="line"/>
+      <point x="106.0" y="355" type="line"/>
+      <point x="288.0" y="355" type="line"/>
+      <point x="499.0" y="783" type="line"/>
+      <point x="472.0" y="842" type="line"/>
+      <point x="143.0" y="842" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -20,9 +23,15 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>611</integer>
+            <integer>0</integer>
             <key>width</key>
-            <integer>131</integer>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>558</integer>
+            <key>width</key>
+            <integer>174</integer>
           </dict>
         </array>
       </dict>
@@ -123,7 +132,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>430</integer>
+          <integer>386</integer>
         </dict>
       </dict>
     </dict>

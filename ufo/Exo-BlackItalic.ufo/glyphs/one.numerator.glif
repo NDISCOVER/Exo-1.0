@@ -1,32 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one.numerator" format="1">
-  <advance width="282"/>
+  <advance width="264"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
   <outline>
     <contour>
-      <point x="105" y="587" type="curve"/>
-      <point x="120" y="687" type="line"/>
-      <point x="120" y="687"/>
-      <point x="187" y="705"/>
-      <point x="219" y="742" type="curve"/>
-      <point x="363" y="742" type="line"/>
-      <point x="286" y="255" type="line"/>
-      <point x="140" y="255" type="line"/>
-      <point x="196" y="600" type="line"/>
-      <point x="168" y="578"/>
-      <point x="105" y="587"/>
+      <point x="126.0" y="708" type="line"/>
+      <point x="196.0" y="708" type="line"/>
+      <point x="140.0" y="355" type="line"/>
+      <point x="296.0" y="355" type="line"/>
+      <point x="374.0" y="842" type="line"/>
+      <point x="236.0" y="842" type="line"/>
+      <point x="140.0" y="804" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>712</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>105</integer>
+            <integer>140</integer>
             <key>width</key>
-            <integer>258</integer>
+            <integer>194</integer>
           </dict>
         </array>
       </dict>
@@ -159,7 +173,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>282</integer>
+          <integer>264</integer>
         </dict>
       </dict>
     </dict>

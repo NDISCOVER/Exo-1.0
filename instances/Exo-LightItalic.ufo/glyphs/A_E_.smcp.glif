@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE.smcp" format="1">
+  <advance width="772"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
+  <outline>
+    <contour>
+      <point x="259" y="211" type="line"/>
+      <point x="471" y="476" type="line"/>
+      <point x="428" y="211" type="line"/>
+    </contour>
+    <contour>
+      <point x="31" y="0" type="line"/>
+      <point x="89" y="0" type="line"/>
+      <point x="225" y="165" type="line"/>
+      <point x="422" y="165" type="line"/>
+      <point x="410" y="86" type="line" smooth="yes"/>
+      <point x="400" y="8"/>
+      <point x="458" y="-4"/>
+      <point x="521" y="-3" type="curve" smooth="yes"/>
+      <point x="532" y="-3"/>
+      <point x="711" y="2"/>
+      <point x="734" y="5" type="curve"/>
+      <point x="741" y="46" type="line"/>
+      <point x="536" y="46" type="line" smooth="yes"/>
+      <point x="493" y="46"/>
+      <point x="455" y="56"/>
+      <point x="465" y="115" type="curve" smooth="yes"/>
+      <point x="487" y="254" type="line"/>
+      <point x="740" y="258" type="line"/>
+      <point x="747" y="299" type="line"/>
+      <point x="494" y="302" type="line"/>
+      <point x="515" y="434" type="line" smooth="yes"/>
+      <point x="524" y="493"/>
+      <point x="529" y="511"/>
+      <point x="601" y="511" type="curve" smooth="yes"/>
+      <point x="814" y="511" type="line"/>
+      <point x="821" y="553" type="line"/>
+      <point x="797" y="555"/>
+      <point x="615" y="560"/>
+      <point x="600" y="560" type="curve" smooth="yes"/>
+      <point x="505" y="561"/>
+      <point x="454" y="530"/>
+      <point x="384" y="442" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="519" y="650" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-3</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>7</integer>
+            <key>width</key>
+            <integer>14</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>252</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>351</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>708</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>708</integer>
+            <key>width</key>
+            <integer>14</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

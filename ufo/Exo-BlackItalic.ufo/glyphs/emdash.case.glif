@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="emdash.case" format="1">
-  <advance width="735"/>
+  <advance width="736"/>
   <outline>
-    <contour>
-      <point x="74" y="282" type="line"/>
-      <point x="99" y="437" type="line"/>
-      <point x="795" y="437" type="line"/>
-      <point x="770" y="282" type="line"/>
-    </contour>
+    <component base="emdash" yOffset="70"/>
   </outline>
   <lib>
     <dict>
@@ -44,7 +39,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>74</integer>
+                  <integer>20</integer>
                   <key>y</key>
                   <integer>282</integer>
                 </dict>
@@ -54,7 +49,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>99</integer>
+                  <integer>20</integer>
                   <key>y</key>
                   <integer>437</integer>
                 </dict>
@@ -64,7 +59,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>795</integer>
+                  <integer>716</integer>
                   <key>y</key>
                   <integer>437</integer>
                 </dict>
@@ -74,7 +69,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>770</integer>
+                  <integer>716</integer>
                   <key>y</key>
                   <integer>282</integer>
                 </dict>
@@ -90,9 +85,16 @@
           <array>
           </array>
           <key>width</key>
-          <integer>735</integer>
+          <integer>736</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>0.8</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

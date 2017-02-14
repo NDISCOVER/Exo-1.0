@@ -1,35 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="twosuperior" format="1">
-  <advance width="449"/>
+  <advance width="421"/>
   <unicode hex="00B2"/>
   <note>
-    GF Latin Plus glyph
   </note>
   <outline>
     <contour>
-      <point x="197.0" y="804" type="line"/>
-      <point x="342.0" y="804" type="line" smooth="yes"/>
-      <point x="445.0" y="804"/>
-      <point x="474.0" y="768"/>
-      <point x="474.0" y="719" type="curve" smooth="yes"/>
-      <point x="474.0" y="662"/>
-      <point x="433.0" y="589"/>
-      <point x="328.0" y="500" type="curve" smooth="yes"/>
-      <point x="92.0" y="299" type="line"/>
-      <point x="89.0" y="280" type="line"/>
-      <point x="451.0" y="280" type="line"/>
-      <point x="455.0" y="301" type="line"/>
-      <point x="125.0" y="301" type="line"/>
-      <point x="342.0" y="488" type="line" smooth="yes"/>
-      <point x="449.0" y="580"/>
-      <point x="496.0" y="659"/>
-      <point x="496.0" y="720" type="curve" smooth="yes"/>
-      <point x="496.0" y="781"/>
-      <point x="459.0" y="824"/>
-      <point x="352.0" y="824" type="curve" smooth="yes"/>
-      <point x="300.0" y="824"/>
-      <point x="243.0" y="821"/>
-      <point x="199.0" y="819" type="curve"/>
+      <point x="204.0" y="826" type="line"/>
+      <point x="335.0" y="826" type="line" smooth="yes"/>
+      <point x="427.0" y="826"/>
+      <point x="453" y="794"/>
+      <point x="453.0" y="750" type="curve" smooth="yes"/>
+      <point x="453" y="689"/>
+      <point x="425.0" y="627"/>
+      <point x="335.0" y="554" type="curve" smooth="yes"/>
+      <point x="110.0" y="374" type="line"/>
+      <point x="108.0" y="355" type="line"/>
+      <point x="434.0" y="355" type="line"/>
+      <point x="437.0" y="376" type="line"/>
+      <point x="146" y="376" type="line"/>
+      <point x="351" y="542" type="line" smooth="yes"/>
+      <point x="445" y="618"/>
+      <point x="475" y="687"/>
+      <point x="475.0" y="753" type="curve" smooth="yes"/>
+      <point x="475" y="807"/>
+      <point x="441.0" y="846"/>
+      <point x="345.0" y="846" type="curve" smooth="yes"/>
+      <point x="298.0" y="846"/>
+      <point x="246.0" y="843"/>
+      <point x="206.0" y="841" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -61,7 +60,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>506</integer>
+            <integer>528</integer>
             <key>width</key>
             <integer>25</integer>
           </dict>

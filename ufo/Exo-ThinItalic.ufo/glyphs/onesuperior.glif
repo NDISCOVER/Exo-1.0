@@ -1,19 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onesuperior" format="1">
-  <advance width="267"/>
+  <advance width="421"/>
   <unicode hex="00B9"/>
   <note>
-    GF Latin Plus glyph
   </note>
   <outline>
     <contour>
-      <point x="159.0" y="753" type="line"/>
-      <point x="291.0" y="797" type="line"/>
-      <point x="209.0" y="280" type="line"/>
-      <point x="231.0" y="280" type="line"/>
-      <point x="317.0" y="820" type="line"/>
-      <point x="295.0" y="820" type="line"/>
-      <point x="161.0" y="767" type="line"/>
+      <point x="132.0" y="375" type="line"/>
+      <point x="129.0" y="355" type="line"/>
+      <point x="417.0" y="355" type="line"/>
+      <point x="420.0" y="375" type="line"/>
+    </contour>
+    <contour>
+      <point x="204.0" y="785" type="line"/>
+      <point x="336.0" y="824" type="line"/>
+      <point x="262.0" y="355" type="line"/>
+      <point x="284.0" y="355" type="line"/>
+      <point x="362.0" y="847" type="line"/>
+      <point x="341.0" y="847" type="line"/>
+      <point x="207.0" y="800" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -24,9 +29,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>0</integer>
+            <integer>-1</integer>
             <key>width</key>
-            <integer>21</integer>
+            <integer>28</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -39,7 +44,7 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>222</integer>
+            <integer>346</integer>
             <key>width</key>
             <integer>24</integer>
           </dict>

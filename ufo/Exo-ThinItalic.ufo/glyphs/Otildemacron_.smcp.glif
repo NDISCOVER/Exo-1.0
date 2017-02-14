@@ -3,8 +3,8 @@
   <advance width="574"/>
   <outline>
     <component base="O.smcp"/>
-    <component base="macroncomb" xOffset="667.0"/>
-    <component base="tildecomb" xOffset="667.0"/>
+    <component base="macroncomb" xOffset="667" yOffset="130"/>
+    <component base="tildecomb" xOffset="627"/>
   </outline>
   <lib>
     <dict>

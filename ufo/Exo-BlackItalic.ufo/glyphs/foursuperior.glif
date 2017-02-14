@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="foursuperior" format="1">
-  <advance width="440"/>
+  <advance width="414"/>
   <unicode hex="2074"/>
   <note>
     GF Latin Plus glyph
   </note>
   <outline>
     <contour>
-      <point x="95.0" y="500" type="line"/>
-      <point x="112.0" y="434" type="line"/>
-      <point x="309.0" y="434" type="line"/>
-      <point x="296.0" y="355" type="line"/>
-      <point x="452.0" y="355" type="line"/>
-      <point x="465.0" y="434" type="line"/>
-      <point x="498.0" y="457" type="line"/>
-      <point x="516.0" y="561" type="line"/>
-      <point x="485.0" y="561" type="line"/>
-      <point x="504.0" y="683" type="line"/>
-      <point x="377.0" y="683" type="line"/>
-      <point x="337.0" y="615" type="line"/>
-      <point x="329.0" y="561" type="line"/>
-      <point x="292.0" y="561" type="line"/>
-      <point x="438.0" y="842" type="line"/>
-      <point x="279.0" y="842" type="line"/>
+      <point x="78.0" y="500" type="line"/>
+      <point x="94.0" y="434" type="line"/>
+      <point x="292.0" y="434" type="line"/>
+      <point x="279.0" y="355" type="line"/>
+      <point x="433.0" y="355" type="line"/>
+      <point x="446.0" y="434" type="line"/>
+      <point x="480.0" y="457" type="line"/>
+      <point x="498.0" y="561" type="line"/>
+      <point x="466.0" y="561" type="line"/>
+      <point x="485.0" y="683" type="line"/>
+      <point x="360.0" y="683" type="line"/>
+      <point x="320.0" y="615" type="line"/>
+      <point x="312.0" y="561" type="line"/>
+      <point x="272.0" y="561" type="line"/>
+      <point x="420.0" y="842" type="line"/>
+      <point x="263.0" y="842" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -39,9 +39,15 @@
           </dict>
           <dict>
             <key>position</key>
-            <integer>137</integer>
+            <integer>212</integer>
             <key>width</key>
-            <integer>178</integer>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>222</integer>
+            <key>width</key>
+            <integer>14</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -54,12 +60,25 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>370</integer>
+            <integer>475</integer>
             <key>width</key>
-            <integer>194</integer>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>485</integer>
+            <key>width</key>
+            <integer>14</integer>
           </dict>
         </array>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>0.8</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="threequarters" format="1">
-  <advance width="1104.3728052931456"/>
+  <advance width="1155.7889608899002"/>
   <unicode hex="00BE"/>
   <note>
     GF Latin Plus glyph
   </note>
   <outline>
-    <component base="fraction" xOffset="350"/>
-    <component base="four.denominator" xOffset="655"/>
+    <component base="fraction" xOffset="340"/>
+    <component base="four.denominator" xOffset="695" yOffset="-65"/>
     <component base="three.numerator" xOffset="10"/>
   </outline>
   <lib>
@@ -352,7 +352,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>1104.3728052931456</real>
+          <real>1155.7889608899002</real>
         </dict>
       </dict>
     </dict>

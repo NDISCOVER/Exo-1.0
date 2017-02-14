@@ -15,21 +15,25 @@
     <!-- don't generate these glyphs -->
     <ignore glyphs=""/>
     <!-- axis definitions -->
-    <axis initialvalue="0.000000" maximum="1000.000000" minimum="0.000000" name="weight" shortname="wt">
+    <axis initialvalue="0.000000" maximum="1000.000000" minimum="0.000000" name="weight" shortname="wght">
         <color a="1.000" b="0.764" g="0.000" r="0.989"/>
     </axis>
     <!-- master definitions -->
-    <master familyname="Exo 2016" filename="ufo/Exo-ThinItalic.ufo" sortorder="0" stylename="ThinItalic">
+    <master familyname="Exo" filename="ufo/Exo-ThinItalic.ufo" sortorder="0" stylename="ThinItalic">
         <location>
             <dimension name="weight" xvalue="100.000000"/>
         </location>
         <color a="1.000" b="0.300" g="0.300" r="0.300"/>
     </master>
-    <master familyname="Exo 2016" filename="ufo/Exo-BlackItalic.ufo" sortorder="8" stylename="BlackItalic">
+    <master familyname="Exo" filename="ufo/Exo-BlackItalic.ufo" sortorder="8" stylename="BlackItalic">
         <location>
             <dimension name="weight" xvalue="900.000000"/>
         </location>
         <color a="1.000" b="0.300" g="0.300" r="0.300"/>
+        <provideFeatures state="1"/>
+        <provideGroups state="1"/>
+        <provideLib state="1"/>
+        <provideInfo state="1"/>
     </master>
     <!-- instance definitions -->
     <instance familyname="Exo" filename="instances/Exo-ExtraLightItalic.ufo" sortorder="1" stylename="ExtraLight Italic">

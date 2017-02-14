@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="twosuperior" format="1">
-  <advance width="393"/>
+  <advance width="414"/>
   <unicode hex="00B2"/>
   <note>
     GF Latin Plus glyph
   </note>
   <outline>
     <contour>
-      <point x="143.0" y="703" type="line"/>
-      <point x="294.0" y="703" type="line" smooth="yes"/>
-      <point x="298.0" y="703"/>
-      <point x="306.0" y="699"/>
-      <point x="306.0" y="683" type="curve" smooth="yes"/>
-      <point x="306.0" y="665"/>
-      <point x="293.0" y="642"/>
-      <point x="273.0" y="623" type="curve" smooth="yes"/>
-      <point x="102.0" y="474" type="line"/>
-      <point x="83.0" y="355" type="line"/>
-      <point x="431.0" y="355" type="line"/>
-      <point x="453.0" y="490" type="line"/>
-      <point x="318.0" y="490" type="line"/>
-      <point x="394.0" y="558" type="line" smooth="yes"/>
-      <point x="446.0" y="604"/>
-      <point x="462.0" y="660"/>
-      <point x="461.0" y="729" type="curve" smooth="yes"/>
-      <point x="461.0" y="796"/>
-      <point x="424.0" y="846"/>
-      <point x="324.0" y="846" type="curve" smooth="yes"/>
-      <point x="253.0" y="846"/>
-      <point x="204.0" y="833"/>
-      <point x="162.0" y="823" type="curve"/>
+      <point x="155.0" y="703" type="line"/>
+      <point x="291.0" y="703" type="line" smooth="yes"/>
+      <point x="308.0" y="703"/>
+      <point x="317" y="700"/>
+      <point x="317" y="686" type="curve" smooth="yes"/>
+      <point x="317" y="677"/>
+      <point x="298.0" y="651"/>
+      <point x="271.0" y="623" type="curve" smooth="yes"/>
+      <point x="114.0" y="474" type="line"/>
+      <point x="95.0" y="355" type="line"/>
+      <point x="434.0" y="355" type="line"/>
+      <point x="456.0" y="490" type="line"/>
+      <point x="319.0" y="490" type="line"/>
+      <point x="377.0" y="547" type="line" smooth="yes"/>
+      <point x="455.0" y="622"/>
+      <point x="481.0" y="676"/>
+      <point x="481.0" y="745" type="curve" smooth="yes"/>
+      <point x="481.0" y="812"/>
+      <point x="444.0" y="846"/>
+      <point x="344.0" y="846" type="curve" smooth="yes"/>
+      <point x="271.0" y="846"/>
+      <point x="218.0" y="833"/>
+      <point x="174.0" y="823" type="curve"/>
     </contour>
   </outline>
   <lib>
@@ -42,31 +42,38 @@
             <key>position</key>
             <integer>0</integer>
             <key>width</key>
-            <integer>174</integer>
+            <integer>24</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>567</integer>
+            <integer>717</integer>
             <key>width</key>
-            <integer>175</integer>
+            <integer>25</integer>
           </dict>
           <dict>
             <key>position</key>
-            <integer>567</integer>
+            <integer>717</integer>
             <key>width</key>
-            <integer>145</integer>
+            <integer>15</integer>
           </dict>
         </array>
         <key>vhints</key>
         <array>
           <dict>
             <key>position</key>
-            <integer>360</integer>
+            <integer>528</integer>
             <key>width</key>
-            <integer>194</integer>
+            <integer>25</integer>
           </dict>
         </array>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>0.8</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

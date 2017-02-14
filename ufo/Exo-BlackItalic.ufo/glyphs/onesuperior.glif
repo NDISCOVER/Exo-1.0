@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onesuperior" format="1">
-  <advance width="264"/>
+  <advance width="414"/>
   <unicode hex="00B9"/>
   <note>
     GF Latin Plus glyph
   </note>
   <outline>
     <contour>
-      <point x="126.0" y="708" type="line"/>
-      <point x="196.0" y="708" type="line"/>
-      <point x="140.0" y="355" type="line"/>
-      <point x="296.0" y="355" type="line"/>
-      <point x="374.0" y="842" type="line"/>
-      <point x="236.0" y="842" type="line"/>
-      <point x="140.0" y="804" type="line"/>
+      <point x="125.0" y="490" type="line"/>
+      <point x="103.0" y="355" type="line"/>
+      <point x="440.0" y="355" type="line"/>
+      <point x="462.0" y="490" type="line"/>
+    </contour>
+    <contour>
+      <point x="167" y="712" type="line"/>
+      <point x="252" y="712" type="line"/>
+      <point x="195.0" y="355" type="line"/>
+      <point x="349.0" y="355" type="line"/>
+      <point x="427.0" y="846" type="line"/>
+      <point x="290.0" y="846" type="line"/>
+      <point x="182.0" y="808" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -24,9 +30,9 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>0</integer>
+            <integer>-1</integer>
             <key>width</key>
-            <integer>21</integer>
+            <integer>28</integer>
           </dict>
           <dict>
             <key>position</key>
@@ -39,12 +45,19 @@
         <array>
           <dict>
             <key>position</key>
-            <integer>140</integer>
+            <integer>346</integer>
             <key>width</key>
-            <integer>194</integer>
+            <integer>24</integer>
           </dict>
         </array>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>0.8</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

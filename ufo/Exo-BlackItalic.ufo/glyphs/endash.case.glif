@@ -2,12 +2,7 @@
 <glyph name="endash.case" format="1">
   <advance width="513"/>
   <outline>
-    <contour>
-      <point x="74" y="280" type="line"/>
-      <point x="99" y="435" type="line"/>
-      <point x="572" y="435" type="line"/>
-      <point x="547" y="280" type="line"/>
-    </contour>
+    <component base="endash" yOffset="70"/>
   </outline>
   <lib>
     <dict>
@@ -44,7 +39,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>74</integer>
+                  <integer>20</integer>
                   <key>y</key>
                   <integer>280</integer>
                 </dict>
@@ -54,7 +49,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>99</integer>
+                  <integer>20</integer>
                   <key>y</key>
                   <integer>435</integer>
                 </dict>
@@ -64,7 +59,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>572</integer>
+                  <integer>493</integer>
                   <key>y</key>
                   <integer>435</integer>
                 </dict>
@@ -74,7 +69,7 @@
                   <key>smooth</key>
                   <false/>
                   <key>x</key>
-                  <integer>547</integer>
+                  <integer>493</integer>
                   <key>y</key>
                   <integer>280</integer>
                 </dict>
@@ -93,6 +88,13 @@
           <integer>513</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>0.8</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -9,7 +9,7 @@
     <data name="lineInverted" value="False"/>
     <data name="lineViewFilled" value="True"/>
     <data name="lineStacked" value="lined"/>
-    <data name="generateFontsAtFolder" value="/Users/rob/Dropbox/Work/2016/Google Fonts/02_Production/Exo-2016/instances"/>
+    <data name="generateFontsAtFolder" value="/Users/rob/Dropbox/Work/2016/Google Fonts/02_Production/Exo-2016/source/instances"/>
     <data name="previewtext" value="OHamburgefontives ABCDEFGHIJKLmnopqrstuvwxyz"/>
     <data name="verticalPreviewAxis" value="None"/>
     <!-- don't generate these glyphs -->
@@ -19,13 +19,13 @@
         <color a="1.000" b="0.764" g="0.000" r="0.989"/>
     </axis>
     <!-- master definitions -->
-    <master familyname="Exo" filename="ufo/Exo-ThinItalic.ufo" sortorder="0" stylename="ThinItalic">
+    <master familyname="Exo" filename="ufo/Exo-ThinItalic.ufo" sortorder="0" stylename="Thin Italic">
         <location>
             <dimension name="weight" xvalue="100.000000"/>
         </location>
         <color a="1.000" b="0.300" g="0.300" r="0.300"/>
     </master>
-    <master familyname="Exo" filename="ufo/Exo-BlackItalic.ufo" sortorder="8" stylename="BlackItalic">
+    <master familyname="Exo" filename="ufo/Exo-BlackItalic.ufo" sortorder="8" stylename="Black Italic">
         <location>
             <dimension name="weight" xvalue="900.000000"/>
         </location>

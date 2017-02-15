@@ -47,6 +47,9 @@
       <point x="185" y="763" type="line"/>
     </contour>
     <contour>
+      <point x="249" y="850" type="move" name="top"/>
+    </contour>
+    <contour>
       <point x="266" y="-150" type="move" name="bottom"/>
     </contour>
   </outline>

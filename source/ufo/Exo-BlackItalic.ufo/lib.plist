@@ -1431,6 +1431,13 @@
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
+		<key>@MMK_R_quote.smcp</key>
+		<array>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
 		<key>@MMK_R_r</key>
 		<array>
 			<real>1.0</real>
@@ -2123,7 +2130,8 @@
 		<string>secondtonechinese</string>
 		<string>Ncaron.smcp</string>
 		<string>u.salt</string>
-		<string>udblgrave.salt</string>
+		<string>strokeshortcomb</string>
+		<string>wgrave.salt</string>
 		<string>rlinebelow.salt</string>
 		<string>M.salt</string>
 		<string>Uinvertedbreve.smcp</string>
@@ -2140,6 +2148,7 @@
 		<string>tdotbelow</string>
 		<string>seven.tnum</string>
 		<string>C.smcp</string>
+		<string>quotedblbase.smcp</string>
 		<string>otildeacute</string>
 		<string>udotbelow.salt</string>
 		<string>Einvertedbreve.smcp</string>
@@ -2150,8 +2159,7 @@
 		<string>nine.subs</string>
 		<string>tcedilla.salt</string>
 		<string>Tlinebelow.smcp</string>
-		<string>Edieresis.smcp</string>
-		<string>wgrave.salt</string>
+		<string>Idieresisacute.smcp</string>
 		<string>Tcedilla.smcp</string>
 		<string>endash.case</string>
 		<string>T.smcp</string>
@@ -2163,6 +2171,7 @@
 		<string>ndotaccent</string>
 		<string>Hcircumflex.smcp</string>
 		<string>Ydotaccent</string>
+		<string>Acircumflexacute.smcp</string>
 		<string>three.numerator</string>
 		<string>quotesingle.smcp</string>
 		<string>Uhornacute.smcp</string>
@@ -2181,8 +2190,10 @@
 		<string>Icircumflex.smcp</string>
 		<string>twoinferior</string>
 		<string>A.smcp</string>
+		<string>zeroinferior</string>
 		<string>E.smcp</string>
 		<string>bracketright.case</string>
+		<string>uni1E40</string>
 		<string>d.salt</string>
 		<string>AEacute.smcp</string>
 		<string>zero.oldstyle.zero</string>
@@ -2191,6 +2202,7 @@
 		<string>six.oldstyle</string>
 		<string>ringhalfright</string>
 		<string>amacron.salt</string>
+		<string>uni1E0B.salt</string>
 		<string>c_h</string>
 		<string>c_k</string>
 		<string>c_t</string>
@@ -2199,9 +2211,11 @@
 		<string>N.salt</string>
 		<string>Ecircumflexgrave.smcp</string>
 		<string>Ehookabove.smcp</string>
+		<string>uni1E41.salt</string>
 		<string>z.superior</string>
 		<string>Lcommaaccent.smcp</string>
-		<string>strokeshortcomb</string>
+		<string>uni1E1E</string>
+		<string>uni1E1F</string>
 		<string>M.salt.smcp</string>
 		<string>bracketleft.case</string>
 		<string>Abrevegrave.smcp</string>
@@ -2209,6 +2223,7 @@
 		<string>at.smcp</string>
 		<string>six.numerator</string>
 		<string>bullet.smcp</string>
+		<string>Rlinebelow</string>
 		<string>perthousand.smcp</string>
 		<string>Ntilde.salt</string>
 		<string>Cacute.smcp</string>
@@ -2225,12 +2240,14 @@
 		<string>ndotbelow</string>
 		<string>ncaron.salt</string>
 		<string>tdieresis</string>
+		<string>uni1E60</string>
 		<string>F.smcp</string>
 		<string>ubreve.salt</string>
 		<string>Acircumflexgrave.smcp</string>
 		<string>Sacutedotaccent.smcp</string>
 		<string>florin.smcp</string>
 		<string>Rinvertedbreve.smcp</string>
+		<string>uni1E57.salt</string>
 		<string>t.superior</string>
 		<string>Ccedillaacute.smcp</string>
 		<string>dollar.smcp</string>
@@ -2288,13 +2305,15 @@
 		<string>tdieresis.salt</string>
 		<string>infinity</string>
 		<string>Nacute.salt</string>
+		<string>uni00B5</string>
 		<string>M.smcp</string>
 		<string>umacron.salt</string>
 		<string>Wcircumflex.smcp</string>
 		<string>figurespace</string>
 		<string>Scarondotaccent.smcp</string>
+		<string>uni1E6B.salt</string>
 		<string>Rdblgrave.smcp</string>
-		<string>ntilde.salt</string>
+		<string>uni1E1F.salt</string>
 		<string>Udblgrave.smcp</string>
 		<string>two.denominator</string>
 		<string>liraTurkish.smcp</string>
@@ -2306,7 +2325,6 @@
 		<string>Otildedieresis.smcp</string>
 		<string>questiondown.smcp</string>
 		<string>utildeacute</string>
-		<string>Eogonek.smcp</string>
 		<string>Iinvertedbreve.smcp</string>
 		<string>sdotbelowdotaccent</string>
 		<string>Emacronacute.smcp</string>
@@ -2334,6 +2352,7 @@
 		<string>Ndotaccent</string>
 		<string>Rdotbelow.smcp</string>
 		<string>umacrondieresis</string>
+		<string>omacronacute</string>
 		<string>Etilde.smcp</string>
 		<string>f.salt</string>
 		<string>Ncommaaccent.salt.smcp</string>
@@ -2341,10 +2360,11 @@
 		<string>aringacute.salt</string>
 		<string>wcircumflex.salt</string>
 		<string>braceleft.smcp</string>
-		<string>G.smcp</string>
+		<string>uni1E40.salt.smcp</string>
 		<string>three.tnum</string>
 		<string>zerowidthspace</string>
 		<string>quoteleft.smcp</string>
+		<string>udblgrave.salt</string>
 		<string>dcroat.salt</string>
 		<string>periodcentered.case</string>
 		<string>nlinebelow.salt</string>
@@ -2367,15 +2387,19 @@
 		<string>periodcentered.loclCAT.smcp</string>
 		<string>Aogonek.smcp</string>
 		<string>Omacrongrave</string>
+		<string>uni1E56.smcp</string>
 		<string>Abrevetilde.smcp</string>
 		<string>increment</string>
 		<string>Abreveacute.smcp</string>
 		<string>estimated</string>
 		<string>bracketright.smcp</string>
+		<string>uni1E41</string>
 		<string>q.superior</string>
 		<string>Adotbelow.smcp</string>
+		<string>uni1E03.salt</string>
 		<string>Omega</string>
 		<string>Acircumflexdotbelow.smcp</string>
+		<string>uni1E6A.smcp</string>
 		<string>backslash.case</string>
 		<string>verticallinemod</string>
 		<string>three.tosf</string>
@@ -2386,9 +2410,8 @@
 		<string>Idieresis.smcp</string>
 		<string>Eacute.smcp</string>
 		<string>euro.smcp</string>
-		<string>Acircumflexacute.smcp</string>
+		<string>G.smcp</string>
 		<string>y.superior</string>
-		<string>Rlinebelow.smcp</string>
 		<string>eight.numerator</string>
 		<string>Tcommaaccent.smcp</string>
 		<string>six.smcp</string>
@@ -2400,7 +2423,6 @@
 		<string>uhorngrave.salt</string>
 		<string>four.denominator</string>
 		<string>eight.tnum</string>
-		<string>hyphen.smcp</string>
 		<string>tlinebelow</string>
 		<string>tbar.salt</string>
 		<string>lozenge</string>
@@ -2409,15 +2431,19 @@
 		<string>Ubreve.smcp</string>
 		<string>four.oldstyle</string>
 		<string>Ccircumflex.smcp</string>
-		<string>Lcaron.smcp</string>
+		<string>uni1E56</string>
+		<string>uni1E57</string>
 		<string>Ncaron.salt</string>
 		<string>six.tnum</string>
 		<string>two.tnum</string>
+		<string>uni1E6A</string>
 		<string>p.salt</string>
+		<string>uni1E6B</string>
 		<string>acircumflexhookabove.salt</string>
 		<string>Sdotbelowdotaccent</string>
 		<string>e.superior</string>
 		<string>doubleprimemod</string>
+		<string>uni1E61</string>
 		<string>rdblgrave.salt</string>
 		<string>ugrave.salt</string>
 		<string>nine.oldstyle</string>
@@ -2443,11 +2469,13 @@
 		<string>naira.smcp</string>
 		<string>Uhungarumlaut.smcp</string>
 		<string>pi</string>
+		<string>uni1E40.salt</string>
 		<string>brevecomb_gravecomb</string>
 		<string>Uhorntilde.smcp</string>
 		<string>p.superior</string>
 		<string>zero.tnum.zero</string>
 		<string>Z.smcp</string>
+		<string>ntilde.salt</string>
 		<string>one.tosf</string>
 		<string>gcircumflex.salt</string>
 		<string>brevecomb_acutecomb</string>
@@ -2469,7 +2497,7 @@
 		<string>Acircumflextilde.smcp</string>
 		<string>K.smcp</string>
 		<string>Ncaron.salt.smcp</string>
-		<string>Ohorngrave.smcp</string>
+		<string>Lcaron.smcp</string>
 		<string>rcaron.salt</string>
 		<string>Ccedilla.smcp</string>
 		<string>ninesuperior</string>
@@ -2510,7 +2538,6 @@
 		<string>guillemotleft</string>
 		<string>tlinebelow.salt</string>
 		<string>numbersign.smcp</string>
-		<string>Idieresisacute.smcp</string>
 		<string>Emacronacute</string>
 		<string>parenright.smcp</string>
 		<string>udieresis.salt</string>
@@ -2551,6 +2578,7 @@
 		<string>Omacrongrave.smcp</string>
 		<string>t.salt</string>
 		<string>Nlinebelow.salt.smcp</string>
+		<string>uni1E1E.smcp</string>
 		<string>Nlinebelow.salt</string>
 		<string>Zdotaccent.smcp</string>
 		<string>X.salt</string>
@@ -2567,7 +2595,7 @@
 		<string>Ldot.smcp</string>
 		<string>product</string>
 		<string>cedi.smcp</string>
-		<string>three.subs</string>
+		<string>uni1E0A.smcp</string>
 		<string>one.denominator</string>
 		<string>fourinferior</string>
 		<string>seven.numerator</string>
@@ -2613,6 +2641,7 @@
 		<string>Ntilde.salt.smcp</string>
 		<string>asterisk.smcp</string>
 		<string>eightsuperior</string>
+		<string>Edieresis.smcp</string>
 		<string>ncommaaccent.salt</string>
 		<string>eight.subs</string>
 		<string>Ohungarumlaut.smcp</string>
@@ -2622,12 +2651,15 @@
 		<string>uhornhookabove.salt</string>
 		<string>seven.smcp</string>
 		<string>guilsinglright.case</string>
-		<string>Rlinebelow</string>
+		<string>Odieresis.smcp</string>
 		<string>germandbls.smcp</string>
+		<string>three.subs</string>
 		<string>kgreenlandic.smcp</string>
 		<string>uring.salt</string>
 		<string>uhorn.salt</string>
 		<string>two.numerator</string>
+		<string>uni1E0B</string>
+		<string>uni1E0A</string>
 		<string>one.smcp</string>
 		<string>Nlinebelow.smcp</string>
 		<string>t_y</string>
@@ -2644,7 +2676,8 @@
 		<string>seven.denominator</string>
 		<string>Scircumflex.smcp</string>
 		<string>percent.smcp</string>
-		<string>zeroinferior</string>
+		<string>uni1E03</string>
+		<string>uni1E02</string>
 		<string>Oacute.smcp</string>
 		<string>i.superior</string>
 		<string>Sacutedotaccent</string>
@@ -2655,11 +2688,12 @@
 		<string>Wdieresis.salt.smcp</string>
 		<string>Zdotbelow</string>
 		<string>Ocircumflexgrave.smcp</string>
+		<string>Jcircumflex.smcp</string>
 		<string>integral</string>
 		<string>quoteright.smcp</string>
 		<string>thinspace</string>
 		<string>Mdotbelow.smcp</string>
-		<string>four.tnum</string>
+		<string>uni1E40.smcp</string>
 		<string>Ahookabove.smcp</string>
 		<string>rcommaaccent.salt</string>
 		<string>Atilde.smcp</string>
@@ -2669,10 +2703,9 @@
 		<string>Wcircumflex.salt.smcp</string>
 		<string>acircumflexacute.salt</string>
 		<string>Ocircumflextilde.smcp</string>
-		<string>S.smcp</string>
+		<string>exclam.smcp</string>
 		<string>Idblgrave.smcp</string>
 		<string>Uhornhookabove.smcp</string>
-		<string>Zdotbelow.smcp</string>
 		<string>guillemetleft.case</string>
 		<string>hyphentwo</string>
 		<string>s.superior</string>
@@ -2680,7 +2713,6 @@
 		<string>Uhorn.smcp</string>
 		<string>horizontalbar</string>
 		<string>mdotbelow</string>
-		<string>Ohorntilde.smcp</string>
 		<string>ordmasculine.smcp</string>
 		<string>W.smcp</string>
 		<string>uhorntilde.salt</string>
@@ -2690,14 +2722,16 @@
 		<string>Omacronacute.smcp</string>
 		<string>Ocircumflex.smcp</string>
 		<string>punctuationspace</string>
-		<string>omacronacute</string>
+		<string>uni1E02.smcp</string>
 		<string>dlinebelow</string>
 		<string>Umacron.smcp</string>
 		<string>Ecircumflexacute.smcp</string>
 		<string>Wacute.salt</string>
+		<string>Ohorngrave.smcp</string>
+		<string>Ohorntilde.smcp</string>
 		<string>t_t</string>
 		<string>abreve.salt</string>
-		<string>Jcircumflex.smcp</string>
+		<string>hyphen.smcp</string>
 		<string>utilde.salt</string>
 		<string>bracketleft.smcp</string>
 		<string>hairspace</string>
@@ -2725,16 +2759,19 @@
 		<string>W.salt</string>
 		<string>Acircumflex.smcp</string>
 		<string>hdotbelow</string>
+		<string>uni1E60.smcp</string>
 		<string>question.smcp</string>
+		<string>four.tnum</string>
 		<string>aring.salt</string>
 		<string>four.tosf</string>
+		<string>Rlinebelow.smcp</string>
 		<string>Sacute.smcp</string>
 		<string>Uhorngrave.smcp</string>
 		<string>circumflexcomb_hookabovecomb</string>
 		<string>utildeacute.salt</string>
 		<string>Ndotbelow.salt.smcp</string>
-		<string>Odieresis.smcp</string>
-		<string>quotedblbase.smcp</string>
+		<string>Zdotbelow.smcp</string>
+		<string>Eogonek.smcp</string>
 		<string>Ytilde.smcp</string>
 		<string>Sdotbelowdotaccent.smcp</string>
 		<string>scarondotaccent</string>
@@ -2743,7 +2780,7 @@
 		<string>Mdotbelow.salt</string>
 		<string>sacutedotaccent</string>
 		<string>N.smcp</string>
-		<string>exclam.smcp</string>
+		<string>S.smcp</string>
 		<string>ccedillaacute</string>
 		<string>Ograve.smcp</string>
 		<string>Omacronacute</string>

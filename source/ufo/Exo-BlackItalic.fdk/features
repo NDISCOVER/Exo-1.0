@@ -1262,11 +1262,7 @@ feature dnom {
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
 @GDEF_Simple = [A A.smcp AE AE.smcp B B.smcp C C.smcp D D.smcp E E.smcp F F.smcp G G.smcp H H.smcp I I.smcp J J.smcp K K.smcp L L.smcp M M.salt M.salt.smcp M.smcp N N.salt N.salt.smcp N.smcp O O.smcp Ohorn Ohorn.smcp Oslash Oslash.smcp P P.smcp R R.smcp S S.smcp T T.smcp U U.smcp Uhorn Uhorn.smcp W W.salt W.salt.smcp W.smcp X X.salt X.salt.smcp X.smcp Y Y.smcp Z Z.smcp a a.salt a.superior ae b b.salt c c.superior d d.salt d.superior dotlessi e e.superior f f.salt g g.salt g.superior h i i.superior idotless jdotless k k.superior l l.superior m m.salt m.superior n n.salt n.superior o o.superior ohorn oslash p p.salt r r.salt r.superior s s.superior t t.salt t.superior u u.salt u.superior uhorn uhorn.salt w w.salt w.superior x.salt y y.superior z z.superior];
-@GDEF_Ligature = [\ordmasculine \ordfeminine \fi \fl \b.superior \c.superior 
-	\d.superior \e.superior \f.superior \g.superior \h.superior \i.superior 
-	\j.superior \k.superior \l.superior \m.superior \n.superior \p.superior 
-	\q.superior \r.superior \s.superior \t.superior \u.superior \v.superior 
-	\w.superior \x.superior \y.superior \z.superior \onequarter \onehalf 
+@GDEF_Ligature = [\ordmasculine \ordfeminine \fi \fl \onequarter \onehalf 
 	\threequarters \f_f \f_f_i \f_f_l \c_t \s_t \t_t \f_t \t_y \f_y \ordmasculine.smcp 
 	\ordfeminine.smcp \numero \c_k \c_h ];
 
@@ -2012,16 +2008,16 @@ feature kern {
 table OS/2 {
     FSType 0;
     Panose 0 0 0 0 0 0 0 0 0 0;
-    TypoAscender 800;
-    TypoDescender -200;
-    TypoLineGap 90;
-    winAscent 997;
-    winDescent 327;
+    TypoAscender 1134;
+    TypoDescender -250;
+    TypoLineGap 0;
+    winAscent 1134;
+    winDescent 270;
     XHeight 539;
     CapHeight 743;
     WeightClass 900;
     WidthClass 5;
-    Vendor "";
+    Vendor "TINY";
 } OS/2;
 
 table head {
@@ -2029,15 +2025,15 @@ table head {
 } head;
 
 table hhea {
-    Ascender 997;
-    Descender -327;
-    LineGap 90;
+    Ascender 1134;
+    Descender -250;
+    LineGap 0;
     CaretOffset 0;
 } hhea;
 
 table name {
-    nameid 0 "Copyright (c) 2011 Natanael Gama (exo@ndiscovered.com), with Reserved Font Name \0022Exo\0022";
-    nameid 0 1 "Copyright (c) 2011 Natanael Gama (exo@ndiscovered.com), with Reserved Font Name \22Exo\22";
+    nameid 0 "Copyright 2017 The Exo Designers (robinmientjes@gmail.com)";
+    nameid 0 1 "Copyright 2017 The Exo Designers (robinmientjes@gmail.com)";
     nameid 9 "Natanael Gama";
     nameid 9 1 "Natanael Gama";
     nameid 12 "www.ndiscovered.com";

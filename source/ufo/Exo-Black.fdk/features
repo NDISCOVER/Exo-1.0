@@ -2012,7 +2012,7 @@ table OS/2 {
     TypoDescender -327;
     TypoLineGap 0;
     winAscent 1002;
-    winDescent 326;
+    winDescent 327;
     XHeight 539;
     CapHeight 743;
     WeightClass 900;
@@ -2021,12 +2021,12 @@ table OS/2 {
 } OS/2;
 
 table head {
-    FontRevision 1.000;
+    FontRevision 2.000;
 } head;
 
 table hhea {
     Ascender 1002;
-    Descender -326;
+    Descender -327;
     LineGap 0;
     CaretOffset 0;
 } hhea;

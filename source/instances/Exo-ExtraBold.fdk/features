@@ -2002,11 +2002,11 @@ feature kern {
 table OS/2 {
     FSType 0;
     Panose 0 0 0 0 0 0 0 0 0 0;
-    TypoAscender 1134;
-    TypoDescender -250;
+    TypoAscender 1002;
+    TypoDescender -327;
     TypoLineGap 0;
-    winAscent 1134;
-    winDescent 270;
+    winAscent 1002;
+    winDescent 327;
     XHeight 538;
     CapHeight 742;
     WeightClass 800;
@@ -2015,7 +2015,7 @@ table OS/2 {
 } OS/2;
 
 table head {
-    FontRevision 1.000;
+    FontRevision 2.000;
 } head;
 
 table hhea {

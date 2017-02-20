@@ -2006,32 +2006,32 @@ feature kern {
 table OS/2 {
     FSType 0;
     Panose 0 0 0 0 0 0 0 0 0 0;
-    TypoAscender 800;
-    TypoDescender -200;
-    TypoLineGap 90;
-    winAscent 1000;
-    winDescent 292;
+    TypoAscender 1002;
+    TypoDescender -327;
+    TypoLineGap 0;
+    winAscent 1002;
+    winDescent 327;
     XHeight 534;
     CapHeight 736;
-    WeightClass 360;
+    WeightClass 400;
     WidthClass 5;
     Vendor "";
 } OS/2;
 
 table head {
-    FontRevision 1.000;
+    FontRevision 2.000;
 } head;
 
 table hhea {
-    Ascender 1000;
-    Descender -292;
-    LineGap 90;
+    Ascender 1002;
+    Descender -327;
+    LineGap 0;
     CaretOffset 0;
 } hhea;
 
 table name {
-    nameid 0 "Copyright (c) 2011 Natanael Gama (exo@ndiscovered.com), with Reserved Font Name \0022Exo\0022";
-    nameid 0 1 "Copyright (c) 2011 Natanael Gama (exo@ndiscovered.com), with Reserved Font Name \22Exo\22";
+    nameid 0 "Copyright 2017 The Exo Designers (robinmientjes@gmail.com)";
+    nameid 0 1 "Copyright 2017 The Exo Designers (robinmientjes@gmail.com)";
     nameid 9 "Natanael Gama";
     nameid 9 1 "Natanael Gama";
     nameid 12 "www.ndiscovered.com";

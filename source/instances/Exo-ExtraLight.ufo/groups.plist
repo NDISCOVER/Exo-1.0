@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>@MMK_L_A</key>
@@ -119,10 +119,12 @@
 	<key>@MMK_L_F</key>
 	<array>
 		<string>F</string>
+		<string>uni1E1E</string>
 	</array>
 	<key>@MMK_L_F.smcp</key>
 	<array>
 		<string>F.smcp</string>
+		<string>uni1E1E.smcp</string>
 	</array>
 	<key>@MMK_L_H.smcp</key>
 	<array>
@@ -144,6 +146,10 @@
 		<string>Zacute.smcp</string>
 		<string>Zcaron.smcp</string>
 		<string>Zdotaccent.smcp</string>
+		<string>Hbrevebelow.smcp</string>
+		<string>Hdotbelow.smcp</string>
+		<string>Idieresisacute.smcp</string>
+		<string>Zdotbelow.smcp</string>
 	</array>
 	<key>@MMK_L_J</key>
 	<array>
@@ -233,6 +239,7 @@
 		<string>Otildedieresis</string>
 		<string>Ddotbelow</string>
 		<string>Dlinebelow</string>
+		<string>uni1E0A</string>
 	</array>
 	<key>@MMK_L_O.smcp</key>
 	<array>
@@ -278,14 +285,17 @@
 		<string>Otildedieresis.smcp</string>
 		<string>Ddotbelow.smcp</string>
 		<string>Dlinebelow.smcp</string>
+		<string>uni1E0A.smcp</string>
 	</array>
 	<key>@MMK_L_P</key>
 	<array>
 		<string>P</string>
+		<string>uni1E56</string>
 	</array>
 	<key>@MMK_L_P.smcp</key>
 	<array>
 		<string>P.smcp</string>
+		<string>uni1E56.smcp</string>
 	</array>
 	<key>@MMK_L_R</key>
 	<array>
@@ -322,6 +332,7 @@
 		<string>Scarondotaccent</string>
 		<string>Sdotaccent</string>
 		<string>Sdotbelowdotaccent</string>
+		<string>uni1E60</string>
 	</array>
 	<key>@MMK_L_S.smcp</key>
 	<array>
@@ -337,6 +348,7 @@
 		<string>Sdotaccent.smcp</string>
 		<string>Sdotbelow.smcp</string>
 		<string>Sdotbelowdotaccent.smcp</string>
+		<string>uni1E60.smcp</string>
 	</array>
 	<key>@MMK_L_T</key>
 	<array>
@@ -346,6 +358,7 @@
 		<string>Tcedilla</string>
 		<string>Tdotbelow</string>
 		<string>Tlinebelow</string>
+		<string>uni1E6A</string>
 	</array>
 	<key>@MMK_L_T.smcp</key>
 	<array>
@@ -355,6 +368,7 @@
 		<string>Tcommaaccent.smcp</string>
 		<string>Tdotbelow.smcp</string>
 		<string>Tlinebelow.smcp</string>
+		<string>uni1E6A.smcp</string>
 	</array>
 	<key>@MMK_L_U</key>
 	<array>
@@ -525,6 +539,10 @@
 		<string>b</string>
 		<string>p</string>
 		<string>thorn</string>
+		<string>uni1E03</string>
+		<string>uni1E03.salt</string>
+		<string>uni1E57</string>
+		<string>uni1E57.salt</string>
 	</array>
 	<key>@MMK_L_c</key>
 	<array>
@@ -534,6 +552,7 @@
 		<string>ccaron</string>
 		<string>ccircumflex</string>
 		<string>cdotaccent</string>
+		<string>ccedillaacute</string>
 	</array>
 	<key>@MMK_L_d</key>
 	<array>
@@ -545,6 +564,8 @@
 		<string>dlinebelow.salt</string>
 		<string>dcroat</string>
 		<string>dcroat.salt</string>
+		<string>uni1E0B</string>
+		<string>uni1E0B.salt</string>
 	</array>
 	<key>@MMK_L_dcaron</key>
 	<array>
@@ -586,6 +607,8 @@
 		<string>f</string>
 		<string>f.salt</string>
 		<string>f_f</string>
+		<string>uni1E1F</string>
+		<string>uni1E1F.salt</string>
 	</array>
 	<key>@MMK_L_g</key>
 	<array>
@@ -605,11 +628,16 @@
 		<string>gcircumflex.salt</string>
 		<string>gdotaccent.salt</string>
 		<string>gcommaaccent.salt</string>
+		<string>gmacron.salt</string>
 	</array>
 	<key>@MMK_L_h</key>
 	<array>
 		<string>h</string>
 		<string>hcircumflex</string>
+		<string>c_h</string>
+		<string>hbar</string>
+		<string>hbrevebelow</string>
+		<string>hdotbelow</string>
 	</array>
 	<key>@MMK_L_hyphen</key>
 	<array>
@@ -660,6 +688,7 @@
 		<string>kcommaaccent</string>
 		<string>x.salt</string>
 		<string>x</string>
+		<string>c_k</string>
 	</array>
 	<key>@MMK_L_n</key>
 	<array>
@@ -684,6 +713,8 @@
 		<string>nlinebelow.salt</string>
 		<string>mdotbelow</string>
 		<string>mdotbelow.salt</string>
+		<string>uni1E41</string>
+		<string>uni1E41.salt</string>
 	</array>
 	<key>@MMK_L_o</key>
 	<array>
@@ -812,6 +843,7 @@
 		<string>sdotbelowdotaccent</string>
 		<string>sacutedotaccent</string>
 		<string>sdotbelow</string>
+		<string>uni1E61</string>
 	</array>
 	<key>@MMK_L_t</key>
 	<array>
@@ -835,6 +867,8 @@
 		<string>tdieresis.salt</string>
 		<string>tdotbelow.salt</string>
 		<string>tlinebelow.salt</string>
+		<string>uni1E6B</string>
+		<string>uni1E6B.salt</string>
 	</array>
 	<key>@MMK_L_u</key>
 	<array>
@@ -912,6 +946,7 @@
 		<string>f_y</string>
 		<string>yhookabove</string>
 		<string>ydotaccent</string>
+		<string>t_y</string>
 	</array>
 	<key>@MMK_L_zero</key>
 	<array>
@@ -1182,6 +1217,7 @@
 		<string>Sdotaccent</string>
 		<string>Sdotbelow</string>
 		<string>Sdotbelowdotaccent</string>
+		<string>uni1E60</string>
 	</array>
 	<key>@MMK_R_S.smcp</key>
 	<array>
@@ -1197,6 +1233,7 @@
 		<string>Sdotaccent.smcp</string>
 		<string>Sdotbelow.smcp</string>
 		<string>Sdotbelowdotaccent.smcp</string>
+		<string>uni1E60.smcp</string>
 	</array>
 	<key>@MMK_R_T</key>
 	<array>
@@ -1206,6 +1243,7 @@
 		<string>Tcedilla</string>
 		<string>Tdotbelow</string>
 		<string>Tlinebelow</string>
+		<string>uni1E6A</string>
 	</array>
 	<key>@MMK_R_T.smcp</key>
 	<array>
@@ -1215,6 +1253,7 @@
 		<string>Tcommaaccent.smcp</string>
 		<string>Tdotbelow.smcp</string>
 		<string>Tlinebelow.smcp</string>
+		<string>uni1E6A.smcp</string>
 	</array>
 	<key>@MMK_R_U</key>
 	<array>
@@ -1338,6 +1377,7 @@
 		<string>Zacute</string>
 		<string>Zcaron</string>
 		<string>Zdotaccent</string>
+		<string>Zdotbelow</string>
 	</array>
 	<key>@MMK_R_Z.smcp</key>
 	<array>
@@ -1345,6 +1385,7 @@
 		<string>Zacute.smcp</string>
 		<string>Zcaron.smcp</string>
 		<string>Zdotaccent.smcp</string>
+		<string>Zdotbelow.smcp</string>
 	</array>
 	<key>@MMK_R_a</key>
 	<array>
@@ -1438,6 +1479,8 @@
 		<string>dlinebelow</string>
 		<string>dlinebelow.salt</string>
 		<string>dcroat</string>
+		<string>uni1E0B</string>
+		<string>uni1E0B.salt</string>
 	</array>
 	<key>@MMK_R_e</key>
 	<array>
@@ -1664,6 +1707,17 @@
 		<string>quoteright</string>
 		<string>quotesingle</string>
 		<string>quotedbl</string>
+		<string>minute</string>
+		<string>second</string>
+	</array>
+	<key>@MMK_R_quote.smcp</key>
+	<array>
+		<string>quotedbl.smcp</string>
+		<string>quotedblleft.smcp</string>
+		<string>quotedblright.smcp</string>
+		<string>quoteleft.smcp</string>
+		<string>quoteright.smcp</string>
+		<string>quotesingle.smcp</string>
 	</array>
 	<key>@MMK_R_r</key>
 	<array>
@@ -1698,6 +1752,7 @@
 		<string>sdotaccent</string>
 		<string>sdotbelow</string>
 		<string>sdotbelowdotaccent</string>
+		<string>uni1E61</string>
 	</array>
 	<key>@MMK_R_t</key>
 	<array>
@@ -1711,6 +1766,7 @@
 		<string>tdieresis</string>
 		<string>tdotbelow</string>
 		<string>tlinebelow</string>
+		<string>uni1E6B</string>
 	</array>
 	<key>@MMK_R_t.salt</key>
 	<array>
@@ -1722,6 +1778,7 @@
 		<string>tdieresis.salt</string>
 		<string>tdotbelow.salt</string>
 		<string>tlinebelow.salt</string>
+		<string>uni1E6B.salt</string>
 	</array>
 	<key>@MMK_R_u</key>
 	<array>

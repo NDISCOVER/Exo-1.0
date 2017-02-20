@@ -312,6 +312,14 @@ lookup featureSmallCaps {
     sub \three by \three.smcp;
     sub \two by \two.smcp;
     sub \uni00AD by \uni00AD.smcp;
+    sub \uni1E03 by \uni1E02.smcp;
+    sub \uni1E0B by \uni1E0A.smcp;
+    sub \uni1E1F by \uni1E1E.smcp;
+    sub \uni1E41.salt by \uni1E40.salt.smcp;
+    sub \uni1E41 by \uni1E40.smcp;
+    sub \uni1E57 by \uni1E56.smcp;
+    sub \uni1E61 by \uni1E60.smcp;
+    sub \uni1E6B by \uni1E6A.smcp;
     sub \won by \won.smcp;
     sub \yen by \yen.smcp;
     sub \zero by \zero.smcp;
@@ -623,6 +631,14 @@ lookup featureSmallCapsFromCaps {
     sub \three by \three.smcp;
     sub \two by \two.smcp;
     sub \uni00AD by \uni00AD.smcp;
+    sub \uni1E02 by \uni1E02.smcp;
+    sub \uni1E0A by \uni1E0A.smcp;
+    sub \uni1E1E by \uni1E1E.smcp;
+    sub \uni1E40.salt by \uni1E40.salt.smcp;
+    sub \uni1E40 by \uni1E40.smcp;
+    sub \uni1E56 by \uni1E56.smcp;
+    sub \uni1E60 by \uni1E60.smcp;
+    sub \uni1E6A by \uni1E6A.smcp;
     sub \won by \won.smcp;
     sub \yen by \yen.smcp;
     sub \zero by \zero.smcp;
@@ -1245,12 +1261,8 @@ feature dnom {
 
 #Mark attachment classes (defined in GDEF, used in lookupflags)
 
-@GDEF_Simple = [A A.smcp AE AE.smcp B B.smcp C C.smcp D D.smcp E E.smcp F F.smcp G G.smcp H H.smcp I I.smcp J J.smcp K K.smcp L L.smcp M M.salt M.salt.smcp M.smcp N N.salt N.salt.smcp N.smcp O O.smcp Ohorn Ohorn.smcp Oslash Oslash.smcp P P.smcp R R.smcp S S.smcp T T.smcp U U.smcp Uhorn Uhorn.smcp W W.salt W.salt.smcp W.smcp X X.salt X.salt.smcp X.smcp Y Y.smcp Z Z.smcp a a.salt a.superior ae b.salt c c.superior d d.salt d.superior dotlessi e e.superior g g.salt g.superior h i i.superior idotless jdotless k k.superior l l.superior m m.salt m.superior n n.salt n.superior o o.superior ohorn oslash p.salt r r.salt r.superior s s.superior t t.salt t.superior u u.salt u.superior uhorn uhorn.salt w w.salt w.superior x.salt y y.superior z z.superior];
-@GDEF_Ligature = [\ordmasculine \ordfeminine \fi \fl \b.superior \c.superior 
-	\d.superior \e.superior \f.superior \g.superior \h.superior \i.superior 
-	\j.superior \k.superior \l.superior \m.superior \n.superior \p.superior 
-	\q.superior \r.superior \s.superior \t.superior \u.superior \v.superior 
-	\w.superior \x.superior \y.superior \z.superior \onequarter \onehalf 
+@GDEF_Simple = [A A.smcp AE AE.smcp B B.smcp C C.smcp D D.smcp E E.smcp F F.smcp G G.smcp H H.smcp I I.smcp J J.smcp K K.smcp L L.smcp M M.salt M.salt.smcp M.smcp N N.salt N.salt.smcp N.smcp O O.smcp Ohorn Ohorn.smcp Oslash Oslash.smcp P P.smcp R R.smcp S S.smcp T T.smcp U U.smcp Uhorn Uhorn.smcp W W.salt W.salt.smcp W.smcp X X.salt X.salt.smcp X.smcp Y Y.smcp Z Z.smcp a a.salt a.superior ae b b.salt c c.superior d d.salt d.superior dotlessi e e.superior f f.salt g g.salt g.superior h i i.superior idotless jdotless k k.superior l l.superior m m.salt m.superior n n.salt n.superior o o.superior ohorn oslash p p.salt r r.salt r.superior s s.superior t t.salt t.superior u u.salt u.superior uhorn uhorn.salt w w.salt w.superior x.salt y y.superior z z.superior];
+@GDEF_Ligature = [\ordmasculine \ordfeminine \fi \fl \onequarter \onehalf 
 	\threequarters \f_f \f_f_i \f_f_l \c_t \s_t \t_t \f_t \t_y \f_y \ordmasculine.smcp 
 	\ordfeminine.smcp \numero \c_k \c_h ];
 
@@ -1266,23 +1278,23 @@ feature kern {
     @MMK_L_A.smcp = [A.smcp Aacute.smcp Abreve.smcp Abreveacute.smcp Abrevedotbelow.smcp Abrevegrave.smcp Abrevehookabove.smcp Abrevetilde.smcp Acircumflex.smcp Acircumflexacute.smcp Acircumflexdotbelow.smcp Acircumflexgrave.smcp Acircumflexhookabove.smcp Acircumflextilde.smcp Adblgrave.smcp Adieresis.smcp Adotbelow.smcp Agrave.smcp Ahookabove.smcp Ainvertedbreve.smcp Amacron.smcp Aogonek.smcp Aring.smcp Aringacute.smcp Atilde.smcp];
     @MMK_L_E = [AE AEacute E Eacute Ebreve Ecaron Ecedillabreve Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehookabove Einvertedbreve Emacron Emacronacute Emacrongrave Eogonek Etilde OE];
     @MMK_L_E.smcp = [AE.smcp AEacute.smcp E.smcp Eacute.smcp Ebreve.smcp Ecaron.smcp Ecedillabreve.smcp Ecircumflex.smcp Ecircumflexacute.smcp Ecircumflexdotbelow.smcp Ecircumflexgrave.smcp Ecircumflexhookabove.smcp Ecircumflextilde.smcp Edblgrave.smcp Edieresis.smcp Edotaccent.smcp Edotbelow.smcp Egrave.smcp Ehookabove.smcp Einvertedbreve.smcp Emacron.smcp Emacronacute.smcp Emacrongrave.smcp Eogonek.smcp Etilde.smcp OE.smcp];
-    @MMK_L_F = [F];
-    @MMK_L_F.smcp = [F.smcp];
+    @MMK_L_F = [F uni1E1E];
+    @MMK_L_F.smcp = [F.smcp uni1E1E.smcp];
     @MMK_L_J = [J Jcircumflex];
     @MMK_L_K = [K Kcommaaccent X X.salt];
     @MMK_L_K.smcp = [K.smcp Kcommaaccent.smcp X.salt.smcp X.smcp];
     @MMK_L_L = [L Lacute Lcaron Lcommaaccent Ldotbelow Llinebelow Lslash];
     @MMK_L_L.smcp = [L.smcp Lacute.smcp Lcaron.smcp Lcommaaccent.smcp Ldotbelow.smcp Llinebelow.smcp Lslash.smcp];
-    @MMK_L_O = [D Dcaron Dcroat Ddotbelow Dlinebelow Eth O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Omacronacute Omacrongrave Oogonek Oslash Oslashacute Otilde Otildeacute Otildedieresis Otildemacron Q Schwa];
-    @MMK_L_O.smcp = [D.smcp Dcaron.smcp Dcroat.smcp Ddotbelow.smcp Dlinebelow.smcp Eth.smcp O.smcp Oacute.smcp Obreve.smcp Ocircumflex.smcp Ocircumflexacute.smcp Ocircumflexdotbelow.smcp Ocircumflexgrave.smcp Ocircumflexhookabove.smcp Ocircumflextilde.smcp Odblgrave.smcp Odieresis.smcp Odieresismacron.smcp Odotaccentmacron.smcp Odotbelow.smcp Ograve.smcp Ohookabove.smcp Ohorn.smcp Ohornacute.smcp Ohorndotbelow.smcp Ohorngrave.smcp Ohornhookabove.smcp Ohorntilde.smcp Ohungarumlaut.smcp Oinvertedbreve.smcp Omacron.smcp Omacronacute.smcp Omacrongrave.smcp Oogonek.smcp Oslash.smcp Oslashacute.smcp Otilde.smcp Otildeacute.smcp Otildedieresis.smcp Otildemacron.smcp Q.smcp Schwa.smcp];
-    @MMK_L_P = [P];
-    @MMK_L_P.smcp = [P.smcp];
+    @MMK_L_O = [D Dcaron Dcroat Ddotbelow Dlinebelow Eth O Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Omacronacute Omacrongrave Oogonek Oslash Oslashacute Otilde Otildeacute Otildedieresis Otildemacron Q Schwa uni1E0A];
+    @MMK_L_O.smcp = [D.smcp Dcaron.smcp Dcroat.smcp Ddotbelow.smcp Dlinebelow.smcp Eth.smcp O.smcp Oacute.smcp Obreve.smcp Ocircumflex.smcp Ocircumflexacute.smcp Ocircumflexdotbelow.smcp Ocircumflexgrave.smcp Ocircumflexhookabove.smcp Ocircumflextilde.smcp Odblgrave.smcp Odieresis.smcp Odieresismacron.smcp Odotaccentmacron.smcp Odotbelow.smcp Ograve.smcp Ohookabove.smcp Ohorn.smcp Ohornacute.smcp Ohorndotbelow.smcp Ohorngrave.smcp Ohornhookabove.smcp Ohorntilde.smcp Ohungarumlaut.smcp Oinvertedbreve.smcp Omacron.smcp Omacronacute.smcp Omacrongrave.smcp Oogonek.smcp Oslash.smcp Oslashacute.smcp Otilde.smcp Otildeacute.smcp Otildedieresis.smcp Otildemacron.smcp Q.smcp Schwa.smcp uni1E0A.smcp];
+    @MMK_L_P = [P uni1E56];
+    @MMK_L_P.smcp = [P.smcp uni1E56.smcp];
     @MMK_L_R = [R Racute Rcaron Rcommaaccent Rdblgrave Rdotbelow Rinvertedbreve Rlinebelow];
     @MMK_L_R.smcp = [R.smcp Racute.smcp Rcaron.smcp Rcommaaccent.smcp Rdblgrave.smcp Rdotbelow.smcp Rinvertedbreve.smcp Rlinebelow.smcp];
-    @MMK_L_S = [S Sacute Sacutedotaccent Scaron Scarondotaccent Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Sdotbelowdotaccent];
-    @MMK_L_S.smcp = [S.smcp Sacute.smcp Sacutedotaccent.smcp Scaron.smcp Scarondotaccent.smcp Scedilla.smcp Scircumflex.smcp Scommaaccent.smcp Sdotaccent.smcp Sdotbelow.smcp Sdotbelowdotaccent.smcp germandbls.smcp];
-    @MMK_L_T = [T Tcaron Tcedilla Tcommaaccent Tdotbelow Tlinebelow];
-    @MMK_L_T.smcp = [T.smcp Tcaron.smcp Tcedilla.smcp Tcommaaccent.smcp Tdotbelow.smcp Tlinebelow.smcp];
+    @MMK_L_S = [S Sacute Sacutedotaccent Scaron Scarondotaccent Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Sdotbelowdotaccent uni1E60];
+    @MMK_L_S.smcp = [S.smcp Sacute.smcp Sacutedotaccent.smcp Scaron.smcp Scarondotaccent.smcp Scedilla.smcp Scircumflex.smcp Scommaaccent.smcp Sdotaccent.smcp Sdotbelow.smcp Sdotbelowdotaccent.smcp germandbls.smcp uni1E60.smcp];
+    @MMK_L_T = [T Tcaron Tcedilla Tcommaaccent Tdotbelow Tlinebelow uni1E6A];
+    @MMK_L_T.smcp = [T.smcp Tcaron.smcp Tcedilla.smcp Tcommaaccent.smcp Tdotbelow.smcp Tlinebelow.smcp uni1E6A.smcp];
     @MMK_L_U = [U Uacute Ubreve Ucircumflex Udblgrave Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Umacrondieresis Uogonek Uring Utilde Utildeacute];
     @MMK_L_U.smcp = [U.smcp Uacute.smcp Ubreve.smcp Ucircumflex.smcp Udblgrave.smcp Udieresis.smcp Udotbelow.smcp Ugrave.smcp Uhookabove.smcp Uhorn.smcp Uhornacute.smcp Uhorndotbelow.smcp Uhorngrave.smcp Uhornhookabove.smcp Uhorntilde.smcp Uhungarumlaut.smcp Uinvertedbreve.smcp Umacron.smcp Umacrondieresis.smcp Uogonek.smcp Uring.smcp Utilde.smcp Utildeacute.smcp];
     @MMK_L_V = [V W W.salt Wacute Wacute.salt Wcircumflex Wcircumflex.salt Wdieresis Wdieresis.salt Wgrave Wgrave.salt];
@@ -1290,15 +1302,15 @@ feature kern {
     @MMK_L_Y = [Y Yacute Ycircumflex Ydieresis Ydotaccent Ydotbelow Ygrave Yhookabove Ymacron Ytilde];
     @MMK_L_Y.smcp = [Y.smcp Yacute.smcp Ycircumflex.smcp Ydieresis.smcp Ydotaccent.smcp Ydotbelow.smcp Ygrave.smcp Yhookabove.smcp Ymacron.smcp Ytilde.smcp];
     @MMK_L_a = [a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adblgrave adieresis adotbelow agrave ahookabove ainvertedbreve amacron aogonek aring aringacute atilde];
-    @MMK_L_b = [b b.salt p p.salt thorn];
-    @MMK_L_c = [c cacute ccaron ccedilla ccircumflex cdotaccent];
+    @MMK_L_b = [b b.salt p p.salt thorn uni1E03 uni1E03.salt uni1E57 uni1E57.salt];
+    @MMK_L_c = [c cacute ccaron ccedilla ccedillaacute ccircumflex cdotaccent];
     @MMK_L_dcaron = [dcaron dcaron.salt lcaron];
     @MMK_L_e = [ae aeacute e eacute ebreve ecaron ecedillabreve ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edblgrave edieresis edotaccent edotbelow egrave ehookabove einvertedbreve emacron emacronacute emacrongrave eogonek etilde oe];
-    @MMK_L_f = [f f.salt f_f];
+    @MMK_L_f = [f f.salt f_f uni1E1F uni1E1F.salt];
     @MMK_L_g = [g gbreve gcaron gcircumflex gcommaaccent gdotaccent gmacron];
     @MMK_L_hyphen = [emdash emdash.case emdash.smcp endash endash.case endash.smcp horizontalbar hyphen hyphen.case hyphen.smcp hyphentwo uni00AD uni00AD.case uni00AD.smcp];
-    @MMK_L_k = [k kcommaaccent kgreenlandic x x.salt];
-    @MMK_L_n = [eng m m.salt mdotbelow mdotbelow.salt n n.salt nacute nacute.salt ncaron ncaron.salt ncommaaccent ncommaaccent.salt ndotaccent ndotaccent.salt ndotbelow ndotbelow.salt nlinebelow nlinebelow.salt ntilde ntilde.salt];
+    @MMK_L_k = [c_k k kcommaaccent kgreenlandic x x.salt];
+    @MMK_L_n = [eng m m.salt mdotbelow mdotbelow.salt n n.salt nacute nacute.salt ncaron ncaron.salt ncommaaccent ncommaaccent.salt ndotaccent ndotaccent.salt ndotbelow ndotbelow.salt nlinebelow nlinebelow.salt ntilde ntilde.salt uni1E41 uni1E41.salt];
     @MMK_L_o = [o oacute obreve ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odblgrave odieresis odieresismacron odotaccentmacron odotbelow ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde ohungarumlaut oinvertedbreve omacron omacronacute omacrongrave oogonek otilde otildeacute otildedieresis otildemacron schwa];
     @MMK_L_oslash = [oslash oslashacute];
     @MMK_L_parenleft = [braceleft bracketleft parenleft];
@@ -1306,10 +1318,10 @@ feature kern {
     @MMK_L_parenright = [braceright bracketright parenright];
     @MMK_L_quote = [quotedbl quotedblleft quotedblright quoteleft quoteright quotesingle];
     @MMK_L_r = [r r.salt racute racute.salt rcaron rcaron.salt rcommaaccent rcommaaccent.salt rdblgrave rdblgrave.salt rdotbelow rdotbelow.salt rinvertedbreve rinvertedbreve.salt rlinebelow rlinebelow.salt];
-    @MMK_L_s = [s sacute sacutedotaccent scaron scarondotaccent scedilla scircumflex scommaaccent sdotaccent sdotbelow sdotbelowdotaccent];
-    @MMK_L_t = [c_t f_t s_t t t.salt t_t tbar tbar.salt tcaron tcaron.salt tcedilla tcedilla.salt tcommaaccent tcommaaccent.salt tdieresis tdieresis.salt tdotbelow tdotbelow.salt tlinebelow tlinebelow.salt];
+    @MMK_L_s = [s sacute sacutedotaccent scaron scarondotaccent scedilla scircumflex scommaaccent sdotaccent sdotbelow sdotbelowdotaccent uni1E61];
+    @MMK_L_t = [c_t f_t s_t t t.salt t_t tbar tbar.salt tcaron tcaron.salt tcedilla tcedilla.salt tcommaaccent tcommaaccent.salt tdieresis tdieresis.salt tdotbelow tdotbelow.salt tlinebelow tlinebelow.salt uni1E6B uni1E6B.salt];
     @MMK_L_w = [v w w.salt wacute wacute.salt wcircumflex wcircumflex.salt wdieresis wdieresis.salt wgrave wgrave.salt];
-    @MMK_L_y = [f_y y yacute ycircumflex ydieresis ydotaccent ydotbelow ygrave yhookabove ymacron ytilde];
+    @MMK_L_y = [f_y t_y y yacute ycircumflex ydieresis ydotaccent ydotbelow ygrave yhookabove ymacron ytilde];
     @MMK_R_A = [A AE AEacute Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adblgrave Adieresis Adotbelow Agrave Ahookabove Ainvertedbreve Amacron Aogonek Aring Aringacute Atilde];
     @MMK_R_A.smcp = [A.smcp AE.smcp AEacute.smcp Aacute.smcp Abreve.smcp Abreveacute.smcp Abrevedotbelow.smcp Abrevegrave.smcp Abrevehookabove.smcp Abrevetilde.smcp Acircumflex.smcp Acircumflexacute.smcp Acircumflexdotbelow.smcp Acircumflexgrave.smcp Acircumflexhookabove.smcp Acircumflextilde.smcp Adblgrave.smcp Adieresis.smcp Adotbelow.smcp Agrave.smcp Ahookabove.smcp Ainvertedbreve.smcp Amacron.smcp Aogonek.smcp Aring.smcp Aringacute.smcp Atilde.smcp];
     @MMK_R_E = [E Eacute Ebreve Ecaron Ecedillabreve Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edblgrave Edieresis Edotaccent Edotbelow Egrave Ehookabove Einvertedbreve Emacron Emacronacute Emacrongrave Eogonek Etilde F];
@@ -1319,10 +1331,10 @@ feature kern {
     @MMK_R_J.smcp = [J.smcp Jcircumflex.smcp];
     @MMK_R_O = [C Cacute Ccaron Ccedilla Ccedillaacute Ccircumflex Cdotaccent G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron O OE Oacute Obreve Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odblgrave Odieresis Odieresismacron Odotaccentmacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Oinvertedbreve Omacron Omacronacute Omacrongrave Oogonek Oslash Oslashacute Otilde Otildeacute Otildedieresis Otildemacron Q];
     @MMK_R_O.smcp = [C.smcp Cacute.smcp Ccaron.smcp Ccedilla.smcp Ccedillaacute.smcp Ccircumflex.smcp Cdotaccent.smcp G.smcp Gbreve.smcp Gcaron.smcp Gcircumflex.smcp Gcommaaccent.smcp Gdotaccent.smcp Gmacron.smcp O.smcp OE.smcp Oacute.smcp Obreve.smcp Ocircumflex.smcp Ocircumflexacute.smcp Ocircumflexdotbelow.smcp Ocircumflexgrave.smcp Ocircumflexhookabove.smcp Ocircumflextilde.smcp Odblgrave.smcp Odieresis.smcp Odieresismacron.smcp Odotaccentmacron.smcp Odotbelow.smcp Ograve.smcp Ohookabove.smcp Ohorn.smcp Ohornacute.smcp Ohorndotbelow.smcp Ohorngrave.smcp Ohornhookabove.smcp Ohorntilde.smcp Ohungarumlaut.smcp Oinvertedbreve.smcp Omacron.smcp Omacronacute.smcp Omacrongrave.smcp Oogonek.smcp Oslash.smcp Oslashacute.smcp Otilde.smcp Otildeacute.smcp Otildedieresis.smcp Otildemacron.smcp Q.smcp];
-    @MMK_R_S = [S Sacute Sacutedotaccent Scaron Scarondotaccent Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Sdotbelowdotaccent];
-    @MMK_R_S.smcp = [S.smcp Sacute.smcp Sacutedotaccent.smcp Scaron.smcp Scarondotaccent.smcp Scedilla.smcp Scircumflex.smcp Scommaaccent.smcp Sdotaccent.smcp Sdotbelow.smcp Sdotbelowdotaccent.smcp germandbls.smcp];
-    @MMK_R_T = [T Tcaron Tcedilla Tcommaaccent Tdotbelow Tlinebelow];
-    @MMK_R_T.smcp = [T.smcp Tcaron.smcp Tcedilla.smcp Tcommaaccent.smcp Tdotbelow.smcp Tlinebelow.smcp];
+    @MMK_R_S = [S Sacute Sacutedotaccent Scaron Scarondotaccent Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Sdotbelowdotaccent uni1E60];
+    @MMK_R_S.smcp = [S.smcp Sacute.smcp Sacutedotaccent.smcp Scaron.smcp Scarondotaccent.smcp Scedilla.smcp Scircumflex.smcp Scommaaccent.smcp Sdotaccent.smcp Sdotbelow.smcp Sdotbelowdotaccent.smcp germandbls.smcp uni1E60.smcp];
+    @MMK_R_T = [T Tcaron Tcedilla Tcommaaccent Tdotbelow Tlinebelow uni1E6A];
+    @MMK_R_T.smcp = [T.smcp Tcaron.smcp Tcedilla.smcp Tcommaaccent.smcp Tdotbelow.smcp Tlinebelow.smcp uni1E6A.smcp];
     @MMK_R_U = [U Uacute Ubreve Ucircumflex Udblgrave Udieresis Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Uinvertedbreve Umacron Umacrondieresis Uogonek Uring Utilde Utildeacute];
     @MMK_R_U.smcp = [U.smcp Uacute.smcp Ubreve.smcp Ucircumflex.smcp Udblgrave.smcp Udieresis.smcp Udotbelow.smcp Ugrave.smcp Uhookabove.smcp Uhorn.smcp Uhornacute.smcp Uhorndotbelow.smcp Uhorngrave.smcp Uhornhookabove.smcp Uhorntilde.smcp Uhungarumlaut.smcp Uinvertedbreve.smcp Umacron.smcp Umacrondieresis.smcp Uogonek.smcp Uring.smcp Utilde.smcp Utildeacute.smcp];
     @MMK_R_V = [V W W.salt Wacute Wacute.salt Wcircumflex Wcircumflex.salt Wdieresis Wdieresis.salt Wgrave Wgrave.salt];
@@ -1331,12 +1343,12 @@ feature kern {
     @MMK_R_X.smcp = [X.salt.smcp X.smcp];
     @MMK_R_Y = [Y Yacute Ycircumflex Ydieresis Ydotaccent Ydotbelow Ygrave Yhookabove Ymacron Ytilde];
     @MMK_R_Y.smcp = [Y.smcp Yacute.smcp Ycircumflex.smcp Ydieresis.smcp Ydotaccent.smcp Ydotbelow.smcp Ygrave.smcp Yhookabove.smcp Ymacron.smcp Ytilde.smcp];
-    @MMK_R_Z.smcp = [Z.smcp Zacute.smcp Zcaron.smcp Zdotaccent.smcp];
+    @MMK_R_Z.smcp = [Z.smcp Zacute.smcp Zcaron.smcp Zdotaccent.smcp Zdotbelow.smcp];
     @MMK_R_a = [a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adblgrave adieresis adotbelow agrave ahookabove ainvertedbreve amacron aogonek aring aringacute atilde];
     @MMK_R_ae = [ae aeacute];
     @MMK_R_c = [c c_h c_k c_t cacute ccaron ccedilla ccedillaacute ccircumflex cdotaccent];
     @MMK_R_colon = [colon semicolon];
-    @MMK_R_d = [d d.salt dcaron dcaron.salt dcroat dcroat.salt ddotbelow ddotbelow.salt dlinebelow dlinebelow.salt];
+    @MMK_R_d = [d d.salt dcaron dcaron.salt dcroat dcroat.salt ddotbelow ddotbelow.salt dlinebelow dlinebelow.salt uni1E0B uni1E0B.salt];
     @MMK_R_e = [e eacute ebreve ecaron ecedillabreve ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edblgrave edieresis edotaccent edotbelow egrave ehookabove einvertedbreve emacron emacronacute emacrongrave eogonek etilde];
     @MMK_R_g = [g gbreve gcaron gcircumflex gcommaaccent gdotaccent gmacron];
     @MMK_R_h = [h hbar hbrevebelow hcircumflex hdotbelow];
@@ -1350,10 +1362,10 @@ feature kern {
     @MMK_R_parenright = [braceright bracketright parenright];
     @MMK_R_parenright.case = [braceright.case bracketright.case parenright.case];
     @MMK_R_period = [comma ellipsis period quotedblbase quotesinglbase];
-    @MMK_R_quote = [quotedbl quotedblleft quotedblright quoteleft quoteright quotesingle];
+    @MMK_R_quote = [minute quotedbl quotedblleft quotedblright quoteleft quoteright quotesingle second];
     @MMK_R_r = [r r.salt racute racute.salt rcaron rcaron.salt rcommaaccent rcommaaccent.salt rdblgrave rdblgrave.salt rdotbelow rdotbelow.salt rinvertedbreve rinvertedbreve.salt rlinebelow rlinebelow.salt];
-    @MMK_R_s = [s s_t sacute sacutedotaccent scaron scarondotaccent scedilla scircumflex scommaaccent sdotaccent sdotbelow sdotbelowdotaccent];
-    @MMK_R_t = [t t_t t_y tbar tcaron tcedilla tcommaaccent tdieresis tdotbelow tlinebelow];
+    @MMK_R_s = [s s_t sacute sacutedotaccent scaron scarondotaccent scedilla scircumflex scommaaccent sdotaccent sdotbelow sdotbelowdotaccent uni1E61];
+    @MMK_R_t = [t t_t t_y tbar tcaron tcedilla tcommaaccent tdieresis tdotbelow tlinebelow uni1E6B];
     @MMK_R_u = [u u.salt uacute uacute.salt ubreve ubreve.salt ucircumflex ucircumflex.salt udblgrave udblgrave.salt udieresis udieresis.salt udotbelow udotbelow.salt ugrave ugrave.salt uhookabove uhookabove.salt uhorn uhorn.salt uhornacute uhornacute.salt uhorndotbelow uhorndotbelow.salt uhorngrave uhorngrave.salt uhornhookabove uhornhookabove.salt uhorntilde uhorntilde.salt uhungarumlaut uhungarumlaut.salt uinvertedbreve uinvertedbreve.salt umacron umacron.salt umacrondieresis umacrondieresis.salt uogonek uogonek.salt uring uring.salt utilde utilde.salt utildeacute utildeacute.salt];
     @MMK_R_w = [v w w.salt wacute wacute.salt wcircumflex wcircumflex.salt wdieresis wdieresis.salt wgrave wgrave.salt y yacute ycircumflex ydieresis ydotaccent ydotbelow ygrave yhookabove ymacron ytilde];
     @MMK_R_x = [x x.salt];
@@ -1403,17 +1415,17 @@ feature kern {
     pos x q -30;
 
     # glyph, group exceptions
-    enum pos Z [t t_t t_y tbar tcaron tcedilla tcommaaccent tdieresis tdotbelow tlinebelow] -20;
+    enum pos Z [t t_t t_y tbar tcaron tcedilla tcommaaccent tdieresis tdotbelow tlinebelow uni1E6B] -20;
     enum pos x [a aacute abreve abreveacute abrevedotbelow abrevegrave abrevehookabove abrevetilde acircumflex acircumflexacute acircumflexdotbelow acircumflexgrave acircumflexhookabove acircumflextilde adblgrave adieresis adotbelow agrave ahookabove ainvertedbreve amacron aogonek aring aringacute atilde] -10;
     enum pos x [c c_h c_k c_t cacute ccaron ccedilla ccedillaacute ccircumflex cdotaccent] -30;
-    enum pos x [d d.salt dcaron dcaron.salt dcroat dcroat.salt ddotbelow ddotbelow.salt dlinebelow dlinebelow.salt] -30;
+    enum pos x [d d.salt dcaron dcaron.salt dcroat dcroat.salt ddotbelow ddotbelow.salt dlinebelow dlinebelow.salt uni1E0B uni1E0B.salt] -30;
     enum pos x [e eacute ebreve ecaron ecedillabreve ecircumflex ecircumflexacute ecircumflexdotbelow ecircumflexgrave ecircumflexhookabove ecircumflextilde edblgrave edieresis edotaccent edotbelow egrave ehookabove einvertedbreve emacron emacronacute emacrongrave eogonek etilde] -30;
     enum pos x [g gbreve gcaron gcircumflex gcommaaccent gdotaccent gmacron] -15;
     enum pos x [o oacute obreve ocircumflex ocircumflexacute ocircumflexdotbelow ocircumflexgrave ocircumflexhookabove ocircumflextilde odblgrave odieresis odieresismacron odotaccentmacron odotbelow oe ograve ohookabove ohorn ohornacute ohorndotbelow ohorngrave ohornhookabove ohorntilde ohungarumlaut oinvertedbreve omacron omacronacute omacrongrave oogonek otilde otildeacute otildedieresis otildemacron] -30;
-    enum pos x [s s_t sacute sacutedotaccent scaron scarondotaccent scedilla scircumflex scommaaccent sdotaccent sdotbelow sdotbelowdotaccent] -10;
+    enum pos x [s s_t sacute sacutedotaccent scaron scarondotaccent scedilla scircumflex scommaaccent sdotaccent sdotbelow sdotbelowdotaccent uni1E61] -10;
 
     # group exceptions, glyph
-    enum pos [T Tcaron Tcedilla Tcommaaccent Tdotbelow Tlinebelow] zero.oldstyle -30;
+    enum pos [T Tcaron Tcedilla Tcommaaccent Tdotbelow Tlinebelow uni1E6A] zero.oldstyle -30;
     enum pos [V W W.salt Wacute Wacute.salt Wcircumflex Wcircumflex.salt Wdieresis Wdieresis.salt Wgrave Wgrave.salt] zero.oldstyle -30;
     enum pos [Y Yacute Ycircumflex Ydieresis Ydotaccent Ydotbelow Ygrave Yhookabove Ymacron Ytilde] zero.oldstyle -30;
 
@@ -1988,18 +2000,18 @@ feature kern {
 } kern;
 
 table OS/2 {
-    FSType 8;
+    FSType 0;
     Panose 0 0 0 0 0 0 0 0 0 0;
-    TypoAscender 800;
-    TypoDescender -200;
-    TypoLineGap 90;
-    winAscent 1002;
-    winDescent 291;
+    TypoAscender 1134;
+    TypoDescender -250;
+    TypoLineGap 0;
+    winAscent 1134;
+    winDescent 270;
     XHeight 535;
     CapHeight 737;
     WeightClass 460;
     WidthClass 5;
-    Vendor "PfEd";
+    Vendor "TINY";
 } OS/2;
 
 table head {
@@ -2007,21 +2019,21 @@ table head {
 } head;
 
 table hhea {
-    Ascender 1002;
-    Descender -291;
-    LineGap 90;
+    Ascender 1134;
+    Descender -250;
+    LineGap 0;
     CaretOffset 0;
 } hhea;
 
 table name {
-    nameid 0 "Copyright (c) 2011 Natanael Gama (exo@ndiscovered.com), with Reserved Font Name \0022Exo\0022";
-    nameid 0 1 "Copyright (c) 2011 Natanael Gama (exo@ndiscovered.com), with Reserved Font Name \22Exo\22";
+    nameid 0 "Copyright 2017 The Exo Designers (robinmientjes@gmail.com)";
+    nameid 0 1 "Copyright 2017 The Exo Designers (robinmientjes@gmail.com)";
     nameid 9 "Natanael Gama";
     nameid 9 1 "Natanael Gama";
     nameid 12 "http://www.ndiscovered.com";
     nameid 12 1 "http://www.ndiscovered.com";
-    nameid 13 "Copyright (c) 2011, Natanael Gama (http://www.ndiscovered.com | exo(at)ndiscovered.com>),\000Awith Reserved Font Name Exo.\000A\000AThis Font Software is licensed under the SIL Open Font License, Version 1.1.\000AThis license is copied below, and is also available with a FAQ at:\000Ahttp://scripts.sil.org/OFL\000A\000A\000A-----------------------------------------------------------\000ASIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\000A-----------------------------------------------------------\000A\000APREAMBLE\000AThe goals of the Open Font License (OFL) are to stimulate worldwide\000Adevelopment of collaborative font projects, to support the font creation\000Aefforts of academic and linguistic communities, and to provide a free and\000Aopen framework in which fonts may be shared and improved in partnership\000Awith others.\000A\000AThe OFL allows the licensed fonts to be used, studied, modified and\000Aredistributed freely as long as they are not sold by themselves. The\000Afonts, including any derivative works, can be bundled, embedded, \000Aredistributed and/or sold with any software provided that any reserved\000Anames are not used by derivative works. The fonts and derivatives,\000Ahowever, cannot be released under any other type of license. The\000Arequirement for fonts to remain under this license does not apply\000Ato any document created using the fonts or their derivatives.\000A\000ADEFINITIONS\000A\0022Font Software\0022 refers to the set of files released by the Copyright\000AHolder(s) under this license and clearly marked as such. This may\000Ainclude source files, build scripts and documentation.\000A\000A\0022Reserved Font Name\0022 refers to any names specified as such after the\000Acopyright statement(s).\000A\000A\0022Original Version\0022 refers to the collection of Font Software components as\000Adistributed by the Copyright Holder(s).\000A\000A\0022Modified Version\0022 refers to any derivative made by adding to, deleting,\000Aor substituting -- in part or in whole -- any of the components of the\000AOriginal Version, by changing formats or by porting the Font Software to a\000Anew environment.\000A\000A\0022Author\0022 refers to any designer, engineer, programmer, technical\000Awriter or other person who contributed to the Font Software.\000A\000APERMISSION & CONDITIONS\000APermission is hereby granted, free of charge, to any person obtaining\000Aa copy of the Font Software, to use, study, copy, merge, embed, modify,\000Aredistribute, and sell modified and unmodified copies of the Font\000ASoftware, subject to the following conditions:\000A\000A1) Neither the Font Software nor any of its individual components,\000Ain Original or Modified Versions, may be sold by itself.\000A\000A2) Original or Modified Versions of the Font Software may be bundled,\000Aredistributed and/or sold with any software, provided that each copy\000Acontains the above copyright notice and this license. These can be\000Aincluded either as stand-alone text files, human-readable headers or\000Ain the appropriate machine-readable metadata fields within text or\000Abinary files as long as those fields can be easily viewed by the user.\000A\000A3) No Modified Version of the Font Software may use the Reserved Font\000AName(s) unless explicit written permission is granted by the corresponding\000ACopyright Holder. This restriction only applies to the primary font name as\000Apresented to the users.\000A\000A4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font\000ASoftware shall not be used to promote, endorse or advertise any\000AModified Version, except to acknowledge the contribution(s) of the\000ACopyright Holder(s) and the Author(s) or with their explicit written\000Apermission.\000A\000A5) The Font Software, modified or unmodified, in part or in whole,\000Amust be distributed entirely under this license, and must not be\000Adistributed under any other license. The requirement for fonts to\000Aremain under this license does not apply to any document created\000Ausing the Font Software.\000A\000ATERMINATION\000AThis license becomes null and void if any of the above conditions are\000Anot met.\000A\000ADISCLAIMER\000ATHE FONT SOFTWARE IS PROVIDED \0022AS IS\0022, WITHOUT WARRANTY OF ANY KIND,\000AEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF\000AMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT\000AOF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE\000ACOPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\000AINCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL\000ADAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\000AFROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM\000AOTHER DEALINGS IN THE FONT SOFTWARE.";
-    nameid 13 1 "Copyright (c) 2011, Natanael Gama (http://www.ndiscovered.com | exo(at)ndiscovered.com>),\0Awith Reserved Font Name Exo.\0A\0AThis Font Software is licensed under the SIL Open Font License, Version 1.1.\0AThis license is copied below, and is also available with a FAQ at:\0Ahttp://scripts.sil.org/OFL\0A\0A\0A-----------------------------------------------------------\0ASIL OPEN FONT LICENSE Version 1.1 - 26 February 2007\0A-----------------------------------------------------------\0A\0APREAMBLE\0AThe goals of the Open Font License (OFL) are to stimulate worldwide\0Adevelopment of collaborative font projects, to support the font creation\0Aefforts of academic and linguistic communities, and to provide a free and\0Aopen framework in which fonts may be shared and improved in partnership\0Awith others.\0A\0AThe OFL allows the licensed fonts to be used, studied, modified and\0Aredistributed freely as long as they are not sold by themselves. The\0Afonts, including any derivative works, can be bundled, embedded, \0Aredistributed and/or sold with any software provided that any reserved\0Anames are not used by derivative works. The fonts and derivatives,\0Ahowever, cannot be released under any other type of license. The\0Arequirement for fonts to remain under this license does not apply\0Ato any document created using the fonts or their derivatives.\0A\0ADEFINITIONS\0A\22Font Software\22 refers to the set of files released by the Copyright\0AHolder(s) under this license and clearly marked as such. This may\0Ainclude source files, build scripts and documentation.\0A\0A\22Reserved Font Name\22 refers to any names specified as such after the\0Acopyright statement(s).\0A\0A\22Original Version\22 refers to the collection of Font Software components as\0Adistributed by the Copyright Holder(s).\0A\0A\22Modified Version\22 refers to any derivative made by adding to, deleting,\0Aor substituting -- in part or in whole -- any of the components of the\0AOriginal Version, by changing formats or by porting the Font Software to a\0Anew environment.\0A\0A\22Author\22 refers to any designer, engineer, programmer, technical\0Awriter or other person who contributed to the Font Software.\0A\0APERMISSION & CONDITIONS\0APermission is hereby granted, free of charge, to any person obtaining\0Aa copy of the Font Software, to use, study, copy, merge, embed, modify,\0Aredistribute, and sell modified and unmodified copies of the Font\0ASoftware, subject to the following conditions:\0A\0A1) Neither the Font Software nor any of its individual components,\0Ain Original or Modified Versions, may be sold by itself.\0A\0A2) Original or Modified Versions of the Font Software may be bundled,\0Aredistributed and/or sold with any software, provided that each copy\0Acontains the above copyright notice and this license. These can be\0Aincluded either as stand-alone text files, human-readable headers or\0Ain the appropriate machine-readable metadata fields within text or\0Abinary files as long as those fields can be easily viewed by the user.\0A\0A3) No Modified Version of the Font Software may use the Reserved Font\0AName(s) unless explicit written permission is granted by the corresponding\0ACopyright Holder. This restriction only applies to the primary font name as\0Apresented to the users.\0A\0A4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font\0ASoftware shall not be used to promote, endorse or advertise any\0AModified Version, except to acknowledge the contribution(s) of the\0ACopyright Holder(s) and the Author(s) or with their explicit written\0Apermission.\0A\0A5) The Font Software, modified or unmodified, in part or in whole,\0Amust be distributed entirely under this license, and must not be\0Adistributed under any other license. The requirement for fonts to\0Aremain under this license does not apply to any document created\0Ausing the Font Software.\0A\0ATERMINATION\0AThis license becomes null and void if any of the above conditions are\0Anot met.\0A\0ADISCLAIMER\0ATHE FONT SOFTWARE IS PROVIDED \22AS IS\22, WITHOUT WARRANTY OF ANY KIND,\0AEXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF\0AMERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT\0AOF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE\0ACOPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,\0AINCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL\0ADAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING\0AFROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM\0AOTHER DEALINGS IN THE FONT SOFTWARE.";
+    nameid 13 "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
+    nameid 13 1 "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL";
     nameid 14 "http://scripts.sil.org/OFL";
     nameid 14 1 "http://scripts.sil.org/OFL";
 } name;

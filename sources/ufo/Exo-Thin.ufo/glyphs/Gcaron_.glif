@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Gcaron" format="1">
+  <advance width="642.0"/>
+  <unicode hex="01E6"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
+  <outline>
+    <component base="G"/>
+    <component base="caroncomb.case" xOffset="599.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>0.8</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cedilla" format="1">
+  <advance width="254"/>
+  <unicode hex="00B8"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
+  <outline>
+    <contour>
+      <point x="50" y="-151" type="line"/>
+      <point x="50" y="-192" type="line"/>
+      <point x="88" y="-192" type="line" smooth="yes"/>
+      <point x="153" y="-192"/>
+      <point x="187" y="-164"/>
+      <point x="187" y="-118" type="curve" smooth="yes"/>
+      <point x="187" y="-75"/>
+      <point x="157" y="-53"/>
+      <point x="104" y="-53" type="curve"/>
+      <point x="62" y="-65" type="line"/>
+      <point x="111" y="-68"/>
+      <point x="122" y="-86"/>
+      <point x="122" y="-107" type="curve" smooth="yes"/>
+      <point x="122" y="-132"/>
+      <point x="105" y="-145"/>
+      <point x="71" y="-148" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="160" y="14" type="line"/>
+      <point x="114" y="14" type="line"/>
+      <point x="62" y="-65" type="line"/>
+      <point x="109" y="-65" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-173</integer>
+            <key>width</key>
+            <integer>7</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>182</integer>
+            <key>width</key>
+            <integer>17</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

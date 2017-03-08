@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="hungarumlaut" format="1">
+  <advance width="378"/>
+  <unicode hex="02DD"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
+  <outline>
+    <contour>
+      <point x="267" y="768" type="line"/>
+      <point x="174" y="631" type="line"/>
+      <point x="233" y="631" type="line"/>
+      <point x="346" y="768" type="line"/>
+    </contour>
+    <contour>
+      <point x="112" y="768" type="line"/>
+      <point x="20" y="631" type="line"/>
+      <point x="79" y="631" type="line"/>
+      <point x="192" y="768" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>531</integer>
+            <key>width</key>
+            <integer>133</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>27</integer>
+            <key>width</key>
+            <integer>286</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

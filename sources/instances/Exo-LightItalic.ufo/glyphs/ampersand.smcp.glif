@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ampersand.smcp" format="1">
+  <advance width="565"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
+  <outline>
+    <contour>
+      <point x="208" y="45" type="curve" smooth="yes"/>
+      <point x="150" y="45"/>
+      <point x="117" y="78"/>
+      <point x="116" y="130" type="curve" smooth="yes"/>
+      <point x="115" y="192"/>
+      <point x="134" y="231"/>
+      <point x="210" y="272" type="curve" smooth="yes"/>
+      <point x="251" y="296" type="line"/>
+      <point x="365" y="115" type="line"/>
+      <point x="336" y="93" type="line" smooth="yes"/>
+      <point x="285" y="53"/>
+      <point x="247" y="45"/>
+    </contour>
+    <contour>
+      <point x="192" y="-5" type="curve" smooth="yes"/>
+      <point x="248" y="-5"/>
+      <point x="298" y="10"/>
+      <point x="359" y="57" type="curve" smooth="yes"/>
+      <point x="390" y="79" type="line"/>
+      <point x="440" y="0" type="line"/>
+      <point x="500" y="0" type="line"/>
+      <point x="433" y="107" type="line"/>
+      <point x="499" y="159" type="line"/>
+      <point x="563" y="231" type="line"/>
+      <point x="546" y="254" type="line"/>
+      <point x="407" y="144" type="line"/>
+      <point x="274" y="361" type="line" smooth="yes"/>
+      <point x="253" y="393"/>
+      <point x="246" y="418"/>
+      <point x="246" y="441" type="curve" smooth="yes"/>
+      <point x="245" y="496"/>
+      <point x="287" y="512"/>
+      <point x="347" y="512" type="curve" smooth="yes"/>
+      <point x="457" y="512" type="line"/>
+      <point x="463" y="550" type="line"/>
+      <point x="435" y="554"/>
+      <point x="401" y="559"/>
+      <point x="346" y="559" type="curve" smooth="yes"/>
+      <point x="246" y="559"/>
+      <point x="189" y="517"/>
+      <point x="190" y="445" type="curve" smooth="yes"/>
+      <point x="190" y="418"/>
+      <point x="198" y="387"/>
+      <point x="218" y="352" type="curve" smooth="yes"/>
+      <point x="230" y="331" type="line"/>
+      <point x="176" y="301" type="line" smooth="yes"/>
+      <point x="90" y="252"/>
+      <point x="58" y="201"/>
+      <point x="59" y="122" type="curve" smooth="yes"/>
+      <point x="60" y="44"/>
+      <point x="113" y="-5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>710</integer>
+            <key>width</key>
+            <integer>14</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

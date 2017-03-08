@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yen.smcp" format="1">
+  <advance width="513"/>
+  <outline>
+    <contour>
+      <point x="83" y="85" type="line"/>
+      <point x="446" y="85" type="line"/>
+      <point x="446" y="141" type="line"/>
+      <point x="83" y="141" type="line"/>
+    </contour>
+    <contour>
+      <point x="83" y="190" type="line"/>
+      <point x="446" y="190" type="line"/>
+      <point x="446" y="246" type="line"/>
+      <point x="83" y="246" type="line"/>
+    </contour>
+    <component base="Y.smcp"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>128</integer>
+            <key>width</key>
+            <integer>99</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>252</integer>
+            <key>width</key>
+            <integer>99</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>712</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>226</integer>
+            <key>width</key>
+            <integer>194</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uhorn" format="1">
+  <advance width="598"/>
+  <unicode hex="01B0"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
+  <outline>
+    <contour>
+      <point x="463" y="445" type="line"/>
+      <point x="541" y="445" type="line" smooth="yes"/>
+      <point x="636" y="445"/>
+      <point x="707" y="516"/>
+      <point x="728" y="647" type="curve"/>
+      <point x="610" y="647" type="line"/>
+      <point x="597" y="565"/>
+      <point x="568" y="538"/>
+      <point x="523" y="538" type="curve" smooth="yes"/>
+      <point x="477" y="538" type="line"/>
+    </contour>
+    <component base="u"/>
+    <contour>
+      <point x="368" y="650" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="287" y="-150" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

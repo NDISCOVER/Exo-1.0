@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceright.smcp" format="1">
+  <advance width="284"/>
+  <outline>
+    <contour>
+      <point x="18" y="10" type="curve"/>
+      <point x="18" y="-118" type="line"/>
+      <point x="163" y="-118"/>
+      <point x="224" y="-89"/>
+      <point x="224" y="11" type="curve" smooth="yes"/>
+      <point x="224" y="175" type="line" smooth="yes"/>
+      <point x="224" y="198"/>
+      <point x="234" y="214"/>
+      <point x="266" y="212" type="curve"/>
+      <point x="266" y="369" type="line"/>
+      <point x="239" y="372"/>
+      <point x="223" y="381"/>
+      <point x="223" y="406" type="curve" smooth="yes"/>
+      <point x="223" y="533" type="line" smooth="yes"/>
+      <point x="223" y="627"/>
+      <point x="154" y="673"/>
+      <point x="18" y="673" type="curve"/>
+      <point x="18" y="536" type="line"/>
+      <point x="43" y="536"/>
+      <point x="39" y="523"/>
+      <point x="39" y="460" type="curve" smooth="yes"/>
+      <point x="39" y="374" type="line" smooth="yes"/>
+      <point x="39" y="314"/>
+      <point x="71" y="295"/>
+      <point x="127" y="291" type="curve"/>
+      <point x="71" y="280"/>
+      <point x="40" y="256"/>
+      <point x="40" y="210" type="curve" smooth="yes"/>
+      <point x="40" y="76" type="line" smooth="yes"/>
+      <point x="40" y="35"/>
+      <point x="47" y="10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>58</integer>
+            <key>width</key>
+            <integer>194</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

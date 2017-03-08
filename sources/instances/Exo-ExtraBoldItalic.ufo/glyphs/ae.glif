@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ae" format="1">
+  <advance width="868"/>
+  <unicode hex="00E6"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
+  <outline>
+    <contour>
+      <point x="571" y="295" type="curve"/>
+      <point x="585" y="369"/>
+      <point x="606" y="413"/>
+      <point x="672" y="413" type="curve" smooth="yes"/>
+      <point x="710" y="413"/>
+      <point x="731" y="395"/>
+      <point x="731" y="356" type="curve" smooth="yes"/>
+      <point x="731" y="320"/>
+      <point x="709" y="290"/>
+      <point x="633" y="290" type="curve" smooth="yes"/>
+      <point x="605" y="290"/>
+      <point x="580" y="294"/>
+    </contour>
+    <contour>
+      <point x="295" y="134" type="curve" smooth="yes"/>
+      <point x="258" y="134"/>
+      <point x="242" y="165"/>
+      <point x="242" y="211" type="curve" smooth="yes"/>
+      <point x="242" y="327"/>
+      <point x="280" y="406"/>
+      <point x="374" y="406" type="curve" smooth="yes"/>
+      <point x="391" y="406"/>
+      <point x="416" y="400"/>
+      <point x="426" y="395" type="curve"/>
+      <point x="402" y="343"/>
+      <point x="388" y="275"/>
+      <point x="388" y="210" type="curve" smooth="yes"/>
+      <point x="388" y="200"/>
+      <point x="389" y="189"/>
+      <point x="389" y="180" type="curve"/>
+      <point x="373" y="159"/>
+      <point x="332" y="134"/>
+    </contour>
+    <contour>
+      <point x="215" y="-6" type="curve" smooth="yes"/>
+      <point x="288" y="-6"/>
+      <point x="350" y="18"/>
+      <point x="421" y="67" type="curve"/>
+      <point x="444" y="21"/>
+      <point x="516" y="-6"/>
+      <point x="588" y="-6" type="curve" smooth="yes"/>
+      <point x="671" y="-6"/>
+      <point x="770" y="5"/>
+      <point x="828" y="19" type="curve"/>
+      <point x="844" y="120" type="line"/>
+      <point x="661" y="120" type="line" smooth="yes"/>
+      <point x="580" y="120"/>
+      <point x="557" y="143"/>
+      <point x="557" y="179" type="curve" smooth="yes"/>
+      <point x="557" y="187"/>
+      <point x="558" y="196"/>
+      <point x="559" y="205" type="curve"/>
+      <point x="574" y="201"/>
+      <point x="630" y="196"/>
+      <point x="670" y="196" type="curve" smooth="yes"/>
+      <point x="826" y="196"/>
+      <point x="892" y="261"/>
+      <point x="892" y="375" type="curve" smooth="yes"/>
+      <point x="892" y="493"/>
+      <point x="818" y="544"/>
+      <point x="670" y="544" type="curve" smooth="yes"/>
+      <point x="649" y="544"/>
+      <point x="556" y="534"/>
+      <point x="524" y="510" type="curve"/>
+      <point x="473" y="537"/>
+      <point x="407" y="544"/>
+      <point x="357" y="544" type="curve" smooth="yes"/>
+      <point x="206" y="544"/>
+      <point x="70" y="461"/>
+      <point x="70" y="178" type="curve" smooth="yes"/>
+      <point x="70" y="43"/>
+      <point x="136" y="-6"/>
+    </contour>
+    <contour>
+      <point x="533" y="650" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-7</integer>
+            <key>width</key>
+            <integer>23</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>517</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>a</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <real>2.816641004882655</real>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>e</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <real>364.8166410048827</real>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ae</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>915.076622116</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

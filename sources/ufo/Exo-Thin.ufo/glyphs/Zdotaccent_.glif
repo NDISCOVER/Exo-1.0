@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Zdotaccent" format="1">
+  <advance width="549"/>
+  <unicode hex="017B"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
+  <outline>
+    <component base="Z"/>
+    <component base="dotaccentcomb.case" xOffset="544"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>0.8</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

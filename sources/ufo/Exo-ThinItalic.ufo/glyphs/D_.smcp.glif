@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="D.smcp" format="1">
+  <advance width="562"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
+  <outline>
+    <contour>
+      <point x="103" y="21" type="line"/>
+      <point x="185" y="539" type="line"/>
+      <point x="365" y="539" type="line" smooth="yes"/>
+      <point x="487" y="539"/>
+      <point x="521" y="478"/>
+      <point x="522" y="368" type="curve" smooth="yes"/>
+      <point x="522" y="342"/>
+      <point x="519" y="312"/>
+      <point x="514" y="279" type="curve" smooth="yes"/>
+      <point x="493" y="141"/>
+      <point x="431" y="21"/>
+      <point x="286" y="21" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="76" y="0" type="line"/>
+      <point x="287" y="0" type="line" smooth="yes"/>
+      <point x="443" y="0"/>
+      <point x="514" y="123"/>
+      <point x="537" y="271" type="curve" smooth="yes"/>
+      <point x="542" y="301"/>
+      <point x="546" y="333"/>
+      <point x="546" y="366" type="curve" smooth="yes"/>
+      <point x="545" y="493"/>
+      <point x="500" y="560"/>
+      <point x="370" y="560" type="curve" smooth="yes"/>
+      <point x="165" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="357" y="650" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="220" y="-150" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>708</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

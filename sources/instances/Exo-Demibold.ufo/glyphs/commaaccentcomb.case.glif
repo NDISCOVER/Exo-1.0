@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccentcomb.case" format="1">
+  <note>
+    GF Latin Plus glyph
+  </note>
+  <outline>
+    <contour>
+      <point x="-397" y="-160" type="line"/>
+      <point x="-397" y="-211" type="line"/>
+      <point x="-350" y="-211" type="line" smooth="yes"/>
+      <point x="-261" y="-211"/>
+      <point x="-236" y="-170"/>
+      <point x="-236" y="-69" type="curve"/>
+      <point x="-312" y="-69" type="line"/>
+      <point x="-311" y="-136"/>
+      <point x="-328" y="-145"/>
+      <point x="-369" y="-154" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-312" y="-150" type="move" name="_bottom"/>
+    </contour>
+  </outline>
+</glyph>

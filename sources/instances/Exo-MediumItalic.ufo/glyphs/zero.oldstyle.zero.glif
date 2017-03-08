@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.oldstyle.zero" format="1">
+  <advance width="609"/>
+  <outline>
+    <contour>
+      <point x="510" y="473" type="line"/>
+      <point x="142" y="66" type="line"/>
+      <point x="202" y="66" type="line"/>
+      <point x="570" y="473" type="line"/>
+    </contour>
+    <component base="zero.oldstyle"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>0.8</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

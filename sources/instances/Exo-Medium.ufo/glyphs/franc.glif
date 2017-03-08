@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="franc" format="1">
+  <advance width="609"/>
+  <unicode hex="20A3"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
+  <outline>
+    <contour>
+      <point x="143" y="0" type="line"/>
+      <point x="244" y="0" type="line"/>
+      <point x="244" y="345" type="line"/>
+      <point x="493" y="351" type="line"/>
+      <point x="493" y="429" type="line"/>
+      <point x="244" y="435" type="line"/>
+      <point x="244" y="566" type="line" smooth="yes"/>
+      <point x="244" y="616"/>
+      <point x="272" y="644"/>
+      <point x="321" y="644" type="curve" smooth="yes"/>
+      <point x="538" y="644" type="line"/>
+      <point x="538" y="726" type="line"/>
+      <point x="498" y="732"/>
+      <point x="316" y="737"/>
+      <point x="296" y="737" type="curve" smooth="yes"/>
+      <point x="223" y="738"/>
+      <point x="143" y="703"/>
+      <point x="143" y="587" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="60" y="136" type="line"/>
+      <point x="143" y="130" type="line"/>
+      <point x="244" y="130" type="line"/>
+      <point x="484" y="136" type="line"/>
+      <point x="484" y="206" type="line"/>
+      <point x="244" y="212" type="line"/>
+      <point x="143" y="212" type="line"/>
+      <point x="60" y="206" type="line"/>
+    </contour>
+  </outline>
+</glyph>

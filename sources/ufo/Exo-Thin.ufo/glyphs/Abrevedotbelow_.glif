@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abrevedotbelow" format="1">
+  <advance width="666.0"/>
+  <unicode hex="1EB6"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
+  <outline>
+    <component base="A"/>
+    <component base="brevecomb.case" xOffset="602"/>
+    <component base="dotbelowcomb.case" xOffset="600.0"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>0.8</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

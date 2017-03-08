@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="f_f_l" format="1">
+  <advance width="1104"/>
+  <unicode hex="FB04"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
+  <outline>
+    <contour>
+      <point x="11" y="418" type="line"/>
+      <point x="87" y="418" type="line"/>
+      <point x="87" y="0" type="line"/>
+      <point x="235" y="0" type="line"/>
+      <point x="235" y="418" type="line"/>
+      <point x="558" y="418" type="line"/>
+      <point x="558" y="537" type="line"/>
+      <point x="235" y="537" type="line"/>
+      <point x="235" y="574" type="line" smooth="yes"/>
+      <point x="235" y="624"/>
+      <point x="251" y="648"/>
+      <point x="302" y="648" type="curve" smooth="yes"/>
+      <point x="328" y="648"/>
+      <point x="364" y="647"/>
+      <point x="385" y="645" type="curve"/>
+      <point x="385" y="752" type="line"/>
+      <point x="355" y="762"/>
+      <point x="305" y="769"/>
+      <point x="251" y="769" type="curve" smooth="yes"/>
+      <point x="140" y="769"/>
+      <point x="87" y="727"/>
+      <point x="87" y="595" type="curve" smooth="yes"/>
+      <point x="87" y="537" type="line"/>
+      <point x="11" y="513" type="line"/>
+    </contour>
+    <component base="fl" xOffset="395"/>
+  </outline>
+</glyph>

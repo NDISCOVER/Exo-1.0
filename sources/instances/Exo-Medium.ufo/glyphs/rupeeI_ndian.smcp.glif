@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rupeeIndian.smcp" format="1">
+  <advance width="514"/>
+  <outline>
+    <contour>
+      <point x="187" y="513" type="line"/>
+      <point x="477" y="513" type="line"/>
+      <point x="477" y="560" type="line"/>
+      <point x="187" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="56" y="353" type="line"/>
+      <point x="477" y="353" type="line"/>
+      <point x="477" y="400" type="line"/>
+      <point x="56" y="400" type="line"/>
+    </contour>
+    <contour>
+      <point x="56" y="478" type="line"/>
+      <point x="205" y="478" type="line" smooth="yes"/>
+      <point x="248" y="478"/>
+      <point x="282" y="459"/>
+      <point x="282" y="378" type="curve" smooth="yes"/>
+      <point x="282" y="292"/>
+      <point x="241" y="272"/>
+      <point x="198" y="272" type="curve" smooth="yes"/>
+      <point x="56" y="272" type="line"/>
+      <point x="56" y="197" type="line"/>
+      <point x="75" y="197"/>
+      <point x="166" y="196"/>
+      <point x="181" y="195" type="curve"/>
+      <point x="287" y="0" type="line"/>
+      <point x="391" y="0" type="line"/>
+      <point x="277" y="205" type="line"/>
+      <point x="325" y="220"/>
+      <point x="378" y="251"/>
+      <point x="378" y="378" type="curve" smooth="yes"/>
+      <point x="378" y="527"/>
+      <point x="289" y="560"/>
+      <point x="214" y="560" type="curve" smooth="yes"/>
+      <point x="56" y="560" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>128</integer>
+            <key>width</key>
+            <integer>99</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>252</integer>
+            <key>width</key>
+            <integer>99</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>712</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>226</integer>
+            <key>width</key>
+            <integer>194</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="jdotless" format="1">
+  <advance width="206"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
+  <outline>
+    <contour>
+      <point x="91" y="-237" type="line"/>
+      <point x="107" y="-237" type="line"/>
+      <point x="109.6853754312914" y="-175.23636508029784"/>
+      <point x="115" y="-77.70508474576272"/>
+      <point x="115" y="27" type="curve" smooth="yes"/>
+      <point x="115" y="531" type="line"/>
+      <point x="91" y="531" type="line"/>
+    </contour>
+    <contour>
+      <point x="103" y="650" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

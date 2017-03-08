@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eng.smcp" format="1">
+  <advance width="564"/>
+  <note>
+  </note>
+  <outline>
+    <contour>
+      <point x="290" y="-162" type="line"/>
+      <point x="312" y="-173"/>
+      <point x="349" y="-181"/>
+      <point x="377" y="-181" type="curve" smooth="yes"/>
+      <point x="454" y="-181"/>
+      <point x="498" y="-156"/>
+      <point x="498" y="-64" type="curve" smooth="yes"/>
+      <point x="498" y="18" type="line"/>
+      <point x="474" y="18" type="line"/>
+      <point x="474" y="-64" type="line" smooth="yes"/>
+      <point x="474" y="-144"/>
+      <point x="433" y="-161"/>
+      <point x="376" y="-161" type="curve" smooth="yes"/>
+      <point x="352" y="-161"/>
+      <point x="312" y="-153"/>
+      <point x="290" y="-147" type="curve"/>
+    </contour>
+    <component base="N.smcp"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-257</integer>
+            <key>width</key>
+            <integer>18</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>712</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>108</integer>
+            <key>width</key>
+            <integer>25</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>573</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

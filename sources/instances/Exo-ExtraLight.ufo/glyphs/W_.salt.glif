@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W.salt" format="1">
+  <advance width="997"/>
+  <outline>
+    <contour>
+      <point x="44" y="733" type="line"/>
+      <point x="295" y="0" type="line"/>
+      <point x="351" y="0" type="line"/>
+      <point x="496" y="417" type="line"/>
+      <point x="647" y="0" type="line"/>
+      <point x="703" y="0" type="line"/>
+      <point x="953" y="733" type="line"/>
+      <point x="912" y="733" type="line"/>
+      <point x="674" y="44" type="line"/>
+      <point x="516" y="477" type="line"/>
+      <point x="599" y="733" type="line"/>
+      <point x="555" y="733" type="line"/>
+      <point x="324" y="44" type="line"/>
+      <point x="87" y="733" type="line"/>
+    </contour>
+    <contour>
+      <point x="523" y="810" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>712</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

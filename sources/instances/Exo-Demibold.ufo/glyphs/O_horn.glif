@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohorn" format="1">
+  <advance width="695"/>
+  <unicode hex="01A0"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
+  <outline>
+    <contour>
+      <point x="376" y="671" type="line"/>
+      <point x="522" y="671" type="line" smooth="yes"/>
+      <point x="602" y="671"/>
+      <point x="661" y="726"/>
+      <point x="661" y="850" type="curve"/>
+      <point x="574" y="850" type="line"/>
+      <point x="574" y="766"/>
+      <point x="546" y="738"/>
+      <point x="500" y="738" type="curve" smooth="yes"/>
+      <point x="376" y="738" type="line"/>
+    </contour>
+    <component base="O"/>
+    <contour>
+      <point x="347" y="810" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="347" y="-150" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

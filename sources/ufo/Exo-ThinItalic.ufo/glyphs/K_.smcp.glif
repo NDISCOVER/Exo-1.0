@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K.smcp" format="1">
+  <advance width="482"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
+  <outline>
+    <contour>
+      <point x="76" y="0" type="line"/>
+      <point x="100" y="0" type="line"/>
+      <point x="143" y="270" type="line"/>
+      <point x="269" y="270" type="line"/>
+      <point x="416" y="0" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="290" y="281" type="line"/>
+      <point x="522" y="560" type="line"/>
+      <point x="495" y="560" type="line"/>
+      <point x="270" y="291" type="line"/>
+      <point x="146" y="291" type="line"/>
+      <point x="189" y="560" type="line"/>
+      <point x="165" y="560" type="line"/>
+    </contour>
+    <contour>
+      <point x="341" y="650" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="205" y="-150" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>355</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>712</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

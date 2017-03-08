@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yacute" format="1">
+  <advance width="559"/>
+  <unicode hex="00FD"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
+  <outline>
+    <component base="y"/>
+    <component base="acutecomb" xOffset="541"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>0.8</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

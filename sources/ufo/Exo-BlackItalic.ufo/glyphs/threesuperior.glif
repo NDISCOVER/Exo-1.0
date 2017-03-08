@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="threesuperior" format="1">
+  <advance width="414"/>
+  <unicode hex="00B3"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
+  <outline>
+    <contour>
+      <point x="152.0" y="703" type="line"/>
+      <point x="287.0" y="703" type="line" smooth="yes"/>
+      <point x="324.7708333333333" y="703"/>
+      <point x="336" y="700"/>
+      <point x="336" y="690" type="curve" smooth="yes"/>
+      <point x="336" y="689"/>
+      <point x="336" y="688"/>
+      <point x="336" y="687" type="curve" smooth="yes"/>
+      <point x="335" y="681" type="line" smooth="yes"/>
+      <point x="333" y="672"/>
+      <point x="320.2987515824103" y="668.2035455696298"/>
+      <point x="290.0" y="666" type="curve" smooth="yes"/>
+      <point x="180.0" y="658" type="line"/>
+      <point x="161.0" y="540" type="line"/>
+      <point x="277.0" y="535" type="line" smooth="yes"/>
+      <point x="303.0" y="534"/>
+      <point x="313.0" y="528"/>
+      <point x="313.0" y="516" type="curve" smooth="yes"/>
+      <point x="313.0" y="515"/>
+      <point x="313" y="513"/>
+      <point x="313" y="511" type="curve" smooth="yes"/>
+      <point x="312" y="505" type="line" smooth="yes"/>
+      <point x="311" y="498"/>
+      <point x="306.0" y="494"/>
+      <point x="256.0" y="494" type="curve" smooth="yes"/>
+      <point x="116.0" y="494" type="line"/>
+      <point x="96.0" y="372" type="line"/>
+      <point x="155.0" y="359"/>
+      <point x="223.0" y="351"/>
+      <point x="295.0" y="351" type="curve" smooth="yes"/>
+      <point x="385.0" y="351"/>
+      <point x="447" y="392"/>
+      <point x="460" y="472" type="curve" smooth="yes"/>
+      <point x="463.0" y="490" type="line" smooth="yes"/>
+      <point x="465" y="501"/>
+      <point x="466.0" y="511"/>
+      <point x="466.0" y="521" type="curve" smooth="yes"/>
+      <point x="466.0" y="556"/>
+      <point x="458.0" y="587"/>
+      <point x="423.0" y="599" type="curve"/>
+      <point x="472.0" y="616"/>
+      <point x="483.0" y="650"/>
+      <point x="489.0" y="689" type="curve" smooth="yes"/>
+      <point x="494.0" y="719" type="line" smooth="yes"/>
+      <point x="495.0" y="729"/>
+      <point x="496.0" y="739"/>
+      <point x="496.0" y="747" type="curve" smooth="yes"/>
+      <point x="495.0" y="816"/>
+      <point x="448.0" y="846"/>
+      <point x="373.0" y="846" type="curve" smooth="yes"/>
+      <point x="309.0" y="846"/>
+      <point x="243.0" y="837"/>
+      <point x="171.0" y="824" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-7</integer>
+            <key>width</key>
+            <integer>25</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>4</integer>
+            <key>width</key>
+            <integer>14</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>352</integer>
+            <key>width</key>
+            <integer>27</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>359</integer>
+            <key>width</key>
+            <integer>14</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>710</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>710</integer>
+            <key>width</key>
+            <integer>14</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>524</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>0.8</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

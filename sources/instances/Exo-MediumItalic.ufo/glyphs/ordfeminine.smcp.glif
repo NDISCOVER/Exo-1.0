@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ordfeminine.smcp" format="1">
+  <advance width="411"/>
+  <outline>
+    <contour>
+      <point x="218" y="462" type="line"/>
+      <point x="307" y="643" type="line"/>
+      <point x="336" y="462" type="line"/>
+    </contour>
+    <contour>
+      <point x="71" y="314" type="line"/>
+      <point x="150" y="314" type="line"/>
+      <point x="194" y="400" type="line"/>
+      <point x="342" y="400" type="line"/>
+      <point x="359" y="314" type="line"/>
+      <point x="439" y="314" type="line"/>
+      <point x="366" y="706" type="line"/>
+      <point x="268" y="706" type="line"/>
+    </contour>
+    <contour>
+      <point x="47" y="200" type="line"/>
+      <point x="427" y="200" type="line"/>
+      <point x="435" y="251" type="line"/>
+      <point x="55" y="251" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>253</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>712</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

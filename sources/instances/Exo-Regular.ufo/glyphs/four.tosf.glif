@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.tosf" format="1">
+  <advance width="609"/>
+  <outline>
+    <contour>
+      <point x="73" y="65" type="line"/>
+      <point x="92" y="20" type="line"/>
+      <point x="442" y="20" type="line"/>
+      <point x="442" y="-183" type="line"/>
+      <point x="522" y="-183" type="line"/>
+      <point x="522" y="20" type="line"/>
+      <point x="602" y="37" type="line"/>
+      <point x="602" y="89" type="line"/>
+      <point x="522" y="89" type="line"/>
+      <point x="522" y="336" type="line"/>
+      <point x="461" y="336" type="line"/>
+      <point x="442" y="248" type="line"/>
+      <point x="442" y="89" type="line"/>
+      <point x="165" y="89" type="line"/>
+      <point x="380" y="536" type="line"/>
+      <point x="300" y="536" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>111</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>121</integer>
+            <key>width</key>
+            <integer>14</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>491</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>501</integer>
+            <key>width</key>
+            <integer>14</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>

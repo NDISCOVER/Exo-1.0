@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="AE" format="1">
+  <advance width="992.0"/>
+  <unicode hex="00C6"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
+  <outline>
+    <contour>
+      <point x="346" y="282" type="line"/>
+      <point x="463" y="527" type="line"/>
+      <point x="463" y="282" type="line"/>
+    </contour>
+    <contour>
+      <point x="5" y="0" type="line"/>
+      <point x="194" y="0" type="line"/>
+      <point x="261" y="118" type="line"/>
+      <point x="463" y="118" type="line"/>
+      <point x="464" y="111" type="line" smooth="yes"/>
+      <point x="477" y="19"/>
+      <point x="539" y="-6"/>
+      <point x="659" y="-6" type="curve" smooth="yes"/>
+      <point x="779" y="-6"/>
+      <point x="872" y="3"/>
+      <point x="956" y="14" type="curve"/>
+      <point x="956" y="176" type="line"/>
+      <point x="699" y="176" type="line" smooth="yes"/>
+      <point x="670" y="176"/>
+      <point x="637" y="175"/>
+      <point x="637" y="228" type="curve" smooth="yes"/>
+      <point x="637" y="284" type="line"/>
+      <point x="906" y="294" type="line"/>
+      <point x="906" y="448" type="line"/>
+      <point x="637" y="458" type="line"/>
+      <point x="637" y="516" type="line" smooth="yes"/>
+      <point x="637" y="546"/>
+      <point x="650" y="564"/>
+      <point x="689" y="564" type="curve" smooth="yes"/>
+      <point x="956" y="564" type="line"/>
+      <point x="956" y="727" type="line"/>
+      <point x="891" y="734"/>
+      <point x="774" y="743"/>
+      <point x="649" y="743" type="curve" smooth="yes"/>
+      <point x="465.0" y="743.0"/>
+      <point x="360" y="692"/>
+      <point x="269" y="514" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="534" y="810" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-3</integer>
+            <key>width</key>
+            <integer>179</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>14</integer>
+            <key>width</key>
+            <integer>162</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>272</integer>
+            <key>width</key>
+            <integer>181</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>281</integer>
+            <key>width</key>
+            <integer>161</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>553</integer>
+            <key>width</key>
+            <integer>179</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>553</integer>
+            <key>width</key>
+            <integer>163</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+            <dict>
+              <key>baseGlyph</key>
+              <string>A</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+            <dict>
+              <key>baseGlyph</key>
+              <string>E</string>
+              <key>transformation</key>
+              <array>
+                <integer>1</integer>
+                <integer>0</integer>
+                <integer>0</integer>
+                <integer>1</integer>
+                <integer>388</integer>
+                <integer>0</integer>
+              </array>
+            </dict>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>AE</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <real>992.0</real>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

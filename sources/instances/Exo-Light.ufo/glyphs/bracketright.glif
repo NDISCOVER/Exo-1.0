@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketright" format="1">
+  <advance width="330"/>
+  <unicode hex="005D"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
+  <outline>
+    <contour>
+      <point x="24" y="-162" type="line"/>
+      <point x="24" y="-210" type="line"/>
+      <point x="82" y="-210" type="line" smooth="yes"/>
+      <point x="212" y="-210"/>
+      <point x="230" y="-96"/>
+      <point x="230" y="-28" type="curve" smooth="yes"/>
+      <point x="230" y="664" type="line" smooth="yes"/>
+      <point x="230" y="738"/>
+      <point x="206" y="842"/>
+      <point x="82" y="842" type="curve" smooth="yes"/>
+      <point x="24" y="842" type="line"/>
+      <point x="24" y="794" type="line"/>
+      <point x="70" y="794" type="line" smooth="yes"/>
+      <point x="130" y="794"/>
+      <point x="172" y="755"/>
+      <point x="172" y="658" type="curve" smooth="yes"/>
+      <point x="172" y="-26" type="line" smooth="yes"/>
+      <point x="172" y="-103"/>
+      <point x="144" y="-162"/>
+      <point x="70" y="-162" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-210</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>818</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>189</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaturnedabovecomb" format="1">
+  <note>
+    GF Latin Plus glyph
+  </note>
+  <outline>
+    <contour>
+      <point x="-105" y="711" type="line"/>
+      <point x="-95" y="771" type="line"/>
+      <point x="-146" y="771" type="line" smooth="yes"/>
+      <point x="-237" y="771"/>
+      <point x="-270" y="729"/>
+      <point x="-286" y="628" type="curve"/>
+      <point x="-196" y="628" type="line"/>
+      <point x="-187" y="685"/>
+      <point x="-172" y="694"/>
+      <point x="-133" y="703" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="-214" y="650" type="move" name="_top"/>
+    </contour>
+  </outline>
+</glyph>

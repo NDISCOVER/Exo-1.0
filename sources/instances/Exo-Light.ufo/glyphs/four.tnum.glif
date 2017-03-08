@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.tnum" format="1">
+  <advance width="609"/>
+  <outline>
+    <contour>
+      <point x="48" y="233" type="line"/>
+      <point x="63" y="197" type="line"/>
+      <point x="417" y="197" type="line"/>
+      <point x="417" y="2" type="line"/>
+      <point x="475" y="2" type="line"/>
+      <point x="475" y="197" type="line"/>
+      <point x="583" y="208" type="line"/>
+      <point x="583" y="247" type="line"/>
+      <point x="475" y="247" type="line"/>
+      <point x="475" y="523" type="line"/>
+      <point x="431" y="523" type="line"/>
+      <point x="417" y="460" type="line"/>
+      <point x="417" y="247" type="line"/>
+      <point x="114" y="247" type="line"/>
+      <point x="396" y="734" type="line"/>
+      <point x="337" y="734" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>2</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>212</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>222</integer>
+            <key>width</key>
+            <integer>14</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>712</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>475</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>485</integer>
+            <key>width</key>
+            <integer>14</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

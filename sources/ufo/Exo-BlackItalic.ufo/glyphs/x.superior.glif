@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="x.superior" format="1">
+  <advance width="432"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
+  <outline>
+    <contour>
+      <point x="35.0" y="280" type="line"/>
+      <point x="198.0" y="280" type="line"/>
+      <point x="275.0" y="370" type="line"/>
+      <point x="232.0" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="285.0" y="552" type="line"/>
+      <point x="342.0" y="418" type="line"/>
+      <point x="538.0" y="672" type="line"/>
+      <point x="367.0" y="672" type="line"/>
+    </contour>
+    <contour>
+      <point x="239" y="434" type="line"/>
+      <point x="321" y="280" type="line"/>
+      <point x="485.0" y="280" type="line"/>
+      <point x="347" y="494" type="line"/>
+      <point x="250.0" y="672" type="line"/>
+      <point x="87.0" y="672" type="line"/>
+    </contour>
+    <contour>
+      <point x="320.0" y="751" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="229.0" y="171" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>511</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

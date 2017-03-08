@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="h.superior" format="1">
+  <advance width="440"/>
+  <outline>
+    <contour>
+      <point x="59" y="280" type="line"/>
+      <point x="110" y="280" type="line"/>
+      <point x="110" y="593" type="line"/>
+      <point x="155" y="617"/>
+      <point x="190" y="633"/>
+      <point x="244" y="633" type="curve" smooth="yes"/>
+      <point x="299" y="633"/>
+      <point x="332" y="594"/>
+      <point x="332" y="543" type="curve" smooth="yes"/>
+      <point x="332" y="280" type="line"/>
+      <point x="384" y="280" type="line"/>
+      <point x="384" y="548" type="line" smooth="yes"/>
+      <point x="384" y="619"/>
+      <point x="344" y="678"/>
+      <point x="260" y="678" type="curve" smooth="yes"/>
+      <point x="204" y="678"/>
+      <point x="148" y="654"/>
+      <point x="110" y="628" type="curve"/>
+      <point x="110" y="856" type="line"/>
+      <point x="59" y="856" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>516</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>764</integer>
+            <key>width</key>
+            <integer>20</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>81</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>461</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

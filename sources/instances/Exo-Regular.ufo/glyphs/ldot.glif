@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldot" format="1">
+  <advance width="322"/>
+  <unicode hex="0140"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
+  <outline>
+    <component base="l"/>
+    <component base="periodcentered.loclCAT" xOffset="246" yOffset="6"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>0.8</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

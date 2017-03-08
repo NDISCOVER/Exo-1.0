@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abrevehookabove" format="1">
+  <advance width="674"/>
+  <note>
+    GF Latin Plus glyph
+  </note>
+  <outline>
+    <component base="A"/>
+    <component base="brevecomb_hookabovecomb" xOffset="606" yOffset="160"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>0.8</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

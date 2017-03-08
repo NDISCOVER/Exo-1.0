@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sevensuperior" format="1">
+  <advance width="450"/>
+  <unicode hex="2077"/>
+  <outline>
+    <contour>
+      <point x="24" y="656" type="line"/>
+      <point x="216" y="656" type="line"/>
+      <point x="78" y="280" type="line"/>
+      <point x="267" y="280" type="line"/>
+      <point x="428" y="731" type="line"/>
+      <point x="397" y="820" type="line"/>
+      <point x="24" y="820" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>0</integer>
+            <key>width</key>
+            <integer>21</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>708</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+        </array>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>0.8</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

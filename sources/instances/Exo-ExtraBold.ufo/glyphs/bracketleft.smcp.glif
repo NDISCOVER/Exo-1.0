@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketleft.smcp" format="1">
+  <advance width="300"/>
+  <outline>
+    <contour>
+      <point x="47" y="49" type="line" smooth="yes"/>
+      <point x="47" y="-27"/>
+      <point x="69" y="-121"/>
+      <point x="206" y="-121" type="curve" smooth="yes"/>
+      <point x="281" y="-121" type="line"/>
+      <point x="281" y="2" type="line"/>
+      <point x="257" y="2" type="line" smooth="yes"/>
+      <point x="230" y="2"/>
+      <point x="211" y="13"/>
+      <point x="211" y="57" type="curve" smooth="yes"/>
+      <point x="211" y="493" type="line" smooth="yes"/>
+      <point x="211" y="536"/>
+      <point x="229" y="549"/>
+      <point x="257" y="549" type="curve" smooth="yes"/>
+      <point x="281" y="549" type="line"/>
+      <point x="281" y="672" type="line"/>
+      <point x="206" y="672" type="line" smooth="yes"/>
+      <point x="94" y="672"/>
+      <point x="47" y="621"/>
+      <point x="47" y="518" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontlab.hintData</key>
+      <dict>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-210</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>818</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>115</integer>
+            <key>width</key>
+            <integer>24</integer>
+          </dict>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

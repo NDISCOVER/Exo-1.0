@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ohorn.smcp" format="1">
+  <advance width="576"/>
+  <outline>
+    <component base="O.smcp"/>
+    <component base="horncomb" xOffset="686" yOffset="28"/>
+    <contour>
+      <point x="398" y="650" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="263" y="-141" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.4</real>
+        <real>0.8</real>
+        <real>1.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

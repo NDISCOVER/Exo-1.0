@@ -1,5 +1,5 @@
 {
-.appVersion = "983";
+.appVersion = "1045";
 classes = (
 {
 automatic = 1;
@@ -1246,19 +1246,19 @@ points = (
 {
 segmentType = line;
 smooth = 0;
-x = -392.6796;
+x = -392.67960;
 y = 293;
 },
 {
 segmentType = line;
 smooth = 0;
-x = -287.6796;
+x = -287.67960;
 y = 293;
 },
 {
 segmentType = line;
 smooth = 0;
-x = -310.6796;
+x = -310.67960;
 y = 489;
 }
 );
@@ -1268,49 +1268,49 @@ points = (
 {
 segmentType = line;
 smooth = 0;
-x = -734.6796;
+x = -734.67963;
 y = 0;
 },
 {
 segmentType = line;
 smooth = 0;
-x = -389.6796;
+x = -389.67960;
 y = 732;
 },
 {
 segmentType = line;
 smooth = 0;
-x = -160.6796;
+x = -160.67960;
 y = 732;
 },
 {
 segmentType = line;
 smooth = 0;
-x = -54.6796;
+x = -54.67960;
 y = 0;
 },
 {
 segmentType = line;
 smooth = 0;
-x = -253.6796;
+x = -253.67960;
 y = 0;
 },
 {
 segmentType = line;
 smooth = 0;
-x = -274.6796;
+x = -274.67960;
 y = 128;
 },
 {
 segmentType = line;
 smooth = 0;
-x = -462.6796;
+x = -462.67960;
 y = 128;
 },
 {
 segmentType = line;
 smooth = 0;
-x = -519.6796;
+x = -519.67963;
 y = 0;
 }
 );
@@ -2704,7 +2704,7 @@ lib = {
 name = AE;
 unicodes = (
 );
-width = 1011.1243;
+width = 1011.12433;
 };
 };
 };
@@ -5552,8 +5552,8 @@ y = -3;
 },
 {
 smooth = 0;
-x = 176.6670;
-y = -5.3333;
+x = 176.66701;
+y = -5.33330;
 },
 {
 smooth = 0;
@@ -9013,73 +9013,73 @@ points = (
 {
 segmentType = curve;
 smooth = 0;
-x = 64.7016;
+x = 64.70160;
 y = 25;
 },
 {
 segmentType = line;
 smooth = 0;
-x = 88.7016;
+x = 88.70160;
 y = 179;
 },
 {
 smooth = 0;
-x = 193.7016;
+x = 193.70160;
 y = 179;
 },
 {
 smooth = 0;
-x = 200.7016;
+x = 200.70160;
 y = 199;
 },
 {
 segmentType = curve;
 smooth = 1;
-x = 212.7016;
+x = 212.70160;
 y = 276;
 },
 {
 segmentType = line;
 smooth = 0;
-x = 284.7016;
+x = 284.70160;
 y = 732;
 },
 {
 segmentType = line;
 smooth = 0;
-x = 478.7016;
+x = 478.70160;
 y = 732;
 },
 {
 segmentType = line;
 smooth = 1;
-x = 388.7016;
+x = 388.70160;
 y = 165;
 },
 {
 smooth = 0;
-x = 381.7016;
+x = 381.70160;
 y = 118;
 },
 {
 smooth = 0;
-x = 366.7016;
+x = 366.70160;
 y = 50;
 },
 {
 segmentType = curve;
 smooth = 1;
-x = 311.7016;
+x = 311.70160;
 y = 18;
 },
 {
 smooth = 0;
-x = 253.7016;
+x = 253.70160;
 y = -16;
 },
 {
 smooth = 0;
-x = 111.7016;
+x = 111.70160;
 y = -9;
 }
 );
@@ -13681,7 +13681,7 @@ lib = {
 name = OE;
 unicodes = (
 );
-width = 1021.1243;
+width = 1021.12433;
 };
 };
 };
@@ -23374,7 +23374,7 @@ transformation = (
 0,
 0,
 1,
-0.5024,
+0.50240,
 0
 );
 },
@@ -23385,7 +23385,7 @@ transformation = (
 0,
 0,
 1,
-309.5023,
+309.50229,
 0
 );
 }
@@ -23397,7 +23397,7 @@ lib = {
 name = ae;
 unicodes = (
 );
-width = 861.2135;
+width = 861.21350;
 };
 };
 };
@@ -24866,71 +24866,71 @@ points = (
 {
 segmentType = curve;
 smooth = 1;
-x = 862.4879;
+x = 862.48792;
 y = 273;
 },
 {
 smooth = 0;
-x = 845.4879;
+x = 845.48792;
 y = 164;
 },
 {
 smooth = 0;
-x = 858.4879;
+x = 858.48792;
 y = 151;
 },
 {
 segmentType = curve;
 smooth = 1;
-x = 887.4879;
+x = 887.48792;
 y = 151;
 },
 {
 smooth = 0;
-x = 918.4879;
+x = 918.48792;
 y = 151;
 },
 {
 smooth = 0;
-x = 942.4879;
+x = 942.48792;
 y = 156;
 },
 {
 segmentType = curve;
 smooth = 0;
-x = 955.4879;
+x = 955.48792;
 y = 173;
 },
 {
 segmentType = line;
 smooth = 0;
-x = 989.4879;
+x = 989.48792;
 y = 385;
 },
 {
 smooth = 0;
-x = 981.4879;
+x = 981.48792;
 y = 396;
 },
 {
 smooth = 0;
-x = 951.4879;
+x = 951.48792;
 y = 400;
 },
 {
 segmentType = curve;
 smooth = 1;
-x = 926.4879;
+x = 926.48792;
 y = 400;
 },
 {
 smooth = 0;
-x = 898.4879;
+x = 898.48792;
 y = 400;
 },
 {
 smooth = 0;
-x = 880.4879;
+x = 880.48792;
 y = 386;
 }
 );
@@ -24940,95 +24940,95 @@ points = (
 {
 segmentType = curve;
 smooth = 1;
-x = 666.4879;
+x = 666.48792;
 y = 303;
 },
 {
 smooth = 0;
-x = 693.4879;
+x = 693.48792;
 y = 454;
 },
 {
 smooth = 0;
-x = 738.4879;
+x = 738.48792;
 y = 539;
 },
 {
 segmentType = curve;
 smooth = 1;
-x = 882.4879;
+x = 882.48792;
 y = 539;
 },
 {
 smooth = 0;
-x = 927.4879;
+x = 927.48792;
 y = 539;
 },
 {
 smooth = 0;
-x = 976.4879;
+x = 976.48792;
 y = 528;
 },
 {
 segmentType = curve;
 smooth = 0;
-x = 1009.4879;
+x = 1009.48792;
 y = 509;
 },
 {
 segmentType = line;
 smooth = 0;
-x = 1053.4879;
+x = 1053.48792;
 y = 785;
 },
 {
 segmentType = line;
 smooth = 0;
-x = 1247.4879;
+x = 1247.48792;
 y = 785;
 },
 {
 segmentType = line;
 smooth = 0;
-x = 1123.4879;
+x = 1123.48792;
 y = 0;
 },
 {
 segmentType = line;
 smooth = 0;
-x = 957.4879;
+x = 957.48792;
 y = 0;
 },
 {
 segmentType = line;
 smooth = 0;
-x = 935.4879;
+x = 935.48792;
 y = 49;
 },
 {
 smooth = 0;
-x = 891.4879;
+x = 891.48792;
 y = 16;
 },
 {
 smooth = 0;
-x = 855.4879;
+x = 855.48792;
 y = -6;
 },
 {
 segmentType = curve;
 smooth = 1;
-x = 796.4879;
+x = 796.48792;
 y = -6;
 },
 {
 smooth = 0;
-x = 677.4879;
+x = 677.48792;
 y = -6;
 },
 {
 smooth = 0;
-x = 634.4879;
+x = 634.48792;
 y = 124;
 }
 );
@@ -27582,61 +27582,61 @@ points = (
 {
 segmentType = curve;
 smooth = 1;
-x = -335.4166;
+x = -335.41660;
 y = 291;
 },
 {
 smooth = 0;
-x = -353.4166;
+x = -353.41660;
 y = 179;
 },
 {
 smooth = 0;
-x = -353.4166;
+x = -353.41660;
 y = 146;
 },
 {
 segmentType = curve;
 smooth = 1;
-x = -301.4166;
+x = -301.41660;
 y = 146;
 },
 {
 smooth = 0;
-x = -281.4166;
+x = -281.41660;
 y = 146;
 },
 {
 smooth = 0;
-x = -263.4166;
+x = -263.41660;
 y = 150;
 },
 {
 segmentType = curve;
 smooth = 0;
-x = -249.4166;
+x = -249.41660;
 y = 165;
 },
 {
 segmentType = line;
 smooth = 0;
-x = -210.4166;
+x = -210.41660;
 y = 409;
 },
 {
 segmentType = line;
 smooth = 1;
-x = -257.4166;
+x = -257.41660;
 y = 409;
 },
 {
 smooth = 0;
-x = -315.4166;
+x = -315.41660;
 y = 409;
 },
 {
 smooth = 0;
-x = -325.4166;
+x = -325.41660;
 y = 351;
 }
 );
@@ -27646,127 +27646,127 @@ points = (
 {
 segmentType = line;
 smooth = 0;
-x = -597.4166;
+x = -597.41663;
 y = -248;
 },
 {
 segmentType = line;
 smooth = 0;
-x = -577.4166;
+x = -577.41663;
 y = -119;
 },
 {
 segmentType = line;
 smooth = 1;
-x = -379.4166;
+x = -379.41660;
 y = -119;
 },
 {
 smooth = 0;
-x = -326.4166;
+x = -326.41660;
 y = -119;
 },
 {
 smooth = 0;
-x = -289.4166;
+x = -289.41660;
 y = -88;
 },
 {
 segmentType = curve;
 smooth = 1;
-x = -279.4166;
+x = -279.41660;
 y = -24;
 },
 {
 segmentType = line;
 smooth = 0;
-x = -268.4166;
+x = -268.41660;
 y = 44;
 },
 {
 smooth = 0;
-x = -294.4166;
+x = -294.41660;
 y = 16;
 },
 {
 smooth = 0;
-x = -326.4166;
+x = -326.41660;
 y = 6;
 },
 {
 segmentType = curve;
 smooth = 1;
-x = -371.4166;
+x = -371.41660;
 y = 6;
 },
 {
 smooth = 0;
-x = -524.4166;
+x = -524.41663;
 y = 6;
 },
 {
 smooth = 0;
-x = -560.4166;
+x = -560.41663;
 y = 121;
 },
 {
 segmentType = curve;
 smooth = 1;
-x = -530.4166;
+x = -530.41663;
 y = 313;
 },
 {
 smooth = 0;
-x = -500.4166;
+x = -500.41660;
 y = 502;
 },
 {
 smooth = 0;
-x = -411.4166;
+x = -411.41660;
 y = 543;
 },
 {
 segmentType = curve;
 smooth = 1;
-x = -286.4166;
+x = -286.41660;
 y = 543;
 },
 {
 smooth = 0;
-x = -180.4166;
+x = -180.41660;
 y = 543;
 },
 {
 smooth = 0;
-x = -49.4166;
+x = -49.41660;
 y = 529;
 },
 {
 segmentType = curve;
 smooth = 0;
-x = 1.5834;
+x = 1.58340;
 y = 507;
 },
 {
 segmentType = line;
 smooth = 1;
-x = -87.4166;
+x = -87.41660;
 y = -54;
 },
 {
 smooth = 0;
-x = -110.4166;
+x = -110.41660;
 y = -200;
 },
 {
 smooth = 0;
-x = -185.4166;
+x = -185.41660;
 y = -292;
 },
 {
 segmentType = curve;
 smooth = 1;
-x = -373.4166;
+x = -373.41660;
 y = -272;
 }
 );
@@ -30212,79 +30212,79 @@ points = (
 {
 segmentType = line;
 smooth = 0;
-x = 32.3692;
+x = 32.36920;
 y = 0;
 },
 {
 segmentType = line;
 smooth = 0;
-x = 116.3692;
+x = 116.36920;
 y = 531;
 },
 {
 segmentType = line;
 smooth = 0;
-x = 311.3692;
+x = 311.36920;
 y = 531;
 },
 {
 segmentType = line;
 smooth = 0;
-x = 279.3692;
+x = 279.36920;
 y = 330;
 },
 {
 segmentType = line;
 smooth = 0;
-x = 302.3692;
+x = 302.36920;
 y = 330;
 },
 {
 segmentType = line;
 smooth = 0;
-x = 452.3692;
+x = 452.36920;
 y = 531;
 },
 {
 segmentType = line;
 smooth = 0;
-x = 672.3692;
+x = 672.36920;
 y = 531;
 },
 {
 segmentType = line;
 smooth = 0;
-x = 468.3692;
+x = 468.36920;
 y = 246;
 },
 {
 segmentType = line;
 smooth = 0;
-x = 574.3692;
+x = 574.36920;
 y = 0;
 },
 {
 segmentType = line;
 smooth = 0;
-x = 363.3692;
+x = 363.36920;
 y = 0;
 },
 {
 segmentType = line;
 smooth = 0;
-x = 288.3692;
+x = 288.36920;
 y = 196;
 },
 {
 segmentType = line;
 smooth = 0;
-x = 258.3692;
+x = 258.36920;
 y = 196;
 },
 {
 segmentType = line;
 smooth = 0;
-x = 227.3692;
+x = 227.36920;
 y = 0;
 }
 );
@@ -31585,7 +31585,7 @@ lib = {
 name = m;
 unicodes = (
 );
-width = 921.0214;
+width = 921.02142;
 };
 };
 };
@@ -34899,7 +34899,7 @@ lib = {
 name = oe;
 unicodes = (
 );
-width = 869.8865;
+width = 869.88647;
 };
 };
 };
@@ -35926,7 +35926,7 @@ lib = {
 name = q;
 unicodes = (
 );
-width = 573.0159;
+width = 573.01593;
 };
 };
 };
@@ -45664,7 +45664,7 @@ y = 344;
 {
 smooth = 0;
 x = 332;
-y = 387.0460;
+y = 387.04599;
 },
 {
 smooth = 0;
@@ -45754,8 +45754,8 @@ y = -51;
 },
 {
 smooth = 0;
-x = 330.0680;
-y = -35.7598;
+x = 330.06799;
+y = -35.75980;
 },
 {
 segmentType = curve;
@@ -45912,7 +45912,7 @@ y = 110;
 },
 {
 smooth = 0;
-x = 212.9090;
+x = 212.90900;
 y = 110;
 },
 {
@@ -94173,13 +94173,13 @@ y = 0;
 {
 segmentType = line;
 smooth = 0;
-x = 436.9560;
+x = 436.95599;
 y = 770;
 },
 {
 segmentType = line;
 smooth = 0;
-x = 567.9560;
+x = 567.95599;
 y = 770;
 },
 {
@@ -94544,7 +94544,7 @@ lib = {
 name = onehalf;
 unicodes = (
 );
-width = 1156.6180;
+width = 1156.61804;
 };
 };
 };
@@ -94892,7 +94892,7 @@ lib = {
 name = onequarter;
 unicodes = (
 );
-width = 1157.3728;
+width = 1157.37280;
 };
 };
 };
@@ -95241,7 +95241,7 @@ lib = {
 name = threequarters;
 unicodes = (
 );
-width = 1155.7889;
+width = 1155.78894;
 };
 };
 };
@@ -147219,8 +147219,8 @@ value = 275;
 );
 interpolationWeight = 180;
 instanceInterpolations = {
-"FDCB0490-BEB2-4154-BC16-7BC1D55E5E84" = 0.1;
 "DE62D6C8-A9BF-4A7E-9D02-9A707AFEE35E" = 0.9;
+"FDCB0490-BEB2-4154-BC16-7BC1D55E5E84" = 0.1;
 };
 isItalic = 1;
 linkStyle = ExtraLight;
@@ -147230,17 +147230,19 @@ weightClass = ExtraLight;
 {
 interpolationWeight = 260;
 instanceInterpolations = {
-"FDCB0490-BEB2-4154-BC16-7BC1D55E5E84" = 0.2;
 "DE62D6C8-A9BF-4A7E-9D02-9A707AFEE35E" = 0.8;
+"FDCB0490-BEB2-4154-BC16-7BC1D55E5E84" = 0.2;
 };
 isItalic = 1;
+linkStyle = Light;
 name = "Light Italic";
+weightClass = Light;
 },
 {
 interpolationWeight = 360;
 instanceInterpolations = {
-"FDCB0490-BEB2-4154-BC16-7BC1D55E5E84" = 0.325;
 "DE62D6C8-A9BF-4A7E-9D02-9A707AFEE35E" = 0.675;
+"FDCB0490-BEB2-4154-BC16-7BC1D55E5E84" = 0.325;
 };
 isItalic = 1;
 name = Italic;
@@ -147248,38 +147250,46 @@ name = Italic;
 {
 interpolationWeight = 460;
 instanceInterpolations = {
-"FDCB0490-BEB2-4154-BC16-7BC1D55E5E84" = 0.45;
 "DE62D6C8-A9BF-4A7E-9D02-9A707AFEE35E" = 0.55;
+"FDCB0490-BEB2-4154-BC16-7BC1D55E5E84" = 0.45;
 };
 isItalic = 1;
+linkStyle = Medium;
 name = "Medium Italic";
+weightClass = Medium;
 },
 {
 interpolationWeight = 570;
 instanceInterpolations = {
-"FDCB0490-BEB2-4154-BC16-7BC1D55E5E84" = 0.5875;
 "DE62D6C8-A9BF-4A7E-9D02-9A707AFEE35E" = 0.4125;
+"FDCB0490-BEB2-4154-BC16-7BC1D55E5E84" = 0.5875;
 };
 isItalic = 1;
+linkStyle = SemiBold;
 name = "SemiBold Italic";
+weightClass = SemiBold;
 },
 {
 interpolationWeight = 685;
 instanceInterpolations = {
-"FDCB0490-BEB2-4154-BC16-7BC1D55E5E84" = 0.73125;
 "DE62D6C8-A9BF-4A7E-9D02-9A707AFEE35E" = 0.26875;
+"FDCB0490-BEB2-4154-BC16-7BC1D55E5E84" = 0.73125;
 };
+isBold = 1;
 isItalic = 1;
 name = "Bold Italic";
+weightClass = Bold;
 },
 {
 interpolationWeight = 800;
 instanceInterpolations = {
-"FDCB0490-BEB2-4154-BC16-7BC1D55E5E84" = 0.875;
 "DE62D6C8-A9BF-4A7E-9D02-9A707AFEE35E" = 0.125;
+"FDCB0490-BEB2-4154-BC16-7BC1D55E5E84" = 0.875;
 };
 isItalic = 1;
+linkStyle = ExtraBold;
 name = "ExtraBold Italic";
+weightClass = ExtraBold;
 },
 {
 interpolationWeight = 900;
@@ -148854,9 +148864,9 @@ presets = {
 };
 com.typemytype.robofont.background.layerStrokeColor = (
 0,
-0.8000,
+0.80000,
 0.2,
-0.7000
+0.70000
 );
 com.typemytype.robofont.compileSettings.autohint = 1;
 com.typemytype.robofont.compileSettings.checkOutlines = 0;
@@ -148868,7 +148878,7 @@ com.typemytype.robofont.foreground.layerStrokeColor = (
 0.5,
 0,
 0.5,
-0.7000
+0.70000
 );
 com.typemytype.robofont.italicSlantOffset = 0;
 com.typemytype.robofont.layerOrder = (

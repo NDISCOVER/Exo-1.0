@@ -1,20 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="lacute" format="1">
-  <advance width="269.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lacute" format="2">
+  <advance width="269"/>
   <unicode hex="013A"/>
   <outline>
     <component base="l"/>
-    <component base="acutecomb" xOffset="502.0" yOffset="200.0"/>
+    <component base="acutecomb" xOffset="502" yOffset="200"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.4</real>
-        <real>0.8</real>
-        <real>1.0</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>0.4,0.8,1,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dieresiscomb" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscomb" format="2">
   <note>
-    GF Latin Plus glyph
-  </note>
+GF Latin Plus glyph
+</note>
+  <anchor x="-269.0" y="650.0" name="_top"/>
   <outline>
     <contour>
       <point x="-442" y="650" type="line" smooth="yes"/>
@@ -40,9 +40,6 @@
       <point x="-237" y="786"/>
       <point x="-245" y="776"/>
       <point x="-245" y="761" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="-269.0" y="650.0" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

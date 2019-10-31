@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="threesuperior" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="threesuperior" format="2">
   <advance width="414"/>
   <unicode hex="00B3"/>
   <note>
-    GF Latin Plus glyph
-  </note>
+GF Latin Plus glyph
+</note>
   <outline>
     <contour>
       <point x="152.0" y="703" type="line"/>
@@ -115,13 +115,8 @@
           </dict>
         </array>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.4</real>
-        <real>0.8</real>
-        <real>1.0</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>0.4,0.8,1,1</string>
     </dict>
   </lib>
 </glyph>

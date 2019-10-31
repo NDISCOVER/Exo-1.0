@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="AE" format="1">
-  <advance width="992.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AE" format="2">
+  <advance width="992"/>
   <unicode hex="00C6"/>
   <note>
-    GF Latin Plus glyph
-  </note>
+GF Latin Plus glyph
+</note>
+  <anchor x="534" y="810" name="top"/>
   <outline>
     <contour>
       <point x="346" y="282" type="line"/>
@@ -44,9 +45,6 @@
       <point x="465.0" y="743.0"/>
       <point x="360" y="692"/>
       <point x="269" y="514" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="534" y="810" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -92,57 +90,6 @@
             <integer>163</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>background</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-            <dict>
-              <key>baseGlyph</key>
-              <string>A</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-              </array>
-            </dict>
-            <dict>
-              <key>baseGlyph</key>
-              <string>E</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <integer>388</integer>
-                <integer>0</integer>
-              </array>
-            </dict>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>AE</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <real>992.0</real>
-        </dict>
       </dict>
     </dict>
   </lib>

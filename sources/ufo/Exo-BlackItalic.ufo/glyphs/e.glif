@@ -1,10 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="e" format="1">
-  <advance width="548.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="e" format="2">
+  <advance width="548"/>
   <unicode hex="0065"/>
   <note>
-    GF Latin Plus glyph
-  </note>
+GF Latin Plus glyph
+</note>
+  <anchor x="379.0" y="650.0" name="top"/>
+  <anchor x="273" y="-150" name="bottom"/>
+  <anchor x="508" y="22" name="ogonek"/>
   <outline>
     <contour>
       <point x="272" y="299" type="curve"/>
@@ -51,15 +54,6 @@
       <point x="72" y="269"/>
       <point x="68" y="237"/>
     </contour>
-    <contour>
-      <point x="379.0" y="650.0" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="273" y="-150" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="508" y="22" type="move" name="ogonek"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -80,44 +74,6 @@
             <integer>144</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>background</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-            <dict>
-              <key>baseGlyph</key>
-              <string>o</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-              </array>
-            </dict>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>e</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <real>548.0</real>
-        </dict>
       </dict>
     </dict>
   </lib>

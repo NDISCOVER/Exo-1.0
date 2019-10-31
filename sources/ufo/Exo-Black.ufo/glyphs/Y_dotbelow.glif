@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ydotbelow" format="2">
+  <advance width="634"/>
+  <unicode hex="1EF4"/>
+  <note>
+GF Latin Plus glyph
+</note>
+  <outline>
+    <component base="Y"/>
+    <component base="dotbelowcomb.case" xOffset="588"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4,0.8,1,1</string>
+    </dict>
+  </lib>
+</glyph>

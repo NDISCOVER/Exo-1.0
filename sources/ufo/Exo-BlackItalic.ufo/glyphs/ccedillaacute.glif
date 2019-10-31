@@ -1,21 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ccedillaacute" format="1">
-  <advance width="471.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ccedillaacute" format="2">
+  <advance width="471"/>
   <unicode hex="1E09"/>
   <outline>
     <component base="c"/>
-    <component base="cedillacomb" xOffset="503.0"/>
-    <component base="acutecomb" xOffset="629.0"/>
+    <component base="cedillacomb" xOffset="503"/>
+    <component base="acutecomb" xOffset="629"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.4</real>
-        <real>0.8</real>
-        <real>1.0</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>0.4,0.8,1,1</string>
     </dict>
   </lib>
 </glyph>

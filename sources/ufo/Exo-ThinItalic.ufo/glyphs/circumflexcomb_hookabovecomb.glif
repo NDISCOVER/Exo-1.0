@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="circumflexcomb_hookabovecomb" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_hookabovecomb" format="2">
+  <anchor x="-281" y="650" name="_top"/>
   <outline>
     <contour>
       <point x="-278" y="721" type="line"/>
@@ -32,9 +32,6 @@
       <point x="-157" y="820"/>
       <point x="-170" y="819"/>
       <point x="-185" y="814" type="curve"/>
-    </contour>
-    <contour>
-      <point x="-281" y="650" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

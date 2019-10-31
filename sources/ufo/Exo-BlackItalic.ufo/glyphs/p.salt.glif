@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="p.salt" format="1">
-  <advance width="580.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="p.salt" format="2">
+  <advance width="580"/>
+  <anchor x="393" y="650" name="top"/>
   <outline>
     <contour>
       <point x="263" y="166" type="curve"/>
@@ -31,9 +32,6 @@
       <point x="295.08992805755395" y="548.0"/>
       <point x="209.21695434014043" y="526.617177677402"/>
       <point x="120" y="483" type="curve"/>
-    </contour>
-    <contour>
-      <point x="393" y="650" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
@@ -71,51 +69,8 @@
           </dict>
         </array>
       </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>background</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-            <dict>
-              <key>baseGlyph</key>
-              <string>p</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-              </array>
-            </dict>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>p.salt</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <real>580.0</real>
-        </dict>
-      </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
     </dict>
   </lib>
 </glyph>

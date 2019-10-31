@@ -1,18 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ohorn" format="1">
-  <advance width="579.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorn" format="2">
+  <advance width="579"/>
   <unicode hex="01A1"/>
   <note>
-    GF Latin Plus glyph
-  </note>
+GF Latin Plus glyph
+</note>
+  <anchor x="347" y="650" name="top"/>
+  <anchor x="267" y="-150" name="bottom"/>
   <outline>
     <component base="o"/>
     <component base="horncomb" xOffset="574"/>
-    <contour>
-      <point x="347" y="650" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="267" y="-150" type="move" name="bottom"/>
-    </contour>
   </outline>
 </glyph>

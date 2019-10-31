@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="w.salt" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="w.salt" format="2">
   <advance width="845"/>
+  <anchor x="532" y="650" name="top"/>
+  <anchor x="405" y="-150" name="bottom"/>
   <outline>
     <contour>
       <point x="93" y="539" type="line"/>
@@ -17,12 +19,6 @@
       <point x="434" y="539" type="line"/>
       <point x="291" y="179" type="line"/>
       <point x="293" y="539" type="line"/>
-    </contour>
-    <contour>
-      <point x="532" y="650" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="405" y="-150" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
@@ -44,44 +40,6 @@
             <integer>20</integer>
           </dict>
         </array>
-      </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>background</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-            <dict>
-              <key>baseGlyph</key>
-              <string>w</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-              </array>
-            </dict>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>w.salt</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>845</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

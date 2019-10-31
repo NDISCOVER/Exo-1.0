@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ordmasculine.smcp" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordmasculine.smcp" format="2">
   <advance width="414"/>
   <note>
-    GF Latin Plus glyph
-  </note>
+GF Latin Plus glyph
+</note>
   <outline>
     <contour>
       <point x="252" y="547"/>
@@ -75,13 +75,8 @@
           </dict>
         </array>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
     </dict>
   </lib>
 </glyph>

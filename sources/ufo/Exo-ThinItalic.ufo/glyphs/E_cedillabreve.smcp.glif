@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Ecedillabreve.smcp" format="2">
+  <advance width="483"/>
+  <outline>
+    <component base="E.smcp"/>
+    <component base="cedillacomb" xOffset="497"/>
+    <component base="brevecomb" xOffset="633"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4,0.8,1,1</string>
+    </dict>
+  </lib>
+</glyph>

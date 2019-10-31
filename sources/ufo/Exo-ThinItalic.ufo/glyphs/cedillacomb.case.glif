@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="cedillacomb.case" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cedillacomb.case" format="2">
   <note>
-    GF Latin Plus glyph
-  </note>
+GF Latin Plus glyph
+</note>
+  <anchor x="-317.0" y="-150.0" name="_bottom"/>
   <outline>
     <component base="cedillacomb" xOffset="-50"/>
-    <contour>
-      <point x="-317.0" y="-150.0" type="move" name="_bottom"/>
-    </contour>
   </outline>
 </glyph>

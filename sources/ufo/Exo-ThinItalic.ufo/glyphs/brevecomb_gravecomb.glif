@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="brevecomb_gravecomb" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_gravecomb" format="2">
+  <anchor x="-269" y="650" name="_top"/>
   <outline>
     <contour>
       <point x="-392" y="737" type="line"/>
@@ -25,8 +25,5 @@
       <point x="-378" y="737" type="curve"/>
     </contour>
     <component base="gravecomb" yOffset="100"/>
-    <contour>
-      <point x="-269" y="650" type="move" name="_top"/>
-    </contour>
   </outline>
 </glyph>

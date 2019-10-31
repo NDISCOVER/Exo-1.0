@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="M.salt.smcp" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M.salt.smcp" format="2">
   <advance width="762"/>
+  <anchor x="478" y="650" name="top"/>
+  <anchor x="355" y="-150" name="bottom"/>
   <outline>
     <contour>
       <point x="34" y="0" type="line"/>
@@ -56,12 +58,6 @@
       <point x="146" y="544"/>
       <point x="123" y="434" type="curve" smooth="yes"/>
     </contour>
-    <contour>
-      <point x="478" y="650" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="355" y="-150" type="move" name="bottom"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -104,13 +100,8 @@
           </dict>
         </array>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
     </dict>
   </lib>
 </glyph>

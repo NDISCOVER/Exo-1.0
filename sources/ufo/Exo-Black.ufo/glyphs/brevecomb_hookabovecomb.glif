@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="brevecomb_hookabovecomb" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_hookabovecomb" format="2">
+  <anchor x="-269.0" y="650.0" name="_top"/>
   <outline>
     <contour>
       <point x="-420" y="727" type="line"/>
@@ -19,8 +19,5 @@
       <point x="-331" y="727" type="curve"/>
     </contour>
     <component base="hookabovecomb" xOffset="44" yOffset="130"/>
-    <contour>
-      <point x="-269.0" y="650.0" type="move" name="_top"/>
-    </contour>
   </outline>
 </glyph>

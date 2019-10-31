@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="circumflexcomb_tildecomb" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_tildecomb" format="2">
+  <anchor x="-282.6210618679101" y="650.0" name="_top"/>
   <outline>
     <contour>
       <point x="-422" y="771" type="curve"/>
@@ -32,9 +32,6 @@
       <point x="-172" y="631" type="line"/>
       <point x="-154" y="631" type="line"/>
       <point x="-259" y="721" type="line"/>
-    </contour>
-    <contour>
-      <point x="-282.6210618679101" y="650.0" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

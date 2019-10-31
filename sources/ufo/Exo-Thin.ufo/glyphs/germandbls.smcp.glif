@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="germandbls.smcp" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="germandbls.smcp" format="2">
   <advance width="972"/>
-  <note>
-  </note>
   <outline>
     <component base="S.smcp"/>
     <component base="S.smcp" xOffset="486"/>
@@ -54,13 +52,8 @@
           </dict>
         </array>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.4</real>
-        <real>0.8</real>
-        <real>1.0</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>0.4,0.8,1,1</string>
     </dict>
   </lib>
 </glyph>

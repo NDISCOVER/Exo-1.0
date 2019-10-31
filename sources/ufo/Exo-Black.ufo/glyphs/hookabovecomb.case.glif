@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hookabovecomb.case" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabovecomb.case" format="2">
   <note>
-    GF Latin Plus glyph
-  </note>
+GF Latin Plus glyph
+</note>
+  <anchor x="-310" y="810" name="_top"/>
   <outline>
     <component base="hookabovecomb" yOffset="180"/>
-    <contour>
-      <point x="-310" y="810" type="move" name="_top"/>
-    </contour>
   </outline>
 </glyph>

@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ogonekcomb" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ogonekcomb" format="2">
   <note>
-    GF Latin Plus glyph
-  </note>
+GF Latin Plus glyph
+</note>
+  <anchor x="-253" y="0" name="_ogonek"/>
   <outline>
     <component base="ogonek" xOffset="-400"/>
-    <contour>
-      <point x="-253" y="0" type="move" name="_ogonek"/>
-    </contour>
   </outline>
 </glyph>

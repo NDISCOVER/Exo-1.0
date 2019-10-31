@@ -1,24 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="idotless" format="1">
-  <advance width="184.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idotless" format="2">
+  <advance width="184"/>
   <note>
-    GF Latin Plus glyph
-  </note>
+GF Latin Plus glyph
+</note>
+  <anchor x="195" y="650" name="top"/>
+  <anchor x="68" y="-150" name="bottom"/>
+  <anchor x="94" y="0" name="ogonek"/>
   <outline>
     <contour>
       <point x="80" y="0" type="line"/>
       <point x="104" y="0" type="line"/>
       <point x="188" y="531" type="line"/>
       <point x="164" y="531" type="line"/>
-    </contour>
-    <contour>
-      <point x="195" y="650" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="68" y="-150" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="94" y="0" type="move" name="ogonek"/>
     </contour>
   </outline>
 </glyph>

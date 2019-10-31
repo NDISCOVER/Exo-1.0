@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="N.salt.smcp" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N.salt.smcp" format="2">
   <advance width="588"/>
-  <note>
-  </note>
+  <anchor x="412" y="650" name="top"/>
+  <anchor x="285" y="-150" name="bottom"/>
   <outline>
     <contour>
       <point x="98" y="0" type="line"/>
@@ -37,12 +37,6 @@
       <point x="220" y="565"/>
       <point x="185" y="549"/>
       <point x="177" y="496" type="curve" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="412" y="650" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="285" y="-150" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

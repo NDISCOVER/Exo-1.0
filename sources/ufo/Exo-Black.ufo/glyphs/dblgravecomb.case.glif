@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dblgravecomb.case" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dblgravecomb.case" format="2">
   <note>
-    GF Latin Plus glyph
-  </note>
+GF Latin Plus glyph
+</note>
+  <anchor x="-320" y="810" name="_top"/>
   <outline>
     <contour>
       <point x="-569" y="934" type="line"/>
@@ -16,9 +16,6 @@
       <point x="-261" y="791" type="line"/>
       <point x="-147" y="791" type="line"/>
       <point x="-215" y="934" type="line"/>
-    </contour>
-    <contour>
-      <point x="-320" y="810" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

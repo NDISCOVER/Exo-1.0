@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hookabovecomb" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hookabovecomb" format="2">
   <note>
-    GF Latin Plus glyph
-  </note>
+GF Latin Plus glyph
+</note>
+  <anchor x="-310" y="650" name="_top"/>
   <outline>
     <contour>
       <point x="-349" y="750" type="line"/>
@@ -26,9 +26,6 @@
       <point x="-322" y="770"/>
       <point x="-335" y="769"/>
       <point x="-349" y="764" type="curve"/>
-    </contour>
-    <contour>
-      <point x="-310" y="650" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="hungarumlautcomb.case" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hungarumlautcomb.case" format="2">
   <note>
-    GF Latin Plus glyph
-  </note>
+GF Latin Plus glyph
+</note>
+  <anchor x="-269" y="810" name="_top"/>
   <outline>
     <component base="hungarumlaut" xOffset="-430" yOffset="160"/>
-    <contour>
-      <point x="-269" y="810" type="move" name="_top"/>
-    </contour>
   </outline>
 </glyph>

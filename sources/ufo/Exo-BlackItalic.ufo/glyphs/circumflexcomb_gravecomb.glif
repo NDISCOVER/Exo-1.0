@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="circumflexcomb_gravecomb" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexcomb_gravecomb" format="2">
+  <anchor x="-282.9378307485592" y="650.0" name="_top"/>
   <outline>
     <contour>
       <point x="-448" y="631" type="line"/>
@@ -16,9 +16,6 @@
       <point x="-370" y="721" type="line"/>
       <point x="-368" y="844" type="line"/>
       <point x="-512" y="844" type="line"/>
-    </contour>
-    <contour>
-      <point x="-282.9378307485592" y="650.0" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

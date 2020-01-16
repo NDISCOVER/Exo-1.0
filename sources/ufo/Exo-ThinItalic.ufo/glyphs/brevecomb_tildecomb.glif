@@ -1,6 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="brevecomb_tildecomb" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevecomb_tildecomb" format="2">
+  <anchor x="-283" y="650" name="_top"/>
   <outline>
     <contour>
       <point x="-400" y="737" type="line"/>
@@ -45,9 +45,6 @@
       <point x="-334" y="840" type="curve" smooth="yes"/>
       <point x="-369" y="840"/>
       <point x="-414" y="823"/>
-    </contour>
-    <contour>
-      <point x="-283" y="650" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

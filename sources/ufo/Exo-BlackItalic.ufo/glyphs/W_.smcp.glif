@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="W.smcp" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W.smcp" format="2">
   <advance width="872"/>
   <note>
-    GF Latin Plus glyph
-  </note>
+GF Latin Plus glyph
+</note>
+  <anchor x="530" y="650" name="top"/>
   <outline>
     <contour>
       <point x="108" y="560" type="line"/>
@@ -19,9 +20,6 @@
       <point x="425" y="560" type="line"/>
       <point x="301" y="262" type="line"/>
       <point x="298" y="560" type="line"/>
-    </contour>
-    <contour>
-      <point x="530" y="650" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

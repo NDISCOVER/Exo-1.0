@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="d.salt" format="1">
-  <advance width="575.0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="d.salt" format="2">
+  <advance width="575"/>
+  <anchor x="246" y="-150" name="bottom"/>
+  <anchor x="660" y="650" name="altcaron"/>
+  <anchor x="573" y="850" name="top"/>
   <outline>
     <contour>
       <point x="266" y="271" type="curve" smooth="yes"/>
@@ -40,15 +43,6 @@
       <point x="166" y="545"/>
       <point x="110" y="454"/>
     </contour>
-    <contour>
-      <point x="246" y="-150" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="660" y="650" type="move" name="altcaron"/>
-    </contour>
-    <contour>
-      <point x="573" y="850" type="move" name="top"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -85,51 +79,8 @@
           </dict>
         </array>
       </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>background</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-            <dict>
-              <key>baseGlyph</key>
-              <string>a.salt</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-              </array>
-            </dict>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>d.salt</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <real>575.0</real>
-        </dict>
-      </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
     </dict>
   </lib>
 </glyph>

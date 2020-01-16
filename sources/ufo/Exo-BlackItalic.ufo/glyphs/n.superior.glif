@@ -1,10 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="n.superior" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n.superior" format="2">
   <advance width="447"/>
   <unicode hex="207F"/>
   <note>
-    GF Latin Plus glyph
-  </note>
+GF Latin Plus glyph
+</note>
+  <anchor x="333.0" y="751.0" name="top"/>
+  <anchor x="242.0" y="171.0" name="bottom"/>
   <outline>
     <contour>
       <point x="73" y="280" type="line"/>
@@ -33,12 +35,6 @@
       <point x="289.0" y="636" type="curve"/>
       <point x="269" y="672" type="line"/>
       <point x="135" y="672" type="line"/>
-    </contour>
-    <contour>
-      <point x="333.0" y="751.0" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="242.0" y="171.0" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

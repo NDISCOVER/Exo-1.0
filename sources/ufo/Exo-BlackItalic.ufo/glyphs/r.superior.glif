@@ -1,9 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="r.superior" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="r.superior" format="2">
   <advance width="328"/>
   <note>
-    GF Latin Plus glyph
-  </note>
+GF Latin Plus glyph
+</note>
+  <anchor x="284.0" y="753" name="top"/>
+  <anchor x="135.0" y="171" name="bottom"/>
   <outline>
     <contour>
       <point x="74.0" y="280" type="line"/>
@@ -24,12 +26,6 @@
       <point x="287.0" y="618" type="curve"/>
       <point x="280.0" y="672" type="line"/>
       <point x="136.0" y="672" type="line"/>
-    </contour>
-    <contour>
-      <point x="284.0" y="753" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="135.0" y="171" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>

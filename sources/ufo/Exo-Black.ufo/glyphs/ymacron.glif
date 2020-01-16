@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ymacron" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ymacron" format="2">
   <advance width="587"/>
   <unicode hex="0233"/>
   <note>
-    GF Latin Plus glyph
-  </note>
+GF Latin Plus glyph
+</note>
   <outline>
     <component base="y"/>
-    <component base="macroncomb" xOffset="549.0"/>
+    <component base="macroncomb" xOffset="549"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.4</real>
-        <real>0.8</real>
-        <real>1.0</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>0.4,0.8,1,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="breveinvertedcomb" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="breveinvertedcomb" format="2">
   <note>
-    GF Latin Plus glyph
-  </note>
+GF Latin Plus glyph
+</note>
+  <anchor x="-269.0" y="650.0" name="_top"/>
   <outline>
     <contour>
       <point x="-123" y="623" type="line"/>
@@ -26,9 +26,6 @@
       <point x="-210" y="637"/>
       <point x="-211" y="630"/>
       <point x="-212" y="623" type="curve"/>
-    </contour>
-    <contour>
-      <point x="-269.0" y="650.0" type="move" name="_top"/>
     </contour>
   </outline>
 </glyph>

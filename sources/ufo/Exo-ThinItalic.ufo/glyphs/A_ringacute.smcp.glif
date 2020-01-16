@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aringacute.smcp" format="2">
+  <advance width="560"/>
+  <outline>
+    <component base="A.smcp"/>
+    <component base="ringcomb" xOffset="651"/>
+    <component base="acutecomb" xOffset="691" yOffset="163"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4,0.8,1,1</string>
+    </dict>
+  </lib>
+</glyph>

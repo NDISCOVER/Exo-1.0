@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Omacronacute.smcp" format="2">
+  <advance width="573"/>
+  <outline>
+    <component base="O.smcp"/>
+    <component base="macroncomb" xOffset="555" yOffset="10"/>
+    <component base="acutecomb" xOffset="555" yOffset="130"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4,0.8,1,1</string>
+    </dict>
+  </lib>
+</glyph>

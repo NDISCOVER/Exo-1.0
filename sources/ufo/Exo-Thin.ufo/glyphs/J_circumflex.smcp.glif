@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Jcircumflex.smcp" format="2">
+  <advance width="324"/>
+  <outline>
+    <component base="J.smcp"/>
+    <component base="circumflexcomb" xOffset="499"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0.4,0.8,1,1</string>
+    </dict>
+  </lib>
+</glyph>

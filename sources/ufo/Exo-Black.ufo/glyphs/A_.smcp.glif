@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="A.smcp" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A.smcp" format="2">
   <advance width="580"/>
+  <anchor x="288.0" y="650.0" name="top"/>
+  <anchor x="288.0" y="-140.0" name="bottom"/>
+  <anchor x="561.0" y="0.0" name="ogonek"/>
   <outline>
     <contour>
       <point x="238" y="202" type="line"/>
@@ -16,15 +19,6 @@
       <point x="571" y="0" type="line"/>
       <point x="424" y="560" type="line"/>
       <point x="155" y="560" type="line"/>
-    </contour>
-    <contour>
-      <point x="288.0" y="650.0" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="288.0" y="-140.0" type="move" name="bottom"/>
-    </contour>
-    <contour>
-      <point x="561.0" y="0.0" type="move" name="ogonek"/>
     </contour>
   </outline>
   <lib>
@@ -53,13 +47,8 @@
           </dict>
         </array>
       </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
     </dict>
   </lib>
 </glyph>

@@ -1,8 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="W.smcp" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W.smcp" format="2">
   <advance width="827"/>
-  <note>
-  </note>
+  <anchor x="412" y="650" name="top"/>
   <outline>
     <contour>
       <point x="50" y="560" type="line"/>
@@ -18,9 +17,6 @@
       <point x="398" y="560" type="line"/>
       <point x="226" y="23" type="line"/>
       <point x="75" y="560" type="line"/>
-    </contour>
-    <contour>
-      <point x="412" y="650" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

@@ -1,20 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="wcircumflex" format="1">
-  <advance width="797.8133128300233"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="wcircumflex" format="2">
+  <advance width="798"/>
   <unicode hex="0175"/>
   <outline>
     <component base="w"/>
-    <component base="circumflexcomb" xOffset="752.0"/>
+    <component base="circumflexcomb" xOffset="752"/>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>0.4</real>
-        <real>0.8</real>
-        <real>1.0</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>0.4,0.8,1,1</string>
     </dict>
   </lib>
 </glyph>

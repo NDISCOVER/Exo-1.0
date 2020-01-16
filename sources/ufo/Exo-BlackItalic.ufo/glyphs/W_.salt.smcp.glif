@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="W.salt.smcp" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W.salt.smcp" format="2">
   <advance width="871"/>
+  <anchor x="545" y="650" name="top"/>
   <outline>
     <contour>
       <point x="97" y="560" type="line"/>
@@ -17,9 +18,6 @@
       <point x="457" y="560" type="line"/>
       <point x="315" y="198" type="line"/>
       <point x="288" y="560" type="line"/>
-    </contour>
-    <contour>
-      <point x="545" y="650" type="move" name="top"/>
     </contour>
   </outline>
   <lib>

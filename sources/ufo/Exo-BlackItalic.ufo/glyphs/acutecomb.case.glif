@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="acutecomb.case" format="1">
-  <advance width="0"/>
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutecomb.case" format="2">
   <note>
-    GF Latin Plus glyph
-  </note>
+GF Latin Plus glyph
+</note>
+  <anchor x="-239" y="850" name="_top"/>
   <outline>
     <component base="acutecomb" xOffset="20" yOffset="200"/>
-    <contour>
-      <point x="-239" y="850" type="move" name="_top"/>
-    </contour>
   </outline>
 </glyph>

@@ -1,6 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="D.smcp" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D.smcp" format="2">
   <advance width="577"/>
+  <anchor x="282" y="650" name="top"/>
+  <anchor x="239" y="-150" name="bottom"/>
   <outline>
     <contour>
       <point x="234" y="155" type="line"/>
@@ -23,12 +25,6 @@
       <point x="502" y="560"/>
       <point x="321" y="560" type="curve" smooth="yes"/>
       <point x="50" y="560" type="line"/>
-    </contour>
-    <contour>
-      <point x="282" y="650" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="239" y="-150" type="move" name="bottom"/>
     </contour>
   </outline>
   <lib>
@@ -66,51 +62,8 @@
           </dict>
         </array>
       </dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-        <key>background</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-            <dict>
-              <key>baseGlyph</key>
-              <string>O.smcp</string>
-              <key>transformation</key>
-              <array>
-                <integer>1</integer>
-                <integer>0</integer>
-                <integer>0</integer>
-                <integer>1</integer>
-                <integer>-17</integer>
-                <integer>0</integer>
-              </array>
-            </dict>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>D.smcp</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>577</integer>
-        </dict>
-      </dict>
-      <key>com.typemytype.robofont.mark</key>
-      <array>
-        <real>1.0</real>
-        <real>1.0</real>
-        <real>0.0</real>
-        <real>1.0</real>
-      </array>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
     </dict>
   </lib>
 </glyph>

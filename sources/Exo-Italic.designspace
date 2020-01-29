@@ -14,7 +14,7 @@
     </axis>
   </axes>
   <sources>
-    <source filename="Exo-LightItalic.ufo" name="Exo Light Italic" familyname="Exo" stylename="Light Italic">
+    <source filename="Exo-ThinItalic.ufo" name="Exo Thin Italic" familyname="Exo" stylename="Thin Italic">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -23,7 +23,7 @@
         <dimension name="Weight" xvalue="100"/>
       </location>
     </source>
-    <source filename="Exo-BoldItalic.ufo" name="Exo Bold Italic" familyname="Exo" stylename="Bold Italic">
+    <source filename="Exo-BlackItalic.ufo" name="Exo Black Italic" familyname="Exo" stylename="Black Italic">
       <location>
         <dimension name="Weight" xvalue="900"/>
       </location>

@@ -14,7 +14,7 @@
     </axis>
   </axes>
   <sources>
-    <source filename="Exo-Light.ufo" name="Exo Light" familyname="Exo" stylename="Light">
+    <source filename="Exo-Thin.ufo" name="Exo Thin" familyname="Exo" stylename="Thin">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -23,7 +23,7 @@
         <dimension name="Weight" xvalue="100"/>
       </location>
     </source>
-    <source filename="Exo-Bold.ufo" name="Exo Bold" familyname="Exo" stylename="Bold">
+    <source filename="Exo-Black.ufo" name="Exo Black" familyname="Exo" stylename="Black">
       <location>
         <dimension name="Weight" xvalue="900"/>
       </location>

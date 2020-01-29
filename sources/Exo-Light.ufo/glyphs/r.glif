@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="r" format="2">
+  <advance width="404"/>
+  <unicode hex="0072"/>
+  <note>
+GF Latin Plus glyph
+</note>
+  <anchor x="103" y="-150" name="bottom"/>
+  <anchor x="200" y="650" name="top"/>
+  <outline>
+    <contour>
+      <point x="91" y="0" type="line"/>
+      <point x="115" y="0" type="line"/>
+      <point x="115" y="414" type="line"/>
+      <point x="187.216" y="478.408"/>
+      <point x="237.909" y="513"/>
+      <point x="323" y="513" type="curve" smooth="yes"/>
+      <point x="344.094" y="513"/>
+      <point x="362" y="510"/>
+      <point x="377" y="507" type="curve"/>
+      <point x="377" y="531" type="line"/>
+      <point x="362.925" y="534.704"/>
+      <point x="344.094" y="537"/>
+      <point x="323" y="537" type="curve" smooth="yes"/>
+      <point x="236.859" y="537"/>
+      <point x="170.925" y="492.793"/>
+      <point x="115" y="430" type="curve"/>
+      <point x="107" y="531" type="line"/>
+      <point x="91" y="531" type="line"/>
+    </contour>
+  </outline>
+</glyph>

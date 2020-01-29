@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rupeeIndian" format="2">
+  <advance width="609"/>
+  <unicode hex="20B9"/>
+  <note>
+GF Latin Plus glyph
+</note>
+  <outline>
+    <contour>
+      <point x="418" y="0" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="332" y="323" type="line"/>
+      <point x="436.829" y="338.974"/>
+      <point x="529" y="444.26"/>
+      <point x="529" y="572" type="curve" smooth="yes"/>
+      <point x="529" y="713.714"/>
+      <point x="449" y="732"/>
+      <point x="380" y="732" type="curve" smooth="yes"/>
+      <point x="178" y="732" type="line"/>
+      <point x="174" y="710" type="line"/>
+      <point x="396" y="710" type="line" smooth="yes"/>
+      <point x="452" y="710"/>
+      <point x="506" y="690.094"/>
+      <point x="506" y="573" type="curve" smooth="yes"/>
+      <point x="506" y="446.129"/>
+      <point x="412" y="345"/>
+      <point x="319" y="345" type="curve" smooth="yes"/>
+      <point x="117" y="345" type="line"/>
+      <point x="114" y="329" type="line"/>
+      <point x="169" y="327"/>
+      <point x="265" y="324"/>
+      <point x="307" y="323" type="curve"/>
+    </contour>
+    <contour>
+      <point x="144" y="518" type="line"/>
+      <point x="661" y="518" type="line"/>
+      <point x="665" y="540" type="line"/>
+      <point x="148" y="540" type="line"/>
+    </contour>
+    <contour>
+      <point x="319" y="710" type="line"/>
+      <point x="691" y="710" type="line"/>
+      <point x="695" y="732" type="line"/>
+      <point x="323" y="732" type="line"/>
+    </contour>
+  </outline>
+</glyph>

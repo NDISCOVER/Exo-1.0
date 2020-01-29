@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uhorntilde" format="2">
+  <advance width="582"/>
+  <unicode hex="1EEF"/>
+  <note>
+GF Latin Plus glyph
+</note>
+  <outline>
+    <component base="uhorn"/>
+    <component base="tildecomb" xOffset="550"/>
+  </outline>
+</glyph>

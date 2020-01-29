@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ring" format="2">
+  <advance width="319"/>
+  <unicode hex="02DA"/>
+  <note>
+GF Latin Plus glyph
+</note>
+  <outline>
+    <contour>
+      <point x="256" y="580" type="curve" smooth="yes"/>
+      <point x="353" y="580"/>
+      <point x="404" y="637"/>
+      <point x="404" y="712" type="curve" smooth="yes"/>
+      <point x="404" y="787"/>
+      <point x="364" y="815"/>
+      <point x="285" y="815" type="curve" smooth="yes"/>
+      <point x="189" y="815"/>
+      <point x="136" y="756"/>
+      <point x="136" y="683" type="curve" smooth="yes"/>
+      <point x="136" y="607"/>
+      <point x="178" y="580"/>
+    </contour>
+    <contour>
+      <point x="265" y="649" type="curve" smooth="yes"/>
+      <point x="240" y="649"/>
+      <point x="225" y="659"/>
+      <point x="225" y="686" type="curve" smooth="yes"/>
+      <point x="225" y="716"/>
+      <point x="240" y="746"/>
+      <point x="277" y="746" type="curve" smooth="yes"/>
+      <point x="300" y="746"/>
+      <point x="315" y="736"/>
+      <point x="315" y="709" type="curve" smooth="yes"/>
+      <point x="315" y="677"/>
+      <point x="300" y="649"/>
+    </contour>
+  </outline>
+</glyph>

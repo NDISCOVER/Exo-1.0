@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="emacrongrave.smcp" format="2">
+  <advance width="512"/>
+  <outline>
+    <component base="e.smcp"/>
+    <component base="macroncomb" xOffset="628"/>
+    <component base="gravecomb" xOffset="618" yOffset="160"/>
+  </outline>
+</glyph>

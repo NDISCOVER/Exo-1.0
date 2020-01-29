@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="otildemacron" format="2">
+  <advance width="574"/>
+  <unicode hex="022D"/>
+  <note>
+GF Latin Plus glyph
+</note>
+  <outline>
+    <component base="o"/>
+    <component base="macroncomb" xOffset="556" yOffset="200"/>
+    <component base="tildecomb" xOffset="556"/>
+  </outline>
+</glyph>

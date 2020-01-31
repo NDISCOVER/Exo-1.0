@@ -9,9 +9,6 @@ DIR=$( cd -P "$( dirname "$SOURCE" )" >/dev/null 2>&1 && pwd )
 cd $DIR
 echo $(pwd)
 
-# Use ttfauthint-py
-alias ttfautohint="python3 -m ttfautohint"
-
 echo "Generating VFs"
 mkdir -p ../fonts/vf
 fontmake -m Exo.designspace -o variable --output-path ../fonts/vf/Exo[wght].ttf
@@ -25,7 +22,7 @@ echo "Post processing VFs"
 for vf in $vfs
 do
 	gftools fix-dsig -f $vf;
-	ttfautohint --stem-width-mode nnn $vf "$vf.fix";
+	python3 -m ttfautohint --stem-width-mode nnn $vf "$vf.fix";
 	mv "$vf.fix" $vf;
 done
 
@@ -61,7 +58,7 @@ ttfs=$(ls ../fonts/ttf/*.ttf)
 for ttf in $ttfs
 do
 	gftools fix-dsig -f $ttf;
-	ttfautohint $ttf "$ttf.fix";
+	python3 -m ttfautohint $ttf "$ttf.fix";
 	mv "$ttf.fix" $ttf;
 done
 

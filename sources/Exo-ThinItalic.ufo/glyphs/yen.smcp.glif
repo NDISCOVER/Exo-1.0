@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="yen.smcp" format="2">
+  <advance width="518"/>
+  <note>
+GF Latin Plus glyph
+</note>
+  <outline>
+    <contour>
+      <point x="94" y="199" type="line"/>
+      <point x="458" y="199" type="line"/>
+      <point x="461" y="219" type="line"/>
+      <point x="97" y="219" type="line"/>
+    </contour>
+    <contour>
+      <point x="80" y="109" type="line"/>
+      <point x="444" y="109" type="line"/>
+      <point x="447" y="129" type="line"/>
+      <point x="83" y="129" type="line"/>
+    </contour>
+    <component base="y.smcp"/>
+  </outline>
+</glyph>

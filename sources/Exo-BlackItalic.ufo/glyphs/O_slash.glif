@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Oslash" format="2">
+  <advance width="708"/>
+  <unicode hex="00D8"/>
+  <note>
+GF Latin Plus glyph
+</note>
+  <anchor x="464" y="810" name="top"/>
+  <outline>
+    <contour>
+      <point x="35" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="790" y="743" type="line"/>
+      <point x="685" y="743" type="line"/>
+    </contour>
+    <component base="O"/>
+  </outline>
+</glyph>

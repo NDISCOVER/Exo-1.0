@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A" format="2">
+  <advance width="709"/>
+  <unicode hex="0041"/>
+  <note>
+GF Latin Plus glyph
+</note>
+  <anchor x="328" y="-150" name="bottom"/>
+  <anchor x="555" y="0" name="ogonek"/>
+  <anchor x="480" y="810" name="top"/>
+  <outline>
+    <contour>
+      <point x="15" y="0" type="line"/>
+      <point x="214" y="0" type="line"/>
+      <point x="262" y="118" type="line"/>
+      <point x="485" y="118" type="line"/>
+      <point x="496" y="0" type="line"/>
+      <point x="697" y="0" type="line"/>
+      <point x="595" y="743" type="line"/>
+      <point x="353" y="743" type="line"/>
+    </contour>
+    <contour>
+      <point x="334" y="292" type="line"/>
+      <point x="446" y="578" type="line"/>
+      <point x="467" y="292" type="line"/>
+    </contour>
+  </outline>
+</glyph>

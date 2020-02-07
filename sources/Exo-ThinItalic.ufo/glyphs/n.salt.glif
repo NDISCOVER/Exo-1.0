@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="n.salt" format="2">
+  <advance width="582"/>
+  <anchor x="256" y="-150" name="bottom"/>
+  <anchor x="383" y="650" name="top"/>
+  <outline>
+    <contour>
+      <point x="91" y="0" type="line"/>
+      <point x="115" y="0" type="line"/>
+      <point x="190" y="476" type="line"/>
+      <point x="250" y="498"/>
+      <point x="316" y="518"/>
+      <point x="397" y="518" type="curve" smooth="yes"/>
+      <point x="475" y="518"/>
+      <point x="516" y="465"/>
+      <point x="516" y="398" type="curve" smooth="yes"/>
+      <point x="516" y="389"/>
+      <point x="515" y="380"/>
+      <point x="514" y="370" type="curve" smooth="yes"/>
+      <point x="455" y="0" type="line"/>
+      <point x="479" y="0" type="line"/>
+      <point x="538" y="370" type="line" smooth="yes"/>
+      <point x="539" y="380"/>
+      <point x="540" y="391"/>
+      <point x="540" y="401" type="curve" smooth="yes"/>
+      <point x="540" y="476"/>
+      <point x="494" y="540"/>
+      <point x="401" y="540" type="curve" smooth="yes"/>
+      <point x="325" y="540"/>
+      <point x="237" y="518"/>
+      <point x="168" y="487" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Uhorngrave" format="2">
+  <advance width="692"/>
+  <unicode hex="1EEA"/>
+  <note>
+GF Latin Plus glyph
+</note>
+  <outline>
+    <component base="Uhorn"/>
+    <component base="gravecomb.case" xOffset="600"/>
+  </outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="otildedieresis.smcp" format="2">
+  <advance width="593"/>
+  <outline>
+    <component base="o.smcp"/>
+    <component base="tildecomb" xOffset="586"/>
+    <component base="dieresiscomb" xOffset="576" yOffset="180"/>
+  </outline>
+</glyph>

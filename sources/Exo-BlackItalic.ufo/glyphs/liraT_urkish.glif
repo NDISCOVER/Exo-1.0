@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="liraTurkish" format="2">
+  <advance width="609"/>
+  <unicode hex="20BA"/>
+  <note>
+GF Latin Plus glyph
+</note>
+  <outline>
+    <contour>
+      <point x="75" y="0" type="line"/>
+      <point x="269" y="0" type="line" smooth="yes"/>
+      <point x="451" y="0"/>
+      <point x="605" y="71"/>
+      <point x="654" y="377" type="curve"/>
+      <point x="480" y="377" type="line"/>
+      <point x="459" y="244"/>
+      <point x="395" y="174"/>
+      <point x="297" y="174" type="curve"/>
+      <point x="387" y="743" type="line"/>
+      <point x="193" y="743" type="line"/>
+    </contour>
+    <contour>
+      <point x="47" y="235" type="line"/>
+      <point x="533" y="465" type="line"/>
+      <point x="548" y="559" type="line"/>
+      <point x="62" y="329" type="line"/>
+    </contour>
+    <contour>
+      <point x="71" y="385" type="line"/>
+      <point x="556" y="615" type="line"/>
+      <point x="571" y="709" type="line"/>
+      <point x="86" y="479" type="line"/>
+    </contour>
+  </outline>
+</glyph>

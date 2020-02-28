@@ -22,8 +22,8 @@ echo "Post processing VFs"
 for vf in $vfs
 do
 	gftools fix-dsig -f $vf;
-	python3 -m ttfautohint --stem-width-mode nnn $vf "$vf.fix";
-	mv "$vf.fix" $vf;
+	# python3 -m ttfautohint --stem-width-mode nnn $vf "$vf.fix";
+	# mv "$vf.fix" $vf;
 done
 
 echo "Dropping MVAR"
@@ -43,7 +43,9 @@ FONTSVF=$(ls ../fonts/vf/*.ttf)
 for font in $FONTSVF
 do
   gftools fix-hinting $font
-  mv $font.fix $font;
+  if [ -e $vf.fix ];
+    then mv "$vf.fix" $vf;
+  fi;
 done
 
 echo "Generating Static fonts"
@@ -58,14 +60,16 @@ ttfs=$(ls ../fonts/ttf/*.ttf)
 for ttf in $ttfs
 do
 	gftools fix-dsig -f $ttf;
-	python3 -m ttfautohint $ttf "$ttf.fix";
-	mv "$ttf.fix" $ttf;
+	# python3 -m ttfautohint $ttf "$ttf.fix";
+	# mv "$ttf.fix" $ttf;
 done
 
 for ttf in $ttfs
 do
-	gftools fix-hinting $ttf;
-	mv "$ttf.fix" $ttf;
+  gftools fix-hinting $ttf;
+  if [ -e $vf.fix ];
+    then mv "$vf.fix" $vf;
+  fi;
 done
 
 echo "Fix DSIG in OTFs"

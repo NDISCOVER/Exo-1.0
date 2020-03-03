@@ -22,9 +22,12 @@ echo "Post processing VFs"
 for vf in $vfs
 do
 	gftools fix-dsig -f $vf;
+	gftools fix-nonhinting $vf $vf.fix
+	mv $vf.fix $vf
 	# python3 -m ttfautohint --stem-width-mode nnn $vf "$vf.fix";
 	# mv "$vf.fix" $vf;
 done
+rm ../fonts/vf/*gasp.ttf
 
 echo "Dropping MVAR"
 for vf in $vfs
@@ -38,15 +41,6 @@ do
 	rm $new_file
 done
 
-echo "Fixing Hinting"
-FONTSVF=$(ls ../fonts/vf/*.ttf)
-for font in $FONTSVF
-do
-  gftools fix-hinting $font
-  if [ -e $vf.fix ];
-    then mv "$vf.fix" $vf;
-  fi;
-done
 
 echo "Generating Static fonts"
 mkdir -p ../fonts
@@ -60,16 +54,14 @@ ttfs=$(ls ../fonts/ttf/*.ttf)
 for ttf in $ttfs
 do
 	gftools fix-dsig -f $ttf;
-	# python3 -m ttfautohint $ttf "$ttf.fix";
-	# mv "$ttf.fix" $ttf;
+	python3 -m ttfautohint $ttf "$ttf.fix";
+	mv "$ttf.fix" $ttf;
 done
 
 for ttf in $ttfs
 do
   gftools fix-hinting $ttf;
-  if [ -e $vf.fix ];
-    then mv "$vf.fix" $vf;
-  fi;
+  mv "$ttf.fix" $ttf;
 done
 
 echo "Fix DSIG in OTFs"
@@ -77,7 +69,6 @@ otfs=$(ls ../fonts/otf/*.otf)
 for otf in $otfs
 do
 	gftools fix-dsig -f $otf;
-
 done
 
 rm -rf master_ufo/ instance_ufo/ instance_ufos/*

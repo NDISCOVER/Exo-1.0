@@ -103543,6 +103543,10 @@
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
     <integer>100</integer>
+    <key>com.typemytype.robofont.fontIdentifier</key>
+    <string>C3-LcNWL3DcOEijUwkSDmNP-kOWMrmsH-8ZyC9uhyFM</string>
+    <key>com.typemytype.robofont.segmentType</key>
+    <string>curve</string>
     <key>public.glyphOrder</key>
     <array>
       <string>A</string>
@@ -104170,7 +104174,7 @@
       <string>s_t</string>
       <string>t_t</string>
       <string>t_y</string>
-      <string>Germandbls.smcp</string>
+      <string>germandbls.smcp</string>
       <string>a.smcp</string>
       <string>aacute.smcp</string>
       <string>abreve.smcp</string>
@@ -104809,7 +104813,6 @@
       <string>circumflexcomb_gravecomb</string>
       <string>circumflexcomb_hookabovecomb</string>
       <string>circumflexcomb_tildecomb</string>
-      <string>ffl</string>
       <string>NULL</string>
     </array>
     <key>public.postscriptNames</key>

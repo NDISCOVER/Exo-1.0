@@ -1,11 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ordmasculine.smcp" format="2">
   <advance width="414"/>
-  <note>
-
-</note>
   <outline>
     <contour>
+      <point x="173" y="474"/>
       <point x="171" y="492"/>
       <point x="171" y="539" type="curve" smooth="yes"/>
       <point x="171" y="588"/>
@@ -17,9 +15,9 @@
       <point x="244" y="492"/>
       <point x="243" y="474"/>
       <point x="207" y="474" type="curve" smooth="yes"/>
-      <point x="173" y="474"/>
     </contour>
     <contour>
+      <point x="85" y="724"/>
       <point x="23" y="691"/>
       <point x="23" y="539" type="curve" smooth="yes"/>
       <point x="23" y="388"/>
@@ -31,7 +29,6 @@
       <point x="392" y="691"/>
       <point x="328" y="724"/>
       <point x="207" y="724" type="curve" smooth="yes"/>
-      <point x="85" y="724"/>
     </contour>
     <contour>
       <point x="15" y="306" type="line"/>

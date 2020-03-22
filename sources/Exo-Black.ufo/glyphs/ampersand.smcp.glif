@@ -1,11 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ampersand.smcp" format="2">
   <advance width="604"/>
-  <note>
-
-</note>
   <outline>
     <contour>
+      <point x="250" y="123"/>
       <point x="236" y="115"/>
       <point x="214" y="115" type="curve" smooth="yes"/>
       <point x="186" y="115"/>
@@ -17,7 +15,6 @@
       <point x="200" y="223" type="line"/>
       <point x="267" y="140" type="line"/>
       <point x="260" y="133" type="line" smooth="yes"/>
-      <point x="250" y="123"/>
     </contour>
     <contour>
       <point x="23" y="141" type="curve" smooth="yes"/>

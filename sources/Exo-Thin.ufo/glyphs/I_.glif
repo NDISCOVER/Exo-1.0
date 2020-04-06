@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I" format="2">
+  <advance width="200"/>
+  <unicode hex="0049"/>
+  <note>
+GF Latin Plus glyph
+</note>
+  <anchor x="100" y="-150" name="bottom"/>
+  <anchor x="102" y="0" name="ogonek"/>
+  <anchor x="100" y="810" name="top"/>
+  <outline>
+    <contour>
+      <point x="88" y="0" type="line"/>
+      <point x="112" y="0" type="line"/>
+      <point x="112" y="732" type="line"/>
+      <point x="88" y="732" type="line"/>
+    </contour>
+  </outline>
+</glyph>

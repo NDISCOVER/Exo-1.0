@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eng.smcp" format="2">
+  <advance width="552"/>
+  <note>
+GF Latin Plus glyph
+</note>
+  <outline>
+    <contour>
+      <point x="311" y="-186" type="curve" smooth="yes"/>
+      <point x="397" y="-186"/>
+      <point x="451" y="-160"/>
+      <point x="465" y="-69" type="curve" smooth="yes"/>
+      <point x="476" y="0" type="line"/>
+      <point x="453" y="4" type="line"/>
+      <point x="441" y="-68" type="line" smooth="yes"/>
+      <point x="428" y="-149"/>
+      <point x="377" y="-165"/>
+      <point x="313" y="-165" type="curve" smooth="yes"/>
+      <point x="289" y="-165"/>
+      <point x="251" y="-158"/>
+      <point x="229" y="-151" type="curve"/>
+      <point x="227" y="-167" type="line"/>
+      <point x="247" y="-177"/>
+      <point x="283" y="-186"/>
+    </contour>
+    <component base="n.smcp"/>
+  </outline>
+</glyph>

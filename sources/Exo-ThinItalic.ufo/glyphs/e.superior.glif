@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="e.superior" format="2">
+  <advance width="412"/>
+  <note>
+GF Latin Plus glyph
+</note>
+  <anchor x="236" y="169" name="bottom"/>
+  <anchor x="387" y="280" name="ogonek"/>
+  <anchor x="329" y="759" name="top"/>
+  <outline>
+    <contour>
+      <point x="280" y="276" type="curve" smooth="yes"/>
+      <point x="324" y="276"/>
+      <point x="371" y="279"/>
+      <point x="397" y="281" type="curve"/>
+      <point x="400" y="295" type="line"/>
+      <point x="283" y="295" type="line" smooth="yes"/>
+      <point x="177" y="295"/>
+      <point x="137" y="329"/>
+      <point x="136" y="408" type="curve" smooth="yes"/>
+      <point x="136" y="426"/>
+      <point x="137" y="447"/>
+      <point x="140" y="466" type="curve"/>
+      <point x="160" y="460"/>
+      <point x="206" y="453"/>
+      <point x="261" y="453" type="curve" smooth="yes"/>
+      <point x="359" y="453"/>
+      <point x="458" y="477"/>
+      <point x="457" y="579" type="curve" smooth="yes"/>
+      <point x="457" y="651"/>
+      <point x="408" y="679"/>
+      <point x="321" y="679" type="curve" smooth="yes"/>
+      <point x="194" y="679"/>
+      <point x="139" y="608"/>
+      <point x="122" y="495" type="curve" smooth="yes"/>
+      <point x="118" y="468"/>
+      <point x="114" y="438"/>
+      <point x="114" y="407" type="curve" smooth="yes"/>
+      <point x="115" y="319"/>
+      <point x="165" y="276"/>
+    </contour>
+    <contour>
+      <point x="247" y="471" type="curve" smooth="yes"/>
+      <point x="207" y="471"/>
+      <point x="168" y="475"/>
+      <point x="142" y="480" type="curve"/>
+      <point x="158" y="594"/>
+      <point x="200" y="660"/>
+      <point x="319" y="660" type="curve" smooth="yes"/>
+      <point x="396" y="660"/>
+      <point x="436" y="638"/>
+      <point x="436" y="577" type="curve" smooth="yes"/>
+      <point x="436" y="491"/>
+      <point x="355" y="471"/>
+    </contour>
+  </outline>
+</glyph>

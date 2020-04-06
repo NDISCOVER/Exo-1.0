@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="euro" format="2">
+  <advance width="609"/>
+  <unicode hex="20AC"/>
+  <note>
+GF Latin Plus glyph
+</note>
+  <outline>
+    <contour>
+      <point x="95" y="237" type="line"/>
+      <point x="239" y="237" type="line"/>
+      <point x="503" y="245" type="line"/>
+      <point x="503" y="332" type="line"/>
+      <point x="240" y="340" type="line"/>
+      <point x="85" y="340" type="line"/>
+      <point x="11" y="332" type="line"/>
+      <point x="11" y="245" type="line"/>
+    </contour>
+    <contour>
+      <point x="85" y="379" type="line"/>
+      <point x="240" y="379" type="line"/>
+      <point x="503" y="387" type="line"/>
+      <point x="503" y="473" type="line"/>
+      <point x="239" y="481" type="line"/>
+      <point x="95" y="481" type="line"/>
+      <point x="11" y="471" type="line"/>
+      <point x="11" y="388" type="line"/>
+    </contour>
+    <component base="C" xOffset="39"/>
+  </outline>
+</glyph>

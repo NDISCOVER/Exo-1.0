@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ohorn.smcp" format="2">
+  <advance width="573"/>
+  <note>
+
+</note>
+  <anchor x="286" y="-150" name="bottom"/>
+  <anchor x="286" y="660" name="top"/>
+  <outline>
+    <component base="o.smcp"/>
+    <component base="horncomb" xOffset="575" yOffset="31"/>
+  </outline>
+</glyph>

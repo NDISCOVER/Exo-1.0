@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Aringacute" format="2">
+  <advance width="666"/>
+  <unicode hex="01FA"/>
+  <note>
+GF Latin Plus glyph
+</note>
+  <outline>
+    <component base="A"/>
+    <component base="ringcomb.case" xOffset="602"/>
+    <component base="acutecomb.case" xOffset="602" yOffset="162"/>
+  </outline>
+</glyph>

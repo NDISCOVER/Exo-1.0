@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="cent" format="2">
+  <advance width="485"/>
+  <unicode hex="00A2"/>
+  <note>
+GF Latin Plus glyph
+</note>
+  <outline>
+    <contour>
+      <point x="212" y="-95" type="line"/>
+      <point x="320" y="-95" type="line"/>
+      <point x="320" y="-6" type="line"/>
+      <point x="370.587" y="-6"/>
+      <point x="419.686" y="6.323"/>
+      <point x="462" y="33" type="curve"/>
+      <point x="462" y="147" type="line"/>
+      <point x="462" y="147"/>
+      <point x="398" y="139"/>
+      <point x="306" y="139" type="curve" smooth="yes"/>
+      <point x="234" y="139"/>
+      <point x="216" y="162"/>
+      <point x="216" y="264" type="curve" smooth="yes"/>
+      <point x="216" y="374"/>
+      <point x="238" y="392"/>
+      <point x="306" y="392" type="curve" smooth="yes"/>
+      <point x="395" y="392"/>
+      <point x="456" y="386"/>
+      <point x="456" y="386" type="curve"/>
+      <point x="456" y="500" type="line"/>
+      <point x="409.351" y="518.839"/>
+      <point x="364.522" y="530.476"/>
+      <point x="324" y="534" type="curve"/>
+      <point x="324" y="634" type="line"/>
+      <point x="216" y="634" type="line"/>
+      <point x="216" y="536" type="line"/>
+      <point x="103.568" y="536"/>
+      <point x="22" y="474"/>
+      <point x="22" y="266" type="curve" smooth="yes"/>
+      <point x="22" y="61"/>
+      <point x="104.853" y="-2.791"/>
+      <point x="212" y="-5" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

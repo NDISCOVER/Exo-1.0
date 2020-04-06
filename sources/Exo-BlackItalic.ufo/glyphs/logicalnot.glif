@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="logicalnot" format="2">
+  <advance width="609"/>
+  <unicode hex="00AC"/>
+  <note>
+GF Latin Plus glyph
+</note>
+  <outline>
+    <contour>
+      <point x="399" y="159" type="line"/>
+      <point x="553" y="159" type="line"/>
+      <point x="602" y="467" type="line"/>
+      <point x="448" y="467" type="line"/>
+    </contour>
+    <component base="minus" xOffset="19" yOffset="120"/>
+  </outline>
+</glyph>

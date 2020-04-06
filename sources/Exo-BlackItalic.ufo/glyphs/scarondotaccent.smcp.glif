@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="scarondotaccent.smcp" format="2">
+  <advance width="485"/>
+  <outline>
+    <component base="s.smcp"/>
+    <component base="caroncomb" xOffset="610"/>
+    <component base="dotaccentcomb" xOffset="642" yOffset="170"/>
+  </outline>
+</glyph>

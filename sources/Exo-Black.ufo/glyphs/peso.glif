@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="peso" format="2">
+  <advance width="609"/>
+  <unicode hex="20B1"/>
+  <note>
+GF Latin Plus glyph
+</note>
+  <outline>
+    <contour>
+      <point x="75" y="0" type="line"/>
+      <point x="249" y="0" type="line"/>
+      <point x="249" y="224" type="line"/>
+      <point x="269.016" y="219.997"/>
+      <point x="308.832" y="204"/>
+      <point x="342" y="204" type="curve" smooth="yes"/>
+      <point x="428.163" y="204"/>
+      <point x="537" y="236"/>
+      <point x="537" y="477" type="curve" smooth="yes"/>
+      <point x="537" y="715"/>
+      <point x="423.973" y="743"/>
+      <point x="331" y="743" type="curve" smooth="yes"/>
+      <point x="75" y="743" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="320" type="line"/>
+      <point x="161" y="320" type="line"/>
+      <point x="161" y="414" type="line"/>
+      <point x="10" y="414" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="499" type="line"/>
+      <point x="157" y="499" type="line"/>
+      <point x="157" y="593" type="line"/>
+      <point x="10" y="593" type="line"/>
+    </contour>
+    <contour>
+      <point x="249" y="378" type="line"/>
+      <point x="249" y="569" type="line"/>
+      <point x="311" y="569" type="line" smooth="yes"/>
+      <point x="348" y="569"/>
+      <point x="363" y="537"/>
+      <point x="363" y="475" type="curve" smooth="yes"/>
+      <point x="363" y="411"/>
+      <point x="351" y="378"/>
+      <point x="311" y="378" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="432" y="320" type="line"/>
+      <point x="599" y="320" type="line"/>
+      <point x="599" y="414" type="line"/>
+      <point x="462" y="414" type="line"/>
+    </contour>
+    <contour>
+      <point x="457" y="499" type="line"/>
+      <point x="599" y="499" type="line"/>
+      <point x="599" y="593" type="line"/>
+      <point x="457" y="593" type="line"/>
+    </contour>
+  </outline>
+</glyph>

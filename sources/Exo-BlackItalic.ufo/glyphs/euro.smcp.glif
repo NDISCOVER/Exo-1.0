@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="euro.smcp" format="2">
+  <advance width="509"/>
+  <note>
+GF Latin Plus glyph
+</note>
+  <outline>
+    <contour>
+      <point x="123" y="277" type="line"/>
+      <point x="270" y="277" type="line"/>
+      <point x="475" y="283" type="line"/>
+      <point x="486" y="359" type="line"/>
+      <point x="285" y="366" type="line"/>
+      <point x="148" y="366" type="line"/>
+      <point x="78" y="358" type="line"/>
+      <point x="66" y="284" type="line"/>
+    </contour>
+    <contour>
+      <point x="117" y="173" type="line"/>
+      <point x="254" y="173" type="line"/>
+      <point x="458" y="180" type="line"/>
+      <point x="470" y="257" type="line"/>
+      <point x="269" y="264" type="line"/>
+      <point x="121" y="264" type="line"/>
+      <point x="62" y="257" type="line"/>
+      <point x="49" y="180" type="line"/>
+    </contour>
+    <component base="c.smcp" xOffset="20"/>
+  </outline>
+</glyph>
